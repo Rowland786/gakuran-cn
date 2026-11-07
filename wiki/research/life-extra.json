@@ -1,0 +1,571 @@
+{
+  "articles": [
+    {
+      "id": "nishikata-school",
+      "title": "Nishikata 高中",
+      "english": "Nishikata Highschool",
+      "category": "地图",
+      "summary": "校园是学乱的主要活动区域，包含医务室、教室和社团空间。",
+      "sections": [
+        {
+          "heading": "校园设施",
+          "body": "Nishikata Highschool 是 Gakuran 的主要地点，校内包含教室、走廊、洗手间、屋顶、桌游室与医务室。官方地点卡写明，战斗结束后在医务室可获得 3 倍治疗速度。医务室的作用与战斗中直接恢复不是同一件事。"
+        },
+        {
+          "heading": "教室与社团",
+          "body": "教室和音乐室属于安全区，带 Combat Tag 时无法进入。生物与书法社团在一楼，天文与轻音乐在三楼，园艺部在右翼屋顶。先确定想参加的活动，再选择楼层，可减少在校园里反复寻找。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Nishikata Highschool",
+          "url": "https://trello.com/c/tpMDMAnJ"
+        },
+        {
+          "title": "Clubs",
+          "url": "https://trello.com/c/lZmYDREX"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "outdoor-court",
+      "title": "室外篮球场",
+      "english": "Outside Basketball Court",
+      "category": "地图",
+      "summary": "室外球场支持三对三，附近有球架、长椅和自动贩卖机。",
+      "sections": [
+        {
+          "heading": "球场结构",
+          "body": "室外篮球场有围栏、球架、清晰的场线和高顶棚。两侧分别有三个蓝色与三个红色站位点；地点卡描述六个站位点亮成绿色时表示比赛已开始。附近提供长椅与自动贩卖机，适合比赛间隙停留。"
+        },
+        {
+          "heading": "比赛人数",
+          "body": "官方篮球机制卡写明室外最多六名玩家，即 3v3。篮球可以从篮筐附近的球架取得；正式比赛需要双方站上对应的候场点。室内体育馆另支持 3v3 或 5v5，不能把室外场的容量套用到所有场地。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Basketball Court",
+          "url": "https://trello.com/c/GoQECjPn"
+        },
+        {
+          "title": "Basketball",
+          "url": "https://trello.com/c/sraqxK55"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "cafeteria",
+      "title": "食堂",
+      "english": "Cafeteria",
+      "category": "地图",
+      "summary": "位于室外篮球场对面，提供用餐和社交空间。",
+      "sections": [
+        {
+          "heading": "在哪里",
+          "body": "食堂位于室外篮球场对面，入口通向较大的开放餐厅。室内有长桌、圆桌和多处座位，前方设有配菜单牌的供应柜台。地点可用于约见同学、课间交谈或校园角色扮演。"
+        },
+        {
+          "heading": "使用范围",
+          "body": "官方地点卡主要介绍其空间与用途，没有在正文给出食堂的完整售卖菜单、购买流程或食物恢复值。本站据此保留食堂作为可辨认的校园地点，不补写未经确认的食物增益。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Cafeteria",
+          "url": "https://trello.com/c/dycorLoH"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "manga-shop",
+      "title": "漫画店",
+      "english": "Manga Shop",
+      "category": "地图",
+      "summary": "先拿篮子选书，付款后可以翻页阅读。",
+      "sections": [
+        {
+          "heading": "选书与付款",
+          "body": "漫画店在学校外、靠近 Dante’s Yakiniku。进店先拿门边红色购物篮，持篮后才能从书架挑选漫画；篮子一次只能放一本。选好后与前台收银员互动付款，交易会立即完成。"
+        },
+        {
+          "heading": "阅读与价格",
+          "body": "付款取得漫画后，可以打开查看内容并翻页，读完后能像其他可互动物品一样放下。官方卡列出《Little Witch Academia》1–3 卷与《Morino-san Just Won’t Leave Me Be》，每卷 ¥550。未付款带书离店会触发警报，书会被收回。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Manga Shop",
+          "url": "https://trello.com/c/ICcr9cRX"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "indoor-gym",
+      "title": "室内体育馆",
+      "english": "Indoor Gymnasium",
+      "category": "地图",
+      "summary": "同一设施内提供篮球与排球比赛场地。",
+      "sections": [
+        {
+          "heading": "场地设施",
+          "body": "室内体育馆有木地板、高玻璃顶、电子计分板和观赛走道，一侧是篮球场，另一侧是有球网的排球场。官方地点说明把它用于比赛、练习、锦标赛和学校活动。球车可供取得篮球或排球。"
+        },
+        {
+          "heading": "篮球人数",
+          "body": "官方篮球卡写明室内可容纳 3v3 或 5v5。三对三要站在本方最靠近篮筐的三个点位，五对五可使用所有可用点位。场地名称相近的其他空白卡没有提供额外机制，本站以有完整正文的 Gym 卡为地点依据。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gym",
+          "url": "https://trello.com/c/qBa7irR1"
+        },
+        {
+          "title": "Basketball",
+          "url": "https://trello.com/c/sraqxK55"
+        },
+        {
+          "title": "Volleyball",
+          "url": "https://trello.com/c/J71RjV1k"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "gakumart",
+      "title": "Gakumart 便利店",
+      "english": "Gakumart",
+      "category": "地图",
+      "summary": "校外便利店既可买食物，也有兼职班次。",
+      "sections": [
+        {
+          "heading": "购买食物",
+          "body": "Gakumart 位于 Nishikata High School 外。靠近店铺入口处的收银台可购买食物。官方地点卡同时介绍了店内兼职，购物和工作是两个不同入口。"
+        },
+        {
+          "heading": "开始工作",
+          "body": "先在手机 Indeed 申请开放班次，并留意开始时间。到店后走到柜台后方，按 E 换上 Gakumart 制服；班次期间留在店里可赚取日元。班次结束后会自动换回原本服装，官方正文未给出统一工资金额。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakumart",
+          "url": "https://trello.com/c/ZuCnYrVV"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "soccer-pitch",
+      "title": "足球场",
+      "english": "Soccer Pitch",
+      "category": "地图",
+      "summary": "靠近咖啡店与卡拉 OK，可投票进行足球或美式橄榄球。",
+      "sections": [
+        {
+          "heading": "位置与设施",
+          "body": "足球场靠近女仆咖啡店与卡拉 OK 酒吧。草地场地有中圈、边线、球门、看台与照明设施，既能参与比赛，也能在看台观看其他玩家的活动。"
+        },
+        {
+          "heading": "共用场地",
+          "body": "美式橄榄球也使用这片场地。官方 Football 卡写明，至少两名玩家进入候场点后，会触发足球与美式橄榄球之间的投票，计时结束后开始票数最多的模式。站上场地并不意味着已经固定进入足球。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Soccer Pitch",
+          "url": "https://trello.com/c/j59jRrIR"
+        },
+        {
+          "title": "Football",
+          "url": "https://trello.com/c/QUydnRpz"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "karaoke-bar",
+      "title": "卡拉 OK 酒吧",
+      "english": "Karaoke Bar",
+      "category": "地图",
+      "summary": "与电视或桌上设备互动点歌，每首花费 ¥100。",
+      "sections": [
+        {
+          "heading": "在这里做什么",
+          "body": "卡拉 OK 酒吧提供舞台、座位与点歌设备，可以和朋友演唱或观看他人演唱。门外有自动贩卖机；官方活动卡将其列为校园活动之后可停留的娱乐地点。"
+        },
+        {
+          "heading": "点歌方法",
+          "body": "与电视或桌上的平板设备互动可点歌，官方 Activities 卡写明每首花费 ¥100。酒吧被列为安全区，室内关闭战斗；带战斗标记时不能直接进入。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Karaoke Bar",
+          "url": "https://trello.com/c/6wf3OPoh"
+        },
+        {
+          "title": "Activities",
+          "url": "https://trello.com/c/jQchCVVF"
+        },
+        {
+          "title": "Greenzones",
+          "url": "https://trello.com/c/H862r4vn"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "dantes-restaurant",
+      "title": "Dante 烤肉店",
+      "english": "Dante’s Yakiniku Restaurant",
+      "category": "地图",
+      "summary": "学校主入口右侧的餐厅，入座后可打开菜单。",
+      "sections": [
+        {
+          "heading": "位置与安全区",
+          "body": "餐厅位于学校主入口远右侧，迎宾台后的 NPC 会在有人进入时鞠躬。官方明确将餐厅室内列为安全区，限制在室内战斗，适合用餐和交谈。"
+        },
+        {
+          "heading": "如何点餐",
+          "body": "进入后走向右手边吧台，与高脚凳互动坐下，随后会出现可购买食物的菜单。正文没有列出所有食物价格或数值收益，本站保留操作流程；菜单图片可从来源卡查看。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dante's Yakiniku Restaurant",
+          "url": "https://trello.com/c/tmE1rwKK"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "nyanmelo-cafe",
+      "title": "NyanMelo 咖啡店",
+      "english": "NyanMelo Cafe",
+      "category": "地图",
+      "summary": "卡拉 OK 旁边的咖啡店，柜台出售饮品与甜食。",
+      "sections": [
+        {
+          "heading": "在哪里",
+          "body": "NyanMelo Cafe 位于 Karaoke Bar 旁边，室内有柜台、桌椅和大窗户。官方地点卡将它描述为玩家坐下休息、社交的场所，进入后可以到柜台查看菜单。"
+        },
+        {
+          "heading": "售卖内容",
+          "body": "官方正文列举咖啡、浓缩咖啡、华夫饼、莓果芝士蛋糕、冰淇淋甜筒和糖苹果。菜单与制服示意保存在同一来源卡；正文没有列出每项的统一价格与恢复量，本站不额外编写。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NyanMelo Cafe",
+          "url": "https://trello.com/c/akWxtWF2"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "club-akuma",
+      "title": "Akuma 地下俱乐部",
+      "english": "Club Akuma",
+      "category": "地图",
+      "summary": "Gakumart 后方的地下空间，提供舞台和乐器。",
+      "sections": [
+        {
+          "heading": "入口与环境",
+          "body": "Club Akuma 隐藏在 Gakumart 后方，入口通向带涂鸦与彩色灯光的地下走廊。主空间有开放地面、小舞台、乐器、鼓、麦克风与座位，可用于演奏、聚会和角色互动。"
+        },
+        {
+          "heading": "与工作系统的联系",
+          "body": "官方 Jobs 总览还列出该场所的安保、酒吧与乐手职位。职位是否开放需要到当前服务器手机 Indeed 查看；地点卡本身没有给出入场费、营业时间或固定岗位收益。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Club Akuma",
+          "url": "https://trello.com/c/apYo7OLo"
+        },
+        {
+          "title": "Jobs",
+          "url": "https://trello.com/c/MZyfWakP"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "basketball",
+      "title": "篮球",
+      "english": "Basketball",
+      "category": "运动",
+      "summary": "投篮看时机与防守压力，室内支持三对三或五对五。",
+      "sections": [
+        {
+          "heading": "投篮与得分",
+          "body": "按住 E 开始投篮蓄力，松开 E 出手，出手时机影响质量。靠近篮筐时 Shift+Space 扣篮；Shift 配合轻按 E 为欧洲步扣篮。三分线外命中记 3 分，线内记 2 分，室内三分线为黄色线。防守者位置和干扰强度也会降低命中机会。"
+        },
+        {
+          "heading": "运球与防守",
+          "body": "X 后撤运球，Z+X 或 C+X 背后运球，Backspace 放下球。队友会分配本机显示的编号，按对应数字传球。无球防守时按住鼠标右键进入防守姿态，F 掩护，R 抢断，Space 封盖。"
+        },
+        {
+          "heading": "正式比赛",
+          "body": "室外为 3v3，室内支持 3v3 或 5v5。一次进攻时限为 24 秒，每节 5 分钟，共四节；官方说明篮板或球出界后进攻时钟会暂停。设置中的 Basketball 分类可修改投篮条外观与部分键位。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Basketball",
+          "url": "https://trello.com/c/sraqxK55"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "volleyball",
+      "title": "排球",
+      "english": "Volleyball",
+      "category": "运动",
+      "summary": "用接球、二传、扣球和拦网配合完成回合。",
+      "sections": [
+        {
+          "heading": "核心操作",
+          "body": "V 进入或退出排球模式；鼠标左键用于扣球或接球，右键拦网，Q 鱼跃，F/R 前传或背传。Z/X/C 选择力量 1/3/5，1/2 降低或增加力量，镜头方向影响球的方向与高度。发球时左键为飘球，右键为跳发。"
+        },
+        {
+          "heading": "多人比赛",
+          "body": "红蓝两队各有六个候场点，官方卡写明每队至少两人可开始比赛，先到 18 分的一方获胜。排球模式下 G 打开战术呼叫，包含 Outside、Middle、Opposite、Pipe 和 Dump；部分呼叫可进一步选速度。"
+        },
+        {
+          "heading": "界面与回放",
+          "body": "得分后的关键回合可自动回放，按 Space 跳过。设置里的 Volleyball 分类可改力量条样式及按键，比赛会自动记录统计。官方还有 NPC 表演赛，可在场边观看 NPC 比赛。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Volleyball",
+          "url": "https://trello.com/c/J71RjV1k"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "soccer",
+      "title": "足球",
+      "english": "Soccer",
+      "category": "运动",
+      "summary": "蓄力射门、弧线、铲球与守门员模式有独立按键。",
+      "sections": [
+        {
+          "heading": "控球与进攻",
+          "body": "持球时按住鼠标左键蓄力，松开出脚。Q 为挑球或蓄力假动作，R 在无弧线、左弧线和右弧线之间切换，Shift 冲刺。未持球时左键可踢球或抢截，F 铲球，T 呼叫传球。"
+        },
+        {
+          "heading": "守门与状态",
+          "body": "G 进入守门员模式，守门时 Q 扑救并用方向控制，Space 跳起接球，再按 G 退出守门员。Flow 计量满时按 H 启用，V 退出足球模式。冲刺和假动作会消耗耐力。"
+        },
+        {
+          "heading": "设置",
+          "body": "Settings 的 Soccer 分类可改键位、力量条和 Flow 状态界面。官方说明这些界面外观选项不会给予额外玩法优势。本站没有从示意 GIF 推导未公布的具体射门成功率。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Soccer",
+          "url": "https://trello.com/c/Za7qnsIs"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "american-football",
+      "title": "美式橄榄球",
+      "english": "American Football",
+      "category": "运动",
+      "summary": "在足球场投票开始，用鼠标瞄准传球。",
+      "sections": [
+        {
+          "heading": "开始与持球",
+          "body": "美式橄榄球使用足球场。至少两人进入候场点会在 Soccer 和 Football 之间投票。持球时鼠标点击朝光标方向投掷，R/F 增加或减少力量，X 交球，E 扑跃，Shift 冲刺。"
+        },
+        {
+          "heading": "无球与退出",
+          "body": "无球时 E 扑跃，X 阻挡，Shift 冲刺，G 战术呼叫，B 退出模式。设置中的 Football 分类提供力量界面外观与部分按键调整；具体比赛模式与规则应按开场提示核对。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Football",
+          "url": "https://trello.com/c/QUydnRpz"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "dodgeball",
+      "title": "躲避球",
+      "english": "Dodgeball",
+      "category": "运动",
+      "summary": "篮球场也能进行躲避球，F 用于抓准时机接球。",
+      "sections": [
+        {
+          "heading": "如何开局",
+          "body": "躲避球可以在任一篮球场进行，两侧至少各有一名玩家。官方说明超过两名玩家在场时，会自动进行 Basketball 与 Dodgeball 的模式投票，短暂计时后开始得票最多的模式。"
+        },
+        {
+          "heading": "按键",
+          "body": "鼠标点击向光标方向投球，F 接球，Q 冲刺闪避，Shift 奔跑。接球采用时间窗口较窄的招架式判定。卡片没有在正文给出完整得分与淘汰数字，本站没有补写通用线下规则作为游戏规则。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dodgeball",
+          "url": "https://trello.com/c/yAe3Y7Us"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "skating",
+      "title": "滑板",
+      "english": "Skating",
+      "category": "运动",
+      "summary": "移动、加速与跳跃，也可通过表情轮盘管理滑板。",
+      "sections": [
+        {
+          "heading": "滑行操作",
+          "body": "W/A/S/D 移动，Shift 加速，Space 跳跃或做动作，官方提示加速有助于完成跳跃。表情轮盘的 Traversal 分类可装备、骑乘、放下或收起滑板；对应操作会随滑板当前在背上、地上或被骑乘而改变。"
+        },
+        {
+          "heading": "取得与管理",
+          "body": "官方卡写明永久滑板通过 800 Robux 通行证取得，并指出庭院发光板架是购买入口。价格可能随游戏调整，应购买前查看游戏显示。有人正在骑乘时无法用 Put Away 收走滑板。"
+        },
+        {
+          "heading": "道路互动",
+          "body": "靠近部分移动车辆后侧可抓住车尾搭乘，按 S 松开；半挂卡车不支持该动作。高速车辆碰撞会造成伤害、击退和短暂倒地，因此跟车时要注意路况。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Skating",
+          "url": "https://trello.com/c/oa8PYcqk"
+        },
+        {
+          "title": "NPC Events",
+          "url": "https://trello.com/c/vkH8Bkkz"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "private-servers",
+      "title": "私人服务器",
+      "english": "Private Servers",
+      "category": "社群",
+      "summary": "生成加入码、编辑规则，并可关联 Roblox 社区权限。",
+      "sections": [
+        {
+          "heading": "创建与邀请",
+          "body": "在游戏菜单可生成私人服务器加入码，把码分享给朋友后，他们可用码加入。Edit 提供背景颜色、服务器规则、加入码和人数限制等编辑选项。加入码是邀请入口，服务器仍可另设准入条件。"
+        },
+        {
+          "heading": "社区角色联动",
+          "body": "私服可关联 Roblox 社区，把社区等级对应到自定义角色。也可限制只有指定等级及以上的社区成员能用码进入，等级不足或不在社区中的玩家会被拒绝。具体权限由服务器创建者设定。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Private Servers",
+          "url": "https://trello.com/c/eF2z3YhV"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "ps-plus",
+      "title": "PS+ 管理与模式",
+      "english": "PS+ Commands",
+      "category": "社群",
+      "summary": "管理天气、玩家、NPC 与比赛规则，另有六种对抗模式。",
+      "sections": [
+        {
+          "heading": "打开管理面板",
+          "body": "打开左侧菜单并选择 Commands。面板可调整天气和时间，发送全服公告或指定半径的附近公告。玩家分类可查看当前成员，使用传送、治疗、重生、踢出、封禁、角色设置等管理功能；这些是获得私服面板权限后的能力。"
+        },
+        {
+          "heading": "角色、区域与 NPC",
+          "body": "Role 分类可自定义角色颜色、服装和面板访问权。Area 分类可开关不同区域的安全区。NPC 分类可生成就座 NPC、观众、合奏成员或跟随队伍；音乐分类可用歌曲 ID 管理播放队列、音量和速度。"
+        },
+        {
+          "heading": "团队对抗",
+          "body": "Modes 包含 Gang War、Turf War、Raid、Last Gang Standing、Taiman 与 Hatatori。Gang War 允许重生并按击倒和终结计分；Last Gang Standing 淘汰后本轮不复活；Taiman 支持人数对等的 1v1 或 2v2。每种模式按钮会显示具体说明。"
+        },
+        {
+          "heading": "据点、护送与夺旗",
+          "body": "Turf War 围绕 A/B/C 区域占领与持续得分；Raid 由进攻方护送卡车到校门，防守方可摧毁车辆或耗尽进攻复活数；Hatatori 要把三面旗带到本方神社，并争取同时持有。比赛参数会受私服设置影响，开局先阅读当前规则。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "PS+ Guide",
+          "url": "https://trello.com/c/juZtli72"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "reporting",
+      "title": "玩家举报",
+      "english": "How to Report",
+      "category": "社群",
+      "summary": "录下违规与对应用户名，再向官方支持服提交证据链接。",
+      "sections": [
+        {
+          "heading": "可举报行为",
+          "body": "官方卡列出露骨绘画、永久困人、长时间搬运、无限抱持、把人扔出地图、滥用漏洞、外挂、极端骚扰及与外挂者结伙等类别。前后移动的挑衅动作本身目前不再自动构成封禁理由，但故意表现为性行为的情况另论。判断应结合完整上下文。"
+        },
+        {
+          "heading": "证据要能对应账号",
+          "body": "短视频应清楚录到违规行为和对方名字，随后打开左侧玩家列表，展示角色名字对应的 Roblox 用户名。把片段上传后取得可供审核者访问的证据链接；只有游戏角色名，可能无法可靠定位账号。"
+        },
+        {
+          "heading": "提交到哪里",
+          "body": "进入官方 Gakuran Support Server，填写举报入口要求的字段。Username 一栏填写被举报者的用户名。若入口显示暂停收件，表示暂时集中处理已有材料，需等入口重新开放。此页面只提供操作指南，没有替官方收件或自动提交举报。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "How to Report",
+          "url": "https://trello.com/c/PIyx5OfC"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    }
+  ],
+  "researchedAt": "2026-11-07",
+  "boardSource": "https://trello.com/b/v3WatB1P",
+  "methodology": "基于本次官方 Trello 完整快照编译；未进行游戏内实测。"
+}

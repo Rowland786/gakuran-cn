@@ -1,0 +1,30 @@
+name: Publish Gakuran Chinese Wiki
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify published files
+        run: |
+          node -e "const f=require('fs'); const w=JSON.parse(f.readFileSync('docs/data/wiki.json')); const c=JSON.parse(f.readFileSync('docs/data/catalog.json')); if(w.articles.length!==78||c.length!==1097||!f.existsSync('docs/index.html'))process.exit(1); for(const x of c)for(const k of ['thumbnail','local_file'])if(!f.existsSync('docs'+x[k]))throw Error(x[k]); console.log('78 articles, 1097 original images and thumbnails verified')"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

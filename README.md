@@ -1,3 +1,13 @@
+# 学乱档案室 · Gakuran 中文 Wiki
+
+访问网站：https://rowland786.github.io/gakuran-cn/
+
+对话导航、78 篇中文词条、26 种风格、294 张官方卡片索引，以及 Kaglorn 整理的 1,097 项外观。资料核对：2026-11-07。
+
+新 Wiki 源码见 `wiki/`，静态发布文件见 `docs/`。原有图鉴文件全部保留，以下为原始图鉴说明与署名。
+
+---
+
 # 学乱 Gakuran · 服饰数据
 
 从 Trello 看板 **「(学乱) Gakuran Trello」** 的 `Cosmetics`（装扮）列表抓取整理，

@@ -1,0 +1,1040 @@
+{
+  "articles": [
+    {
+      "id": "style-perfect-copy",
+      "title": "完美模仿",
+      "english": "Perfect Copy",
+      "category": "战斗风格",
+      "summary": "连续命中建立增益，重击落空会让自己倒地。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "连中3次轻击后，接下来2次轻击造成1.5倍伤害；落空或被招架会清除这项增益。连续3次未被招架的轻击还会给一次免费冲刺。用过4种不同轻击后接重击可获得1.25倍伤害。前3下均命中时，第4下轻击不能被招架，该效果冷却20秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上的高个角色，利用攻击距离提高重击命中率。重击打空会令使用者自行布娃娃倒地，追击时尤其需要估计距离。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Perfect Copy",
+          "url": "https://trello.com/c/kBzBnqqM"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/perfect-copy.webp"
+    },
+    {
+      "id": "style-jin",
+      "title": "仁",
+      "english": "Jin",
+      "category": "战斗风格",
+      "summary": "通过招架、闪避和连续轻击加快出手并限制对手位移。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "完美招架一次轻击后，下次重击出手更快，此效果冷却12秒。冲刺躲过轻击后，下次轻击加速，冷却10秒。连中3次轻击会让对手1秒内不能冲刺。重击被招架时不会直接中断，但架势伤害降低；重击过程中挨打会增加击退而降低伤害。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡偏向4英尺11英寸至5英尺的矮个进攻配置，利用较短的出手与冷却持续施压。该建议是资料卡作者的配装意见，实际对局仍取决于间距与防御时机。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Jin",
+          "url": "https://trello.com/c/kxZz0ahT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/jin.webp"
+    },
+    {
+      "id": "style-mishima",
+      "title": "三岛",
+      "english": "Mishima",
+      "category": "战斗风格",
+      "summary": "两段重击与连击减速，配合闪避回收冲刺冷却。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "重击有两次打击，第2次为上勾拳，会将目标向上、向后击飞。4次轻击全部命中同一目标且没有落空时，目标移动速度降低4秒。冲刺躲过一次轻击会立即返还冲刺冷却。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐4英尺11英寸的矮个角色，以轻击速度发挥这套风格；卡片也提供完整轻击和重击动作演示。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Mishima",
+          "url": "https://trello.com/c/thAfRDEL"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/mishima.webp"
+    },
+    {
+      "id": "style-cqc",
+      "title": "近身格斗",
+      "english": "CQC",
+      "category": "战斗风格",
+      "summary": "锁定式五连重击，擅长架势压制和多人交战后的增益。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "重击锁定圈内目标并自动接近，连续打击5次；蓄力时不能移动，最初0.5秒内被命中可被打断。每次攻击的架势伤害提高20%，轻击碰撞有35%概率进入抓取对抗。赢得抓取后5秒内，后续命中每次叠加5%伤害，最多25%。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上、侧重防守和距离的配置。Boss Raid按本条生命中曾攻击过自己的不同人数增加伤害，每人2%，最多计算5人。v13增加的CQC V2采用反击架势，抓住撞入反击的人并摔击。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · CQC",
+          "url": "https://trello.com/c/bmLbgQjW"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/cqc.webp"
+    },
+    {
+      "id": "style-ali",
+      "title": "阿里",
+      "english": "Ali",
+      "category": "战斗风格",
+      "summary": "以带无敌帧的重击和闪避反击维持近身压力。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "重击的前摇具有无敌帧；用闪避躲开攻击会立刻回击出拳。完美防御后，下次攻击伤害提高5%；格挡穿透为20%，轻击碰撞进入抓取的概率为25%。卡片按键示例为R左手重击、D或S加R右手重击、Q触发闪避反击。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐4英尺11英寸至5英尺3英寸的矮个配置，也将高个角色列为可选。v13公告明确：闪避重击有独立冷却，已不能再与普通重击连锁；旧视频中的连法需要按更新后的规则判断。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Ali",
+          "url": "https://trello.com/c/Roh6sIpv"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/ali.webp"
+    },
+    {
+      "id": "style-wingchun",
+      "title": "咏春",
+      "english": "Wingchun",
+      "category": "战斗风格",
+      "summary": "重击改为反击架势，将对手来袭转换成反击连段。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Sticky Hands使重击进入招架姿态，抵消下一次命中自己的攻击并反击。轻击速度提高6%，代价是每击伤害减少0.2；最后一段轻击造成1.5倍伤害。另有20%格挡穿透、10%架势抗性与15%抓取碰撞概率。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺至6英尺11英寸的高个配置，用攻击距离、基础伤害和生命值掌控间距；4英尺11英寸至5英尺3英寸也列为机动方案。卡片列出重击基础冷却7.5秒。v13称成功触发反击后，整套连段期间获得无敌帧。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Wingchun",
+          "url": "https://trello.com/c/kLhoQV2k"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "???",
+      "image": "style-images/wingchun.webp"
+    },
+    {
+      "id": "style-dragon",
+      "title": "龙",
+      "english": "Dragon",
+      "category": "战斗风格",
+      "summary": "站立翻踢与奔跑飞踢有不同风险和恢复方式。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "原地重击是把对手踢倒的翻踢，动作出手后不能移动或转向；落空或在动作中被打会使自己倒地。全速奔跑时重击改为飞踢，双方都会倒地，但造成1.5倍伤害且自己比对手早约1秒起身。重击命中后有短暂伤害增益。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上，以距离提高重击命中率。其余截图天赋包括15%格挡穿透、25%轻击碰撞抓取概率；原卡将这套风格描述为偏娱乐的选择，这属于配装评价，不是本维基的强度排名。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Dragon",
+          "url": "https://trello.com/c/OGlBZDUb"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/dragon.webp"
+    },
+    {
+      "id": "style-kyokushin-karate",
+      "title": "极真空手道",
+      "english": "Kyokushin Karate",
+      "category": "战斗风格",
+      "summary": "重击霸体、减伤和格挡穿透，强调换血与承受压力。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "重击挥动期间有霸体，避免被普通中断或眩晕。天赋截图列出30%格挡穿透，以及受到所有来源伤害降低10%。卡片同时提供普通重击与Absorb变体演示。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上以发挥距离和承伤能力。v13新增极真V2；觉醒任务需要主动满足受击条件，相关计数不宜用不还手的目标刷取。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Kyokushin Karate",
+          "url": "https://trello.com/c/Furm0NSZ"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/kyokushin-karate.webp"
+    },
+    {
+      "id": "style-capoeira",
+      "title": "卡波耶拉",
+      "english": "Capoeira",
+      "category": "战斗风格",
+      "summary": "用缩短的冲刺冷却配合踢击距离与架势压制。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Ginga使冲刺冷却缩短25%；攻击额外造成10%架势伤害，破防命中的伤害提高5%，格挡穿透15%。重击命中会让目标布娃娃倒地，卡片列出基础冷却12秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺或183厘米以上的角色，兼顾踢击距离和较高基础伤害；同时注明5英尺5英寸以下也可使用。选择身高时可先比较距离与冷却，再决定是否重抽。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Capoeira",
+          "url": "https://trello.com/c/3LJhCTBy"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/capoeira.webp"
+    },
+    {
+      "id": "style-wrestling",
+      "title": "摔跤",
+      "english": "Wrestling",
+      "category": "战斗风格",
+      "summary": "抓取摔击、霸体重击与较高的抓取碰撞概率。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Takedown把重击改为抓住目标并摔向地面，造成1.5倍伤害及短暂迷失效果。重击挥动期间有霸体，基础冷却12秒。截图列出破防命中伤害提高15%、格挡穿透15%、轻击碰撞进入抓取的概率55%。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺或183厘米以上，以身高伤害和重击倍率组合施压。v13把摔跤的concussion持续时间缩短30%；旧演示中的控制时长可能已经过时。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Wrestling",
+          "url": "https://trello.com/c/Fq0e4oUr"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/wrestling.webp"
+    },
+    {
+      "id": "style-hakari",
+      "title": "秤",
+      "english": "Hakari",
+      "category": "战斗风格",
+      "summary": "踢击连段积累Momentum Rush，再衔接重击。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "天赋截图写连续命中3次轻击且未被眩晕后，开启7秒窗口，期间重击造成3倍伤害；截图还列出15%格挡穿透。卡片重击基础冷却7秒，并展示轻击连段后按R触发Black Flash的操作。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺或183厘米以上，利用踢击距离。觉醒任务说明把Momentum Rush写成连续4次干净轻击，与天赋截图的3次不一致；这里保留差异，触发条件需以当前游戏界面和实测为准。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Hakari",
+          "url": "https://trello.com/c/2etq6pf3"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/hakari.webp"
+    },
+    {
+      "id": "style-kure",
+      "title": "吴",
+      "english": "Kure",
+      "category": "战斗风格",
+      "summary": "低血量增伤、头槌抓取与短暂封锁招架。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "生命值不高于25%时，Last Stand提供15%总伤害加成。重击头槌抓取造成1.5倍伤害，摔击后让受害者2秒内不能招架。其他天赋为15%格挡穿透与15%轻击碰撞抓取概率，重击基础冷却12秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐5英尺9英寸或175厘米以上，以距离提高重击命中率；矮个仍可按机动偏好使用。v13的Kure V2会抓住目标、举起再砸向地面。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Kure",
+          "url": "https://trello.com/c/BrigvfKd"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Legendary",
+      "image": "style-images/kure.webp"
+    },
+    {
+      "id": "style-aikido",
+      "title": "合气道",
+      "english": "Aikido",
+      "category": "战斗风格",
+      "summary": "以反击摔倒延续轻击，能够围绕反击窗口进攻或防守。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "轻击碰撞进入抓取的概率为55%，格挡穿透20%，破防命中伤害提高15%。Continuing Flow让反击以摔击结束，目标倒地后的3秒内仍可受到自己的轻击。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡认为矮个和高个均可使用，差别在于追击、拉扯和反击方式。v13的合气道V2会翻摔来袭者，再用上勾拳打走；反击成功以前仍需要读准对手的出手。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Aikido",
+          "url": "https://trello.com/c/lIcqwwIr"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Epic",
+      "image": "style-images/aikido.webp"
+    },
+    {
+      "id": "style-boxing",
+      "title": "拳击",
+      "english": "Boxing",
+      "category": "战斗风格",
+      "summary": "快速轻击与两段重击；旧卡和新补丁存在数值差异。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "截图中的重击为两拳，每拳单独判断，可以吃下第一拳再招架第二拳。第4段轻击命中返还1.5秒重击冷却；轻击有20%格挡穿透。原卡推荐约5英尺1英寸或155厘米以下，以轻击速度施压。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "v13把基础重击冷却从7秒提高至9秒，打空会让自己眩晕，无敌帧增加短暂前摇；V2重击连打也不再穿透格挡。单卡仍保留7秒与旧无敌帧描述，本页采用更新公告并列出冲突，避免照搬旧连招。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Boxing",
+          "url": "https://trello.com/c/9zucAqBC"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Epic",
+      "image": "style-images/boxing.webp"
+    },
+    {
+      "id": "style-lethwei",
+      "title": "缅甸拳",
+      "english": "Lethwei",
+      "category": "战斗风格",
+      "summary": "高格挡穿透、架势伤害和抓取碰撞概率。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "截图列出每击额外15%架势伤害、破防命中伤害提高15%、格挡穿透30%，以及55%轻击碰撞进入抓取的概率。重击命中会使目标布娃娃倒地。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡认为高矮均可用，但更推荐4英尺11英寸，理由是高个配置的出手较慢。卡片说明觉醒前后天赋没有变化，V2的重击与特效另有演示。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Lethwei",
+          "url": "https://trello.com/c/UetJJ1tZ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Epic",
+      "image": "style-images/lethwei.webp"
+    },
+    {
+      "id": "style-striker",
+      "title": "突击者",
+      "english": "Striker",
+      "category": "战斗风格",
+      "summary": "轻击节奏逐段加快，重击带有假动作。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Broken Rhythm让连段前摇由0.35秒逐步缩短至0.12秒；重击先在0.15秒做假踢，真正攻击在0.45秒落下。其他天赋为20%格挡穿透与25%轻击碰撞抓取概率，原卡列出重击冷却7秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡将高矮身高都列为可用：高个保留距离，矮个强调速度。v13新增Striker V2。觉醒阶段2需要冲刺穿过120次攻击，卡片说明这个阶段也可在私人服务器进行。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Striker",
+          "url": "https://trello.com/c/JAnpgREc"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Epic",
+      "image": "style-images/striker.webp"
+    },
+    {
+      "id": "style-taijutsu",
+      "title": "体术",
+      "english": "Taijutsu",
+      "category": "战斗风格",
+      "summary": "恢复架势并用重击打倒对手，适合距离与持续压制。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Swift Recovery使架势恢复速度提高15%；Crushing Force II使每击架势伤害提高15%。重击命中会把目标打入布娃娃倒地状态。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上，用更长距离弥补出手的接近成本；卡片把其重击冷却描述为较短，但没有给出具体基础秒数，因此本页不补写。觉醒需要轻击沙袋、徒步冲刺和连续沙袋命中。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Taijutsu",
+          "url": "https://trello.com/c/i4eu9G7Y"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/taijutsu.webp"
+    },
+    {
+      "id": "style-hikaken",
+      "title": "Hikaken",
+      "english": "Hikaken",
+      "category": "战斗风格",
+      "summary": "三项直接天赋围绕格挡穿透、碰撞抓取和架势伤害。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "截图列出20%格挡穿透、25%轻击碰撞进入抓取的概率，以及每击额外15%架势伤害。卡片分别给出完整轻击与重击演示，没有列出确定的基础重击冷却。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐5英尺5英寸以下，以速度和重击节奏发挥风格；高个也被描述为可用。本站保留英文名称，便于在游戏内直接查找。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Hikaken",
+          "url": "https://trello.com/c/jOQcdeSN"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/hikaken.webp"
+    },
+    {
+      "id": "style-giovanna",
+      "title": "乔凡娜",
+      "english": "Giovanna",
+      "category": "战斗风格",
+      "summary": "重击倒地与较高格挡穿透，配合短身高维持进攻。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "每击额外15%架势伤害，破防命中伤害提高15%，格挡穿透30%；重击命中会使目标布娃娃倒地。卡片没有列明基础重击冷却秒数。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡偏向4英尺11英寸的进攻配置，强调较短冷却下的重击使用；也注明高个可采用防守打法。选择取决于要追击还是控制距离。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Giovanna",
+          "url": "https://trello.com/c/JeDFZHaO"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/giovanna.webp"
+    },
+    {
+      "id": "style-kickboxing",
+      "title": "踢拳",
+      "english": "Kickboxing",
+      "category": "战斗风格",
+      "summary": "两次踢击限制对手冲刺，第4段轻击返还重击冷却。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "Low Guard要求两次踢击都命中，令对手冲刺冷却提高40%，持续5秒。第4段轻击命中返还1.5秒重击冷却；每击额外10%架势伤害，格挡穿透20%，轻击碰撞抓取概率25%。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐5英尺5英寸以下，利用轻击动作的速度与距离。v13新增踢拳V2。觉醒第三阶段的原文对休息间隔存在8至20秒与8至25秒两种写法，执行时应核对角色心声提示。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Kickboxing",
+          "url": "https://trello.com/c/wTEq8I8q"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/kickboxing.webp"
+    },
+    {
+      "id": "style-muay-thai",
+      "title": "泰拳",
+      "english": "Muay Thai",
+      "category": "战斗风格",
+      "summary": "通过格挡穿透、架势压制和碰撞抓取维持攻击。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "每击额外15%架势伤害，格挡穿透30%，轻击碰撞进入抓取的概率55%；重击命中造成布娃娃倒地，基础冷却7秒。原卡建议积极进攻，利用多次出手压制长期格挡的对手。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐约5英尺3英寸或160厘米以下。泰拳的觉醒详细任务已经列于Awakenings卡，尽管该卡开头的概览名单漏写Muay Thai；任务应按详细段落与游戏界面核对。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Muay Thai",
+          "url": "https://trello.com/c/9KpdQtMi"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/muay-thai.webp"
+    },
+    {
+      "id": "style-slugger",
+      "title": "重拳手",
+      "english": "Slugger",
+      "category": "战斗风格",
+      "summary": "高伤害换取更高受伤风险，格挡穿透较高。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "天赋截图中的Unstable为造成伤害提高40%，受到伤害提高15%；格挡穿透30%，轻击碰撞抓取概率35%。重击基础冷却7秒。原卡正文仍写额外承伤10%，与截图15%有冲突，因此不把任一数值宣称为实测结果。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐5英尺10英寸或177厘米以上，以高个角色的生命值和基础伤害搭配主动换血。v13新增Slugger V2，觉醒第三阶段要求夜间在90秒内击倒5个街头事件NPC。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Slugger",
+          "url": "https://trello.com/c/83IdjgYu"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/slugger.webp"
+    },
+    {
+      "id": "style-karate",
+      "title": "空手道",
+      "english": "Karate",
+      "category": "战斗风格",
+      "summary": "完美防御与重击命中帮助恢复架势。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "完美防御后，架势恢复速度提高15%，持续3秒；重击命中返还当前架势消耗的25%。截图还列出15%格挡穿透、25%轻击碰撞抓取概率，重击命中会让对手倒地，基础冷却7秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐约5英尺7英寸或170厘米的中等身高，以兼顾重击速度和伤害。觉醒第三阶段要求雨雪天露天完成60套完整轻击连段，是一般第三阶段失败重置规则中的明确存档例外。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Karate",
+          "url": "https://trello.com/c/vvwaQffG"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Uncommon",
+      "image": "style-images/karate.webp"
+    },
+    {
+      "id": "style-basic",
+      "title": "基础格斗",
+      "english": "Basic",
+      "category": "战斗风格",
+      "summary": "以招架后的增伤、架势恢复和格挡穿透构成基础循环。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "完美防御后下次攻击伤害提高5%，架势恢复速度提高15%，格挡穿透15%，轻击碰撞进入抓取的概率25%。卡片列出重击基础冷却7秒。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐约5英尺3英寸或160厘米以下，利用较快轻击增加碰撞机会并持续消耗格挡者。Common是抽取稀有度分类，不能直接推导成实战无用或必然弱于高稀有度。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Basic",
+          "url": "https://trello.com/c/JGzGNMSq"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Common",
+      "image": "style-images/basic.webp"
+    },
+    {
+      "id": "style-jason",
+      "title": "杰森",
+      "english": "Jason",
+      "category": "战斗风格",
+      "summary": "万圣节限定风格，重击攻击距离突出。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "官方限定风格卡把Jason单项概率列为0.1%；万圣节活动总卡把两个限定风格合计列为0.2%。该风格属于活动奖池，不应按照常驻风格重抽来寻找。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐6英尺以上，强调用高个角色扩大重击距离。v13后的小更新修复了PvP关闭时Jason重击仍把玩家甩飞的问题。活动结束后的装备和保留规则需同时查看活动总卡。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Jason",
+          "url": "https://trello.com/c/hqEGYzAG"
+        },
+        {
+          "title": "Gakuran 官方 Trello · random update",
+          "url": "https://trello.com/c/EhxZEPur"
+        },
+        {
+          "title": "Gakuran 官方 Trello · LIMITED TIME HALLOWEEN EVENT",
+          "url": "https://trello.com/c/4aLGlV3L"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Limited",
+      "image": null
+    },
+    {
+      "id": "style-scarecrow",
+      "title": "稻草人",
+      "english": "Scarecrow",
+      "category": "战斗风格",
+      "summary": "万圣节限定风格，原卡偏向矮个配置与冲刺接重击。",
+      "sections": [
+        {
+          "heading": "动作与天赋",
+          "body": "官方卡列出Scarecrow在万圣节活动扭蛋中的单项概率为0.1%。其完整轻击连段和重击均有演示，卡片称完整轻击连段另有奖励，但没有提供可直接核对的奖励数值。"
+        },
+        {
+          "heading": "配装与版本说明",
+          "body": "原卡推荐5英尺5英寸以下，用较快冲刺帮助命中风险较高的重击。卡片的配装建议不能视为必胜结论；活动限定的取得期限与保留条件另见万圣节活动词条。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Scarecrow",
+          "url": "https://trello.com/c/R4PecSbx"
+        },
+        {
+          "title": "Gakuran 官方 Trello · LIMITED TIME HALLOWEEN EVENT",
+          "url": "https://trello.com/c/4aLGlV3L"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "rarity": "Limited",
+      "image": null
+    },
+    {
+      "id": "style-rarity",
+      "title": "风格稀有度与抽取说明",
+      "english": "Style rarities",
+      "category": "战斗风格",
+      "summary": "常驻风格的档位、成员和官方概率标注。",
+      "sections": [
+        {
+          "heading": "档位与成员",
+          "body": "官方列表依次标为??? 0.05%、Legendary 1%、Epic 10%、Uncommon 30%、Common 59%。这些是档位标题标注，不能当作该档每个具体风格的单项概率。五个标题相加为100.05%，原资料存在披露不一致，本站保留数字并标出问题，不自行归一化。"
+        },
+        {
+          "heading": "各档范围",
+          "body": "???档包含Perfect Copy、Jin、Mishima、CQC、Ali、Wingchun；Legendary包含Dragon、Kyokushin Karate、Capoeira、Wrestling、Hakari、Kure；Epic包含Aikido、Boxing、Lethwei、Striker；Uncommon包含Taijutsu、Hikaken、Giovanna、Kickboxing、Muay Thai、Slugger、Karate；Common为Basic。Jason与Scarecrow另列活动限定。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · ??? / 0.05%",
+          "url": "https://trello.com/c/1nmQPR8z"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Legendary / 1%",
+          "url": "https://trello.com/c/vZDrEjf2"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Epic / 10%",
+          "url": "https://trello.com/c/uzANrNMj"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Uncommon / 30%",
+          "url": "https://trello.com/c/PrOlo95U"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Common / 59%",
+          "url": "https://trello.com/c/Y4iuGatn"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Limited styles",
+          "url": "https://trello.com/c/oNZbbQH9"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "awakening",
+      "title": "觉醒总则与十五种试炼",
+      "english": "Awakenings / V2",
+      "category": "觉醒指南",
+      "summary": "三阶段完成后解锁V2，按当前风格单独保存进度。",
+      "sections": [
+        {
+          "heading": "进度和切换",
+          "body": "完成第三阶段后自动开启V2，可在觉醒面板切换；战斗中或倒地时不能切换。每种风格单独存档，只有当前装备风格推进。只有第一阶段有进度条，第二、三阶段需读角色心声。第三阶段试炼失败、离开、换风格或失去条件一般重置；空手道第三阶段例外保存进度。"
+        },
+        {
+          "heading": "有效战斗与计数",
+          "body": "玩家必须先打你或还击，NPC须是街头帮派成员或正在与你战斗的对象。对同一玩家每小时最多计150击、40次完美防御、25次破防、25次重击、20次抓取胜利和3次击倒；NPC和沙袋不受这些玩家上限限制。击倒归属要求最后10秒内命中过目标。沙袋每秒约只计4至5击。"
+        },
+        {
+          "heading": "Taiman与夜间",
+          "body": "Taiman按入服顺序每8至15分钟在全服触发，约在角色后方10studs出现，安全区和私人服务器不生成。只计算为自己生成的Taiman，攻击它开始单挑，击倒后尽可能终结以确认胜利。夜间指游戏内19:00至06:00。"
+        },
+        {
+          "heading": "Jin · 拳击 · 空手道",
+          "body": "Jin：击倒150个NPC；招架后2秒内命中同一人；夜间在屋顶或园艺区连续坐5分钟，移动超过2studs、受伤或入战失败。拳击：沙袋或玩家1500次轻击；招架250次；夜间独自在道场打沙袋3分钟，停超过2.5秒重置。空手道：沙袋400套完整连段；打败5个Taiman；雨雪天露天60套完整轻击，上方60studs内不能有遮挡。"
+        },
+        {
+          "heading": "体术 · 缅甸拳 · 秤",
+          "body": "体术：沙袋2000击；徒步冲刺60000studs，乘板、坐下或在空中不计；连续命中沙袋600次，停超过5秒重置。缅甸拳：破防300次且对手须先还击；生命值不高于25%时赢15次；全程不格挡击败街头帮派首领。秤：触发Momentum Rush 200次；重击200次；连续5次击倒，被击倒或吃到重击重置。"
+        },
+        {
+          "heading": "摔跤 · 泰拳 · 吴",
+          "body": "摔跤：NPC重击150次；赢100次抓取；连赢3个Taiman，输掉重置。泰拳：有效对手或沙袋300套完整轻击；赢100次抓取；Taiman开战后先在正面25studs内鞠躬，20秒内打出第一击并获胜，鞠躬前攻击失败。吴：重击有效NPC或玩家120次；低于或等于25%生命值击倒15次；先击倒同一街头帮派3名成员，再打败首领，换帮派重置。"
+        },
+        {
+          "heading": "重拳手 · 踢拳 · 突击者",
+          "body": "重拳手：击败120个会还击NPC；用重击作为最后一击击倒40次；夜间90秒内击倒5个街头事件NPC。踢拳：对沙袋打出第3、4段轻击，原文未给阶段1总次数；对NPC或玩家完成120套4段连击；3轮各25次沙袋踢击，每轮少于45秒，轮间休息原文分别写8至20秒和8至25秒，需核对游戏提示。突击者：重击150次；冲刺躲过120次攻击；无伤击倒3个街头NPC或玩家。"
+        },
+        {
+          "heading": "合气道 · 极真 · CQC",
+          "body": "合气道：完美防御300次；冲刺躲过150次攻击；在道场静坐4分钟，不移动不挨打，时间不限。极真：让NPC或玩家先手命中500次；蓄重击时受击100次，每次重击最多计3次；连续击倒10次，相邻击倒间隔最多60秒，自身倒地重置。CQC：先受击后对NPC或玩家造成1000重击伤害；最近20秒有至少3个对手打过自己时击倒25个NPC；击倒同一街头帮派3名成员再击败首领。"
+        },
+        {
+          "heading": "原资料的缺口",
+          "body": "总则称有15种可觉醒风格，但开头名单漏列Muay Thai，详细任务却包含泰拳。Hakari天赋截图和任务对Momentum Rush分别写3击与4击；踢拳第三阶段休息间隔也有两种写法。本站按详细资料保留这些分歧，缺失的计数和触发细节不补写。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "pity",
+      "title": "保底与目标选择",
+      "english": "Pity System",
+      "category": "抽取机制",
+      "summary": "风格、面部、制服、滑板各有计数，姓氏采用不同规则。",
+      "sections": [
+        {
+          "heading": "四类外观和风格保底",
+          "body": "先在保底面板选择想要的目标。官方说明和截图采用50/50：达到保底时获得该档位，第一次是否得到指定目标由50/50决定，歪掉后下一次保底保证目标。截图阈值为风格1700次、面部850次、制服850次、Unique滑板15次。没有选目标时会随机给一个，并不保证某个具体物品。"
+        },
+        {
+          "heading": "姓氏保底",
+          "body": "姓氏截图显示150次，选定目标后到数保证得到该姓氏，没有50/50。未选目标时，计数会等在150直到选择。截图中的姓氏总量数字只反映该张图，不能据此判断当前全部姓氏数量。"
+        },
+        {
+          "heading": "购买前核对",
+          "body": "这些阈值来自公开资料截图，未在当前游戏账户中实测。不同类别不共享同一保底计数，常驻保底也不能套用到万圣节活动的350抽规则。消耗重抽前查看游戏内目标、计数与锁定状态。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Pity System",
+          "url": "https://trello.com/c/laY67p9u"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "images": [
+        "style-images/face-pity.webp",
+        "style-images/fighting-style-pity.webp",
+        "style-images/uniform-pity.webp",
+        "style-images/deck-pity.webp",
+        "style-images/last-name.webp"
+      ]
+    },
+    {
+      "id": "halloween",
+      "title": "万圣节第二阶段与限定奖池",
+      "english": "Halloween Part 2",
+      "category": "活动与更新",
+      "summary": "官方公告标注活动到11月8日；糖果已不能继续获取。",
+      "sections": [
+        {
+          "heading": "活动窗口与消耗",
+          "body": "v13公告标注万圣节第二阶段持续到11月8日，没有注明具体时刻或时区。旧的讨糖和七大奇迹已经结束，当前规则为消耗剩余糖果，之后用重抽抽奖。总卡同时留有相对时间“7天”字样，因此本站不据此制作精确倒计时，也不保证访问当日仍可兑换。"
+        },
+        {
+          "heading": "奖池与上限",
+          "body": "单抽消耗100糖，十连1000糖。Jackpot限定风格合计0.2%，最迟350抽保底；Halloween Faces为1.5%，Halloween Fits为5%，其余93.3%。Jason与Scarecrow的单卡各标0.1%。每转获得1枚Ofuda，每天最多200次重抽转动；已拥有整类物品后改给Ofuda，卡片说明无重复掉落。"
+        },
+        {
+          "heading": "Ofuda与装备",
+          "body": "兑换定价为限定风格1200枚、脸部250枚、制服80枚。商店可选槽位并手动装备，活动期间能在限定和原有外观间切换。总卡特别警告：活动后按当前槽位生效，没有穿在身上可能无法再装备；v13又概括为奖品永久拥有。为保留目标应核对游戏内装备与槽位说明，这两处措辞不能直接化成无限衣柜承诺。"
+        },
+        {
+          "heading": "数据差异",
+          "body": "活动总卡写5种脸、6种衣装，而v13公告写10种脸、11套衣装，可能混用了两性变体或统计口径；原资料没有解释。本站保留各自来源，不把数量强行合并成已经核实的独立物品总数。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · LIMITED TIME HALLOWEEN EVENT",
+          "url": "https://trello.com/c/4aLGlV3L"
+        },
+        {
+          "title": "Gakuran 官方 Trello · Limited styles",
+          "url": "https://trello.com/c/oNZbbQH9"
+        },
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "codes",
+      "title": "兑换码与领取方法",
+      "english": "Codes",
+      "category": "活动与更新",
+      "summary": "官方当前列出的两个代码，可复制到游戏菜单尝试。",
+      "sections": [
+        {
+          "heading": "官方列出，尚未实测",
+          "body": "2026年11月7日抓取的官方Codes卡在Active Codes下列出：9999rerolls、limitedhalloweenitemsgogetthemtoflex。本站没有在游戏内兑换，也没有核实奖励数量或账户资格，代码过期或被领过时以游戏提示为准。代码名本身不能证明实际奖励数量。"
+        },
+        {
+          "heading": "兑换入口",
+          "body": "打开游戏菜单，点击底部Codes按钮，输入代码并提交。若提示无效，先检查多余空格与拼写，再查看官方卡片是否已更新；不需要安装脚本或在站外提供账户登录信息。"
+        },
+        {
+          "heading": "常见旧码已列为过期",
+          "body": "GAKURAN、MANGA、PHONEDECO、15REROLLS、MAPUPDATE、LARPSIMULATOR、UMA、SON、ALI、CQC、QOL2、QOL3、QOL4、PITY、PITYFIXED、GAKUWEEN等均在官方Expired Codes清单。本页不把旧搜索结果中“仍有效”的说法沿用到当前版本。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · Codes",
+          "url": "https://trello.com/c/AmPmoREx"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料",
+      "codes": [
+        "9999rerolls",
+        "limitedhalloweenitemsgogetthemtoflex"
+      ]
+    },
+    {
+      "id": "update-v13",
+      "title": "v13更新与后续小修",
+      "english": "v13 / random update",
+      "category": "活动与更新",
+      "summary": "新增七种V2、万圣节扭蛋、漫画店和重抽锁；后续小更新调整击倒回血。",
+      "sections": [
+        {
+          "heading": "战斗变化",
+          "body": "v13提高高个角色的伤害、生命和攻击距离，并为Kure、Aikido、Kickboxing、Kyokushin、Striker、Slugger、CQC增加V2。倒地后可长按X放弃并回学校复活，手柄对应Y，手机长按按钮。拳击基础重击冷却改为9秒，摔跤控制时长缩短30%，Ali闪避重击不能再接普通重击。"
+        },
+        {
+          "heading": "生活和菜单",
+          "body": "城镇增加漫画店：门口取篮、挑书、向店员付款后带走阅读。重抽属性增加挂锁，锁定后避免误抽；手机最多挂3个挂件，滑板增加贴纸。每日奖励的游玩时间可跨服务器累计，音乐室新增12首曲目。"
+        },
+        {
+          "heading": "后续小更新",
+          "body": "公开更新列表还出现random update：击倒对手的回血由40%提高为70%；修复Jason在关闭PvP时重击甩飞玩家。音乐结束可投票歌曲难度；私服可绑定Roblox群组，按群组职位限制准入和自动分配角色，并可重生成入服代码。原卡没有给出明确补丁编号，本站按卡名记录。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+          "url": "https://trello.com/c/IAKPInhT"
+        },
+        {
+          "title": "Gakuran 官方 Trello · random update",
+          "url": "https://trello.com/c/EhxZEPur"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "update-v12",
+      "title": "v12菜单、姓氏保底与体育更新",
+      "english": "v12",
+      "category": "活动与更新",
+      "summary": "新增姓氏保底、历史记录、手机装饰和两种球类。",
+      "sections": [
+        {
+          "heading": "菜单与角色",
+          "body": "v12增加手机DECO外壳颜色、图案和贴纸；姓氏加入保底，日常奖励增加连续登录与恢复连续天数，菜单RECORD记录战斗、体育、音乐、游戏和工作等历史统计。Weather天气应用在该公告中被移除。"
+        },
+        {
+          "heading": "体育变化",
+          "body": "足球场可投票切换美式橄榄球，篮球场可投票切换躲避球；体育页面增加各球类进球特效、球轨迹颜色、篮球Green特效和排球扣球或发球得分特效。足球守门员跳高降低10%。这些是补丁记录，不保证所有服务器都已同时更新。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Gakuran 官方 Trello · 学乱  Gakuran  Update  v12.00 (#27)",
+          "url": "https://trello.com/c/6FbzUKor"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    }
+  ]
+}

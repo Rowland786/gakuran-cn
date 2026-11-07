@@ -1,0 +1,796 @@
+{
+  "articles": [
+    {
+      "id": "getting-started",
+      "title": "初次入学",
+      "english": "How to Play",
+      "category": "入门",
+      "summary": "加入社区、检查入场条件，再建立你的角色。",
+      "sections": [
+        {
+          "heading": "进入学乱",
+          "body": "Gakuran 的官方简介将它描述为以 2000 年代日本为背景的校园生活游戏，核心包括角色定制、社交和校园角色扮演。官方入门卡目前写明：Roblox 账号须验证为 16+，并加入「(学乱) Gakuran」Roblox 社区。平台实际准入提示可能调整，遇到阻挡时先检查游戏页面与账号提示。"
+        },
+        {
+          "heading": "建立角色",
+          "body": "创建角色时先选择男性或女性，再输入名字。性别会影响平均身高与饰品池，之后能在属性菜单调整。姓氏由系统随机分配；族裔、身高、饰品、头发、发色和面部等初始结果也会随机生成。"
+        },
+        {
+          "heading": "名字被拒绝",
+          "body": "出现「Server Rejected Data」时，官方入门卡给出的原因是名字触发 Roblox 过滤或违反命名规则。换一个符合规则的名字后重试。角色名字、随机姓氏和 Roblox 用户名是不同的标识，查找玩家时应分清。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "How To Play",
+          "url": "https://trello.com/c/6AQT7Zn3"
+        },
+        {
+          "title": "About (学乱) Gakuran",
+          "url": "https://trello.com/c/WDagmuFA"
+        },
+        {
+          "title": "Game & Discord Links",
+          "url": "https://trello.com/c/E1YS6Z97"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "controls",
+      "title": "操作速查",
+      "english": "Controls",
+      "category": "入门",
+      "summary": "电脑与手柄的核心按键，以及手机键位的来源差异。",
+      "sections": [
+        {
+          "heading": "移动与界面",
+          "body": "电脑：W/A/S/D 移动，按住 Shift 冲刺，Space 跳跃，Ctrl 切换视角锁定，Tab 切换视角，E 互动，Left Alt 打开手机，G 打开表情轮盘，Shift+P 自由镜头。拿着物品时用 Backspace 放置或丢下。"
+        },
+        {
+          "heading": "战斗与倒地互动",
+          "body": "电脑：T 装备战斗风格，鼠标左键轻击，R 重击，按住 F 格挡，在攻击命中前按 F 招架，Q 闪避。V 搬运倒地玩家，B 对倒地玩家执行终结。重击条目里的 M2 是动作名称，默认电脑按键为 R。"
+        },
+        {
+          "heading": "手柄",
+          "body": "官方 Controls 卡列出：左摇杆移动，LT/L2 冲刺，RT/R2 轻击，RB/R1 重击，X/方块格挡或互动，B/圆圈闪避，LB/L1 装备风格，A/叉跳跃，按下左摇杆锁定视角，Y/三角切换视角。手机键位存在原文差异：Controls 写方向键右，Phones 写方向键下；本站尚未进行手柄实测，请按游戏内提示核对。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Controls",
+          "url": "https://trello.com/c/WmGFqKLZ"
+        },
+        {
+          "title": "Phones",
+          "url": "https://trello.com/c/4XISFKfs"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "roleplay-chat",
+      "title": "聊天与和解",
+      "english": "Chat Commands",
+      "category": "入门",
+      "summary": "用动作、喊话、耳语和 Mb 指令进行角色互动。",
+      "sections": [
+        {
+          "heading": "角色表达",
+          "body": "在聊天框输入 /me 后接动作描述，会将消息显示为动作。也能把文字放在星号之间，得到粉色突出显示。/s 用于喊话，/ooc 用于场外交流；/w 是耳语，只有距离说话者约 3 米内的人能读懂，其他人会看到无法辨认的提示。"
+        },
+        {
+          "heading": "解除误伤战斗状态",
+          "body": "聊天输入 Mb 或 Mb all 可在满足条件时提前解除屏幕上方的 IN COMBAT 状态，鞠躬表情也有相同用途。只有一方造成伤害时，由攻击方发出和解；双方都打过对方时，需要双方都发出和解。指令的效果取决于实际参战关系。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Controls",
+          "url": "https://trello.com/c/WmGFqKLZ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "light-attacks",
+      "title": "轻击连段",
+      "english": "Light Attacks · M1",
+      "category": "战斗",
+      "summary": "四段轻击、收尾击退与连段重置。",
+      "sections": [
+        {
+          "heading": "四段连击",
+          "body": "默认鼠标左键触发轻击。官方说明允许连续点按，也推荐按住左键完成最多四击的连段。短时间不攻击后，连段会重置；第四击是收尾攻击，击退更强。"
+        },
+        {
+          "heading": "连段的意义",
+          "body": "轻击的伤害和判定范围受角色身高影响。在双方同档攻击几乎同时碰撞时，可能进入拼招；触发拼招前的轻击连段进度也会影响结果。本站没有把四段轻击的全部伤害假定为相同，具体风格还可能带有独立特性。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Light Attacks (M1)",
+          "url": "https://trello.com/c/REzofMOW"
+        },
+        {
+          "title": "Height Based Combat Modifiers",
+          "url": "https://trello.com/c/KxGUwMZF"
+        },
+        {
+          "title": "Grappling / Clashing",
+          "url": "https://trello.com/c/TYI9U56F"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "heavy-attacks",
+      "title": "重击与破防",
+      "english": "Heavy Attacks · M2",
+      "category": "战斗",
+      "summary": "默认 R 键；普通格挡无法挡住重击。",
+      "sections": [
+        {
+          "heading": "重击作用",
+          "body": "M2 是有独立冷却的重击，默认电脑按键为 R。重击卡将其伤害写为单次 M1 的 1.7 倍。重击能打破普通格挡；应对方法包括招架、闪避，或在对方命中前用轻击打断。"
+        },
+        {
+          "heading": "风格特性",
+          "body": "部分风格的重击带霸体，轻击无法使其停止，但仍能通过招架等方式应对。另一些风格的重击会使目标短暂倒地。看见对方蓄力时，需要结合具体风格判断能否抢招。"
+        },
+        {
+          "heading": "冷却资料差异",
+          "body": "官方 Heavy Attacks 卡称目前所有身高共用重击冷却，但 Height Based Combat Modifiers 卡仍列有按身高变化的重击冷却公式。两处说明尚未统一，本站保留这一差异，未给出经过实测确认的统一冷却秒数。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Heavy Attacks (M2)",
+          "url": "https://trello.com/c/SgpTANHA"
+        },
+        {
+          "title": "Blockbreaks / Guardbreaks",
+          "url": "https://trello.com/c/99CYuUTb"
+        },
+        {
+          "title": "Height Based Combat Modifiers",
+          "url": "https://trello.com/c/KxGUwMZF"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "blocking",
+      "title": "格挡与削血",
+      "english": "Blocking & Chip Damage",
+      "category": "战斗",
+      "summary": "按住 F 防御，普通格挡仍可能受到削血。",
+      "sections": [
+        {
+          "heading": "普通格挡",
+          "body": "按住 F 可防御来袭的普通攻击，承受攻击会消耗架势。持续举防不能无限承受攻击：架势不足会被破防，重击也会直接打破普通格挡。格挡与在命中前按下 F 的招架有不同的结算。"
+        },
+        {
+          "heading": "削血如何计算",
+          "body": "风格的 Guard Pierce 特性决定攻击被普通格挡后仍造成多少生命伤害。例如原本造成 5 点伤害的攻击，10% 削血会留下 0.5 点，25% 削血会留下 1.25 点。成功招架不会承受削血；破防则按破防伤害结算。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Blocking (Posture)",
+          "url": "https://trello.com/c/0yGqBwsa"
+        },
+        {
+          "title": "Block Chip Damage",
+          "url": "https://trello.com/c/N561FvSA"
+        },
+        {
+          "title": "Blockbreaks / Guardbreaks",
+          "url": "https://trello.com/c/99CYuUTb"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "parrying",
+      "title": "招架",
+      "english": "Parrying · Perfect Block",
+      "category": "战斗",
+      "summary": "面向攻击者，在命中前按 F，争取短暂反击窗口。",
+      "sections": [
+        {
+          "heading": "成功条件与收益",
+          "body": "招架要求面向攻击者，在攻击即将命中时按下格挡。如果时机落在招架窗口内，会触发完美格挡。官方卡片写明：成功时不扣生命、不受格挡削血，也不损失架势，并使攻击者短暂硬直 0.45 秒。"
+        },
+        {
+          "heading": "架势与风格奖励",
+          "body": "招架不要求剩余架势，因此架势耗尽时仍有机会用准确时机防御。部分风格会奖励招架，例如 Counterstrike 增强招架后的下一次攻击，Boxing 的 Perfect Reflex 可减少正在冷却的重击剩余时间。具体效果以各风格词条为准。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Parrying / Perfect Blocking",
+          "url": "https://trello.com/c/RdFMaYle"
+        },
+        {
+          "title": "Posture / Stamina",
+          "url": "https://trello.com/c/IjsKlpZo"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "dodging",
+      "title": "闪避与脱围",
+      "english": "Evasive · Dodge",
+      "category": "战斗",
+      "summary": "Q 闪避提供短暂无敌，受到多人攻击时还有脱围机制。",
+      "sections": [
+        {
+          "heading": "普通闪避",
+          "body": "Q 用于闪避和调整位置，动作起始与移动阶段带有短暂 I-frames。官方卡片目前写明闪避不消耗耐力或架势，冷却很短。无敌结束后的收招阶段仍可能被命中，单纯看到闪避动画不代表全程安全。"
+        },
+        {
+          "heading": "多人围攻时",
+          "body": "Anti-Jump Evasive 用于减轻多人攻击造成的持续受击。被两个人命中后，按 Q 可进入无敌并向所选方向闪避；官方说明允许在受击后约 1–2 秒内触发。这里的「Anti-Jump」指应对多人围攻，不能理解为跳跃键技能。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Evasive (Dodge)",
+          "url": "https://trello.com/c/9PWlCABc"
+        },
+        {
+          "title": "Anti-Jump Evasive (Dodge)",
+          "url": "https://trello.com/c/PuTL0KaW"
+        },
+        {
+          "title": "Hyper-armor / IFrames",
+          "url": "https://trello.com/c/iFRGfy3b"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "posture",
+      "title": "架势、耐力与破防",
+      "english": "Posture · Stamina",
+      "category": "战斗",
+      "summary": "冲刺和防御共用隐藏资源；耗尽时会限制行动。",
+      "sections": [
+        {
+          "heading": "同一资源的两种用途",
+          "body": "官方将 Posture 与 Stamina 视为同一资源：冲刺使用耐力，承受格挡攻击使用架势。资源条目前不直接显示，耗尽后会影响冲刺或继续格挡。长时间追逐后立即架防，也可能受到此前消耗的影响。"
+        },
+        {
+          "heading": "破防后果",
+          "body": "架势不足时继续挡轻击会触发破防，重击也能直接破防。破防卡写明会造成完整破防伤害并硬直约 2 秒，且不再重复计算格挡削血。卡片给出的轻击破防条件为架势低于 10。"
+        },
+        {
+          "heading": "特性影响",
+          "body": "风格特性可改变资源交换：Basic 的 Swift Recovery 提高架势恢复，Karate 的 Balanced Strike 在重击命中后返还架势，Muay Thai 的 Disorientating 可让目标的架势恢复暂时停止。招架本身不要求架势。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Posture / Stamina",
+          "url": "https://trello.com/c/IjsKlpZo"
+        },
+        {
+          "title": "Blockbreaks / Guardbreaks",
+          "url": "https://trello.com/c/99CYuUTb"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "clashing",
+      "title": "拼招与缠斗",
+      "english": "Grappling · Clashing",
+      "category": "战斗",
+      "summary": "同档攻击几乎同时出手时，双方可能进入缠斗。",
+      "sections": [
+        {
+          "heading": "触发方式",
+          "body": "双方几乎同时使用相同档位的攻击，例如 M1 对 M1 或 M2 对 M2，可能触发 Clash，也称 Grapple。触发后双方会短暂锁定在原地缠斗。官方资料未在正文提供可供通用计算的固定触发百分比。"
+        },
+        {
+          "heading": "结果判定",
+          "body": "官方卡片将缠斗前更长的轻击连段作为胜负判定依据。胜方会把对方推开，并以减免后的伤害结算，卡片标为 -50%。这项机制让出手节奏和之前的连段状态都参与交换，不只是比较身高。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Grappling / Clashing",
+          "url": "https://trello.com/c/TYI9U56F"
+        },
+        {
+          "title": "Light Attacks (M1)",
+          "url": "https://trello.com/c/REzofMOW"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "armor-and-iframes",
+      "title": "霸体、无敌与反击",
+      "english": "Hyper-armor · I-frames · Counters",
+      "category": "战斗",
+      "summary": "三种防御特性有不同的受伤和中断规则。",
+      "sections": [
+        {
+          "heading": "霸体",
+          "body": "霸体使攻击在受到打击时仍能完成，角色照常承受伤害，只是不会因受击而中断。官方说明当前带霸体的攻击限于部分风格的 M2，作用阶段从起手到命中。换血时仍要考虑自身剩余生命。"
+        },
+        {
+          "heading": "无敌帧",
+          "body": "I-frames 期间攻击无法命中，不造成伤害、削血或受击硬直。闪避是常见来源，一些风格重击也有独立无敌效果。无敌帧不能避免 Clash；无敌窗口结束后遭到攻击，仍会按正常受击处理。"
+        },
+        {
+          "heading": "反击架势",
+          "body": "Counter 使用时会出现橙色光效，受到攻击后立即反打。如果期间没有受到攻击，使用者会留下可被利用的空档。官方 Counter 卡列出 Wing Chun 与 Aikido；原卡把后者拼为 Akaido，本站采用风格卡的通行拼写。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Hyper-armor / IFrames",
+          "url": "https://trello.com/c/iFRGfy3b"
+        },
+        {
+          "title": "Counters",
+          "url": "https://trello.com/c/lHnLgbD1"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "height",
+      "title": "身高",
+      "english": "Height",
+      "category": "角色",
+      "summary": "身高影响攻击范围、生命、伤害与速度，也受性别和族裔影响。",
+      "sections": [
+        {
+          "heading": "属性取舍",
+          "body": "角色身高按性别与族裔随机生成，接近平均值的结果更常见，极高或极矮的结果较少。较高角色通常生命和伤害更高、攻击判定更大；较矮角色攻击更快。身高卡还写明矮角色移动和闪避更灵活。"
+        },
+        {
+          "heading": "两端数值",
+          "body": "官方身高战斗修正卡把最矮端写为 85 HP、0.85 倍伤害、M1 范围 5.10、M2 范围 4.25；最高端写为 115 HP、1.15 倍伤害、M1 范围 6.90、M2 范围 5.75。这些是该卡的极端对比值，未附可直接套用到任意厘米数的完整换算公式。"
+        },
+        {
+          "heading": "平均值参考",
+          "body": "官方男性平均身高：European 178、African 175、Middle Eastern 173、Japanese 171、Latino 170、Indian 167 厘米。女性对应为 165、162、160、159、158、155 厘米。这些数字描述游戏生成设定，不能直接决定某个角色的战斗表现。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Height",
+          "url": "https://trello.com/c/H9zTdM8c"
+        },
+        {
+          "title": "Height Based Combat Modifiers",
+          "url": "https://trello.com/c/KxGUwMZF"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "ethnicity",
+      "title": "族裔与肤色",
+      "english": "Ethnicity & Skintone",
+      "category": "角色",
+      "summary": "族裔会改变角色生成池，官方列出六类结果。",
+      "sections": [
+        {
+          "heading": "公开抽取比例",
+          "body": "官方 Ethnicity and Skintone 卡列出的比例为 Japanese 95%，European、Indian、MiddleEastern、African、Latino/Latina 各 1%。这些是发布方说明中的概率，本站未通过游戏服务端日志或独立大样本验证。"
+        },
+        {
+          "heading": "影响范围",
+          "body": "族裔影响发型类型、姓氏、自然发色池、平均身高和肤色。肤色会从相应族裔的设定池中随机选择。外观稀有度与战斗风格稀有度属于不同的抽取维度，不能用某次外观结果推断下一次风格结果。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ethnicity and Skintone",
+          "url": "https://trello.com/c/KdPngOVR"
+        },
+        {
+          "title": "Height",
+          "url": "https://trello.com/c/H9zTdM8c"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "names",
+      "title": "名字与姓氏",
+      "english": "First & Last Names",
+      "category": "角色",
+      "summary": "名字由玩家选择，姓氏按族裔生成；官方数量说明仍有矛盾。",
+      "sections": [
+        {
+          "heading": "改名与重抽",
+          "body": "角色的 First Name 由玩家选择，官方资料称可随后修改。Last Name 由族裔决定的池随机生成，可通过重抽更换。若创建时名字被系统拒绝，先尝试不触发过滤且符合命名规则的名字。"
+        },
+        {
+          "heading": "数量尚未统一",
+          "body": "官方姓名卡正文写「共 4,428 个姓氏」，同卡又列出 European 1,450、Latino 947、Middle Eastern 923、Indian 879、African 825、Japanese 1,040，六项合计 6,064。本站保留这处原文矛盾，不把任一总数包装成已独立确认的游戏实装数量。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "First/Last Names",
+          "url": "https://trello.com/c/b9GGpVSd"
+        },
+        {
+          "title": "How To Play",
+          "url": "https://trello.com/c/6AQT7Zn3"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "age-and-year",
+      "title": "年龄、学年与生日",
+      "english": "Age · Year · Birthday",
+      "category": "角色",
+      "summary": "首次入学时生成的固定属性，名牌颜色对应学年。",
+      "sections": [
+        {
+          "heading": "固定属性",
+          "body": "官方资料称年龄、学年与生日在首次进入游戏时分配，之后不能修改。学年范围是一年级至三年级，不同玩家的结果可以不同。不要把校服或名字改动理解为能重置这些固定资料。"
+        },
+        {
+          "heading": "名牌颜色",
+          "body": "名牌边框的蓝色对应一年级，紫色对应二年级，黄色对应三年级。名牌显示角色姓氏，已知日语姓氏使用汉字，其余可使用片假名转写。官方还列有黑色校长名牌，并明确名牌本身没有玩法加成。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Age/Year/Birthday",
+          "url": "https://trello.com/c/4dY58phX"
+        },
+        {
+          "title": "Nameplates (Year Colors)",
+          "url": "https://trello.com/c/zRnb9QqL"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "phones",
+      "title": "翻盖手机",
+      "english": "Phones & Apps",
+      "category": "生活",
+      "summary": "通讯、社交、相机、音乐和工作入口集中在手机中。",
+      "sections": [
+        {
+          "heading": "打开与导航",
+          "body": "电脑按 Left Alt 打开手机，在待机界面按 OK 进入应用菜单。可以用手机上的方向键导航，也能直接点击应用。My Phone 可查看号码、日元、联系人和手机型号等资料；Dial 用于拨号，Calls 查看通话记录，Contacts 管理联系人。"
+        },
+        {
+          "heading": "添加朋友与发帖",
+          "body": "Social Link 允许附近两名玩家同时打开应用，再选择彼此保存联系方式。Mixi 是跨服务器的游戏内社交平台，可发帖、点赞和评论，首次使用能选择头像符号与颜色。它的帖子和 Roblox 账号资料属于不同的信息层。"
+        },
+        {
+          "heading": "相机与音乐",
+          "body": "Camera 支持前后镜头与滤镜，照片预览中可选 Save to Captures 保存到 Roblox Captures。Japanify 提供歌曲、播放列表和搜索；佩戴耳机时音乐从耳机播放，未佩戴时通过外放播放。工作与转账分别使用 Indeed 和 Yenapp。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Phones",
+          "url": "https://trello.com/c/4XISFKfs"
+        },
+        {
+          "title": "Mixi",
+          "url": "https://trello.com/c/qszWrwf8"
+        },
+        {
+          "title": "Japanify",
+          "url": "https://trello.com/c/KIosQ7Os"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "yen",
+      "title": "日元与转账",
+      "english": "Yen · Yenapp",
+      "category": "生活",
+      "summary": "工作赚取游戏货币，通过 Yen Tag 收付款。",
+      "sections": [
+        {
+          "heading": "获取与消费",
+          "body": "官方 Yen 卡称玩家初次生成时会获得随机数量的日元，也能通过工作或其他玩家转账取得。日元可用于购买食物、自动贩卖机饮品以及卡拉 OK 点歌等游戏内消费。本站未列出未经来源确认的固定初始金额。"
+        },
+        {
+          "heading": "设置收款标识",
+          "body": "打开手机 Yenapp，先设置唯一的 Yen Tag。其他玩家可搜索这个标识发送日元，也可从联系人选择目标。输入金额后确认付款；Activity 显示近期付款、购买和转账记录。核对目标 Tag 后再确认，角色名和 Yen Tag 不能假定相同。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yen",
+          "url": "https://trello.com/c/TpyFWCHe"
+        },
+        {
+          "title": "Yenapp",
+          "url": "https://trello.com/c/9b33yqnT"
+        },
+        {
+          "title": "Yenapp",
+          "url": "https://trello.com/c/piOPFntF"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "jobs",
+      "title": "兼职工作",
+      "english": "Jobs · Indeed",
+      "category": "生活",
+      "summary": "在手机 Indeed 找班次，通过工作获得日元。",
+      "sections": [
+        {
+          "heading": "申请班次",
+          "body": "打开手机 Indeed，查看当前开放的职位，选择职位后按 Apply Now 申请。Indeed 卡把工作描述为短期兼职，班次不会自动跨多个游戏日保留。实际是否有空位取决于当前服务器和职位列表。"
+        },
+        {
+          "heading": "工作有哪些",
+          "body": "较新的 Jobs 总览列出 School Newspaper、Gakumart、Dante’s Yakiniku、DEMAE Delivery、Club Akuma 的安保、酒吧与乐手岗位，以及 Nyanmelo Cafe。较早的 Indeed 卡只介绍便利店与校报，因此本页采用 Jobs 总览展示范围，具体申请入口按应用当前界面核对。"
+        },
+        {
+          "heading": "校报与便利店",
+          "body": "Indeed 卡说明校报工作要拍摄学生或不同地点，Gakumart 工作涉及服务顾客和照看商店。外送还有 DEMAE 应用内的配送员入口；岗位任务、工资和空缺以当次班次提示为准，官方正文未给出统一收益公式。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jobs",
+          "url": "https://trello.com/c/MZyfWakP"
+        },
+        {
+          "title": "Indeed",
+          "url": "https://trello.com/c/gmC3oMcc"
+        },
+        {
+          "title": "DEMAE",
+          "url": "https://trello.com/c/gfeuq25I"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "demae",
+      "title": "外送与点餐",
+      "english": "DEMAE",
+      "category": "生活",
+      "summary": "用手机订餐、选择自取，或成为配送员。",
+      "sections": [
+        {
+          "heading": "顾客下单",
+          "body": "打开 DEMAE 并选择店铺，可以浏览菜单，将商品加入购物车。按 CART 查看订单，再选择 Delivery 外送或 Pickup 自取。订单实际由游戏内系统与玩家配送互动完成，等待期间可留意应用与任务提示。"
+        },
+        {
+          "heading": "配送员工作",
+          "body": "应用右下角提供成为配送员的入口，接取订单并送到顾客处可获取日元与评价。官方说明领取第一单后会获得红色外送背包。顾客可给店铺和食物打五星评分，并给配送员 GOOD 或 BAD 评价；店铺评分显示在 DEMAE 主页面。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DEMAE",
+          "url": "https://trello.com/c/gfeuq25I"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "daily-rewards",
+      "title": "每日签到与福袋",
+      "english": "Daily Rewards · Lucky Bags",
+      "category": "入门",
+      "summary": "签到日历提供奖励，完美签到月另有金色福袋。",
+      "sections": [
+        {
+          "heading": "签到日历",
+          "body": "每日进入 Gakuran 可在奖励日历获取当日奖励。官方资料称周末通常有福袋，整月全勤可在月末领取金色福袋。奖励会随日期变化，查看当前日历再规划签到。"
+        },
+        {
+          "heading": "公开福袋说明",
+          "body": "Lucky Bag 可获得重抽次数或「???」物品，官方卡写明普通福袋为 1.5% 随机 ???、98.5% 重抽。卡片另列史诗、传说、秘密制服，以及秘密风格和面部等奖励示意；整月全勤袋奖励更好，但正文没有公布可直接套用的独立完整概率表。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Daily Rewards",
+          "url": "https://trello.com/c/3e9YhKpa"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "greenzones",
+      "title": "安全区",
+      "english": "Greenzones",
+      "category": "入门",
+      "summary": "指定区域关闭战斗，带战斗标记时无法直接进入。",
+      "sections": [
+        {
+          "heading": "安全区规则",
+          "body": "安全区会自动关闭战斗。带有 Combat Tag 的角色尝试进入时，会被不可见边界挡住，因此不能把安全区当作战斗中随时可穿过的退路。先确认屏幕上的战斗状态，再判断是否能进入。"
+        },
+        {
+          "heading": "官方列出的区域",
+          "body": "卡片目前列出教室、音乐室、Gakumart 柜台、医务室、Dante’s Yakiniku Restaurant、Karaoke Bar、体育馆、漫画店和街机房。地图更新可能改变具体边界；这里记录的是资料卡范围，本站没有逐个区域进行游戏内边界测试。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Greenzones",
+          "url": "https://trello.com/c/H862r4vn"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "instruments",
+      "title": "乐器与合奏",
+      "english": "Instruments",
+      "category": "生活",
+      "summary": "三楼音乐室提供节奏演奏与自动同步合奏。",
+      "sections": [
+        {
+          "heading": "音符与判定",
+          "body": "学校三楼有两间音乐室。大部分乐器采用音符下落玩法，在音符抵达目标圈时按对应键，判定包括 Perfect、Good、Okay、Bad 和 Miss。电吉他为双轨，默认 F/J；贝斯、鼓和键盘采用四轨。可以在设置中修改键位与校准时差。"
+        },
+        {
+          "heading": "钢琴与合奏",
+          "body": "钢琴使用 Roblox Virtual Piano 的字母按键方式，按 Space 打开乐谱列表；它与其他节奏乐器的玩法不同。多人演奏支持曲目进度同步，后来加入的人会被放到当前歌曲位置，便于组成乐队。"
+        },
+        {
+          "heading": "成绩与外观设置",
+          "body": "官方说明准确率由 Perfect、Good 和 Okay 的数量占总音符数计算。演奏表现取决于时机、节奏和准确度；音符颜色、形状、轨道与手感可在设置中调整。具体可演曲目应查看按乐器分类的官方歌曲卡。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Instruments",
+          "url": "https://trello.com/c/GHTxQuCt"
+        },
+        {
+          "title": "Playable Songs (By Instrument)",
+          "url": "https://trello.com/c/wQkJJHPV"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "school-clubs",
+      "title": "校园社团",
+      "english": "School Clubs",
+      "category": "生活",
+      "summary": "五个社团通过活动积累积分，解锁各自制服。",
+      "sections": [
+        {
+          "heading": "加入与奖励",
+          "body": "官方列出生物、书法、天文、园艺和轻音乐五个社团。到对应活动室的公告板加入；该社团积分达到 1,000 后，可从对应公告板取用社团制服。积分由各自的活动积累。"
+        },
+        {
+          "heading": "生物、书法与天文",
+          "body": "生物部位于一楼入口左侧、靠近储物柜，通过显微镜寻找标本获取积分。书法部位于一楼生物室对面附近，按照给出的随机字样书写。天文部在三楼，用望远镜观察并连接星点图。活动进度提升后会开放更多内容。"
+        },
+        {
+          "heading": "园艺与轻音乐",
+          "body": "园艺部在学校右翼屋顶，照顾植物的水分、日照和虫害；单个种植床最多三株，可通过界面放弃种植床。轻音乐部在三楼，通过演奏歌曲获取积分，歌曲难度会影响所得积分。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Clubs",
+          "url": "https://trello.com/c/lZmYDREX"
+        },
+        {
+          "title": "Clubs",
+          "url": "https://trello.com/c/kN6rtAy1"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "sport-traits",
+      "title": "运动特质",
+      "english": "Sports Traits",
+      "category": "生活",
+      "summary": "主副特质槽可以交换，运动重抽使用日元或票券。",
+      "sections": [
+        {
+          "heading": "特质槽与重抽",
+          "body": "官方 Sports 属性卡写明运动特质分主槽和副槽：主槽发挥 100% 效果，副槽发挥 75%，两槽可以交换。重抽价格为 ¥250 或 1 张票券，且不会抽到另一槽正在使用的特质。卡片正文包含篮球、排球、足球及美式橄榄球的特质。"
+        },
+        {
+          "heading": "不同运动的效果",
+          "body": "特质可改变投篮判定窗、传球、移动、拦网、接球或体力消耗等。例如篮球 Sharpshooter 扩大投篮绿色窗口，排球 Big Wall 增大拦网判定，足球 Bender 增强弧线球。选择时应先看自己参与的运动及角色分工。"
+        },
+        {
+          "heading": "找球场与外观",
+          "body": "手机 Sports 应用会列出本服务器的开放球场、队列和人数，选择运动后可加入匹配队列，也能退出。属性卡还列出得分特效与球体尾迹；球尾迹是跨运动的外观项目，抽取结果为随机十六进制颜色。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sports",
+          "url": "https://trello.com/c/lmsOGJqg"
+        },
+        {
+          "title": "Sports",
+          "url": "https://trello.com/c/9eZTwSdG"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    },
+    {
+      "id": "awakenings",
+      "title": "风格觉醒",
+      "english": "Awakenings · V2",
+      "category": "战斗",
+      "summary": "完成三个阶段掌握风格，进度按风格分别保存。",
+      "sections": [
+        {
+          "heading": "阶段与切换",
+          "body": "支持觉醒的风格需要完成三个阶段，第三阶段完成后掌握该风格并自动启用 V2。可在 Awakening Panel 开关 V2，但战斗中或倒地时不能切换。只计算当前装备风格的进度，各风格分别保存，换风格不会清除此前已保存的阶段进度。"
+        },
+        {
+          "heading": "如何追踪",
+          "body": "只有第一阶段显示进度条，第二、三阶段通过角色内心独白提供提示。第三阶段通常是一次性连续试炼，离开、换风格、失败或不再满足条件会使当前试炼归零；官方特别注明 Karate 第三阶段会保存进度。具体阶段条件差异很大，应查看目标风格的任务。"
+        },
+        {
+          "heading": "公平交战与限额",
+          "body": "玩家目标需要先攻击你或还击，NPC 需要主动参战；攻击毫不反击的目标不计公平交战。对同一玩家每小时计数上限为 150 次命中、40 次招架、25 次破防、25 次重击、20 次拼招胜利、3 次击倒。NPC 和沙袋不受这组同人限额影响；击倒计数还要求倒地前 10 秒内由你命中过最后一击。"
+        },
+        {
+          "heading": "Taiman 与夜间",
+          "body": "Taiman 在公共服务器按玩家加入顺序约每 8–15 分钟生成，出现在角色后方约 10 studs，安全区附近不会生成。只有分配给你的 Taiman 计入任务，私人服务器不生成。它靠近发出「taiman, one on one」后，出拳接受；打倒后如条件允许可完成终结以确保计数。官方将游戏内 19:00 至次日 06:00 视为夜间。"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Awakenings",
+          "url": "https://trello.com/c/d71UNOzJ"
+        }
+      ],
+      "checkedAt": "2026-11-07",
+      "status": "官方资料"
+    }
+  ],
+  "researchedAt": "2026-11-07",
+  "boardSource": "https://trello.com/b/v3WatB1P",
+  "methodology": "直接抓取公开官方 Trello JSON，按卡片正文编译中文条目；未登录或实测游戏。"
+}
