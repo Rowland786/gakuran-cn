@@ -1,0 +1,304 @@
+{
+  "byArticle": {
+    "style-aikido": {
+      "perks": [
+        {
+          "title": "韧性 V（满级）",
+          "english": "Resilience V (MAX)",
+          "body": "双方轻击（M1）相撞时，有55%概率进入抓取对抗。"
+        },
+        {
+          "title": "格挡穿透 III",
+          "english": "Guard Pierce III",
+          "body": "攻击被格挡时，仍有20%的伤害穿透格挡。"
+        },
+        {
+          "title": "连绵之势",
+          "english": "Continuing Flow",
+          "body": "反击以摔击收尾，将目标摔倒。此后的3秒内，即使目标仍处于倒地状态，你的轻击（M1）也能继续命中。"
+        },
+        {
+          "title": "破防强击 III（满级）",
+          "english": "Heavy Hitter III (MAX)",
+          "body": "轻击（M1）与重击（M2）造成破防时，该次命中的伤害提高15%。"
+        }
+      ],
+      "notes": []
+    },
+    "style-boxing": {
+      "perks": [
+        {
+          "title": "不可触及",
+          "english": "Untouchable",
+          "body": "重击（M2）打出两拳连击，整个动作期间具有无敌帧。两拳各自独立判定：对手可以承受第一拳，再招架第二拳。"
+        },
+        {
+          "title": "变换架势",
+          "english": "Switch Stance",
+          "body": "第4段轻击（M1）命中时，返还1.5秒重击（M2）冷却。"
+        },
+        {
+          "title": "格挡穿透 III",
+          "english": "Guard Pierce III",
+          "body": "轻击（M1）有20%的伤害可穿透格挡。重击（M2）使用独立规则：每一拳被格挡时削减75%的架势，而非保证破防。"
+        }
+      ],
+      "notes": [
+        "本组按天赋截图逐项翻译。截图将Untouchable写为整个重击动作期间具有无敌帧；v13公告为拳击无敌帧增加短暂前摇，不能将截图描述直接视为更新后的表现。",
+        "官方拳击旧卡列重击基础冷却7秒；v13公告已提高至9秒，并增加重击打空后自身眩晕的惩罚。v13还说明V2重击连打不再穿透格挡。旧图与新公告分别保留，不互相替换。"
+      ]
+    },
+    "style-lethwei": {
+      "perks": [
+        {
+          "title": "强力击倒",
+          "english": "Powerful",
+          "body": "重击（M2）命中时，使目标进入布娃娃倒地状态。"
+        },
+        {
+          "title": "摧架之力 II",
+          "english": "Crushing Force II",
+          "body": "每次命中造成的架势伤害提高15%。"
+        },
+        {
+          "title": "破防强击 III（满级）",
+          "english": "Heavy Hitter III (MAX)",
+          "body": "轻击（M1）与重击（M2）造成破防时，该次命中的伤害提高15%。"
+        },
+        {
+          "title": "格挡穿透 V（满级）",
+          "english": "Guard Pierce V (MAX)",
+          "body": "攻击被格挡时，仍有30%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 V（满级）",
+          "english": "Resilience V (MAX)",
+          "body": "双方轻击（M1）相撞时，有55%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    },
+    "style-striker": {
+      "perks": [
+        {
+          "title": "错拍节奏",
+          "english": "Broken Rhythm",
+          "body": "连段中每一击的前摇都比前一击更短，从0.35秒逐步缩短至0.12秒，使连击的落点节奏持续变化。"
+        },
+        {
+          "title": "假动作",
+          "english": "Feint",
+          "body": "重击在0.15秒时做出假踢，真正的踢击在0.45秒时命中。对手若对假踢进行招架，就会吃到随后真正的踢击。"
+        },
+        {
+          "title": "格挡穿透 III",
+          "english": "Guard Pierce III",
+          "body": "攻击被格挡时，仍有20%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 II",
+          "english": "Resilience II",
+          "body": "双方轻击（M1）相撞时，有25%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    },
+    "style-taijutsu": {
+      "perks": [
+        {
+          "title": "迅速恢复 I",
+          "english": "Swift Recovery I",
+          "body": "架势恢复速度提高15%。"
+        },
+        {
+          "title": "强力击倒",
+          "english": "Powerful",
+          "body": "重击（M2）命中时，使目标进入布娃娃倒地状态。"
+        },
+        {
+          "title": "摧架之力 II",
+          "english": "Crushing Force II",
+          "body": "每次命中造成的架势伤害提高15%。"
+        }
+      ],
+      "notes": []
+    },
+    "style-hikaken": {
+      "perks": [
+        {
+          "title": "格挡穿透 III",
+          "english": "Guard Pierce III",
+          "body": "攻击被格挡时，仍有20%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 II",
+          "english": "Resilience II",
+          "body": "双方轻击（M1）相撞时，有25%概率进入抓取对抗。"
+        },
+        {
+          "title": "摧架之力 II",
+          "english": "Crushing Force II",
+          "body": "每次命中造成的架势伤害提高15%。"
+        }
+      ],
+      "notes": []
+    },
+    "style-giovanna": {
+      "perks": [
+        {
+          "title": "摧架之力 II",
+          "english": "Crushing Force II",
+          "body": "每次命中造成的架势伤害提高15%。"
+        },
+        {
+          "title": "破防强击 III（满级）",
+          "english": "Heavy Hitter III (MAX)",
+          "body": "轻击（M1）与重击（M2）造成破防时，该次命中的伤害提高15%。"
+        },
+        {
+          "title": "格挡穿透 V（满级）",
+          "english": "Guard Pierce V (MAX)",
+          "body": "攻击被格挡时，仍有30%的伤害穿透格挡。"
+        },
+        {
+          "title": "强力击倒",
+          "english": "Powerful",
+          "body": "重击（M2）命中时，使目标进入布娃娃倒地状态。"
+        }
+      ],
+      "notes": []
+    },
+    "style-kickboxing": {
+      "perks": [
+        {
+          "title": "低位压制",
+          "english": "Low Guard",
+          "body": "两次踢击都命中时，使对手的冲刺冷却增加40%，持续5秒。"
+        },
+        {
+          "title": "变换架势",
+          "english": "Switch Stance",
+          "body": "第4段轻击（M1）命中时，返还1.5秒重击（M2）冷却。"
+        },
+        {
+          "title": "摧架之力 I",
+          "english": "Crushing Force I",
+          "body": "每次命中造成的架势伤害提高10%。"
+        },
+        {
+          "title": "格挡穿透 III",
+          "english": "Guard Pierce III",
+          "body": "攻击被格挡时，仍有20%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 II",
+          "english": "Resilience II",
+          "body": "双方轻击（M1）相撞时，有25%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    },
+    "style-muay-thai": {
+      "perks": [
+        {
+          "title": "强力击倒",
+          "english": "Powerful",
+          "body": "重击（M2）命中时，使目标进入布娃娃倒地状态。"
+        },
+        {
+          "title": "摧架之力 II",
+          "english": "Crushing Force II",
+          "body": "每次命中造成的架势伤害提高15%。"
+        },
+        {
+          "title": "格挡穿透 V（满级）",
+          "english": "Guard Pierce V (MAX)",
+          "body": "攻击被格挡时，仍有30%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 V（满级）",
+          "english": "Resilience V (MAX)",
+          "body": "双方轻击（M1）相撞时，有55%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    },
+    "style-slugger": {
+      "perks": [
+        {
+          "title": "不稳定",
+          "english": "Unstable",
+          "body": "造成的伤害提高40%，同时受到的伤害提高15%。"
+        },
+        {
+          "title": "格挡穿透 V（满级）",
+          "english": "Guard Pierce V (MAX)",
+          "body": "攻击被格挡时，仍有30%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 III",
+          "english": "Resilience III",
+          "body": "双方轻击（M1）相撞时，有35%概率进入抓取对抗。"
+        }
+      ],
+      "notes": [
+        "Unstable天赋截图写受到伤害提高15%，同一官方卡正文却写提高10%。此处保留截图的15%，两者存在冲突，尚未经当前游戏实测核定。"
+      ]
+    },
+    "style-karate": {
+      "perks": [
+        {
+          "title": "强力击倒",
+          "english": "Powerful",
+          "body": "重击（M2）命中时，使目标进入布娃娃倒地状态。"
+        },
+        {
+          "title": "沉着应对",
+          "english": "Steady Nerves",
+          "body": "完美防御后，架势恢复速度提高15%，持续3秒。"
+        },
+        {
+          "title": "平衡一击",
+          "english": "Balanced Strike",
+          "body": "重击（M2）命中时，返还当前架势消耗的25%。"
+        },
+        {
+          "title": "格挡穿透 II",
+          "english": "Guard Pierce II",
+          "body": "攻击被格挡时，仍有15%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 II",
+          "english": "Resilience II",
+          "body": "双方轻击（M1）相撞时，有25%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    },
+    "style-basic": {
+      "perks": [
+        {
+          "title": "反击",
+          "english": "Counterstrike",
+          "body": "完美防御后，下一次攻击的伤害提高5%。"
+        },
+        {
+          "title": "迅速恢复 I",
+          "english": "Swift Recovery I",
+          "body": "架势恢复速度提高15%。"
+        },
+        {
+          "title": "格挡穿透 II",
+          "english": "Guard Pierce II",
+          "body": "攻击被格挡时，仍有15%的伤害穿透格挡。"
+        },
+        {
+          "title": "韧性 II",
+          "english": "Resilience II",
+          "body": "双方轻击（M1）相撞时，有25%概率进入抓取对抗。"
+        }
+      ],
+      "notes": []
+    }
+  }
+}
