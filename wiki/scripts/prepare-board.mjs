@@ -3,6 +3,7 @@ import path from 'node:path';
 const root=process.cwd(),read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const draft=process.argv.includes('--draft');
 const board=read('research/board-live.json'),assets=read('research/board-attachments.json');
+const demos=read('research/board-demos.json').records;
 const articles=read('public/data/wiki.json').articles;
 const translations={};
 for(let n=1;n<=3;n++){const p=`research/board-zh-${n}.json`;if(fs.existsSync(p))Object.assign(translations,read(p).cards);else if(!draft)throw Error('Missing translation pack '+n);}
@@ -30,21 +31,45 @@ const listNames={Information:'游戏指南',Combat:'战斗机制','Fighting Styl
 const articleMap=Object.fromEntries(articles.map(a=>[a.id,a.sources[0]?.url.match(/trello\.com\/c\/([^/]+)/)?.[1]]).filter(x=>x[1]));
 const styleMap=new Map(articles.filter(a=>a.id.startsWith('style-')&&a.id!=='style-rarity').map(a=>[articleMap[a.id],a]));
 const allImagePaths=new Set(Object.values(assets.attachments).filter(a=>a.local).map(a=>a.local));
+function insertDemos(original,translated,attachments){
+ const sourceHeads=[...original.matchAll(/^#{1,6}\s+(.+)$/gm)];
+ const translatedHeads=[...translated.matchAll(/^#{1,6}\s+(.+)$/gm)];
+ const inserts=new Map();
+ let number=0;
+ for(const a of attachments.filter(a=>a.videoLocal)){
+  number++;a.label=/m1/i.test(a.name)?'轻击连段':/m2/i.test(a.name)?'重击':'演示 '+number;
+  const image=[...original.matchAll(/!\[[^\]]*\]\([^)]*\)/g)].find(m=>m[0].includes(a.id));
+  if(!image)continue;
+  let headIndex=-1;for(let i=0;i<sourceHeads.length;i++)if(sourceHeads[i].index<image.index)headIndex=i;
+  if(headIndex<0)continue;
+  const sourceLabel=sourceHeads[headIndex][1].replace(/[*:]/g,'').trim();
+  let targetIndex=sourceHeads.length===translatedHeads.length?headIndex:-1;
+  if(targetIndex<0){const pattern=/m1|light|combo/i.test(sourceLabel)?/轻击|M1/:/m2|heavy/i.test(sourceLabel)?/重击|M2/:/perk/i.test(sourceLabel)?/天赋/:null;if(pattern)targetIndex=translatedHeads.findIndex(h=>pattern.test(h[1]));}
+  if(targetIndex<0)continue;
+  a.label=translatedHeads[targetIndex][1].replace(/[*:]/g,'').trim();a.inline=true;
+  const position=translatedHeads[targetIndex+1]?.index??translated.length;
+  inserts.set(position,(inserts.get(position)||'')+`\n\n[[demo:${a.id}]]\n\n`);
+ }
+ let body=translated;for(const [position,text] of [...inserts].sort((a,b)=>b[0]-a[0]))body=body.slice(0,position)+text+body.slice(position);
+ return body;
+}
 const cards=[...board.cards].sort((a,b)=>a.pos-b.pos).map(c=>{
  const tr=translations[c.shortLink],style=styleMap.get(c.shortLink);
  const p=style?perks[style.id]:null;
  if(p&&style.id in notes)p.notes=notes[style.id];
  const cover=assets.attachments[c.cover?.idAttachment]?.local;
- const attachments=c.attachments.map(a=>assets.attachments[a.id]||{id:a.id,name:a.name,url:a.url,type:'link'});
+ const attachments=c.attachments.map(a=>({...assets.attachments[a.id]||{id:a.id,name:a.name,url:a.url,type:'link'},...(demos[a.id]?{...demos[a.id],type:'video'}:{})}));
  const separator=/^[-_\s]{3,}$/.test(c.name);
- const cleaned=(tr?.body||'').replace(/^#{1,6}[^\n]+\n(?:[\s‌]*\n)*(?=^#{1,6}|\s*$)/gm,'').replace(/^#{1,6}[^\n]+$/gm,(line,offset,all)=>all.slice(offset+line.length).trim()?line:'');
+ const withMedia=insertDemos(c.desc,tr?.body||'',attachments);
+ const mediaLines=withMedia.split('\n');
+ const cleaned=mediaLines.filter((line,i)=>{if(!/^#{1,6}\s/.test(line))return true;let end=i+1;while(end<mediaLines.length&&!/^#{1,6}\s/.test(mediaLines[end]))end++;return mediaLines.slice(i+1,end).join('\n').replace(/[\s\u200c]/g,'').length>0}).join('\n');
  const body=cleaned.trim()?cleaned:(tr?.body||'');
  const result={id:c.shortLink,title:style?.title||tr?.title||c.name,english:c.name,listId:c.idList,body,original:c.desc,source:c.shortUrl,closed:!!c.closed,separator,cover:cover||null,coverColor:c.cover?.color||null,coverSize:c.cover?.size||'normal',attachments,perks:p?.perks||[],notes:p?.notes||[],articleId:style?.id||null,updated:c.dateLastActivity};
  if(result.id==='kBzBnqqM')result.notes=result.notes.map(n=>n.includes('失败惩罚')?'原卡正文写明：重击落空会令自己倒地。':n);
  return result;
 });
 for(const c of cards){if(!c.title)throw Error('Missing title '+c.id);if(!draft&&c.original.replace(/!\[[^\]]*\]\([^)]*\)/g,'').replace(/[\s‌#*_>~-]/g,'').length&&!c.body)throw Error('Missing translated body '+c.id);for(const a of c.attachments)if(a.local&&!fs.existsSync(path.join('public',a.local)))throw Error('Missing attachment '+a.local);}
-const data={title:'学乱 Wiki',checkedAt:'2026-11-07',source:'https://trello.com/b/v3WatB1P',background:assets.background,lists:[...board.lists].sort((a,b)=>a.pos-b.pos).map(l=>({id:l.id,title:listNames[l.name]||l.name,closed:!!l.closed})),cards,articleMap,stats:{sourceCards:cards.length,activeCards:cards.filter(c=>!c.closed&&!board.lists.find(l=>l.id===c.listId)?.closed).length,translatedCards:Object.keys(translations).length,attachments:Object.keys(assets.attachments).length,localImages:allImagePaths.size,perks:cards.reduce((n,c)=>n+c.perks.length,0)}};
+const data={title:'学乱 Wiki',checkedAt:'2026-11-07',source:'https://trello.com/b/v3WatB1P',background:assets.background,lists:[...board.lists].sort((a,b)=>a.pos-b.pos).map(l=>({id:l.id,title:listNames[l.name]||l.name,closed:!!l.closed})),cards,articleMap,stats:{sourceCards:cards.length,activeCards:cards.filter(c=>!c.closed&&!board.lists.find(l=>l.id===c.listId)?.closed).length,translatedCards:Object.keys(translations).length,attachments:Object.keys(assets.attachments).length,localImages:allImagePaths.size,perks:cards.reduce((n,c)=>n+c.perks.length,0),videos:Object.keys(demos).length}};
 fs.writeFileSync('public/data/board.json',JSON.stringify(data));
-fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：2026-11-07。\n\n来源：https://trello.com/b/v3WatB1P 。直接读取公开 JSON，保留 ${cards.length} 张卡片、19 个分类及 1,630 个附件记录；默认显示13个未归档分类和236张未归档卡片，归档数据通过开关查看。\n\n中文译文按原卡逐项对应，天赋图另译 ${data.stats.perks} 项具名效果。数值、条件、版本和原卡图文差异分别保留；兑换码和数值未在游戏内实测。姓名、歌曲、代码和资产 ID 保留原拼写。纯图片或视频内容保留附件；未把未识别的图片文字冒充已翻译。\n\n${allImagePaths.size} 个附件预览已本地保存，原始文件链接仍指向 Trello。背景图来自原看板，游戏图片与资料归原权利人，本站提供非官方中文翻译。原始正文可在卡片中展开核对。\n\n衣柜原作者 Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照 2026-10-21，共1,097项，原图及来源保持。\n\n所有界面资源与数据由本站提供；公开部署采用 GitHub Pages。国内各网络可用性需单独实测。\n`);
+fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：2026-11-07。\n\n来源：https://trello.com/b/v3WatB1P 。直接读取公开 JSON，保留 ${cards.length} 张卡片、19 个分类及 1,630 个附件记录；默认显示13个未归档分类和236张未归档卡片，归档数据通过开关查看。\n\n中文译文按原卡逐项对应，天赋图另译 ${data.stats.perks} 项具名效果。数值、条件、版本和原卡图文差异分别保留；兑换码和数值未在游戏内实测。姓名、歌曲、代码和资产 ID 保留原拼写。纯图片或视频内容保留附件；未把未识别的图片文字冒充已翻译。\n\n${allImagePaths.size} 个附件预览已本地保存，原始文件链接仍指向 Trello。背景图来自原看板，游戏图片与资料归原权利人，本站提供非官方中文翻译。187个动态演示另转为MP4，保留原始时序，在对应说明下直接播放；不再展示英文原文折叠区。\n\n衣柜原作者 Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照 2026-10-21，共1,097项，原图及来源保持。\n\n所有界面资源与数据由本站提供；公开部署采用 GitHub Pages。国内各网络可用性需单独实测。\n`);
 console.log(JSON.stringify({...data.stats,missing:missing.length,draft}));

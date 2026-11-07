@@ -21,7 +21,7 @@ jobs:
       - name: Verify published files
         run: |
           node -e "const f=require('fs'); const w=JSON.parse(f.readFileSync('docs/data/wiki.json')); const c=JSON.parse(f.readFileSync('docs/data/catalog.json')); if(w.articles.length!==78||c.length!==1097||!f.existsSync('docs/index.html'))process.exit(1); for(const x of c)for(const k of ['thumbnail','local_file'])if(!f.existsSync('docs'+x[k]))throw Error(x[k]); console.log('78 articles, 1097 original images and thumbnails verified')"
-          node -e "const f=require('fs');const b=JSON.parse(f.readFileSync('docs/data/board.json'));if(b.cards.length!==294||b.stats.translatedCards!==294||b.stats.perks!==101)throw Error('Board coverage mismatch');for(const c of b.cards)for(const a of c.attachments)if(a.local&&!f.existsSync('docs/'+a.local))throw Error(a.local);console.log('294 translated cards, 101 perks and all attachments verified')"
+          node -e "const f=require('fs');const b=JSON.parse(f.readFileSync('docs/data/board.json'));if(b.cards.length!==294||b.stats.translatedCards!==294||b.stats.perks!==101||b.stats.videos!==187)throw Error('Board coverage mismatch');for(const c of b.cards)for(const a of c.attachments)for(const k of ['local','videoLocal','posterLocal'])if(a[k]&&!f.existsSync('docs/'+a[k]))throw Error(a[k]);console.log('294 translated cards, 101 perks, 187 demos and all attachments verified')"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
