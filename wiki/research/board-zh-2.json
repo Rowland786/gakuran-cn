@@ -2,411 +2,518 @@
   "cards": {
     "vLlDFCAr": {
       "title": "滑板",
-      "body": ""
+      "body": "",
+      "sourceHash": "57428ab621606297539ca447c8f25a10c3bf6f2f2913594f6cc0d651610d8fb8"
     },
     "WaTJxvhq": {
       "title": "游戏机制",
-      "body": ""
+      "body": "",
+      "sourceHash": "f1e18f6add5d616c0759b71ab62eb1a0ee2c6a2a0cebed78e9a20cf2193c2dc2"
     },
     "PSlxcJtw": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "ooQgONK4": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "laY67p9u": {
       "title": "保底系统",
-      "body": "格斗流派、校服、面容和滑板板面各有独立的保底系统。你需要在相应类别中指定一件希望通过保底获得的物品。达到保底要求时，有50%的机会获得该类别中最稀有的指定物品；如果这次没有获得，下一次保底则必定获得。\n\n面容保底\n\n格斗流派保底\n\n校服保底\n\n滑板板面保底\n\n姓氏"
+      "body": "格斗流派、校服、面容和滑板板面各有独立的保底系统。你需要在相应类别中指定一件希望通过保底获得的物品。达到保底要求时，有50%的机会获得该类别中最稀有的指定物品；如果这次没有获得，下一次保底则必定获得。\n\n面容保底\n\n格斗流派保底\n\n校服保底\n\n滑板板面保底\n\n姓氏",
+      "sourceHash": "1766d7a366610f70393fba9036647ef97cb3f5f9466a1cd25c7b40e4d0448e69"
     },
     "615UZmIq": {
       "title": "季节",
-      "body": "## 季节系统\n\n游戏已加入季节。树木外观和光照会随季节变化，冬季还会在地面铺上积雪。包含以下季节，配图均在游戏内上午8:33拍摄。\n\n- 春季\n- 夏季\n- 秋季\n- 冬季\n- 解冻期\n\n解冻期中，冬季环境的特征会逐渐消退。在雪地行走时，每一步都会留下方块状脚印。"
+      "body": "## 季节系统\n\n游戏已加入季节。树木外观和光照会随季节变化，冬季还会在地面铺上积雪。包含以下季节，配图均在游戏内上午8:33拍摄。\n\n- 春季\n- 夏季\n- 秋季\n- 冬季\n- 解冻期\n\n解冻期中，冬季环境的特征会逐渐消退。在雪地行走时，每一步都会留下方块状脚印。",
+      "sourceHash": "3e0f98125b26ee98cbb20d842f7d304e451758b6234c257d3c34f8c59ada4f4a"
     },
     "4XISFKfs": {
       "title": "手机",
-      "body": "# 手机\n\n## 打开手机\n\n按Alt或手柄方向键↓打开手机，首先会出现欢迎界面。\n\n按“确定”按钮进入应用菜单。进入菜单后，可以用手机上的方向键切换，也可以直接点击应用。\n\n# 应用\n\n## 我的手机\n\n“我的手机”会显示以下个人信息：\n\n- 手机号码\n- 日元余额\n- 联系人总数\n- 已发送消息数\n- 已接收消息总数\n- 手机型号\n- 通话次数\n- 通话时长\n- 运营商\n- 天气\n\n## 拨号\n\n可以输入其他玩家的手机号码拨打电话。拨号后也可以将对方存为联系人。\n\n## 通话记录\n\n显示所有过去的通话，也可以在通话结束后将对方存为联系人。\n\n## 联系人\n\n列出所有已保存的联系人。\n\n## 游戏\n\n打开游戏选择菜单，游玩各种手机小游戏。\n\n## Social Link（交换联系方式）\n\n两名玩家可以直接交换手机号码，省去手动拨号。双方需要靠近并同时打开Social Link；找到想添加的人后，点击“确定”并保存联系人。\n\n## Mixi（社交平台）\n\nMixi是游戏内跨服务器的社交媒体应用，可以发帖，也可以给其他人的帖子点赞、评论。要发布帖子，点击方向键左侧的按键。\n\n## 相机\n\n可以使用游戏内的手机拍照。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“相机”。\n3. 在3种自定义滤镜之间切换，选择想要的效果。\n4. 切换前置或后置摄像头。\n5. 拍照。\n\n- 后置摄像头：拍摄场景、环境和其他玩家。\n- 前置摄像头：为自己的角色自拍。\n\n可以在世界中的任何地方即时拍照。\n\n**保存照片至Roblox拍摄记录**\n\n拍照后可以将照片保存至Roblox：\n\n1. 打开照片预览。\n2. 选择“保存至拍摄记录”。\n\n图片会存入Roblox拍摄记录，离开游戏后也能通过Roblox账号查看。\n\n## Japanify（音乐）\n\n内置音乐库，方便玩家浏览、收听音乐。在同一界面中可以查看喜欢的歌曲、探索歌单、收听喜爱歌手的作品，以及搜索最近加入的歌曲，方便发现和整理音乐，丰富游戏体验。\n\n## YenApp（转账）\n\n**收款标签：**标签相当于你在该应用中的用户名。其他玩家向你转账时，需要输入这个标签。选好标签后，即可进入账户界面。\n\n点击“活动记录”可以查看全部交易。点击黑色输入栏并输入其他玩家的名称，可以搜索他们的收款标签。\n\n## Indeed（兼职）\n\n在不同工作地点申请班次，通过工作赚取日元。\n\n## 天气\n\n显示当前服务器天气的简易应用。"
+      "body": "# 手机\n\n## 打开手机\n\n按Alt或手柄方向键↓打开手机，首先会出现欢迎界面。\n\n按“确定”按钮进入应用菜单。进入菜单后，可以用手机上的方向键切换，也可以直接点击应用。\n\n# 应用\n\n## 我的手机\n\n“我的手机”会显示以下个人信息：\n\n- 手机号码\n- 日元余额\n- 联系人总数\n- 已发送消息数\n- 已接收消息总数\n- 手机型号\n- 通话次数\n- 通话时长\n- 运营商\n- 天气\n\n## 拨号\n\n可以输入其他玩家的手机号码拨打电话。拨号后也可以将对方存为联系人。\n\n## 通话记录\n\n显示所有过去的通话，也可以在通话结束后将对方存为联系人。\n\n## 联系人\n\n列出所有已保存的联系人。\n\n## 游戏\n\n打开游戏选择菜单，游玩各种手机小游戏。\n\n## Social Link（交换联系方式）\n\n两名玩家可以直接交换手机号码，省去手动拨号。双方需要靠近并同时打开Social Link；找到想添加的人后，点击“确定”并保存联系人。\n\n## Mixi（社交平台）\n\nMixi是游戏内跨服务器的社交媒体应用，可以发帖，也可以给其他人的帖子点赞、评论。要发布帖子，点击方向键左侧的按键。\n\n## 相机\n\n可以使用游戏内的手机拍照。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“相机”。\n3. 在3种自定义滤镜之间切换，选择想要的效果。\n4. 切换前置或后置摄像头。\n5. 拍照。\n\n- 后置摄像头：拍摄场景、环境和其他玩家。\n- 前置摄像头：为自己的角色自拍。\n\n可以在世界中的任何地方即时拍照。\n\n**保存照片至Roblox拍摄记录**\n\n拍照后可以将照片保存至Roblox：\n\n1. 打开照片预览。\n2. 选择“保存至拍摄记录”。\n\n图片会存入Roblox拍摄记录，离开游戏后也能通过Roblox账号查看。\n\n## Japanify（音乐）\n\n内置音乐库，方便玩家浏览、收听音乐。在同一界面中可以查看喜欢的歌曲、探索歌单、收听喜爱歌手的作品，以及搜索最近加入的歌曲，方便发现和整理音乐，丰富游戏体验。\n\n## YenApp（转账）\n\n**收款标签：**标签相当于你在该应用中的用户名。其他玩家向你转账时，需要输入这个标签。选好标签后，即可进入账户界面。\n\n点击“活动记录”可以查看全部交易。点击黑色输入栏并输入其他玩家的名称，可以搜索他们的收款标签。\n\n## Indeed（兼职）\n\n在不同工作地点申请班次，通过工作赚取日元。\n\n## 天气\n\n显示当前服务器天气的简易应用。",
+      "sourceHash": "34690eed19f66f0bdc4544bf6d5024b2ea12c4f5fed6c6af1da55349f3fd889f"
     },
     "lZmYDREX": {
       "title": "社团",
-      "body": "可选择的社团共有5个：生物社、书法社、天文社、园艺社和轻音社。到对应社团活动室的公告板处即可加入。\n\n在一个社团达到1,000积分后，随时可以通过该社团的公告板使用社团制服。\n\n**生物社**\n\n位于一楼，入口左侧、储物柜区域旁。加入后，通过显微镜寻找标本来赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可寻找的标本。\n\n生物社制服\n\n**书法社**\n\n位于一楼，正对生物教室、左侧楼梯旁。加入后，通过书写随机指定的书法内容赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可书写的汉字。\n\n书法社制服\n\n**园艺社**\n\n位于学校建筑右翼的屋顶。加入后，通过照料植物赚取积分：按需浇水、确保日照充足，并在出现害虫时除虫。\n\n每块花圃最多同时照料3株植物，升级后会解锁更多可种植的种子。建议在白天进行这项社团活动，这样不用担心日照条件，更容易完成。点击右上角按钮放弃花圃，即可停止照料其中的植物。\n\n园艺社制服\n\n**天文社**\n\n位于学校三楼。加入后，与任意空闲望远镜互动，左下角会出现一张星图，需要把图中的点（星星）连起来。完成后即可获得社团积分，也会解锁能在天空中看到的行星。\n\n天文社制服\n\n**轻音社**\n\n位于学校三楼。到社团演奏歌曲即可获得积分。积分取决于曲目难度，难度范围从简单到极限，其中极限难度积分最高。\n\n轻音社制服"
+      "body": "可选择的社团共有5个：生物社、书法社、天文社、园艺社和轻音社。到对应社团活动室的公告板处即可加入。\n\n在一个社团达到1,000积分后，随时可以通过该社团的公告板使用社团制服。\n\n**生物社**\n\n位于一楼，入口左侧、储物柜区域旁。加入后，通过显微镜寻找标本来赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可寻找的标本。\n\n生物社制服\n\n**书法社**\n\n位于一楼，正对生物教室、左侧楼梯旁。加入后，通过书写随机指定的书法内容赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可书写的汉字。\n\n书法社制服\n\n**园艺社**\n\n位于学校建筑右翼的屋顶。加入后，通过照料植物赚取积分：按需浇水、确保日照充足，并在出现害虫时除虫。\n\n每块花圃最多同时照料3株植物，升级后会解锁更多可种植的种子。建议在白天进行这项社团活动，这样不用担心日照条件，更容易完成。点击右上角按钮放弃花圃，即可停止照料其中的植物。\n\n园艺社制服\n\n**天文社**\n\n位于学校三楼。加入后，与任意空闲望远镜互动，左下角会出现一张星图，需要把图中的点（星星）连起来。完成后即可获得社团积分，也会解锁能在天空中看到的行星。\n\n天文社制服\n\n**轻音社**\n\n位于学校三楼。到社团演奏歌曲即可获得积分。积分取决于曲目难度，难度范围从简单到极限，其中极限难度积分最高。\n\n轻音社制服",
+      "sourceHash": "a461250d74a2fe9af20d175e3815ed3fd47acffb43437d7b84b24e48143fd452"
     },
     "vkH8Bkkz": {
       "title": "NPC事件",
-      "body": "## NPC事件\n\n> Nishikata高中外的道路上，有NPC驾驶不同颜色和型号的车辆，包括小型双门车、四门车、小货车、小型厢式车、半挂卡车和出租车。\n\n撞上行驶速度较快的车辆会受到伤害、被击退，并进入数秒的布娃娃倒地状态。\n\n骑滑板时靠近车辆尾部，角色会自动抓住车尾的一个角，挂在车后搭便车；半挂卡车除外。轻按S（后退键）可随时松手。\n\n可以用拳头攻击车辆。车辆不会被破坏，但车内的NPC会通过对话抱怨你的行为。有时持续攻击会让NPC下车并攻击你。对NPC造成足够伤害后，对方会重新上车并逃离现场。\n\n校门外会有1名教师和3名学生会成员等候，向你问好，或催促你赶快去上课。\n\n车辆撞击演示"
+      "body": "## NPC事件\n\n> Nishikata高中外的道路上，有NPC驾驶不同颜色和型号的车辆，包括小型双门车、四门车、小货车、小型厢式车、半挂卡车和出租车。\n\n撞上行驶速度较快的车辆会受到伤害、被击退，并进入数秒的布娃娃倒地状态。\n\n骑滑板时靠近车辆尾部，角色会自动抓住车尾的一个角，挂在车后搭便车；半挂卡车除外。轻按S（后退键）可随时松手。\n\n可以用拳头攻击车辆。车辆不会被破坏，但车内的NPC会通过对话抱怨你的行为。有时持续攻击会让NPC下车并攻击你。对NPC造成足够伤害后，对方会重新上车并逃离现场。\n\n校门外会有1名教师和3名学生会成员等候，向你问好，或催促你赶快去上课。\n\n车辆撞击演示",
+      "sourceHash": "fb638a73dcb878d855a6dfec5e2139e73c77fed33b97a01e9f4e55c417f27bf5"
     },
     "nwcX0uKq": {
       "title": "烟花",
-      "body": "## 烟花\n\n烟花是可使用的物品，可以在Gakumart用日元（¥）购买。以放置方式使用烟花时（投掷不适用），可以在确认放置前调整位置和旋转角度。\n\n- 鞭炮｜¥250\n  放置或投掷后点燃，发出一次清脆爆响。\n- 地面旋转烟花｜¥450\n  放置或投掷后点燃，旋转表演持续9秒。\n- 喷泉烟花｜¥700\n  放置或投掷后点燃，火花喷泉持续11秒。\n- 罗马烛光｜¥1050\n  手持点燃，共6发，需要握住并瞄准。\n- 组合烟花｜¥1650\n  放置后点燃，共9发空中烟花。\n- 金色火箭、红色火箭、蓝色火箭、绿色火箭、白色火箭、粉色火箭、啸声火箭、流星火箭、双重火箭｜¥650\n  放置后点燃，单次升空发射。\n- 神秘火箭｜¥650\n  放置后点燃，呈现随机惊喜效果。"
+      "body": "## 烟花\n\n烟花是可使用的物品，可以在Gakumart用日元（¥）购买。以放置方式使用烟花时（投掷不适用），可以在确认放置前调整位置和旋转角度。\n\n- 鞭炮｜¥250\n  放置或投掷后点燃，发出一次清脆爆响。\n- 地面旋转烟花｜¥450\n  放置或投掷后点燃，旋转表演持续9秒。\n- 喷泉烟花｜¥700\n  放置或投掷后点燃，火花喷泉持续11秒。\n- 罗马烛光｜¥1050\n  手持点燃，共6发，需要握住并瞄准。\n- 组合烟花｜¥1650\n  放置后点燃，共9发空中烟花。\n- 金色火箭、红色火箭、蓝色火箭、绿色火箭、白色火箭、粉色火箭、啸声火箭、流星火箭、双重火箭｜¥650\n  放置后点燃，单次升空发射。\n- 神秘火箭｜¥650\n  放置后点燃，呈现随机惊喜效果。",
+      "sourceHash": "18bc30dd3c7eb1792a324de6576d4b14593734769ff087f4157acaa194721f16"
     },
     "0bHrKsAi": {
       "title": "黑板",
-      "body": "每间教室都有粉笔盒和板擦盒。\n\n走近粉笔盒并按互动键（E／手柄X键／□键／触屏点击），即可打开选择界面。\n\n选择想使用的颜色后，会获得对应颜色的粉笔。点击或轻触黑板即可开始绘画。可以同时拿两种不同颜色的粉笔，也可以同时拿粉笔和板擦。使用“丢弃物品”绑定键，可在双手之间交换物品或将其丢下。\n\n需要擦除时，与板擦盒互动（E／手柄X键／□键／触屏点击）即可拿到板擦。与绘画类似，在黑板的笔迹上点击或轻触即可擦除。"
+      "body": "每间教室都有粉笔盒和板擦盒。\n\n走近粉笔盒并按互动键（E／手柄X键／□键／触屏点击），即可打开选择界面。\n\n选择想使用的颜色后，会获得对应颜色的粉笔。点击或轻触黑板即可开始绘画。可以同时拿两种不同颜色的粉笔，也可以同时拿粉笔和板擦。使用“丢弃物品”绑定键，可在双手之间交换物品或将其丢下。\n\n需要擦除时，与板擦盒互动（E／手柄X键／□键／触屏点击）即可拿到板擦。与绘画类似，在黑板的笔迹上点击或轻触即可擦除。",
+      "sourceHash": "3f56295f27dca68ddbdd53396f5fdb6271dc39331b7527b3eb52cbb9e1707b04"
     },
     "GHTxQuCt": {
       "title": "乐器",
-      "body": "游戏提供多种可演奏乐器，使用类似常见音乐游戏的节奏玩法。学校三楼有两间音乐教室。玩家不能只启动乐器就完成演奏，而是需要准确把握时机，击中迎面而来的音符。\n\n音符沿指定轨道向目标圆圈移动。音符到达目标时，按下对应按键；输入的准确程度决定本次音符判定。\n\n[查看各乐器可演奏的完整曲目列表](https://trello.com/c/wQkJJHPV)\n\n**音符判定**\n\n- 完美：时机与准确度极佳。\n- 良好：略有偏差，但仍然准确。\n- 尚可：时机可以接受，但偏差明显。\n- 较差：时机不佳或接近漏打，会播放对应的失误音效。\n- 漏打：完全错过音符，会播放对应的失误音效。\n\n准确率百分比的计算方式为：完美、良好和尚可判定的音符总数，除以整首歌的音符总数。\n\n**100连击特效**\n\n---\n\n**校准**\n\n- 可以校准判定时机，使其符合自己的操作感觉。\n\n---\n\n**可用乐器**\n\n**电吉他**\n\n- 使用两条音符轨道。\n- 通过F和J键演奏，可在设置中重新绑定。\n- 玩法较简明，但节奏较快。\n\n**贝斯**\n\n- 使用四条音符轨道。\n- 用分配的按键击中四条独立轨道上的音符。\n\n**架子鼓**\n\n- 使用四条音符轨道。\n- 准确击中四条轨道上的鼓点，保持节奏。\n\n**电子键盘**\n\n- 使用四条音符轨道。\n- 在多条轨道上把握时机和准确度，模拟键盘演奏。\n\n**钢琴**\n\n- 使用Roblox虚拟钢琴的字母键音符。\n- 这是唯一不采用节奏音游玩法的乐器。\n- 按空格键打开曲谱列表。\n\n每种乐器的手感各有特点，核心规则一致。演奏成败取决于时机、节奏和准确度，与角色属性无关。\n\n---\n\n**多人合奏**\n\n乐器完整支持同步合奏。一名玩家开始歌曲后，其他人可以随时加入，并自动同步到歌曲正在播放的位置。\n\n- 多名玩家可以同时演奏。\n- 中途加入的玩家会自动同步到当前乐段。\n- 所有人同时演奏同一首歌。\n- 所有参与演奏者的进度保持同步。\n\n例如，一名玩家弹电吉他，其他人使用贝斯、架子鼓或钢琴加入，各自都同步到同一歌曲进度，营造现场乐队合奏的感觉。\n\n---\n\n**自定义**\n\n可以在设置中自定义乐器节奏玩法的各项属性，包括：\n\n- 颜色\n- 形状\n- 按键绑定\n- 手感\n- 音符轨道属性\n\n---\n\n乐队抬头显示界面\n\n实时成绩\n\n---\n\n#### 社区投票难度\n\n#### 演奏结束后的难度投票"
+      "body": "游戏提供多种可演奏乐器，使用类似常见音乐游戏的节奏玩法。学校三楼有两间音乐教室。玩家不能只启动乐器就完成演奏，而是需要准确把握时机，击中迎面而来的音符。\n\n音符沿指定轨道向目标圆圈移动。音符到达目标时，按下对应按键；输入的准确程度决定本次音符判定。\n\n[查看各乐器可演奏的完整曲目列表](https://trello.com/c/wQkJJHPV)\n\n**音符判定**\n\n- 完美：时机与准确度极佳。\n- 良好：略有偏差，但仍然准确。\n- 尚可：时机可以接受，但偏差明显。\n- 较差：时机不佳或接近漏打，会播放对应的失误音效。\n- 漏打：完全错过音符，会播放对应的失误音效。\n\n准确率百分比的计算方式为：完美、良好和尚可判定的音符总数，除以整首歌的音符总数。\n\n**100连击特效**\n\n---\n\n**校准**\n\n- 可以校准判定时机，使其符合自己的操作感觉。\n\n---\n\n**可用乐器**\n\n**电吉他**\n\n- 使用两条音符轨道。\n- 通过F和J键演奏，可在设置中重新绑定。\n- 玩法较简明，但节奏较快。\n\n**贝斯**\n\n- 使用四条音符轨道。\n- 用分配的按键击中四条独立轨道上的音符。\n\n**架子鼓**\n\n- 使用四条音符轨道。\n- 准确击中四条轨道上的鼓点，保持节奏。\n\n**电子键盘**\n\n- 使用四条音符轨道。\n- 在多条轨道上把握时机和准确度，模拟键盘演奏。\n\n**钢琴**\n\n- 使用Roblox虚拟钢琴的字母键音符。\n- 这是唯一不采用节奏音游玩法的乐器。\n- 按空格键打开曲谱列表。\n\n每种乐器的手感各有特点，核心规则一致。演奏成败取决于时机、节奏和准确度，与角色属性无关。\n\n---\n\n**多人合奏**\n\n乐器完整支持同步合奏。一名玩家开始歌曲后，其他人可以随时加入，并自动同步到歌曲正在播放的位置。\n\n- 多名玩家可以同时演奏。\n- 中途加入的玩家会自动同步到当前乐段。\n- 所有人同时演奏同一首歌。\n- 所有参与演奏者的进度保持同步。\n\n例如，一名玩家弹电吉他，其他人使用贝斯、架子鼓或钢琴加入，各自都同步到同一歌曲进度，营造现场乐队合奏的感觉。\n\n---\n\n**自定义**\n\n可以在设置中自定义乐器节奏玩法的各项属性，包括：\n\n- 颜色\n- 形状\n- 按键绑定\n- 手感\n- 音符轨道属性\n\n---\n\n乐队抬头显示界面\n\n实时成绩\n\n---\n\n#### 社区投票难度\n\n#### 演奏结束后的难度投票",
+      "sourceHash": "894b859b5e902ebf47eded7e3645cbf4104ed2e6019ee0112a8caccf33baf836"
     },
     "wQkJJHPV": {
       "title": "各乐器曲目",
-      "body": "## 贝斯\n\n### 简单\n\n- Black Hole Sun\n- Creep\n- Enthusiastic\n- Friday Night\n- I Bet on Losing Dogs\n- Hole in Earth\n- Memory Remains\n- Test\n- Teenage Dirtbag\n- Seasons\n- Turn Around\n- Burn It Down\n- Feel Good Inc\n- Breaking The Habit\n- Esok\n- Last Night on Earth\n- love.\n- A Fool Moon Night\n\n### 中等\n\n- 8:30 Jam\n- Amnesia\n- American Idiot\n- 50K\n- Carry On Wayward Son\n- Devil Nobody\n- Dreamscar\n- Eve\n- Hold On Till May\n- Hello Juliet\n- Fuwa Fuwa Time\n- Join Me in Death\n- Jane!\n- In Bloom\n- Magic Carpet\n- Mascara\n- Nope You're Too Late\n- School\n- Nakaniwano\n- Teen Spirit\n- Theirthoughts\n- So Good\n- Welcome to the Black Parade\n- Welcome to the Jungle\n- Whispers in the Garth\n- Hana ni Natte\n- Perfect Pair\n- A Turtle's Heart\n- Ash Again\n- Cubibibibism\n- Figure09\n- I Want You Back\n- Some Things Never Change\n- Sometimes\n- Wish to Drown\n- ALL MY FELLAS\n- ametsuchi\n- Connect\n- Flyburg and Endroll\n- Friends\n- Snow Halation\n- Worldwide Wander\n\n### 困难\n\n- Blind\n- Ano Band\n- Courage\n- Dear Maria\n- Crash\n- Cannon Rock\n- Everlong\n- Floods\n- Enter Sandman\n- Fuyu no Hanashi\n- Gimme Chocolate\n- Inferno\n- If I Could Be a Constellation\n- My Own Summer\n- Mr Brightside\n- Master of Puppets\n- Lost Umbrella\n- Omega Rhythm\n- Oddloop\n- Rose\n- Seisyun Complex\n- Toxicity\n- Unholy Confession\n- Yoru ni Kakeru\n- Kaikai Kitan\n- Rolling Girl\n- Mesmerizer\n- Plantera\n- A Like Supreme\n- Raise Up Your Bat!\n- Asphyxia\n- Bury the Light\n- Drank-Dazed\n- Extradimensional Cosmic Phenomenon\n- Nevermind\n- Out of Bed\n- The Whole Blue World\n- An Italian Magician Be Like\n\n### 极限\n\n- Army Style\n- Chop Suey!\n- Faint\n- Dokkan\n- Gurenge\n- Freedom Dive\n- Il Vento d'Oro\n- Master of Puppets\n- Rip & Tear\n- Republic\n- Trinity\n- Twelve Years\n- Rolling Girl\n- Far Away Light\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Crescent:Letter\n\n---\n\n## 吉他\n\n### 简单\n\n- 8:30 Jam\n- Black Hole Sun\n- Enthusiastic\n- Friday Night\n- Hello Juliet\n- In Bloom\n- Hole in Earth\n- Magic Carpet\n- Mascara\n- Nope You're Too Late\n- Seasons\n- Teenage Dirtbag\n- Test\n- Turn Around\n- ametsuchi\n\n### 中等\n\n- 50K\n- American Idiot\n- Creep\n- Crash\n- Dreamscar\n- I Bet on Losing Dogs\n- Join Me in Death\n- Memory Remains\n- School\n- Nakaniwano\n- Theirthoughts\n- Breaking The Habit\n- Ash Again\n- Asphyxia\n- Cubibibibism\n- Esok\n- I Want You Back\n- Last Night on Earth\n- Out of Bed\n- A Fool Moon Night\n- An Italian Magician Be Like\n- Connect\n- Flyburg and Endroll\n- Friends\n\n### 困难\n\n- Carry On Wayward Son\n- Courage\n- Dear Maria\n- Floods\n- Eve\n- Enter Sandman\n- Gurenge\n- Gimme Chocolate\n- My Own Summer\n- Lost Umbrella\n- Omega Rhythm\n- Rose\n- Toxicity\n- Yoru ni Kakeru\n- Welcome to the Black Parade\n- Rolling Girl\n- Perfect Pair\n- Hana ni Natte\n- Whispers in the Garth\n- A Turtle's Heart\n- Drank-Dazed\n- Extradimensional Cosmic Phenomenon\n- Figure09\n- Nevermind\n- Some Things Never Change\n- Sometimes\n- The Whole Blue World\n\n### 极限\n\n- Chop Suey!\n- Freedom\n- Master of Puppets\n- Rip & Tear\n- Trinity\n- Twelve Years\n- Mesmerizer\n- Bury the Light\n- Far Away Light\n- Wish to Drown\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Crescent:Letter\n\n### 主音／节奏声部区分\n\n- Amnesia — 主音 简单 / 节奏 中等\n- Army Style — 主音 困难 / 节奏 简单\n- Ano Band — 主音 困难 / 节奏 中等\n- Blind — 主音 中等 / 节奏 简单\n- Cannon Rock — 主音 简单 / 节奏 简单\n- Devil Nobody — 主音 简单 / 节奏 简单\n- Dokkan — 主音 极限 / 节奏 困难\n- Everlong — 主音 中等 / 节奏 中等\n- Faint — 主音 困难 / 节奏 中等\n- Fuwa Fuwa Time — 主音 中等 / 节奏 中等\n- Fuyu no Hanashi — 主音 困难 / 节奏 困难\n- Hold On Till May — 主音 简单 / 节奏 中等\n- If I Could Be a Constellation — 主音 困难 / 节奏 中等\n- Il Vento d'Oro — 主音 困难 / 节奏 困难\n- Inferno — 主音 中等 / 节奏 中等\n- Jane! — 主音 中等 / 节奏 中等\n- Master of Puppets — 主音 中等 / 节奏 中等\n- Mr Brightside — 主音 中等 / 节奏 简单\n- Oddloop — 主音 中等 / 节奏 困难\n- Republic — 主音 困难 / 节奏 中等\n- Seisyun Complex — 主音 极限 / 节奏 困难\n- So Good — 主音 简单 / 节奏 简单\n- Teen Spirit — 主音 中等 / 节奏 简单\n- Unholy Confessions — 主音 极限 / 节奏 未注明\n- Welcome to the Jungle — 主音 困难 / 节奏 极限\n- Kaikai Kitan — 主音 中等 / 节奏 中等 极限\n- Burn It Down — 主音 困难 / 节奏 简单\n- BAD APPLE!! — 主音 极限 / 节奏 中等\n- Feel Good Inc. — 主音 中等 / 节奏 简单\n- Plantera — 主音 极限 / 节奏 极限\n- A Like Supreme — 主音 困难 / 节奏 困难\n- Raise Up Your Bat! — 主音 中等 / 节奏 中等\n- Cubibibibism — 两个声部均为 中等\n- Esok — 两个声部均为 中等\n- I Want You Back — 两个声部均为 中等\n- Out of Bed — 两个声部均为 中等\n- ALL MY FELLAS — 极限 (节奏) / 困难 (主音)\n- Snow halation — 中等 (节奏) / 困难 (主音)\n- Worldwide Wander — 困难 (节奏) / 极限 (主音)\n\n---\n\n## 架子鼓\n\n### 简单\n\n- Nope You're Too Late\n- Seasons\n- Teenage Dirtbag\n- Test\n- Turn Around\n- Esok\n- Last Night on Earth\n- ALL MY FELLAS\n\n### 中等\n\n- 8:30 Jam\n- Army Style\n- Black Hole Sun\n- American Idiot\n- 50K\n- Carry On Wayward Son\n- Courage\n- Creep\n- Dreamscar\n- Enthusiastic\n- Friday Night\n- Hello Juliet\n- Fuwa Fuwa Time\n- I Bet on Losing Dogs\n- Join Me in Death\n- If I Could Be a Constellation\n- Hole in Earth\n- Memory Remains\n- My Own Summer\n- Mascara\n- Republic\n- So Good\n- Kaikai Kitan\n- Welcome to the Jungle\n- Feel Good Inc.\n- Perfect Pair\n- I Want You Back\n- love.\n- Connect\n- Friends\n\n### 困难\n\n- Amnesia\n- Ano Band\n- Devil Nobody\n- Dear Maria\n- Crash\n- Chop Suey\n- Cannon Rock\n- Everlong\n- Floods\n- Eve\n- Enter Sandman\n- Gurenge\n- Hold On Till May\n- Gimme Chocolate\n- Il Vento d'Oro\n- Inferno\n- Jane!\n- In Bloom\n- Magic Carpet\n- Master of Puppets\n- Mr Brightside\n- Omega Rhythm\n- School\n- Rose\n- Oddloop\n- Nakaniwano\n- Teen Spirit\n- Theirthoughts\n- Yoru ni Kakeru\n- Twelve Years\n- Welcome to the Black Parade\n- Mesmerizer\n- Burn It Down\n- A Like Supreme\n- Hana ni Natte\n- Raise Up Your Bat!\n- Ash Again\n- Cubibibibism\n- Extradimensional Cosmic Phenomenon\n- Figure09\n- Some Things Never Change\n- Sometimes\n- A Fool Moon Night\n- Flyburg and Endroll\n- Snow halation\n- Worldwide Wander\n\n### 极限\n\n- Blind\n- Faint\n- Dokkan\n- Fuyu no Hanashi\n- Freedom Dive\n- Lost Umbrella\n- Rip & Tear\n- Seisyun Complex\n- Toxicity\n- Trinity\n- Unholy Confessions\n- Rolling Girl\n- BAD APPLE!!\n- Breaking The Habit\n- Plantera\n- Whispers in the Garth\n- A Turtle's Heart\n- Asphyxia\n- Bury the Light\n- Drank-Dazed\n- Nevermind\n- Out of Bed\n- The Whole Blue World\n- Wish to Drown\n- An Italian Magician\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Far Away Light\n- ametsuchi\n- Crescent:Letter\n\n---\n\n## 电子键盘\n\n### 简单\n\n- Gimme Chocolate\n- I Bet on Losing Dogs\n- Turn Around\n- Welcome to the Black Parade\n- Seasons\n- Join Me in Death\n- Hold On Till May\n- Whispers in the Garth\n- Last Night on Earth\n- Sometimes\n\n### 中等\n\n- Army Style\n- Dreamscar\n- Fuwa Fuwa Time\n- Devil Nobody\n- Faint\n- Lost Umbrella\n- Burn It Down\n- Breaking The Habit\n- A Like Supreme\n- love.\n- Nevermind\n- Some Things Never Change\n- Connect\n- Friends\n\n### 困难\n\n- 8:30 Jam\n- Oddloop\n- Gurenge\n- Yoru ni Kakeru\n- Hana ni Natte\n- A Turtle's Heart\n- Esok\n- I Want You Back\n- The Whole Blue World\n\n### 极限\n\n- Republic\n- Rolling Girl\n- Mesmerizer\n- Ash Again\n- Asphyxia\n- Bury the Light\n- Extradimensional Cosmic Phenomenon\n- Far Away Light\n- Wish to Drown\n- ALL MY FELLAS\n- ametsuchi\n- Crescent:Letter\n- Flyburg and Endroll\n- Intersect Thunderbolt\n- Snow halation\n- Solitary Industrial Revolution"
+      "body": "## 贝斯\n\n### 简单\n\n- Black Hole Sun\n- Creep\n- Enthusiastic\n- Friday Night\n- I Bet on Losing Dogs\n- Hole in Earth\n- Memory Remains\n- Test\n- Teenage Dirtbag\n- Seasons\n- Turn Around\n- Burn It Down\n- Feel Good Inc\n- Breaking The Habit\n- Esok\n- Last Night on Earth\n- love.\n- A Fool Moon Night\n\n### 中等\n\n- 8:30 Jam\n- Amnesia\n- American Idiot\n- 50K\n- Carry On Wayward Son\n- Devil Nobody\n- Dreamscar\n- Eve\n- Hold On Till May\n- Hello Juliet\n- Fuwa Fuwa Time\n- Join Me in Death\n- Jane!\n- In Bloom\n- Magic Carpet\n- Mascara\n- Nope You're Too Late\n- School\n- Nakaniwano\n- Teen Spirit\n- Theirthoughts\n- So Good\n- Welcome to the Black Parade\n- Welcome to the Jungle\n- Whispers in the Garth\n- Hana ni Natte\n- Perfect Pair\n- A Turtle's Heart\n- Ash Again\n- Cubibibibism\n- Figure09\n- I Want You Back\n- Some Things Never Change\n- Sometimes\n- Wish to Drown\n- ALL MY FELLAS\n- ametsuchi\n- Connect\n- Flyburg and Endroll\n- Friends\n- Snow Halation\n- Worldwide Wander\n\n### 困难\n\n- Blind\n- Ano Band\n- Courage\n- Dear Maria\n- Crash\n- Cannon Rock\n- Everlong\n- Floods\n- Enter Sandman\n- Fuyu no Hanashi\n- Gimme Chocolate\n- Inferno\n- If I Could Be a Constellation\n- My Own Summer\n- Mr Brightside\n- Master of Puppets\n- Lost Umbrella\n- Omega Rhythm\n- Oddloop\n- Rose\n- Seisyun Complex\n- Toxicity\n- Unholy Confession\n- Yoru ni Kakeru\n- Kaikai Kitan\n- Rolling Girl\n- Mesmerizer\n- Plantera\n- A Like Supreme\n- Raise Up Your Bat!\n- Asphyxia\n- Bury the Light\n- Drank-Dazed\n- Extradimensional Cosmic Phenomenon\n- Nevermind\n- Out of Bed\n- The Whole Blue World\n- An Italian Magician Be Like\n\n### 极限\n\n- Army Style\n- Chop Suey!\n- Faint\n- Dokkan\n- Gurenge\n- Freedom Dive\n- Il Vento d'Oro\n- Master of Puppets\n- Rip & Tear\n- Republic\n- Trinity\n- Twelve Years\n- Rolling Girl\n- Far Away Light\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Crescent:Letter\n\n---\n\n## 吉他\n\n### 简单\n\n- 8:30 Jam\n- Black Hole Sun\n- Enthusiastic\n- Friday Night\n- Hello Juliet\n- In Bloom\n- Hole in Earth\n- Magic Carpet\n- Mascara\n- Nope You're Too Late\n- Seasons\n- Teenage Dirtbag\n- Test\n- Turn Around\n- ametsuchi\n\n### 中等\n\n- 50K\n- American Idiot\n- Creep\n- Crash\n- Dreamscar\n- I Bet on Losing Dogs\n- Join Me in Death\n- Memory Remains\n- School\n- Nakaniwano\n- Theirthoughts\n- Breaking The Habit\n- Ash Again\n- Asphyxia\n- Cubibibibism\n- Esok\n- I Want You Back\n- Last Night on Earth\n- Out of Bed\n- A Fool Moon Night\n- An Italian Magician Be Like\n- Connect\n- Flyburg and Endroll\n- Friends\n\n### 困难\n\n- Carry On Wayward Son\n- Courage\n- Dear Maria\n- Floods\n- Eve\n- Enter Sandman\n- Gurenge\n- Gimme Chocolate\n- My Own Summer\n- Lost Umbrella\n- Omega Rhythm\n- Rose\n- Toxicity\n- Yoru ni Kakeru\n- Welcome to the Black Parade\n- Rolling Girl\n- Perfect Pair\n- Hana ni Natte\n- Whispers in the Garth\n- A Turtle's Heart\n- Drank-Dazed\n- Extradimensional Cosmic Phenomenon\n- Figure09\n- Nevermind\n- Some Things Never Change\n- Sometimes\n- The Whole Blue World\n\n### 极限\n\n- Chop Suey!\n- Freedom\n- Master of Puppets\n- Rip & Tear\n- Trinity\n- Twelve Years\n- Mesmerizer\n- Bury the Light\n- Far Away Light\n- Wish to Drown\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Crescent:Letter\n\n### 主音／节奏声部区分\n\n- Amnesia — 主音 简单 / 节奏 中等\n- Army Style — 主音 困难 / 节奏 简单\n- Ano Band — 主音 困难 / 节奏 中等\n- Blind — 主音 中等 / 节奏 简单\n- Cannon Rock — 主音 简单 / 节奏 简单\n- Devil Nobody — 主音 简单 / 节奏 简单\n- Dokkan — 主音 极限 / 节奏 困难\n- Everlong — 主音 中等 / 节奏 中等\n- Faint — 主音 困难 / 节奏 中等\n- Fuwa Fuwa Time — 主音 中等 / 节奏 中等\n- Fuyu no Hanashi — 主音 困难 / 节奏 困难\n- Hold On Till May — 主音 简单 / 节奏 中等\n- If I Could Be a Constellation — 主音 困难 / 节奏 中等\n- Il Vento d'Oro — 主音 困难 / 节奏 困难\n- Inferno — 主音 中等 / 节奏 中等\n- Jane! — 主音 中等 / 节奏 中等\n- Master of Puppets — 主音 中等 / 节奏 中等\n- Mr Brightside — 主音 中等 / 节奏 简单\n- Oddloop — 主音 中等 / 节奏 困难\n- Republic — 主音 困难 / 节奏 中等\n- Seisyun Complex — 主音 极限 / 节奏 困难\n- So Good — 主音 简单 / 节奏 简单\n- Teen Spirit — 主音 中等 / 节奏 简单\n- Unholy Confessions — 主音 极限 / 节奏 未注明\n- Welcome to the Jungle — 主音 困难 / 节奏 极限\n- Kaikai Kitan — 主音 中等 / 节奏 中等 极限\n- Burn It Down — 主音 困难 / 节奏 简单\n- BAD APPLE!! — 主音 极限 / 节奏 中等\n- Feel Good Inc. — 主音 中等 / 节奏 简单\n- Plantera — 主音 极限 / 节奏 极限\n- A Like Supreme — 主音 困难 / 节奏 困难\n- Raise Up Your Bat! — 主音 中等 / 节奏 中等\n- Cubibibibism — 两个声部均为 中等\n- Esok — 两个声部均为 中等\n- I Want You Back — 两个声部均为 中等\n- Out of Bed — 两个声部均为 中等\n- ALL MY FELLAS — 极限 (节奏) / 困难 (主音)\n- Snow halation — 中等 (节奏) / 困难 (主音)\n- Worldwide Wander — 困难 (节奏) / 极限 (主音)\n\n---\n\n## 架子鼓\n\n### 简单\n\n- Nope You're Too Late\n- Seasons\n- Teenage Dirtbag\n- Test\n- Turn Around\n- Esok\n- Last Night on Earth\n- ALL MY FELLAS\n\n### 中等\n\n- 8:30 Jam\n- Army Style\n- Black Hole Sun\n- American Idiot\n- 50K\n- Carry On Wayward Son\n- Courage\n- Creep\n- Dreamscar\n- Enthusiastic\n- Friday Night\n- Hello Juliet\n- Fuwa Fuwa Time\n- I Bet on Losing Dogs\n- Join Me in Death\n- If I Could Be a Constellation\n- Hole in Earth\n- Memory Remains\n- My Own Summer\n- Mascara\n- Republic\n- So Good\n- Kaikai Kitan\n- Welcome to the Jungle\n- Feel Good Inc.\n- Perfect Pair\n- I Want You Back\n- love.\n- Connect\n- Friends\n\n### 困难\n\n- Amnesia\n- Ano Band\n- Devil Nobody\n- Dear Maria\n- Crash\n- Chop Suey\n- Cannon Rock\n- Everlong\n- Floods\n- Eve\n- Enter Sandman\n- Gurenge\n- Hold On Till May\n- Gimme Chocolate\n- Il Vento d'Oro\n- Inferno\n- Jane!\n- In Bloom\n- Magic Carpet\n- Master of Puppets\n- Mr Brightside\n- Omega Rhythm\n- School\n- Rose\n- Oddloop\n- Nakaniwano\n- Teen Spirit\n- Theirthoughts\n- Yoru ni Kakeru\n- Twelve Years\n- Welcome to the Black Parade\n- Mesmerizer\n- Burn It Down\n- A Like Supreme\n- Hana ni Natte\n- Raise Up Your Bat!\n- Ash Again\n- Cubibibibism\n- Extradimensional Cosmic Phenomenon\n- Figure09\n- Some Things Never Change\n- Sometimes\n- A Fool Moon Night\n- Flyburg and Endroll\n- Snow halation\n- Worldwide Wander\n\n### 极限\n\n- Blind\n- Faint\n- Dokkan\n- Fuyu no Hanashi\n- Freedom Dive\n- Lost Umbrella\n- Rip & Tear\n- Seisyun Complex\n- Toxicity\n- Trinity\n- Unholy Confessions\n- Rolling Girl\n- BAD APPLE!!\n- Breaking The Habit\n- Plantera\n- Whispers in the Garth\n- A Turtle's Heart\n- Asphyxia\n- Bury the Light\n- Drank-Dazed\n- Nevermind\n- Out of Bed\n- The Whole Blue World\n- Wish to Drown\n- An Italian Magician\n- Intersect Thunderbolt\n- Solitary Industrial Revolution\n\n### 疯狂\n\n- Far Away Light\n- ametsuchi\n- Crescent:Letter\n\n---\n\n## 电子键盘\n\n### 简单\n\n- Gimme Chocolate\n- I Bet on Losing Dogs\n- Turn Around\n- Welcome to the Black Parade\n- Seasons\n- Join Me in Death\n- Hold On Till May\n- Whispers in the Garth\n- Last Night on Earth\n- Sometimes\n\n### 中等\n\n- Army Style\n- Dreamscar\n- Fuwa Fuwa Time\n- Devil Nobody\n- Faint\n- Lost Umbrella\n- Burn It Down\n- Breaking The Habit\n- A Like Supreme\n- love.\n- Nevermind\n- Some Things Never Change\n- Connect\n- Friends\n\n### 困难\n\n- 8:30 Jam\n- Oddloop\n- Gurenge\n- Yoru ni Kakeru\n- Hana ni Natte\n- A Turtle's Heart\n- Esok\n- I Want You Back\n- The Whole Blue World\n\n### 极限\n\n- Republic\n- Rolling Girl\n- Mesmerizer\n- Ash Again\n- Asphyxia\n- Bury the Light\n- Extradimensional Cosmic Phenomenon\n- Far Away Light\n- Wish to Drown\n- ALL MY FELLAS\n- ametsuchi\n- Crescent:Letter\n- Flyburg and Endroll\n- Intersect Thunderbolt\n- Snow halation\n- Solitary Industrial Revolution",
+      "sourceHash": "c87f238d4945a1d7184d66872384dff3c9efecad29cc0a6acb65560a925bfe6d"
     },
     "To1OUsIV": {
       "title": "自动售货机",
-      "body": "走到自动售货机前，按互动键（E／手柄X键／□键／触屏点击），即可打开购买界面。\n\n购买饮料需要日元，可以通过YenApp转账或在Indeed应用中找工作获得。\n\n点击写有“押す”（按下）的灰色按钮即可购买饮料。\n\n每罐饮料可以使用10次，之后就会变空。"
+      "body": "走到自动售货机前，按互动键（E／手柄X键／□键／触屏点击），即可打开购买界面。\n\n购买饮料需要日元，可以通过YenApp转账或在Indeed应用中找工作获得。\n\n点击写有“押す”（按下）的灰色按钮即可购买饮料。\n\n每罐饮料可以使用10次，之后就会变空。",
+      "sourceHash": "287887e8016490356466238a11e4afff9742dceefd95624b4023ad729b41d61e"
     },
     "osVykw0C": {
       "title": "眼镜",
-      "body": "**眼镜**\n\n眼镜是可以通过游戏配饰抽取系统获得的面部配饰，用于自定义角色外观，共有两种样式。\n\n- 粗框黑色眼镜：镜框较大，更醒目。\n- 细框黑色眼镜：造型较简洁、低调。\n\n佩戴眼镜还会触发一项特殊战斗机制。\n\n**战斗中佩戴眼镜的情况**\n\n脸部受到足够重的一拳时，眼镜可能被完全打落到地上。\n\n**眼镜被打飞后：**\n\n- 立刻解除装备。\n- 画面变得模糊，影响视野。\n- 模糊效果会一直持续到你找回眼镜。\n\n**恢复正常视野的方法**\n\n- 找到眼镜掉落的位置。\n- 捡起来并重新戴上。\n\n重新装备后，模糊效果立即消失。"
+      "body": "**眼镜**\n\n眼镜是可以通过游戏配饰抽取系统获得的面部配饰，用于自定义角色外观，共有两种样式。\n\n- 粗框黑色眼镜：镜框较大，更醒目。\n- 细框黑色眼镜：造型较简洁、低调。\n\n佩戴眼镜还会触发一项特殊战斗机制。\n\n**战斗中佩戴眼镜的情况**\n\n脸部受到足够重的一拳时，眼镜可能被完全打落到地上。\n\n**眼镜被打飞后：**\n\n- 立刻解除装备。\n- 画面变得模糊，影响视野。\n- 模糊效果会一直持续到你找回眼镜。\n\n**恢复正常视野的方法**\n\n- 找到眼镜掉落的位置。\n- 捡起来并重新戴上。\n\n重新装备后，模糊效果立即消失。",
+      "sourceHash": "291125c240cbdd84f017a2b82343b068c8c41cb8ca849717830a67b713b28f86"
     },
     "FMsAM2km": {
       "title": "配饰",
-      "body": "**眼镜**\n\n眼镜是可以通过游戏配饰抽取系统获得的面部配饰，用于自定义角色外观，共有两种样式。\n\n- 粗框黑色眼镜：镜框较大，更醒目。\n- 细框黑色眼镜：造型较简洁、低调。\n\n佩戴眼镜还会触发一项特殊战斗机制。\n\n**战斗中佩戴眼镜的情况**\n\n脸部受到足够重的一拳时，眼镜可能被完全打落到地上。\n\n**眼镜被打飞后：**\n\n- 立刻解除装备。\n- 画面变得模糊，影响视野。\n- 模糊效果会一直持续到你找回眼镜。\n\n**恢复正常视野的方法**\n\n- 找到眼镜掉落的位置。\n- 捡起来并重新戴上。\n\n重新装备后，模糊效果立即消失。\n\n---\n\n**耳机**\n\n耳机是游戏内配饰，可以把手机播放的音乐传到耳机中，不需要一直拿着手机。\n\n- 目前无法自行从头上取下耳机，必须让其他玩家将其打落。\n- 使用互动键从地上捡起耳机，再次点击即可重新戴上。\n- 耳机被打落后仍会继续播放音乐，除非通过手机主动停止。\n\n要查看耳机的全部款式，请查阅对应性别的配饰列表。\n\n---\n\n**眼罩**\n\n眼罩是Gakuran中的头部配饰，有多种款式。戴上眼罩后，第一人称视野会被部分遮挡。"
+      "body": "**眼镜**\n\n眼镜是可以通过游戏配饰抽取系统获得的面部配饰，用于自定义角色外观，共有两种样式。\n\n- 粗框黑色眼镜：镜框较大，更醒目。\n- 细框黑色眼镜：造型较简洁、低调。\n\n佩戴眼镜还会触发一项特殊战斗机制。\n\n**战斗中佩戴眼镜的情况**\n\n脸部受到足够重的一拳时，眼镜可能被完全打落到地上。\n\n**眼镜被打飞后：**\n\n- 立刻解除装备。\n- 画面变得模糊，影响视野。\n- 模糊效果会一直持续到你找回眼镜。\n\n**恢复正常视野的方法**\n\n- 找到眼镜掉落的位置。\n- 捡起来并重新戴上。\n\n重新装备后，模糊效果立即消失。\n\n---\n\n**耳机**\n\n耳机是游戏内配饰，可以把手机播放的音乐传到耳机中，不需要一直拿着手机。\n\n- 目前无法自行从头上取下耳机，必须让其他玩家将其打落。\n- 使用互动键从地上捡起耳机，再次点击即可重新戴上。\n- 耳机被打落后仍会继续播放音乐，除非通过手机主动停止。\n\n要查看耳机的全部款式，请查阅对应性别的配饰列表。\n\n---\n\n**眼罩**\n\n眼罩是Gakuran中的头部配饰，有多种款式。戴上眼罩后，第一人称视野会被部分遮挡。",
+      "sourceHash": "651831cde43ce45fb100aeaf30b6e03fa9f5b475cf3dab99e3ceed3724bcce66"
     },
     "Ig2rZMin": {
       "title": "耳机",
-      "body": "耳机是游戏内配饰，可以把手机播放的音乐传到耳机中，不需要一直拿着手机。\n\n- 目前无法自行从头上取下耳机，必须让其他玩家将其打落。\n- 使用互动键从地上捡起耳机，再次点击即可重新戴上。\n- 耳机被打落后仍会继续播放音乐，除非通过手机主动停止。\n\n要查看耳机的全部款式，请查阅对应性别的配饰列表。"
+      "body": "耳机是游戏内配饰，可以把手机播放的音乐传到耳机中，不需要一直拿着手机。\n\n- 目前无法自行从头上取下耳机，必须让其他玩家将其打落。\n- 使用互动键从地上捡起耳机，再次点击即可重新戴上。\n- 耳机被打落后仍会继续播放音乐，除非通过手机主动停止。\n\n要查看耳机的全部款式，请查阅对应性别的配饰列表。",
+      "sourceHash": "21689829a4b1894c153432f93ee64d9b4b10014c2ea026cd90a17a0ae1bc5961"
     },
     "S76Kg7eT": {
       "title": "眼罩",
-      "body": "眼罩是Gakuran中的头部配饰，有多种款式。戴上眼罩后，第一人称视野会被部分遮挡。"
+      "body": "眼罩是Gakuran中的头部配饰，有多种款式。戴上眼罩后，第一人称视野会被部分遮挡。",
+      "sourceHash": "50b5ca3c40b052e8733cacc278b33c7aab5bb39cd923af1904c3c2ed7d8b766a"
     },
     "jQchCVVF": {
       "title": "休闲活动",
-      "body": "**国际象棋**\n\n国际象棋是供两人对弈的经典棋类游戏，位于桌游室。\n\n- 对弈需要2名玩家。\n- 国际象棋室有不同水平的NPC，可与其对弈。\n\n注意：另一张座位没有玩家时，棋子仍然可以移动，因此不需要第二个人来启动棋局。\n\n---\n\n**四子棋**\n\n位于国际象棋社活动室的经典双人游戏。双方轮流将彩色棋子投入竖立的棋盘，最先使自己的4枚棋子在横向、纵向或斜向连成一线的人获胜，适合在其他活动之间与朋友来一局。\n\n---\n\n**卡拉OK**\n\n充满音乐、笑声和欢乐气氛的卡拉OK酒吧。可以选择喜欢的歌曲，与朋友一起上台演唱，也可以为别人加油。这里有彩色灯光、热闹的音乐，门外的自动售货机还出售饮料。无论是在Dante's Yakiniku烤肉店吃完饭，还是放学后，都可以来这里休息。要播放歌曲，与电视或桌上的平板电脑互动即可，每首歌收费¥100。\n\n---\n\n**掰手腕**\n\n位于屋顶或咖啡馆的双人小游戏，双方通过快速反应事件比拼，掌握输入时机压倒对手。\n\n**分数如何作用？**\n\n判定分为：漏按、尚可、良好、完美。\n\n- 双方分数越接近，分数较低的一方被压回的幅度越小。\n- 双方分数差距越大，分数较低的一方被压回的幅度越大。\n\n---\n\n## 街机室\n\n**PAC-MAN（吃豆人）**\n\n控制一个张着大嘴的亮黄色圆形角色穿行于封闭迷宫。目标是在躲避4只彩色幽灵的同时吃完所有小豆。吃下闪烁的能量豆后，可以暂时反过来吃掉幽灵。吃水果可获得额外分数。\n\n**ARCADE INVADERS（街机入侵者）**\n\n经典固定射击游戏。控制屏幕底部的激光炮，在一排排外星人降至屏幕底部前将其击败。\n\n**AIR HOCKEY（气垫球）**\n\n用鼠标控制击球器，将球打入对方球门得1分，先得3分者获胜。\n\n**ASTRO CROSSER（太空穿越者）**\n\n目标是射击并摧毁漂移的大块岩石和偶尔出现的飞碟，同时控制飞船惯性，避免碰撞。\n\n---\n\n**抛硬币手势**\n\n快速抛出一枚硬币，结果为正面或反面。\n\n---\n\n**掷骰子手势**\n\n快速掷出一枚骰子，结果为1至6中的一个数字。\n\n---\n\n**石头剪刀布**\n\n双人表情动作，可以玩经典的石头剪刀布。你和对手各自在石头、布、剪刀3个选项中选择。"
+      "body": "**国际象棋**\n\n国际象棋是供两人对弈的经典棋类游戏，位于桌游室。\n\n- 对弈需要2名玩家。\n- 国际象棋室有不同水平的NPC，可与其对弈。\n\n注意：另一张座位没有玩家时，棋子仍然可以移动，因此不需要第二个人来启动棋局。\n\n---\n\n**四子棋**\n\n位于国际象棋社活动室的经典双人游戏。双方轮流将彩色棋子投入竖立的棋盘，最先使自己的4枚棋子在横向、纵向或斜向连成一线的人获胜，适合在其他活动之间与朋友来一局。\n\n---\n\n**卡拉OK**\n\n充满音乐、笑声和欢乐气氛的卡拉OK酒吧。可以选择喜欢的歌曲，与朋友一起上台演唱，也可以为别人加油。这里有彩色灯光、热闹的音乐，门外的自动售货机还出售饮料。无论是在Dante's Yakiniku烤肉店吃完饭，还是放学后，都可以来这里休息。要播放歌曲，与电视或桌上的平板电脑互动即可，每首歌收费¥100。\n\n---\n\n**掰手腕**\n\n位于屋顶或咖啡馆的双人小游戏，双方通过快速反应事件比拼，掌握输入时机压倒对手。\n\n**分数如何作用？**\n\n判定分为：漏按、尚可、良好、完美。\n\n- 双方分数越接近，分数较低的一方被压回的幅度越小。\n- 双方分数差距越大，分数较低的一方被压回的幅度越大。\n\n---\n\n## 街机室\n\n**PAC-MAN（吃豆人）**\n\n控制一个张着大嘴的亮黄色圆形角色穿行于封闭迷宫。目标是在躲避4只彩色幽灵的同时吃完所有小豆。吃下闪烁的能量豆后，可以暂时反过来吃掉幽灵。吃水果可获得额外分数。\n\n**ARCADE INVADERS（街机入侵者）**\n\n经典固定射击游戏。控制屏幕底部的激光炮，在一排排外星人降至屏幕底部前将其击败。\n\n**AIR HOCKEY（气垫球）**\n\n用鼠标控制击球器，将球打入对方球门得1分，先得3分者获胜。\n\n**ASTRO CROSSER（太空穿越者）**\n\n目标是射击并摧毁漂移的大块岩石和偶尔出现的飞碟，同时控制飞船惯性，避免碰撞。\n\n---\n\n**抛硬币手势**\n\n快速抛出一枚硬币，结果为正面或反面。\n\n---\n\n**掷骰子手势**\n\n快速掷出一枚骰子，结果为1至6中的一个数字。\n\n---\n\n**石头剪刀布**\n\n双人表情动作，可以玩经典的石头剪刀布。你和对手各自在石头、布、剪刀3个选项中选择。",
+      "sourceHash": "42c2733399039845d51f948332dd596e2576f6ab091249dc999379656655844a"
     },
     "UrB76fAq": {
       "title": "垃圾桶",
-      "body": "学校各处都有垃圾桶。只有手里拿着物品时才能与垃圾桶互动，可以丢弃以下物品：\n\n- 自动售货机购买的空罐或满罐饮料。\n\n如果尝试丢弃不能扔的物品，会出现以下提示之一：\n\n> “我才不会扔掉这个。”\n>\n> “这个我要留着。”\n>\n> “我不会丢掉这个。”\n>\n> “这不是垃圾。”\n>\n> “我不会把它扔出去。”\n>\n> “我还需要它。”"
+      "body": "学校各处都有垃圾桶。只有手里拿着物品时才能与垃圾桶互动，可以丢弃以下物品：\n\n- 自动售货机购买的空罐或满罐饮料。\n\n如果尝试丢弃不能扔的物品，会出现以下提示之一：\n\n> “我才不会扔掉这个。”\n>\n> “这个我要留着。”\n>\n> “我不会丢掉这个。”\n>\n> “这不是垃圾。”\n>\n> “我不会把它扔出去。”\n>\n> “我还需要它。”",
+      "sourceHash": "25fca80e234602cb6300d54781934a52e671fab61ba5998df83f806d66c3fb8f"
     },
     "azZl07TH": {
       "title": "杂项互动",
-      "body": "**自动售货机**\n\n走到自动售货机前，按互动键（E／手柄X键／□键／触屏点击），即可打开购买饮料的界面。\n\n---\n\n**垃圾桶**\n\n学校各处都有垃圾桶。只有手里拿着物品时才能互动，可以丢弃自动售货机购买的空罐或满罐饮料。\n\n如果尝试丢弃不能扔的物品，会出现以下提示之一：\n\n> “我才不会扔掉这个。”\n>\n> “这个我要留着。”\n>\n> “我不会丢掉这个。”\n>\n> “这不是垃圾。”\n>\n> “我不会把它扔出去。”\n>\n> “我还需要它。”\n\n---\n\n**放置／丢弃**\n\n拿着物品时按Backspace，可以选择放置或丢弃。"
+      "body": "**自动售货机**\n\n走到自动售货机前，按互动键（E／手柄X键／□键／触屏点击），即可打开购买饮料的界面。\n\n---\n\n**垃圾桶**\n\n学校各处都有垃圾桶。只有手里拿着物品时才能互动，可以丢弃自动售货机购买的空罐或满罐饮料。\n\n如果尝试丢弃不能扔的物品，会出现以下提示之一：\n\n> “我才不会扔掉这个。”\n>\n> “这个我要留着。”\n>\n> “我不会丢掉这个。”\n>\n> “这不是垃圾。”\n>\n> “我不会把它扔出去。”\n>\n> “我还需要它。”\n\n---\n\n**放置／丢弃**\n\n拿着物品时按Backspace，可以选择放置或丢弃。",
+      "sourceHash": "175477057760530aa96339d0b9ed75b15fc62dc223e254922e2ee6020562a562"
     },
     "88f2S8r6": {
       "title": "街机室",
-      "body": "**PAC-MAN（吃豆人）**\n\n控制一个张着大嘴的亮黄色圆形角色穿行于封闭迷宫。目标是在躲避4只彩色幽灵的同时吃完所有小豆。吃下闪烁的能量豆后，可以暂时反过来吃掉幽灵。吃水果可获得额外分数。\n\n**ARCADE INVADERS（街机入侵者）**\n\n经典固定射击游戏。控制屏幕底部的激光炮，在一排排外星人降至屏幕底部前将其击败。\n\n**AIR HOCKEY（气垫球）**\n\n用鼠标控制击球器，将球打入对方球门得1分，先得3分者获胜。\n\n**ASTRO CROSSER（太空穿越者）**\n\n目标是射击并摧毁漂移的大块岩石和偶尔出现的飞碟，同时控制飞船惯性，避免碰撞。"
+      "body": "**PAC-MAN（吃豆人）**\n\n控制一个张着大嘴的亮黄色圆形角色穿行于封闭迷宫。目标是在躲避4只彩色幽灵的同时吃完所有小豆。吃下闪烁的能量豆后，可以暂时反过来吃掉幽灵。吃水果可获得额外分数。\n\n**ARCADE INVADERS（街机入侵者）**\n\n经典固定射击游戏。控制屏幕底部的激光炮，在一排排外星人降至屏幕底部前将其击败。\n\n**AIR HOCKEY（气垫球）**\n\n用鼠标控制击球器，将球打入对方球门得1分，先得3分者获胜。\n\n**ASTRO CROSSER（太空穿越者）**\n\n目标是射击并摧毁漂移的大块岩石和偶尔出现的飞碟，同时控制飞船惯性，避免碰撞。",
+      "sourceHash": "0977035867f230933eb66ea0513a549310e21c046ca130fd7fbe910bed3eb9a0"
     },
     "Hl6UEdqO": {
       "title": "NPC互动",
-      "body": "## NPC\n\n每个NPC都有不同的性格，说话方式也不同。NPC能够读取自身的年级、年龄、身高和族裔等属性，这些信息会影响回答。他们也能读取你的属性，并在交谈时提及。\n\n---\n\n## 指令\n\n可以用/s等指令喊话或低语，NPC有时也会以低语或喊话回应，但并非每次如此。有些NPC不喜欢别人喊话，或认为喊叫很奇怪。\n\n---\n\n## 记忆\n\nNPC能够记住你。告诉NPC自己的名字后，对方会记住；离开后回来问“你认识我吗”，对方会提到你的名字，并说你刚才来过。\n\n---\n\n## 时间\n\nNPC互动也会受时间影响。早上即将上课时，他们会提醒你该去上课了。NPC可以提到时间和你应该去上的课；询问该去上什么课时，有些NPC还会说明课程的确切持续时间。\n\n---\n\n## 地点\n\nNPC知道自己身在何处。向他们询问时，会根据所在位置告诉你地点，以及你应该去上什么课。"
+      "body": "## NPC\n\n每个NPC都有不同的性格，说话方式也不同。NPC能够读取自身的年级、年龄、身高和族裔等属性，这些信息会影响回答。他们也能读取你的属性，并在交谈时提及。\n\n---\n\n## 指令\n\n可以用/s等指令喊话或低语，NPC有时也会以低语或喊话回应，但并非每次如此。有些NPC不喜欢别人喊话，或认为喊叫很奇怪。\n\n---\n\n## 记忆\n\nNPC能够记住你。告诉NPC自己的名字后，对方会记住；离开后回来问“你认识我吗”，对方会提到你的名字，并说你刚才来过。\n\n---\n\n## 时间\n\nNPC互动也会受时间影响。早上即将上课时，他们会提醒你该去上课了。NPC可以提到时间和你应该去上的课；询问该去上什么课时，有些NPC还会说明课程的确切持续时间。\n\n---\n\n## 地点\n\nNPC知道自己身在何处。向他们询问时，会根据所在位置告诉你地点，以及你应该去上什么课。",
+      "sourceHash": "368a5cfe527fc161e405ba3fb9bda66b25d57807ad3bdbbc5c19a35d80999d2a"
     },
     "GMGyuHgi": {
       "title": "国际象棋",
-      "body": "国际象棋位于桌游室，是供两人对弈的棋类游戏，玩家可以通过互动体验。\n\n- 仅限2人。\n\n另一张座位没有玩家时，棋子仍然可以移动，因此不需要第二个人来启动棋局。"
+      "body": "国际象棋位于桌游室，是供两人对弈的棋类游戏，玩家可以通过互动体验。\n\n- 仅限2人。\n\n另一张座位没有玩家时，棋子仍然可以移动，因此不需要第二个人来启动棋局。",
+      "sourceHash": "97746adb7010b7b915a935543e73bbd04833d74f4ce615bfcab6a54193bfc2fc"
     },
     "MZyfWakP": {
       "title": "工作",
-      "body": "### 申请工作\n\n打开手机上的Indeed兼职应用，查看开放的招聘信息。找到空缺岗位后，点击该信息，再点击“立即申请”。\n\nGakuran当前提供的工作：\n\n- 校报\n- Gakumart便利店\n- Dente's Yakiniku烤肉店\n- DEMAE配送\n- Club Akuma保安\n- Club Akuma酒吧\n- Club Akuma乐手\n- Nyanmelo咖啡馆"
+      "body": "### 申请工作\n\n打开手机上的Indeed兼职应用，查看开放的招聘信息。找到空缺岗位后，点击该信息，再点击“立即申请”。\n\nGakuran当前提供的工作：\n\n- 校报\n- Gakumart便利店\n- Dente's Yakiniku烤肉店\n- DEMAE配送\n- Club Akuma保安\n- Club Akuma酒吧\n- Club Akuma乐手\n- Nyanmelo咖啡馆",
+      "sourceHash": "9ff511eab93de8398778486fe56da6222769a736616389b6f5d2a291fd48d28f"
     },
     "PDWbT1JJ": {
       "title": "四子棋",
-      "body": "**四子棋**\n\n位于国际象棋社活动室的经典双人游戏。双方轮流将彩色棋子投入竖立的棋盘，最先使自己的4枚棋子在横向、纵向或斜向连成一线的人获胜。适合在其他活动之间与朋友来一局。"
+      "body": "**四子棋**\n\n位于国际象棋社活动室的经典双人游戏。双方轮流将彩色棋子投入竖立的棋盘，最先使自己的4枚棋子在横向、纵向或斜向连成一线的人获胜。适合在其他活动之间与朋友来一局。",
+      "sourceHash": "abe16d50dd73263dc60487c7499b907a3bf9260432555b9de0034ceb0c8b1ec3"
     },
     "0x74HVsQ": {
       "title": "放置与丢弃",
-      "body": ""
+      "body": "",
+      "sourceHash": "89c80a25c61549a48f881e0e0aee771ad6febc35e3fa46d1ff11e5bdcaeb46bd"
     },
     "v84QumRQ": {
       "title": "学校社团",
-      "body": ""
+      "body": "",
+      "sourceHash": "83344ad559442469c2707f65e6436252534856f1d8b2d11124e3c5912f221cb0"
     },
     "nHVT5cu4": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "kN6rtAy1": {
       "title": "社团",
-      "body": "可选择的社团共有5个：生物社、书法社、天文社、园艺社和轻音社。到对应社团活动室的公告板处即可加入。\n\n在一个社团达到1,000积分后，随时可以通过该社团的公告板使用社团制服。"
+      "body": "可选择的社团共有5个：生物社、书法社、天文社、园艺社和轻音社。到对应社团活动室的公告板处即可加入。\n\n在一个社团达到1,000积分后，随时可以通过该社团的公告板使用社团制服。",
+      "sourceHash": "8bd265e0f24dd171f5128047771c285de4e306888766b804d70e284864cc5511"
     },
     "QV6iKoBa": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "Eu9olXFR": {
       "title": "园艺社",
-      "body": "**园艺社**\n\n位于学校建筑右翼的屋顶。加入后，通过照料植物赚取积分：按需浇水、确保日照充足，并在出现害虫时除虫。\n\n每块花圃最多同时照料3株植物，升级后会解锁更多可种植的种子。建议在白天进行这项社团活动，这样不用担心日照条件，更容易完成。点击右上角按钮放弃花圃，即可停止照料其中的植物。\n\n#### 植物与可选品种\n\n[查看花卉列表](https://trello.com/c/EQOzcNrW/6-flowers)\n\n#### 园艺社制服"
+      "body": "**园艺社**\n\n位于学校建筑右翼的屋顶。加入后，通过照料植物赚取积分：按需浇水、确保日照充足，并在出现害虫时除虫。\n\n每块花圃最多同时照料3株植物，升级后会解锁更多可种植的种子。建议在白天进行这项社团活动，这样不用担心日照条件，更容易完成。点击右上角按钮放弃花圃，即可停止照料其中的植物。\n\n#### 植物与可选品种\n\n[查看花卉列表](https://trello.com/c/EQOzcNrW/6-flowers)\n\n#### 园艺社制服",
+      "sourceHash": "e0624a1e8ab2b091c9da55d1ae0e7f6fd4c64894b3e386ed424a05a77a7a62f9"
     },
     "EQOzcNrW": {
       "title": "花卉",
-      "body": "#### 牵牛花与近黑色牵牛花“Kurogane”\n\n#### 黄色向日葵、橙色向日葵与意大利白向日葵\n\n#### 绣球与绿色安娜贝尔绣球\n\n#### 郁金香与黑色郁金香“夜之女王”\n\n#### 含羞草与白色含羞草\n\n捕蝇草与全绿捕蝇草\n\n**黑松盆景与金松“Ogon”**\n\n**樱花盆景与绿樱“御衣黄”**"
+      "body": "#### 牵牛花与近黑色牵牛花“Kurogane”\n\n#### 黄色向日葵、橙色向日葵与意大利白向日葵\n\n#### 绣球与绿色安娜贝尔绣球\n\n#### 郁金香与黑色郁金香“夜之女王”\n\n#### 含羞草与白色含羞草\n\n捕蝇草与全绿捕蝇草\n\n**黑松盆景与金松“Ogon”**\n\n**樱花盆景与绿樱“御衣黄”**",
+      "sourceHash": "3776ad750d1ff5f7d73157b30c45889d2b93dc6624242475b64a361d9ac87f8e"
     },
     "GZjX8V2d": {
       "title": "轻音社",
-      "body": "**轻音社**\n\n位于学校三楼。到社团演奏歌曲即可获得积分。积分取决于曲目难度，难度范围从简单到极限，其中极限难度积分最高。\n\n轻音社制服"
+      "body": "**轻音社**\n\n位于学校三楼。到社团演奏歌曲即可获得积分。积分取决于曲目难度，难度范围从简单到极限，其中极限难度积分最高。\n\n轻音社制服",
+      "sourceHash": "9b829ce37d6d327724ba4517d7d357e64476da3f53f97f91973f52b9efdea954"
     },
     "Z8KSpWkQ": {
       "title": "生物社",
-      "body": "**生物社**\n\n位于一楼，入口左侧、储物柜区域旁。加入后，通过显微镜寻找标本来赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可寻找的标本。\n\n生物社制服"
+      "body": "**生物社**\n\n位于一楼，入口左侧、储物柜区域旁。加入后，通过显微镜寻找标本来赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可寻找的标本。\n\n生物社制服",
+      "sourceHash": "2c941a58e6f0d5b61d68678edb4e61c8a379da576b46409870cd0863f2e71cae"
     },
     "BL2z8jtM": {
       "title": "天文社",
-      "body": "**天文社**\n\n位于学校三楼。加入后，与任意空闲望远镜互动，左下角会出现一张星图，需要把图中的点（星星）连起来。完成后即可获得社团积分，也会解锁能在天空中看到的行星。\n\n天文社制服"
+      "body": "**天文社**\n\n位于学校三楼。加入后，与任意空闲望远镜互动，左下角会出现一张星图，需要把图中的点（星星）连起来。完成后即可获得社团积分，也会解锁能在天空中看到的行星。\n\n天文社制服",
+      "sourceHash": "c73b9c0fb352016783e81a7e166b40a76a8ed81fc34149686db0e0c85a4d1fe6"
     },
     "hd7aGpG3": {
       "title": "书法社",
-      "body": "**书法社**\n\n位于一楼，正对生物教室、左侧楼梯旁。加入后，通过书写随机指定的书法内容赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可书写的汉字。\n\n书法社制服"
+      "body": "**书法社**\n\n位于一楼，正对生物教室、左侧楼梯旁。加入后，通过书写随机指定的书法内容赚取积分。完成任务获得积分、提升社团等级后，会解锁更多可书写的汉字。\n\n书法社制服",
+      "sourceHash": "8543f841309584fc374f9181d591b09c7578040ffde4816920960b486f8e1ae6"
     },
     "QCyRJmxJ": {
       "title": "运动项目",
-      "body": ""
+      "body": "",
+      "sourceHash": "4ce203514c9ecf34720bb8484330798c4a3510ae4a2367c8b97f33b76a8e1add"
     },
     "IZqinoeU": {
       "title": "体育活动",
-      "body": ""
+      "body": "",
+      "sourceHash": "36cb33472fd89621e56c99945499a21157ff78cb8b4827f9c51437e780e94fc2"
     },
     "8xqh213n": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "FOE1U5dj": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "J71RjV1k": {
       "title": "排球",
-      "body": "排球场位于学校左侧，靠近校门。体育馆也设有篮球场，并配有排球车和篮球车，可用来取出球。\n\n---\n\n**按键**\n\n- V：进入／退出排球模式\n- 鼠标左键：扣球／接球\n- 鼠标右键：拦网\n- Q：鱼跃救球\n- F／R：向前／向后传球\n- Z／X／C：力度档位（1／3／5）\n- 1／2：降低／增加力度\n- 鼠标左键：飘球发球\n- 鼠标右键：跳发球\n- 镜头角度：控制球的方向与高度\n\n## 力度条设置\n\n力度改变时，身旁会出现力度条。可以选择它的显示样式。\n\n### 可用力度条样式\n\n- 弧线（ARC）、球列（BALLS）、刀刃（BLADE）、折线（CHEVRON）\n- 经典（CLASSIC）、骰子（DICE）、扇形（FAN）、仪表（GAUGE）\n- 全息（HOLO）、漫画（MANGA）、数字（NUMBER）、伸展（REACH）\n- 圆环（RING）、标记（SIGNS）、星星（STARS）、拱顶（VAULT）\n\n**垫球**\n\n**发球**\n\n**鱼跃救球**\n\n**垫球**\n\n**拦网演示1**\n\n**拦网演示2**\n\n**向前传球**\n\n**向后传球**\n\n**上旋跳发球**\n\n## 战术呼叫菜单\n\n在排球模式中按G，可以呼叫不同战术。共有5种呼叫选项：\n\n- 主攻位\n- 副攻位\n- 接应位\n- 后排中路进攻\n- 二次进攻\n\n前4个类别都具有以下选项：\n\n- 高球\n- 中球\n- 快球\n- 负节奏球\n\n> 返回：回到上一级菜单。\n\n---\n\n**多人玩法**\n\n场上共有12块红／蓝站位垫，每队6块，玩家站上去即可准备比赛。每队至少需要2名玩家才能开始。一方达到18分时比赛结束。\n\n---\n\n## NPC排球表演赛\n\n- NPC现在可以参加排球表演赛，玩家可以观看NPC之间的排球比赛。\n\n---\n\n## 自动统计\n\n- 游戏会自动追踪排球比赛中的玩家数据。\n- 比赛期间，玩家数据会自动记录并更新，无需手动记录就能了解各人的表现。\n\n---\n\n## 即时回放\n\n- 每次得分后，即时回放会自动重播关键时刻。\n- 按空格键可以跳过回放。\n\n---\n\n## 排球界面设置\n\n在设置中的“排球”栏目可以更改力度条外观，向下滚动还可以修改按键。"
+      "body": "排球场位于学校左侧，靠近校门。体育馆也设有篮球场，并配有排球车和篮球车，可用来取出球。\n\n---\n\n**按键**\n\n- V：进入／退出排球模式\n- 鼠标左键：扣球／接球\n- 鼠标右键：拦网\n- Q：鱼跃救球\n- F／R：向前／向后传球\n- Z／X／C：力度档位（1／3／5）\n- 1／2：降低／增加力度\n- 鼠标左键：飘球发球\n- 鼠标右键：跳发球\n- 镜头角度：控制球的方向与高度\n\n## 力度条设置\n\n力度改变时，身旁会出现力度条。可以选择它的显示样式。\n\n### 可用力度条样式\n\n- 弧线（ARC）、球列（BALLS）、刀刃（BLADE）、折线（CHEVRON）\n- 经典（CLASSIC）、骰子（DICE）、扇形（FAN）、仪表（GAUGE）\n- 全息（HOLO）、漫画（MANGA）、数字（NUMBER）、伸展（REACH）\n- 圆环（RING）、标记（SIGNS）、星星（STARS）、拱顶（VAULT）\n\n**垫球**\n\n**发球**\n\n**鱼跃救球**\n\n**垫球**\n\n**拦网演示1**\n\n**拦网演示2**\n\n**向前传球**\n\n**向后传球**\n\n**上旋跳发球**\n\n## 战术呼叫菜单\n\n在排球模式中按G，可以呼叫不同战术。共有5种呼叫选项：\n\n- 主攻位\n- 副攻位\n- 接应位\n- 后排中路进攻\n- 二次进攻\n\n前4个类别都具有以下选项：\n\n- 高球\n- 中球\n- 快球\n- 负节奏球\n\n> 返回：回到上一级菜单。\n\n---\n\n**多人玩法**\n\n场上共有12块红／蓝站位垫，每队6块，玩家站上去即可准备比赛。每队至少需要2名玩家才能开始。一方达到18分时比赛结束。\n\n---\n\n## NPC排球表演赛\n\n- NPC现在可以参加排球表演赛，玩家可以观看NPC之间的排球比赛。\n\n---\n\n## 自动统计\n\n- 游戏会自动追踪排球比赛中的玩家数据。\n- 比赛期间，玩家数据会自动记录并更新，无需手动记录就能了解各人的表现。\n\n---\n\n## 即时回放\n\n- 每次得分后，即时回放会自动重播关键时刻。\n- 按空格键可以跳过回放。\n\n---\n\n## 排球界面设置\n\n在设置中的“排球”栏目可以更改力度条外观，向下滚动还可以修改按键。",
+      "sourceHash": "7ca7a99356a13c3658b69222621486e5ade7c684fe4c54c48e4491ef0d1d127a"
     },
     "Za7qnsIs": {
       "title": "足球",
-      "body": "### 按键\n\n- 点击：踢球／抢球\n- F：滑铲\n- T：呼叫传球\n- R：切换弧线方向，无／左／右\n- Shift：冲刺\n- H：进入心流状态，需能量条全满\n- G：守门员模式\n- V：退出模式\n\n### 持球时的按键\n\n- 点击：踢球，按住蓄力\n- Q：挑球，蓄力假动作\n- R：切换弧线方向，无／左／右\n- Shift：冲刺\n- H：进入心流状态，需能量条全满\n- G：守门员模式\n- V：退出模式\n\n### 守门员额外按键\n\n- Q：扑救，可转向控制方向\n- 空格键：跳起接球\n- G：退出守门员模式\n\n## 力度条设置\n\n力度改变时，身旁会出现力度条。可以选择它的显示样式。可用样式：\n\n- 弧线（ARC）、刀刃（BLADE）、转播（BROADCAST）\n- 表盘（DIAL）、全息（HOLO）、迷你（MINI）\n- 像素（PIXEL）、准星（RETICLE）、腕表（WATCH）\n\n# 力度刻度\n\n# 滑铲\n\n# 呼叫传球\n\n# 体力消耗\n\n奔跑或使用假动作时消耗体力。\n\n# 心流状态\n\n# 向前扑救\n\n# 向左／向右扑救\n\n# 跳起接球\n\n# 弧线球\n\n---\n\n## 足球界面设置\n\n在设置中的“足球”栏目，可以修改按键绑定、力度条和心流状态界面。这些修改不会带来玩法上的优势。"
+      "body": "### 按键\n\n- 点击：踢球／抢球\n- F：滑铲\n- T：呼叫传球\n- R：切换弧线方向，无／左／右\n- Shift：冲刺\n- H：进入心流状态，需能量条全满\n- G：守门员模式\n- V：退出模式\n\n### 持球时的按键\n\n- 点击：踢球，按住蓄力\n- Q：挑球，蓄力假动作\n- R：切换弧线方向，无／左／右\n- Shift：冲刺\n- H：进入心流状态，需能量条全满\n- G：守门员模式\n- V：退出模式\n\n### 守门员额外按键\n\n- Q：扑救，可转向控制方向\n- 空格键：跳起接球\n- G：退出守门员模式\n\n## 力度条设置\n\n力度改变时，身旁会出现力度条。可以选择它的显示样式。可用样式：\n\n- 弧线（ARC）、刀刃（BLADE）、转播（BROADCAST）\n- 表盘（DIAL）、全息（HOLO）、迷你（MINI）\n- 像素（PIXEL）、准星（RETICLE）、腕表（WATCH）\n\n# 力度刻度\n\n# 滑铲\n\n# 呼叫传球\n\n# 体力消耗\n\n奔跑或使用假动作时消耗体力。\n\n# 心流状态\n\n# 向前扑救\n\n# 向左／向右扑救\n\n# 跳起接球\n\n# 弧线球\n\n---\n\n## 足球界面设置\n\n在设置中的“足球”栏目，可以修改按键绑定、力度条和心流状态界面。这些修改不会带来玩法上的优势。",
+      "sourceHash": "88ce1d5a71c70220ddef8e9e19aaec8a8a279e1281e5a83d84a57281c6963764"
     },
     "sraqxK55": {
       "title": "篮球",
-      "body": "# 篮球\n\n篮球是一项注重操作技巧的活动，关键在于时机、控球、站位和防守压力。篮球可以在篮筐附近的球架上找到。\n\n**投篮**\n\n- 按住E开始投篮动作，投篮条开始蓄满。\n- 松开E出手。\n- 松开的时机决定投篮质量。\n- 在篮筐附近按Shift＋空格键扣篮。\n- 按Shift并轻点E，进行欧洲步扣篮。\n- 按G背身单打，G＋E可以背身后仰跳投。\n\n## 力度条设置\n\n篮球力度改变时，身旁会出现力度条。可以选择它的显示样式。可用样式：\n\n- 篮球（BALL）、电池（BATTERY）、刀刃（BLADE）、经典（CLASSIC）\n- 表盘（DIAL）、圆相（ENSO）、仪表（GAUGE）、烟花（HANABI）\n- 全息（HOLO）、篮筐（HOOP）、气（KI）、灯组（LAMPS）\n- 牛奶（MILK）、迷你（MINI）、准星（RETICLE）、节奏（RHYTHM）\n- 关闭（OFF）\n\n**投篮条判定区间**\n\n**三分球计分**\n\n庭院篮球场和室内篮球场的两端，篮筐外围都有一条大型半圆线：室内为黄色线，庭院中为其中一条白线。\n\n这些半圆线就是三分线。\n\n在三分线外侧，也就是更靠近中线的位置投篮命中，计3分；在更靠近篮筐的位置投篮命中，则计2分。\n\n---\n\n**防守压力**\n\n投篮时机并非唯一因素。主动防守者的站位和压迫能够降低投篮命中率。\n\n- 无人干扰的投篮更容易命中。\n- 受到轻度干扰时，投篮更难。\n- 受到重度干扰时，得分明显更难。\n- 即使出手时机不错，强大的防守压力仍可能降低投篮效果。\n\n投篮前创造空间，往往与把握出手时机同样重要。\n\n**控球**\n\n可以用多种运球动作拉开距离、摆脱防守。\n\n- X：回拉运球\n- Z＋X：背后运球\n- C＋X：另一种背后运球\n- Backspace：丢球\n- 右手持球时，C＋C：向右转身\n- 左手持球时，Z＋Z：向左转身\n- Z或X：换手持球\n- 队友会在你的客户端显示编号，按对应数字即可向该队友传球。\n\n组合使用运球动作，有助于突破防守、制造空位投篮机会。\n\n**防守**\n\n防守对于阻止对手得分十分重要。\n\n- 鼠标右键：防守姿态\n- F：无球时掩护\n- R：无球时抢断\n- 空格键：无球时盖帽\n\n按住鼠标右键使角色进入防守姿态，可以盯防持球者、干扰投篮、封堵突破路线并施加压力。防守距离越近、效果越好，对方投篮就越困难。\n\n---\n\n# 篮球\n\n## 战术呼叫菜单\n\n在篮球模式下按G，可以呼叫不同战术。\n\n**持球时的呼叫**\n\n- 拉开单打！\n\n**无球时的呼叫**\n\n- 传球！\n- 空中接力！\n\n---\n\n**多人玩法**\n\n有室内体育馆球场和室外篮球场两处。室外篮球场最多支持6人，即3对3；室内体育馆球场支持6人或10人，即3对3或5对5。\n\n3对3时，玩家必须站在己方最靠近篮筐的3个站位点上。5对5时，可以站在任意可用站位点。\n\n每次球权的进攻计时为24秒。出现篮板或球出界后，进攻计时暂停。每节5分钟，全场4节，共20分钟（4×5）。\n\n**PS＋设置**\n\nPS＋指令面板中有篮球栏目，提供多种自定义选项，例如：\n\n- 队伍\n- 队伍自定义\n- 比赛时间\n- 比分\n- 进攻计时\n\n---\n\n## 篮球界面设置\n\n设置中的“篮球”栏目可以更改投篮前出现的投篮条，下方还有按键绑定设置，可按个人习惯修改。"
+      "body": "# 篮球\n\n篮球是一项注重操作技巧的活动，关键在于时机、控球、站位和防守压力。篮球可以在篮筐附近的球架上找到。\n\n**投篮**\n\n- 按住E开始投篮动作，投篮条开始蓄满。\n- 松开E出手。\n- 松开的时机决定投篮质量。\n- 在篮筐附近按Shift＋空格键扣篮。\n- 按Shift并轻点E，进行欧洲步扣篮。\n- 按G背身单打，G＋E可以背身后仰跳投。\n\n## 力度条设置\n\n篮球力度改变时，身旁会出现力度条。可以选择它的显示样式。可用样式：\n\n- 篮球（BALL）、电池（BATTERY）、刀刃（BLADE）、经典（CLASSIC）\n- 表盘（DIAL）、圆相（ENSO）、仪表（GAUGE）、烟花（HANABI）\n- 全息（HOLO）、篮筐（HOOP）、气（KI）、灯组（LAMPS）\n- 牛奶（MILK）、迷你（MINI）、准星（RETICLE）、节奏（RHYTHM）\n- 关闭（OFF）\n\n**投篮条判定区间**\n\n**三分球计分**\n\n庭院篮球场和室内篮球场的两端，篮筐外围都有一条大型半圆线：室内为黄色线，庭院中为其中一条白线。\n\n这些半圆线就是三分线。\n\n在三分线外侧，也就是更靠近中线的位置投篮命中，计3分；在更靠近篮筐的位置投篮命中，则计2分。\n\n---\n\n**防守压力**\n\n投篮时机并非唯一因素。主动防守者的站位和压迫能够降低投篮命中率。\n\n- 无人干扰的投篮更容易命中。\n- 受到轻度干扰时，投篮更难。\n- 受到重度干扰时，得分明显更难。\n- 即使出手时机不错，强大的防守压力仍可能降低投篮效果。\n\n投篮前创造空间，往往与把握出手时机同样重要。\n\n**控球**\n\n可以用多种运球动作拉开距离、摆脱防守。\n\n- X：回拉运球\n- Z＋X：背后运球\n- C＋X：另一种背后运球\n- Backspace：丢球\n- 右手持球时，C＋C：向右转身\n- 左手持球时，Z＋Z：向左转身\n- Z或X：换手持球\n- 队友会在你的客户端显示编号，按对应数字即可向该队友传球。\n\n组合使用运球动作，有助于突破防守、制造空位投篮机会。\n\n**防守**\n\n防守对于阻止对手得分十分重要。\n\n- 鼠标右键：防守姿态\n- F：无球时掩护\n- R：无球时抢断\n- 空格键：无球时盖帽\n\n按住鼠标右键使角色进入防守姿态，可以盯防持球者、干扰投篮、封堵突破路线并施加压力。防守距离越近、效果越好，对方投篮就越困难。\n\n---\n\n# 篮球\n\n## 战术呼叫菜单\n\n在篮球模式下按G，可以呼叫不同战术。\n\n**持球时的呼叫**\n\n- 拉开单打！\n\n**无球时的呼叫**\n\n- 传球！\n- 空中接力！\n\n---\n\n## 出手时机与防守压力\n\n投篮反馈同时显示出手时机和防守干扰情况。新示例图中的“Early”表示出手偏早，“Wide Open”表示完全空位。\n\n**多人玩法**\n\n有室内体育馆球场和室外篮球场两处。室外篮球场最多支持6人，即3对3；室内体育馆球场支持6人或10人，即3对3或5对5。\n\n3对3时，玩家必须站在己方最靠近篮筐的3个站位点上。5对5时，可以站在任意可用站位点。\n\n每次球权的进攻计时为24秒。出现篮板或球出界后，进攻计时暂停。每节5分钟，全场4节，共20分钟（4×5）。\n\n**PS＋设置**\n\nPS＋指令面板中有篮球栏目，提供多种自定义选项，例如：\n\n- 队伍\n- 队伍自定义\n- 比赛时间\n- 比分\n- 进攻计时\n\n---\n\n## 篮球界面设置\n\n设置中的“篮球”栏目可以更改投篮前出现的投篮条，下方还有按键绑定设置，可按个人习惯修改。",
+      "sourceHash": "9fdd80abc0b1165b05fb5a2182360c4c73d90daa0f7d210afd59e6f0b287015e"
     },
     "oa8PYcqk": {
       "title": "滑板",
-      "body": "滑板目前只能通过800 Robux的游戏通行证获得。\n\n**移动：**W／A／S／D\n\n**加速：**Shift\n\n**跳跃／技巧：**空格键\n\n**提示：**加速后更容易完成跳跃。\n\n---\n\n**如何获得滑板？**\n\n- 玩家可以在庭院外发光的板面架处购买永久滑板。\n\n---\n\n**滑板指令**\n\n打开表情动作轮盘，进入“移动”分类，即“表情动作→移动”，即可使用滑板指令。\n\n进入“移动”分类后，可以使用以下指令：\n\n- 装备，2：将滑板背在背上。\n- 骑乘，2，滑板在背上时：立即从背上取下滑板并站上去开始滑行。\n- 收起，3：将滑板从地图中移除。\n- 放下，4：把滑板放在角色面前的地上。\n- 拾取，2，滑板已放置时：如果滑板在可触及范围内，就将其捡起。\n- 收起，3：将滑板从地图中移除。如果有人正在骑乘，则不能使用。\n\n注意：“收起”会将滑板从地图中移除。"
+      "body": "滑板目前只能通过800 Robux的游戏通行证获得。\n\n**移动：**W／A／S／D\n\n**加速：**Shift\n\n**跳跃／技巧：**空格键\n\n**提示：**加速后更容易完成跳跃。\n\n---\n\n**如何获得滑板？**\n\n- 玩家可以在庭院外发光的板面架处购买永久滑板。\n\n---\n\n**滑板指令**\n\n打开表情动作轮盘，进入“移动”分类，即“表情动作→移动”，即可使用滑板指令。\n\n进入“移动”分类后，可以使用以下指令：\n\n- 装备，2：将滑板背在背上。\n- 骑乘，2，滑板在背上时：立即从背上取下滑板并站上去开始滑行。\n- 收起，3：将滑板从地图中移除。\n- 放下，4：把滑板放在角色面前的地上。\n- 拾取，2，滑板已放置时：如果滑板在可触及范围内，就将其捡起。\n- 收起，3：将滑板从地图中移除。如果有人正在骑乘，则不能使用。\n\n注意：“收起”会将滑板从地图中移除。",
+      "sourceHash": "d5dffbe93cf5d627dad1023ecd87fc8f3ff55f6a85d9acd1b3a6827c73bff2b8"
     },
     "QUydnRpz": {
       "title": "美式橄榄球",
-      "body": "## 美式橄榄球\n\n美式橄榄球在足球场上进行。至少2名玩家进入站位垫后，会自动发起足球与美式橄榄球的模式投票。投票倒计时结束后，得票最多的模式开始。\n\n---\n\n## 美式橄榄球按键\n\n#### 无球时\n\n- E：鱼跃\n- X：阻挡\n- Shift：冲刺\n- G：呼叫战术\n- B：退出模式\n\n#### 持球时\n\n- 点击：投球，直接瞄准光标位置\n- R／F：增加／降低力度（＋／－）\n- X：交递球\n- E：鱼跃\n- Shift：冲刺\n- G：呼叫战术\n- B：退出模式\n\n---\n\n## 美式橄榄球界面设置\n\n在设置中选择“美式橄榄球”，即可选择喜欢的踢球力度界面样式。这不会改变玩法。向下滚动，还可以更改部分按键绑定。\n\n---\n\n## 传球\n\n## 鱼跃\n\n## 被擒杀／鱼跃投球"
+      "body": "## 美式橄榄球\n\n美式橄榄球在足球场上进行。至少2名玩家进入站位垫后，会自动发起足球与美式橄榄球的模式投票。投票倒计时结束后，得票最多的模式开始。\n\n---\n\n## 美式橄榄球按键\n\n#### 无球时\n\n- E：鱼跃\n- X：阻挡\n- Shift：冲刺\n- G：呼叫战术\n- B：退出模式\n\n#### 持球时\n\n- 点击：投球，直接瞄准光标位置\n- R／F：增加／降低力度（＋／－）\n- X：交递球\n- E：鱼跃\n- Shift：冲刺\n- G：呼叫战术\n- B：退出模式\n\n---\n\n## 美式橄榄球界面设置\n\n在设置中选择“美式橄榄球”，即可选择喜欢的踢球力度界面样式。这不会改变玩法。向下滚动，还可以更改部分按键绑定。\n\n---\n\n## 传球\n\n## 鱼跃\n\n## 被擒杀／鱼跃投球",
+      "sourceHash": "14113738b36d5aafc96a85e94cc840cac55da57ad6ff89481d2346d4d20dd775"
     },
     "yAe3Y7Us": {
       "title": "躲避球",
-      "body": "## 躲避球\n\n任何篮球场都可以进行躲避球，只要双方各有至少1名玩家。场上超过2名玩家时，会自动发起篮球与躲避球的模式投票。经过短暂投票后，得票最多的模式开始。\n\n---\n\n## 躲避球按键\n\n- 点击：投球，直接瞄准光标位置\n- F：接球，需要严格把握时机的格挡机制\n- Q：闪避\n- Shift：冲刺\n\n---\n\n## 躲避球开始倒计时"
+      "body": "## 躲避球\n\n任何篮球场都可以进行躲避球，只要双方各有至少1名玩家。场上超过2名玩家时，会自动发起篮球与躲避球的模式投票。经过短暂投票后，得票最多的模式开始。\n\n---\n\n## 躲避球按键\n\n- 点击：投球，直接瞄准光标位置\n- F：接球，需要严格把握时机的格挡机制\n- Q：闪避\n- Shift：冲刺\n\n---\n\n## 躲避球开始倒计时",
+      "sourceHash": "0cce99716ed4541f2324062235926f73102dd43f326dd48bbda7dbfc98bf194a"
     },
     "H7KgfbV7": {
       "title": "手机应用",
-      "body": ""
+      "body": "",
+      "sourceHash": "97b2af4bada185e3d04f515edf88e5eb541dbca2c81ad4468f1d48b08c6c86cd"
     },
     "xIuMLWHw": {
       "title": "应用",
-      "body": ""
+      "body": "",
+      "sourceHash": "a1aefdf506f3620d18c08a05b4036383737f65085afa2a7a727dc72f17588ac5"
     },
     "MpeVkZfN": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "FEPXFSqp": {
       "title": "消息",
-      "body": "**消息系统**\n\n无论身处世界中的何处，玩家都可以通过游戏内的消息系统交流。\n\n发送消息前，必须先通过[Socialink交换联系方式](https://trello.com/c/0hQv7H95/98-socialink)添加对方。这项手机功能用于管理联系和联系人。双方通过Social Link建立联系后，就会出现在彼此的联系人列表中。\n\n发送消息的方法：\n\n1. 打开手机。\n2. 进入“联系人”。\n3. 选择想要发消息的人。\n4. 按“消息”打开对话。\n5. 输入文字并发送。\n\n接收者会收到消息，并可打开手机、查看对话后回复。双方无需靠近，可以在游戏世界中的任何地方交流。\n\n所有对话都会保存在消息历史中，随时可以通过手机重新查看。"
+      "body": "**消息系统**\n\n无论身处世界中的何处，玩家都可以通过游戏内的消息系统交流。\n\n发送消息前，必须先通过[Socialink交换联系方式](https://trello.com/c/0hQv7H95/98-socialink)添加对方。这项手机功能用于管理联系和联系人。双方通过Social Link建立联系后，就会出现在彼此的联系人列表中。\n\n发送消息的方法：\n\n1. 打开手机。\n2. 进入“联系人”。\n3. 选择想要发消息的人。\n4. 按“消息”打开对话。\n5. 输入文字并发送。\n\n接收者会收到消息，并可打开手机、查看对话后回复。双方无需靠近，可以在游戏世界中的任何地方交流。\n\n所有对话都会保存在消息历史中，随时可以通过手机重新查看。",
+      "sourceHash": "75016c10acbe514360016d299f9dae2ea5b2b3fea1d5d70708a571a17be4bbdf"
     },
     "BdEwTBRt": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "mRAr8GBX": {
       "title": "联系人",
-      "body": "**联系人**\n\n“联系人”应用类似普通智能手机的通讯录，可以保存和管理认识的人，并拨打电话。通话功能允许玩家通过语音聊天交谈。\n\n通过Social Link添加角色后，对方信息会自动存入联系人列表。之后便可以方便地查看对方资料、发送消息，并使用手机支持的其他互动功能。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“联系人”。\n3. 浏览已保存的联系人，或选择某个人。\n4. 打开对方的联系人页面，查看可用操作。\n\n这项应用便于记录在游戏中认识的朋友。通过Social Link添加的玩家会保留在联系人列表中。\n\n列表按便于快速访问的方式组织，让你轻松找到并联系他人，不必每次重新寻找。"
+      "body": "**联系人**\n\n“联系人”应用类似普通智能手机的通讯录，可以保存和管理认识的人，并拨打电话。通话功能允许玩家通过语音聊天交谈。\n\n通过Social Link添加角色后，对方信息会自动存入联系人列表。之后便可以方便地查看对方资料、发送消息，并使用手机支持的其他互动功能。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“联系人”。\n3. 浏览已保存的联系人，或选择某个人。\n4. 打开对方的联系人页面，查看可用操作。\n\n这项应用便于记录在游戏中认识的朋友。通过Social Link添加的玩家会保留在联系人列表中。\n\n列表按便于快速访问的方式组织，让你轻松找到并联系他人，不必每次重新寻找。",
+      "sourceHash": "a8341ef087770d9a3bc41b59c76cfcf2d7f2949da41a6d1183dc5cf047c676ca"
     },
     "8oZSXA51": {
       "title": "手机首页",
-      "body": "# 欢迎界面\n\n每次打开手机都会出现这个界面，其中有菜单按钮、时间、日期，下方还有几朵花。按“确定”或对应绑定键即可进入应用界面，也可以按侧边按钮直接进入消息或电话应用。"
+      "body": "# 欢迎界面\n\n每次打开手机都会出现这个界面，其中有菜单按钮、时间、日期，下方还有几朵花。按“确定”或对应绑定键即可进入应用界面，也可以按侧边按钮直接进入消息或电话应用。",
+      "sourceHash": "678e83a679ee4643fc38da644d7e54ee2ee083354ef36b72d67ceddb5e6074d3"
     },
     "g1DyQ5jl": {
       "title": "手机游戏",
-      "body": "**游戏**\n\n“游戏”应用让玩家直接用游戏内的手机体验一系列经典小游戏。无论是等朋友、在活动间隙休息，还是单纯想打发时间，都可以在这里找到熟悉的街机风格游戏。\n\n进入方法：\n\n1. 打开手机。\n2. 选择“游戏”。\n3. 在游戏库中选择一款。\n4. 立即开始游玩。\n\n游戏库包括以下经典作品：\n\n- Snake（贪吃蛇）：引导不断变长的蛇在屏幕中移动，同时避免碰撞。\n- Flappy Bird：把握点击时机，穿过障碍。\n- 2048：合并数字相同的方块，争取尽可能高的分数。\n- 以及许多其他经典或复古风格游戏。\n\n所有小游戏都可以直接在手机上进行，无需离开游戏世界，适合休息时消遣。之后可能继续加入更多游戏，扩展可玩的内容。\n\n无论是挑战高分还是随意游玩，这个应用都将经典手机游戏带进了游戏世界。"
+      "body": "**游戏**\n\n“游戏”应用让玩家直接用游戏内的手机体验一系列经典小游戏。无论是等朋友、在活动间隙休息，还是单纯想打发时间，都可以在这里找到熟悉的街机风格游戏。\n\n进入方法：\n\n1. 打开手机。\n2. 选择“游戏”。\n3. 在游戏库中选择一款。\n4. 立即开始游玩。\n\n游戏库包括以下经典作品：\n\n- Snake（贪吃蛇）：引导不断变长的蛇在屏幕中移动，同时避免碰撞。\n- Flappy Bird：把握点击时机，穿过障碍。\n- 2048：合并数字相同的方块，争取尽可能高的分数。\n- 以及许多其他经典或复古风格游戏。\n\n所有小游戏都可以直接在手机上进行，无需离开游戏世界，适合休息时消遣。之后可能继续加入更多游戏，扩展可玩的内容。\n\n无论是挑战高分还是随意游玩，这个应用都将经典手机游戏带进了游戏世界。",
+      "sourceHash": "03f88f411e8eb8ae08635bb42bf9082bbd5a2261d495eeff8107cfb7e6d25f2d"
     },
     "W4DARSSV": {
       "title": "应用界面",
-      "body": "# 应用界面\n\n这里展示所有应用的名称和对应图标。顶部显示手机电量百分比（目前为无限电量）和信号格数。"
+      "body": "# 应用界面\n\n这里展示所有应用的名称和对应图标。顶部显示手机电量百分比（目前为无限电量）和信号格数。",
+      "sourceHash": "7df520e72d9d01e57015d1b8074b87895a9b9f92b3e9b71656901a9c9207c45b"
     },
     "0hQv7H95": {
       "title": "Socialink交换联系人",
-      "body": "**Social Link（交换联系方式）**\n\nSocial Link让玩家快速交换联系信息，类似现代智能手机的联系人共享功能。\n\n两名角色靠近时，可以在各自手机上打开这项功能并让手机靠近。建立连接后，双方即可立即交换联系信息，无需手动输入姓名或其他资料。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Social Link。\n3. 请另一名玩家也打开Social Link。\n4. 将两部手机靠近。\n5. 确认连接请求。\n\n交换成功后，双方会自动加入彼此的联系人列表。之后可以发送消息、保持联系，并使用未来需要已保存联系人的手机功能。\n\nSocial Link是结识新朋友、建立游戏内社交网络的主要方式，让你方便快捷地联系在世界中遇到的人。"
+      "body": "**Social Link（交换联系方式）**\n\nSocial Link让玩家快速交换联系信息，类似现代智能手机的联系人共享功能。\n\n两名角色靠近时，可以在各自手机上打开这项功能并让手机靠近。建立连接后，双方即可立即交换联系信息，无需手动输入姓名或其他资料。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Social Link。\n3. 请另一名玩家也打开Social Link。\n4. 将两部手机靠近。\n5. 确认连接请求。\n\n交换成功后，双方会自动加入彼此的联系人列表。之后可以发送消息、保持联系，并使用未来需要已保存联系人的手机功能。\n\nSocial Link是结识新朋友、建立游戏内社交网络的主要方式，让你方便快捷地联系在世界中遇到的人。",
+      "sourceHash": "80b0a3bbad5b15a6d7beef500dda6bad561a0b7c603e611d702cda40254177b6"
     },
     "zIAlqMLP": {
       "title": "Line消息",
-      "body": "# Line消息应用\n\n这是手机上主要的通信工具，也是应用列表中的第一个应用。打开后会显示已保存的联系人，可以随时向他们发送私信。消息支持跨服务器发送，即使朋友在不同服务器也能联系。\n\n消息时间戳采用发送时的游戏内时间。间隔1天或更久的消息，会在对话开头标明日期。\n\n### 屏蔽联系人\n\n打开Line并进入消息页面后，右上角有屏蔽图标。点击后图标变红，对方将无法联系你，直到你解除屏蔽；解除之前，你也无法联系对方。"
+      "body": "# Line消息应用\n\n这是手机上主要的通信工具，也是应用列表中的第一个应用。打开后会显示已保存的联系人，可以随时向他们发送私信。消息支持跨服务器发送，即使朋友在不同服务器也能联系。\n\n消息时间戳采用发送时的游戏内时间。间隔1天或更久的消息，会在对话开头标明日期。\n\n### 屏蔽联系人\n\n打开Line并进入消息页面后，右上角有屏蔽图标。点击后图标变红，对方将无法联系你，直到你解除屏蔽；解除之前，你也无法联系对方。",
+      "sourceHash": "a9292fb2cf6258a9d3c9f19f58b09034be536245908ba4eb1b0d6b149c9ebb1b"
     },
     "nPFd708y": {
       "title": "Japanify音乐",
-      "body": "Japanify是内置音乐库，方便玩家浏览、收听音乐。在同一界面中可以查看喜欢的歌曲、探索歌单、收听喜爱歌手的作品，以及搜索最近加入的歌曲，方便发现和整理音乐，丰富游戏体验。"
+      "body": "Japanify是内置音乐库，方便玩家浏览、收听音乐。在同一界面中可以查看喜欢的歌曲、探索歌单、收听喜爱歌手的作品，以及搜索最近加入的歌曲，方便发现和整理音乐，丰富游戏体验。",
+      "sourceHash": "f61468e97e9824ab40d7677ef249854684536a1f293c2f822e73d29a2f3bbfb3"
     },
     "88OaKijG": {
       "title": "拨号",
-      "body": "# 拨号应用\n\n打开后，屏幕顶部有输入框，可以输入任何人的手机号码并拨打电话。底部还有引导你使用Socialink的文字，以及直接跳转到该应用的按钮。"
+      "body": "# 拨号应用\n\n打开后，屏幕顶部有输入框，可以输入任何人的手机号码并拨打电话。底部还有引导你使用Socialink的文字，以及直接跳转到该应用的按钮。",
+      "sourceHash": "8366fa00fcbe850ed6a5ff1e699a2bb8e2db029ca89ebac27837bbe7b105b836"
     },
     "9b33yqnT": {
       "title": "YenApp转账",
-      "body": "**Yen（日元支付）**\n\nYen是游戏的数字支付平台，让玩家通过手机即时收付日元。类似现代移动支付服务，玩家无需当面交换现金就能轻松转账。\n\n设置应用时，需要选择一个唯一的收款标签，相当于个人支付用户名。其他玩家可以搜索这个标签，找到你并转账。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Yen支付应用。\n3. 搜索对方的收款标签，或选择已保存的联系人。\n4. 输入要发送的金额。\n5. 确认付款。\n\n功能包括：\n\n- 收款标签：用于识别账户的唯一用户名。\n- 付款：直接向其他玩家转账日元。\n- 收款：其他玩家可以通过你的收款标签向你转账。\n- 交易记录：查看以往的付款、转账和收款。\n- 标签搜索：用收款标签快速找到其他玩家并转账。\n\n应用会记录支付活动，方便查看过去的交易，以及资金的收支去向。可用于给朋友付款、分摊开销、购买物品、还债、经营生意，或接收其他玩家发放的工资。\n\nYen应用让玩家无需见面，也能快捷地管理财务和转移游戏内资金。"
+      "body": "**Yen（日元支付）**\n\nYen是游戏的数字支付平台，让玩家通过手机即时收付日元。类似现代移动支付服务，玩家无需当面交换现金就能轻松转账。\n\n设置应用时，需要选择一个唯一的收款标签，相当于个人支付用户名。其他玩家可以搜索这个标签，找到你并转账。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Yen支付应用。\n3. 搜索对方的收款标签，或选择已保存的联系人。\n4. 输入要发送的金额。\n5. 确认付款。\n\n功能包括：\n\n- 收款标签：用于识别账户的唯一用户名。\n- 付款：直接向其他玩家转账日元。\n- 收款：其他玩家可以通过你的收款标签向你转账。\n- 交易记录：查看以往的付款、转账和收款。\n- 标签搜索：用收款标签快速找到其他玩家并转账。\n\n应用会记录支付活动，方便查看过去的交易，以及资金的收支去向。可用于给朋友付款、分摊开销、购买物品、还债、经营生意，或接收其他玩家发放的工资。\n\nYen应用让玩家无需见面，也能快捷地管理财务和转移游戏内资金。",
+      "sourceHash": "5f395db86f9dd11974ab90be2dc3e0a10c7b0eb78702691ab2df3bc5c3fcd8e3"
     },
     "IhVnEdgH": {
       "title": "联系人",
-      "body": "# 联系人应用\n\n打开后显示已保存的联系人。点击联系人，会出现4个选项：\n\n- 呼叫：向该联系人拨打电话。\n- 消息：打开消息应用，并进入与该联系人的对话。\n- 重命名：修改该联系人的名称。\n- 删除：从手机中移除该联系人。"
+      "body": "# 联系人应用\n\n打开后显示已保存的联系人。点击联系人，会出现4个选项：\n\n- 呼叫：向该联系人拨打电话。\n- 消息：打开消息应用，并进入与该联系人的对话。\n- 重命名：修改该联系人的名称。\n- 删除：从手机中移除该联系人。",
+      "sourceHash": "eb85333f2f27ab68651d3304bf02d5741b25e10b620632a2f33cd25d20f7d56d"
     },
     "totrwPaA": {
       "title": "拨号",
-      "body": "**拨号**\n\n拨号应用类似普通电话键盘，可以向联系人列表中的人拨打电话。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“拨号”。\n3. 输入手机号码。\n4. 按呼叫按钮开始拨打。\n\n拨出后，对方的手机会收到来电通知，可以选择接听或忽略。接通后，无论双方身处游戏世界的何处，都可以通过手机交流。\n\n拨号应用提供直接联系其他玩家的方式，适合协调活动、讨论计划，或单纯聊天。"
+      "body": "**拨号**\n\n拨号应用类似普通电话键盘，可以向联系人列表中的人拨打电话。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“拨号”。\n3. 输入手机号码。\n4. 按呼叫按钮开始拨打。\n\n拨出后，对方的手机会收到来电通知，可以选择接听或忽略。接通后，无论双方身处游戏世界的何处，都可以通过手机交流。\n\n拨号应用提供直接联系其他玩家的方式，适合协调活动、讨论计划，或单纯聊天。",
+      "sourceHash": "c727aa77035f90f84197064ecdc3107b7986634d90c9c1256d51d2a55d56b01b"
     },
     "RzHtgAqu": {
       "title": "通话记录",
-      "body": "# 通话记录应用\n\n打开后显示近期通话列表，包括对方姓名、拨打时的时间和日期，以及由你还是对方拨出的标记。\n\n- 来电：由对方拨打。\n- 去电：由你拨打。\n\n点击一条通话记录，还会出现3个选项：\n\n- 回拨：给对方打电话。\n- 消息：给对方发送消息。\n- 保存联系人：将对方保存到联系人列表，并设置名称。"
+      "body": "# 通话记录应用\n\n打开后显示近期通话列表，包括对方姓名、拨打时的时间和日期，以及由你还是对方拨出的标记。\n\n- 来电：由对方拨打。\n- 去电：由你拨打。\n\n点击一条通话记录，还会出现3个选项：\n\n- 回拨：给对方打电话。\n- 消息：给对方发送消息。\n- 保存联系人：将对方保存到联系人列表，并设置名称。",
+      "sourceHash": "4ab8ae3a583d91a2f86af2e523a16a7a17e903fb2e2e32e6604ad45e970bc0fe"
     },
     "35kJ4bVK": {
       "title": "最近通话",
-      "body": "**最近记录**\n\n“最近记录”应用保存近期的手机活动，便于快速联系刚刚交流过的人。\n\n列表会自动记录：\n\n- 来电\n- 去电\n- 通话持续时间\n\n使用方法：\n\n1. 打开手机。\n2. 选择“最近记录”。\n3. 浏览近期活动。\n4. 选择一条记录，查看可用操作。\n\n可以在此菜单中执行：\n\n- 回拨：立即向选定的号码或联系人打电话。\n- 消息：打开对话并发送文字消息。\n- 保存联系人：如果号码尚未保存，将其加入联系人列表。\n\n这项应用使通信更方便快捷，让玩家不必手动搜索联系人，就能重新联系最近交流过的人。"
+      "body": "**最近记录**\n\n“最近记录”应用保存近期的手机活动，便于快速联系刚刚交流过的人。\n\n列表会自动记录：\n\n- 来电\n- 去电\n- 通话持续时间\n\n使用方法：\n\n1. 打开手机。\n2. 选择“最近记录”。\n3. 浏览近期活动。\n4. 选择一条记录，查看可用操作。\n\n可以在此菜单中执行：\n\n- 回拨：立即向选定的号码或联系人打电话。\n- 消息：打开对话并发送文字消息。\n- 保存联系人：如果号码尚未保存，将其加入联系人列表。\n\n这项应用使通信更方便快捷，让玩家不必手动搜索联系人，就能重新联系最近交流过的人。",
+      "sourceHash": "5a66f909e59a1b44c2c5070b7f2157d5058328bfe3e8ef63b6939d36f7d5def7"
     },
     "V6J5Nnps": {
       "title": "手机游戏",
-      "body": "# 游戏应用\n\n打开后会显示包含8款游戏的界面，点击某款即可游玩。游戏如下：\n\n- Snake（贪吃蛇）：控制蛇吃掉小点，让身体变长。\n- Flappy：控制角色上下飞行，穿过水管并避免撞上。\n- Pong（乒乓球）：让球左右反弹，尽量避免球落到己方边界。玩家控制蓝色一侧。\n- Tetris（俄罗斯方块）：移动不同形状的方块，填满一整行将其消除。\n- Breakout（打砖块）：让球上下反弹，击破上方的砖墙。\n- Connect Four（四子棋）：向棋盘放入棋子，设法让4枚棋子连成一线获胜。玩家使用红色棋子。\n- Jumper（跳跃者）：控制跳跃的小点不断跃上平台，尽量不要掉下去。\n- React（反应测试）：屏幕变绿时出现计时信号，测试玩家反应速度，并保存纪录。\n- 2048：移动并合并方块，尽量合并更多方块来取得高分。\n- Space（太空）：移动飞船，射击不断下降的外星人。"
+      "body": "# 游戏应用\n\n打开后会显示包含8款游戏的界面，点击某款即可游玩。游戏如下：\n\n- Snake（贪吃蛇）：控制蛇吃掉小点，让身体变长。\n- Flappy：控制角色上下飞行，穿过水管并避免撞上。\n- Pong（乒乓球）：让球左右反弹，尽量避免球落到己方边界。玩家控制蓝色一侧。\n- Tetris（俄罗斯方块）：移动不同形状的方块，填满一整行将其消除。\n- Breakout（打砖块）：让球上下反弹，击破上方的砖墙。\n- Connect Four（四子棋）：向棋盘放入棋子，设法让4枚棋子连成一线获胜。玩家使用红色棋子。\n- Jumper（跳跃者）：控制跳跃的小点不断跃上平台，尽量不要掉下去。\n- React（反应测试）：屏幕变绿时出现计时信号，测试玩家反应速度，并保存纪录。\n- 2048：移动并合并方块，尽量合并更多方块来取得高分。\n- Space（太空）：移动飞船，射击不断下降的外星人。",
+      "sourceHash": "c49cd117b4dfe9be8883e98618ef0325209524c7b424355a9f7e7fa3de4df473"
     },
     "6y1wwLg0": {
       "title": "手机信息",
-      "body": "**信息**\n\n“信息”应用提供手机账户和个人统计的概览，便于快速查看角色与手机使用情况的重要信息。\n\n页面显示：\n\n- 手机号码：角色唯一的手机号码。\n- 当前日元余额：角色目前可使用的日元金额。\n- 联系人总数：手机中当前保存的联系人数量。\n- 拨出电话总数：角色累计拨打的电话次数。\n- 通话总时长：该角色整个存续期间累计的电话通话时间。\n- 已发送消息总数：通过消息系统累计发送的文字消息数量。\n\n这项应用便于追踪财务、查看通信统计、了解社交网络，并快速确认手机信息。\n\n随着角色结识新人、添加联系人、拨打电话、发送消息、打工和赚钱，信息页面会自动更新，显示最新账户信息及累计活动数据。"
+      "body": "**信息**\n\n“信息”应用提供手机账户和个人统计的概览，便于快速查看角色与手机使用情况的重要信息。\n\n页面显示：\n\n- 手机号码：角色唯一的手机号码。\n- 当前日元余额：角色目前可使用的日元金额。\n- 联系人总数：手机中当前保存的联系人数量。\n- 拨出电话总数：角色累计拨打的电话次数。\n- 通话总时长：该角色整个存续期间累计的电话通话时间。\n- 已发送消息总数：通过消息系统累计发送的文字消息数量。\n\n这项应用便于追踪财务、查看通信统计、了解社交网络，并快速确认手机信息。\n\n随着角色结识新人、添加联系人、拨打电话、发送消息、打工和赚钱，信息页面会自动更新，显示最新账户信息及累计活动数据。",
+      "sourceHash": "08307c4b541f431a4f9a638e85c5f197db3378c52e343efd1776304f60995655"
     },
     "s9dwISQx": {
       "title": "我的手机",
-      "body": "# 我的手机应用\n\n这是一个信息应用，打开后会显示多项手机相关数据。\n\n包括可分享给他人的手机号码、日元余额、联系人数量、已发送消息数量、通话次数和通话总时长。页面还显示手机型号，但型号始终为FOMA 902i。"
+      "body": "# 我的手机应用\n\n这是一个信息应用，打开后会显示多项手机相关数据。\n\n包括可分享给他人的手机号码、日元余额、联系人数量、已发送消息数量、通话次数和通话总时长。页面还显示手机型号，但型号始终为FOMA 902i。",
+      "sourceHash": "f0e7e0c49ace631315e7e2bd435387397ca4b6d916712aa578d3334df085c0d2"
     },
     "dLXMhAs1": {
       "title": "Mixi社交",
-      "body": "**Mixi（社交平台）**\n\nMixi是游戏内的社交媒体平台，玩家可以与他人分享想法、经历和近况。类似现代社交网络应用，玩家可以在这里发帖、与内容互动，并与社区保持联系。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Mixi。\n3. 发布帖子或浏览动态。\n4. 为帖子点赞或回复。\n\n玩家可以分享日常想法、生活近况、角色扮演片段、成就、公告，也可以与其他玩家交流。\n\n功能包括：\n\n- 发布帖子：分享想法、近况和状态消息。\n- 点赞：表达对他人内容的喜爱。\n- 回复帖子：直接在帖子下方参与讨论和交流。\n- 浏览动态：查看其他玩家的帖子，了解世界中正在发生的事。\n\nMixi作为数字社交中心，让玩家表达自己、建立关系、参与社区讨论，并关注游戏世界中其他角色的活动。"
+      "body": "**Mixi（社交平台）**\n\nMixi是游戏内的社交媒体平台，玩家可以与他人分享想法、经历和近况。类似现代社交网络应用，玩家可以在这里发帖、与内容互动，并与社区保持联系。\n\n使用方法：\n\n1. 打开手机。\n2. 选择Mixi。\n3. 发布帖子或浏览动态。\n4. 为帖子点赞或回复。\n\n玩家可以分享日常想法、生活近况、角色扮演片段、成就、公告，也可以与其他玩家交流。\n\n功能包括：\n\n- 发布帖子：分享想法、近况和状态消息。\n- 点赞：表达对他人内容的喜爱。\n- 回复帖子：直接在帖子下方参与讨论和交流。\n- 浏览动态：查看其他玩家的帖子，了解世界中正在发生的事。\n\nMixi作为数字社交中心，让玩家表达自己、建立关系、参与社区讨论，并关注游戏世界中其他角色的活动。",
+      "sourceHash": "120c68b41d2866f0f31ab03dcfab22c519038e565e733cecce6bc5d19cb66028"
     },
     "UnnKiyvl": {
       "title": "Socialink交换联系人",
-      "body": "# Socialink交换联系人应用\n\n这项应用主要用于获取当面遇见的玩家的联系信息。打开后会出现深色界面，顶部有雷达图标，正在搜索同样使用Socialink的人。\n\n附近另一个人打开Socialink后，对方的号码会出现在你的屏幕上，你的号码也会出现在对方屏幕上。点击号码即可将其加入联系人。"
+      "body": "# Socialink交换联系人应用\n\n这项应用主要用于获取当面遇见的玩家的联系信息。打开后会出现深色界面，顶部有雷达图标，正在搜索同样使用Socialink的人。\n\n附近另一个人打开Socialink后，对方的号码会出现在你的屏幕上，你的号码也会出现在对方屏幕上。点击号码即可将其加入联系人。",
+      "sourceHash": "f9906a961a44e1d4aa95f661e3b0855696de130c0db6cf8ff45c329b7f5de1c6"
     },
     "CZJttAPO": {
       "title": "相机",
-      "body": "**相机**\n\n可以使用游戏内的手机拍照。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“相机”。\n3. 在3种自定义滤镜之间切换，选择想要的效果。\n4. 切换前置或后置摄像头。\n5. 拍照。\n\n- 后置摄像头：拍摄场景、环境和其他玩家。\n- 前置摄像头：为自己的角色自拍。\n\n可以在世界中的任何地方即时拍照。\n\n---\n\n**保存照片至Roblox拍摄记录**\n\n拍照后可以将照片保存至Roblox：\n\n1. 打开照片预览。\n2. 选择“保存至拍摄记录”。\n\n图片会存入Roblox拍摄记录，离开游戏后也能通过Roblox账号查看。"
+      "body": "**相机**\n\n可以使用游戏内的手机拍照。\n\n使用方法：\n\n1. 打开手机。\n2. 选择“相机”。\n3. 在3种自定义滤镜之间切换，选择想要的效果。\n4. 切换前置或后置摄像头。\n5. 拍照。\n\n- 后置摄像头：拍摄场景、环境和其他玩家。\n- 前置摄像头：为自己的角色自拍。\n\n可以在世界中的任何地方即时拍照。\n\n---\n\n**保存照片至Roblox拍摄记录**\n\n拍照后可以将照片保存至Roblox：\n\n1. 打开照片预览。\n2. 选择“保存至拍摄记录”。\n\n图片会存入Roblox拍摄记录，离开游戏后也能通过Roblox账号查看。",
+      "sourceHash": "7ef99df317674d69023069cb35fcc85f09b8d2849c77e9dc7141d06c28ba099a"
     },
     "qszWrwf8": {
       "title": "Mixi社交",
-      "body": "# Mixi社交应用\n\n打开后首先选择头像，有图案选项和2项颜色选项。共有21种图案，可以分别更改图案与背景颜色，默认为深橙色和浅橙色。\n\n修改头像后，即可在Mixi中发布任意内容的帖子。这是一个跨服务器的社交媒体应用。可以发布新帖子，也可以打开已有帖子，并为其点赞、评论。"
+      "body": "# Mixi社交应用\n\n打开后首先选择头像，有图案选项和2项颜色选项。共有21种图案，可以分别更改图案与背景颜色，默认为深橙色和浅橙色。\n\n修改头像后，即可在Mixi中发布任意内容的帖子。这是一个跨服务器的社交媒体应用。可以发布新帖子，也可以打开已有帖子，并为其点赞、评论。",
+      "sourceHash": "d1176d4027acfce2110ed9a57a48416fa61b08adb13fec4240f6240ace313112"
     },
     "grprLnmY": {
       "title": "天气",
-      "body": "天气应用可以查看当前游戏内的天气状况，尤其适合角色扮演时规划活动，或根据变化的天气调整安排，无需等到实际遇上天气才知道。玩家随时都能快捷地查看天气预报。"
+      "body": "天气应用可以查看当前游戏内的天气状况，尤其适合角色扮演时规划活动，或根据变化的天气调整安排，无需等到实际遇上天气才知道。玩家随时都能快捷地查看天气预报。",
+      "sourceHash": "4300cb5ed527a8123a3fa972d0f07dc1260adb71185e90fca8fb0492b1fda4cb"
     },
     "KIosQ7Os": {
       "title": "Japanify音乐",
-      "body": "# Japanify音乐应用\n\n打开后会出现多个选项：喜欢的歌曲、歌单、全部歌曲、歌手、最近播放和搜索。佩戴耳机时，音乐会自动通过耳机播放；没有戴耳机时，则使用扬声器外放。"
+      "body": "# Japanify音乐应用\n\n打开后会出现多个选项：喜欢的歌曲、歌单、全部歌曲、歌手、最近播放和搜索。佩戴耳机时，音乐会自动通过耳机播放；没有戴耳机时，则使用扬声器外放。",
+      "sourceHash": "146508691d8ad85c522d225d70c5505f6c29885802bf17c5b36791378987feda"
     },
     "YhlJ6eED": {
       "title": "相机",
-      "body": "# 相机应用\n\n可以自拍，也可以拍摄面前的场景，并有多种滤镜可用。相机还与一项特定的校园拍照工作有关。"
+      "body": "# 相机应用\n\n可以自拍，也可以拍摄面前的场景，并有多种滤镜可用。相机还与一项特定的校园拍照工作有关。",
+      "sourceHash": "e0ccbef7f97753a649bd2c06c917149e324f1da03937e3e3a64ed04a05a56612"
     },
     "gmC3oMcc": {
       "title": "Indeed兼职",
-      "body": "# Indeed兼职应用\n\nIndeed是找工作的主要应用，完成工作可以获得日元。所有工作都是兼职，不会持续多天。目前的工作有：\n\n- Gakumart：在便利店工作，保护店铺并为顾客服务。\n- 校报：担任校报摄影师，拍摄学生或不同地点。"
+      "body": "# Indeed兼职应用\n\nIndeed是找工作的主要应用，完成工作可以获得日元。所有工作都是兼职，不会持续多天。目前的工作有：\n\n- Gakumart：在便利店工作，保护店铺并为顾客服务。\n- 校报：担任校报摄影师，拍摄学生或不同地点。",
+      "sourceHash": "d0305e128995c1ffcacacb1bf43f72a9b0c845eec3f17c39493ca57bc2cb4004"
     },
     "piOPFntF": {
       "title": "YenApp转账",
-      "body": "# YenApp转账\n\nYenApp是供所有人使用的主要银行应用，可以存放日元并转账。首次使用时需要创建收款标签，其他人可以用它向你转账或索款，之后便能进入银行账户。\n\n点击“活动记录”可查看近期所有资金相关活动，包括付款、购买和转账。也可以输入其他人的收款标签，向对方转账或发送索款请求。"
+      "body": "# YenApp转账\n\nYenApp是供所有人使用的主要银行应用，可以存放日元并转账。首次使用时需要创建收款标签，其他人可以用它向你转账或索款，之后便能进入银行账户。\n\n点击“活动记录”可查看近期所有资金相关活动，包括付款、购买和转账。也可以输入其他人的收款标签，向对方转账或发送索款请求。",
+      "sourceHash": "42dc923bf0043d9a8b8dfb8e0c41adfe45c61f9e074d85c5e266e1421959f2ea"
     },
     "IDAVSGcw": {
       "title": "天气",
-      "body": "# 天气应用\n\n显示模拟当前天气的画面，并用文字列出温度和天气读数。"
+      "body": "# 天气应用\n\n显示模拟当前天气的画面，并用文字列出温度和天气读数。",
+      "sourceHash": "72574e18fac82ff54d01d9405f7ed37a92489cfffc18ee16ad4cafe3e528c8e2"
     },
     "4niqIMOY": {
       "title": "Deco手机装饰",
-      "body": "## 商店\n\n开启按主题划分的贴纸包来扩充收藏，不会抽到重复贴纸。点击Deco贴纸册中的任意贴纸包，可以查看其中全部贴纸。每次购买花费¥400，可获得3张新贴纸。\n\n- 开发者Q版贴纸包：4张贴纸\n- 开发者Q版贴纸包2：6张贴纸\n- 印章贴纸包：8张贴纸\n- 涩谷辣妹贴纸包：8张贴纸\n- 漫画贴纸包：8张贴纸\n- 平成复古贴纸包：8张贴纸\n\n商店正下方还有挂件扭蛋，可以抽取各类挂件，并将它们放在手机周围任意位置。\n\n---\n\n## 手机壳颜色与图案\n\n花费日元可自定义手机的基础外观。选择一种颜色，再在贴纸下方叠加图案样式。\n\n**手机壳颜色**\n\n- 免费：钴蓝、石墨黑\n- ¥1,500：珍珠白、樱花粉\n- ¥2,000：薄荷绿、宝石红、青柠绿、橘色\n- ¥2,500：薰衣草紫\n- ¥3,000：金色\n\n**图案**\n\n- 免费：无图案\n- ¥5,000：豹纹、斑马纹\n\n---\n\n## 如何放置贴纸\n\n打开摆放画布，将已解锁贴纸直接排列在手机壳上。\n\n- 电脑端：点击、拖动，或按1至9键，将贴纸贴在上半部或下半部。\n- 移动端／手机：用手指拖动贴纸，转动界面旋钮来旋转贴纸。"
+      "body": "## 商店\n\n开启按主题划分的贴纸包来扩充收藏，不会抽到重复贴纸。点击Deco贴纸册中的任意贴纸包，可以查看其中全部贴纸。每次购买花费¥400，可获得3张新贴纸。\n\n- 开发者Q版贴纸包：4张贴纸\n- 开发者Q版贴纸包2：6张贴纸\n- 印章贴纸包：8张贴纸\n- 涩谷辣妹贴纸包：8张贴纸\n- 漫画贴纸包：8张贴纸\n- 平成复古贴纸包：8张贴纸\n\n商店正下方还有挂件扭蛋，可以抽取各类挂件，并将它们放在手机周围任意位置。\n\n---\n\n## 手机壳颜色与图案\n\n花费日元可自定义手机的基础外观。选择一种颜色，再在贴纸下方叠加图案样式。\n\n**手机壳颜色**\n\n- 免费：钴蓝、石墨黑\n- ¥1,500：珍珠白、樱花粉\n- ¥2,000：薄荷绿、宝石红、青柠绿、橘色\n- ¥2,500：薰衣草紫\n- ¥3,000：金色\n\n**图案**\n\n- 免费：无图案\n- ¥5,000：豹纹、斑马纹\n\n---\n\n## 如何放置贴纸\n\n打开摆放画布，将已解锁贴纸直接排列在手机壳上。\n\n- 电脑端：点击、拖动，或按1至9键，将贴纸贴在上半部或下半部。\n- 移动端／手机：用手指拖动贴纸，转动界面旋钮来旋转贴纸。",
+      "sourceHash": "52cdbe3cfbec2c55406c2210e6e1cd23ab283240ca74282dbc73a5e1ebaba601"
     },
     "gfeuq25I": {
       "title": "DEMAE外送",
-      "body": "# DEMAE外送应用\n\n可以通过手机向地图上的各家店铺下单，选择外送或自取。\n\n---\n\n# 工作\n\n点击DEMAE应用右下角按钮，即可成为配送员。取餐并将订单送达顾客，可以获得评价和日元。领取第一笔订单时，会得到一个红色外送背包。\n\n订单送达后，顾客可以为店铺和食物打出最高5星的评分，并给配送员“好评”或“差评”。店铺评分会显示在DEMAE首页。\n\n---\n\n# 下单\n\n点击一家餐厅即可打开菜单。\n\n点击商品可加入购物车，之后再结账。按“购物车”按钮查看已选商品；进入购物车后，可以选择外送或自取来领取商品。"
+      "body": "# DEMAE外送应用\n\n可以通过手机向地图上的各家店铺下单，选择外送或自取。\n\n---\n\n# 工作\n\n点击DEMAE应用右下角按钮，即可成为配送员。取餐并将订单送达顾客，可以获得评价和日元。领取第一笔订单时，会得到一个红色外送背包。\n\n订单送达后，顾客可以为店铺和食物打出最高5星的评分，并给配送员“好评”或“差评”。店铺评分会显示在DEMAE首页。\n\n---\n\n# 下单\n\n点击一家餐厅即可打开菜单。\n\n点击商品可加入购物车，之后再结账。按“购物车”按钮查看已选商品；进入购物车后，可以选择外送或自取来领取商品。",
+      "sourceHash": "a07bfad910996119d111dc5186c3e34062ae672109c2e6ce1fe186887462f1a5"
     },
     "7bZv4C9A": {
       "title": "地图",
-      "body": "# 地图应用\n\n地图应用。"
+      "body": "# 地图应用\n\n地图应用。",
+      "sourceHash": "f2bb250b468d4e7890682d877ef9ba29ac22b78fe437888c58f07f5425b0cce2"
     },
     "pABZGtpk": {
       "title": "出租车",
-      "body": "出租车应用是游戏内翻盖手机上的快速旅行功能。玩家可以叫出租车，前往城市和校园中的主要地点，缩短长途移动时间，并避免不想遭遇的伏击。\n\n**主要功能与机制：手机入口**\n\n在翻盖手机菜单中选择出租车图标即可进入。可以从指定下车地点列表中选择目的地，例如校门、市中心、体育馆、附近商店和帮派地盘。\n\n**费用：**200日元。\n\n靠近出租车后，会显示“坐进前排／坐进后排以开始”的选项，对话气泡内还会列出200日元的免责费用。\n\n**冷却与限制**\n\n正在战斗或处于硬直状态时无法使用。\n\n抵达目的地后，会显示包含行程详情的确认消息。\n\n此外，手机上还有出租车应用。花费¥100即可从地图上的任何位置呼叫一辆可用出租车，也能查看乘车记录。\n\n叫车演示"
+      "body": "出租车应用是游戏内翻盖手机上的快速旅行功能。玩家可以叫出租车，前往城市和校园中的主要地点，缩短长途移动时间，并避免不想遭遇的伏击。\n\n**主要功能与机制：手机入口**\n\n在翻盖手机菜单中选择出租车图标即可进入。可以从指定下车地点列表中选择目的地，例如校门、市中心、体育馆、附近商店和帮派地盘。\n\n**费用：**200日元。\n\n靠近出租车后，会显示“坐进前排／坐进后排以开始”的选项，对话气泡内还会列出200日元的免责费用。\n\n**冷却与限制**\n\n正在战斗或处于硬直状态时无法使用。\n\n抵达目的地后，会显示包含行程详情的确认消息。\n\n此外，手机上还有出租车应用。花费¥100即可从地图上的任何位置呼叫一辆可用出租车，也能查看乘车记录。\n\n叫车演示",
+      "sourceHash": "bcf934af35f9128b45a24c942f63ef259486f6f84b4e7f6c17c30352ac5a7d0c"
     },
     "9eZTwSdG": {
       "title": "运动应用",
-      "body": "### 运动应用\n\n从菜单中选择运动项目，即可查看当前服务器的空闲场地、排队情况和玩家人数。\n\n- 加入队列：点击一项运动，再按“加入”进入匹配队列。\n- 离开队列：加入后如果改变主意，随时可以退出。"
+      "body": "### 运动应用\n\n从菜单中选择运动项目，即可查看当前服务器的空闲场地、排队情况和玩家人数。\n\n- 加入队列：点击一项运动，再按“加入”进入匹配队列。\n- 离开队列：加入后如果改变主意，随时可以退出。",
+      "sourceHash": "2d75f3089793579a2283f255514db29e9a3e14910871c1568e3c39207ab2d0d4"
     },
     "Th8yS6bK": {
       "title": "地图地点",
-      "body": ""
+      "body": "",
+      "sourceHash": "9b923260ff9de59e676f70e4da18d14ae8745e1171bb58625e8523fc671a3747"
     },
     "ferNDwBJ": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
     },
     "tpMDMAnJ": {
       "title": "Nishikata高中",
-      "body": "Nishikata高中是Gakuran的主要地点，其中包含一些实用区域和功能：\n\n- 战斗后在医务室可获得3倍治疗。\n- 教室和音乐教室是安全区域，会中止任何形式的战斗。\n  - 注意：身上有战斗标记时，无法进入安全区域。\n\n此外，学校还设有洗手间、走廊、屋顶和桌游室等地点。"
+      "body": "Nishikata高中是Gakuran的主要地点，其中包含一些实用区域和功能：\n\n- 战斗后在医务室可获得3倍治疗。\n- 教室和音乐教室是安全区域，会中止任何形式的战斗。\n  - 注意：身上有战斗标记时，无法进入安全区域。\n\n此外，学校还设有洗手间、走廊、屋顶和桌游室等地点。",
+      "sourceHash": "2b793b63471098f7ae43891dd606e1994aad10451d72634bc3017d8a523f4c27"
     },
     "GoQECjPn": {
       "title": "篮球场",
-      "body": "篮球场是一处室外运动区域，供玩家打篮球、与他人相聚。进入后可以看到多块有围栏的球场，配有篮筐、场地标线和侧边球架。\n\n场上有3块蓝色站位垫和3块红色站位垫，可以站上去准备比赛。6块垫子全部亮绿时，表示比赛开始。\n\n球场上方有大型顶棚，空间宽敞，保持开放和明亮。周围设有长椅、自动售货机、室外照明和绿化，方便球员在比赛间隙休息。玩家可以打球、练习投篮、组织比赛、与朋友竞技、参加排位篮球，或单纯在此闲逛和社交。"
+      "body": "篮球场是一处室外运动区域，供玩家打篮球、与他人相聚。进入后可以看到多块有围栏的球场，配有篮筐、场地标线和侧边球架。\n\n场上有3块蓝色站位垫和3块红色站位垫，可以站上去准备比赛。6块垫子全部亮绿时，表示比赛开始。\n\n球场上方有大型顶棚，空间宽敞，保持开放和明亮。周围设有长椅、自动售货机、室外照明和绿化，方便球员在比赛间隙休息。玩家可以打球、练习投篮、组织比赛、与朋友竞技、参加排位篮球，或单纯在此闲逛和社交。",
+      "sourceHash": "ca46e2d927bee3ef6f825e931c547e9003cd25c244754aa3438d18892fc7062b"
     },
     "dycorLoH": {
       "title": "食堂",
-      "body": "食堂位于室外篮球场对面，是供学生就座和社交的宽敞空间。进入后是一间开阔餐厅，铺有光洁木地板，摆放长条野餐桌、小圆桌，座位充足。\n\n食堂前方设有供餐台，菜单牌展示不同餐点，呈现真实学校食堂的氛围。大窗户可以看到室外，温暖的木地板和简洁装潢让室内舒适放松。玩家可以在这里会见朋友、交流、扮演学生，或在各项活动之间休息。"
+      "body": "食堂位于室外篮球场对面，是供学生就座和社交的宽敞空间。进入后是一间开阔餐厅，铺有光洁木地板，摆放长条野餐桌、小圆桌，座位充足。\n\n食堂前方设有供餐台，菜单牌展示不同餐点，呈现真实学校食堂的氛围。大窗户可以看到室外，温暖的木地板和简洁装潢让室内舒适放松。玩家可以在这里会见朋友、交流、扮演学生，或在各项活动之间休息。",
+      "sourceHash": "dcc7bdbcd4c6e1960345271ab3b863646023d67275a8ce6bc1e79067a6357b52"
     },
     "ICcr9cRX": {
       "title": "漫画店",
-      "body": "漫画店位于Nishikata高中外、Dante's Yakiniku烤肉店附近。进店后可以在门边拿起红色购物篮，必须手持购物篮才能挑选漫画。\n\n店内有许多书架，可浏览可购买的漫画。手中有购物篮时，可以选择一册放入篮子，但篮中同时只能放1册。选好后，与前台收银员互动即可付款，交易会立即完成。\n\n把漫画拿在手中，可以打开阅读并随意翻页。读完后，与大多数可互动物品一样，可以将其放下或丢下。\n\n如果把漫画放在篮中却未付款就试图离店，警报会响起，偷拿的商品也会被收回。\n\n**店内可购买以下漫画，每册¥550：**\n\n#### Little Witch Academia（第1至3卷）\n\n#### Morino-san Just Won't Leave Me Be"
+      "body": "漫画店位于Nishikata高中外、Dante's Yakiniku烤肉店附近。进店后可以在门边拿起红色购物篮，必须手持购物篮才能挑选漫画。\n\n店内有许多书架，可浏览可购买的漫画。手中有购物篮时，可以选择一册放入篮子，但篮中同时只能放1册。选好后，与前台收银员互动即可付款，交易会立即完成。\n\n把漫画拿在手中，可以打开阅读并随意翻页。读完后，与大多数可互动物品一样，可以将其放下或丢下。\n\n如果把漫画放在篮中却未付款就试图离店，警报会响起，偷拿的商品也会被收回。\n\n**店内可购买以下漫画，每册¥550：**\n\n#### Little Witch Academia（第1至3卷）\n\n#### Morino-san Just Won't Leave Me Be",
+      "sourceHash": "ecf6600848d7f93967e92fc4351b16c10e02791039667b3422126913988baa57"
     },
     "qBa7irR1": {
       "title": "体育馆",
-      "body": "室内体育馆是一座大型多用途体育设施，供团队比赛和学校活动使用。进门后是一块宽阔的室内场地，配有高大的玻璃屋顶、明亮顶灯、木地板和四周的电子记分牌。\n\n馆内分为不同运动区域。一侧是5对5室内篮球场，有多个篮筐、场地标线、记分牌和供队伍比赛的空间；另一侧是排球场，中间架着高网，配有必要的场地标线和双方队伍的活动空间。\n\n球场周围还有高架走道和观赛区域。开阔布局与专业风格设备，使其适合进行5对5篮球、排球、训练、锦标赛、学校活动及一般社交活动。"
+      "body": "室内体育馆是一座大型多用途体育设施，供团队比赛和学校活动使用。进门后是一块宽阔的室内场地，配有高大的玻璃屋顶、明亮顶灯、木地板和四周的电子记分牌。\n\n馆内分为不同运动区域。一侧是5对5室内篮球场，有多个篮筐、场地标线、记分牌和供队伍比赛的空间；另一侧是排球场，中间架着高网，配有必要的场地标线和双方队伍的活动空间。\n\n球场周围还有高架走道和观赛区域。开阔布局与专业风格设备，使其适合进行5对5篮球、排球、训练、锦标赛、学校活动及一般社交活动。",
+      "sourceHash": "ba7860ff01f3f985ece15f78e05d70ed5f65ecec56e9741167ffccb2a870f4bc"
     },
     "ZuCnYrVV": {
       "title": "Gakumart便利店",
-      "body": "**在Gakumart工作**\n\nGakumart位于Nishikata高中外。\n\n要申请班次，打开手机上的Indeed兼职应用，选择可申请的招聘信息并提交申请。记得留意时间，以便知道何时需要前往Gakumart。\n\n到店后，走到柜台后方，按E换上Gakumart工作服。整个班次期间留在店内即可赚取日元。下班时会自动换回原来的服装。\n\n此外，走近店铺入口处的收银台，可以购买食物。"
+      "body": "**在Gakumart工作**\n\nGakumart位于Nishikata高中外。\n\n要申请班次，打开手机上的Indeed兼职应用，选择可申请的招聘信息并提交申请。记得留意时间，以便知道何时需要前往Gakumart。\n\n到店后，走到柜台后方，按E换上Gakumart工作服。整个班次期间留在店内即可赚取日元。下班时会自动换回原来的服装。\n\n此外，走近店铺入口处的收银台，可以购买食物。",
+      "sourceHash": "f6e5a6ce5c8a7d890a45428c80b941a6669279363a6b0579647ec245e8813b73"
     },
     "j59jRrIR": {
       "title": "足球场",
-      "body": "足球场位于女仆咖啡馆和卡拉OK酒吧附近，是一块大型足球场地，周围有看台和明亮的泛光灯。\n\n进入后可以看到标准大小的草地球场，配有清晰标线、中圈、球门和两侧观众席。宽敞的空间可以用于踢球、训练、组织比赛、举办锦标赛，也可以坐在看台上观赛。\n\n周围的树木、体育场灯光和观众席营造出正式球场的感觉，同时也供玩家相聚、享受活动。"
+      "body": "足球场位于女仆咖啡馆和卡拉OK酒吧附近，是一块大型足球场地，周围有看台和明亮的泛光灯。\n\n进入后可以看到标准大小的草地球场，配有清晰标线、中圈、球门和两侧观众席。宽敞的空间可以用于踢球、训练、组织比赛、举办锦标赛，也可以坐在看台上观赛。\n\n周围的树木、体育场灯光和观众席营造出正式球场的感觉，同时也供玩家相聚、享受活动。",
+      "sourceHash": "65c15d9f54fd7dff117db4efc56734b277e5a73aa8e3d756c474f89a5b3cec75"
     },
     "QtArYbYG": {
       "title": "滑板公园",
-      "body": ""
+      "body": "",
+      "sourceHash": "67d7299275972c22e56e62841279b33c81aa1970b4e5d21394581aa2fc3a7f66"
     },
     "6wf3OPoh": {
       "title": "卡拉OK酒吧",
-      "body": "**卡拉OK酒吧**\n\n这里充满音乐、笑声和欢乐气氛。可以选择喜欢的歌曲，与朋友一起上台演唱，也可以为别人加油。彩色灯光与热闹的音乐营造出活跃氛围，门外的自动售货机还出售清凉饮料。在Dante's Yakiniku烤肉店吃完饭或放学后，可以来这里放松。"
+      "body": "**卡拉OK酒吧**\n\n这里充满音乐、笑声和欢乐气氛。可以选择喜欢的歌曲，与朋友一起上台演唱，也可以为别人加油。彩色灯光与热闹的音乐营造出活跃氛围，门外的自动售货机还出售清凉饮料。在Dante's Yakiniku烤肉店吃完饭或放学后，可以来这里放松。",
+      "sourceHash": "84b9741dc4f15a7a9f5caae11fbdbec6eac332bcedacab35f546fa89069fa461"
     },
     "tmE1rwKK": {
       "title": "Dante's烤肉店",
-      "body": "Dante's Yikiniku是一家位于学校正门最右侧的烤肉店，建筑规模中等偏大，可以进入室内。店内有多种家具和人物，最显眼的是迎宾台后方的迎宾员，每当有人进入都会鞠躬。\n\nDante's Yikiniku属于绿区，禁止在室内打架。\n\n---\n\n## 点餐\n\n进店后前往右侧吧台，与一张吧凳互动并坐下。坐下后会打开菜单，可以购买各种食物。\n\n---"
+      "body": "Dante's Yikiniku是一家位于学校正门最右侧的烤肉店，建筑规模中等偏大，可以进入室内。店内有多种家具和人物，最显眼的是迎宾台后方的迎宾员，每当有人进入都会鞠躬。\n\nDante's Yikiniku属于绿区，禁止在室内打架。\n\n---\n\n## 点餐\n\n进店后前往右侧吧台，与一张吧凳互动并坐下。坐下后会打开菜单，可以购买各种食物。\n\n---",
+      "sourceHash": "860331ac965e6516c1452fd380b860ab603d69f701f6476e1d64d78eed9fb55d"
     },
     "akWxtWF2": {
       "title": "NyanMelo咖啡馆",
-      "body": "NyanMelo咖啡馆位于卡拉OK酒吧旁，环境舒适友好。入口通向温暖放松的室内，装潢时尚，供玩家就座、社交和休闲。\n\n店内有设备齐全的咖啡吧台、座位区、桌子和大窗户，明亮宜人。顾客可在吧台按菜单点单，饮品和甜点包括咖啡、浓缩咖啡、华夫饼、莓果芝士蛋糕、冰淇淋甜筒和糖苹果。\n\n菜单\n\n制服"
+      "body": "NyanMelo咖啡馆位于卡拉OK酒吧旁，环境舒适友好。入口通向温暖放松的室内，装潢时尚，供玩家就座、社交和休闲。\n\n店内有设备齐全的咖啡吧台、座位区、桌子和大窗户，明亮宜人。顾客可在吧台按菜单点单，饮品和甜点包括咖啡、浓缩咖啡、华夫饼、莓果芝士蛋糕、冰淇淋甜筒和糖苹果。\n\n菜单\n\n制服",
+      "sourceHash": "68c7d992636a5ba4f98f241eeebf7ae664f65708ca4565ab85d556508e995e3b"
     },
     "apYo7OLo": {
       "title": "Club Akuma地下俱乐部",
-      "body": "Club Akuma是一家藏在Gakumart后方的地下俱乐部，相较常见场所，氛围更暗、更具另类风格。\n\n进入后首先经过狭窄的地下走廊，墙上布满涂鸦，昏暗的红、紫、绿灯光引导你走向深处。主区域有开阔大厅、小舞台、乐器、架子鼓、麦克风，以及散布房间各处的座位区。\n\n涂鸦墙面、棋盘格地板、彩色灯光和地下布局，让这里粗犷却热闹。玩家可以与朋友闲逛、社交、角色扮演、演奏音乐、举办聚会，或探索地下房间与走廊。这处俱乐部较为隐蔽，适合避开Gakuran繁忙地区相聚。"
+      "body": "Club Akuma是一家藏在Gakumart后方的地下俱乐部，相较常见场所，氛围更暗、更具另类风格。\n\n进入后首先经过狭窄的地下走廊，墙上布满涂鸦，昏暗的红、紫、绿灯光引导你走向深处。主区域有开阔大厅、小舞台、乐器、架子鼓、麦克风，以及散布房间各处的座位区。\n\n涂鸦墙面、棋盘格地板、彩色灯光和地下布局，让这里粗犷却热闹。玩家可以与朋友闲逛、社交、角色扮演、演奏音乐、举办聚会，或探索地下房间与走廊。这处俱乐部较为隐蔽，适合避开Gakuran繁忙地区相聚。",
+      "sourceHash": "6259c540272b2ae4faef04303e47c839f80359d93b49ab3849705f0fbb6648ba"
     },
     "Lbs2Wmfa": {
       "title": "体育馆",
-      "body": ""
+      "body": "",
+      "sourceHash": "bc4ab7dfaf37226850f8602448b5aab8b429a6cacf3fc0cd4e752e491eb46103"
     },
     "VAeLQTUz": {
       "title": "体育馆",
-      "body": ""
+      "body": "",
+      "sourceHash": "4e81003602eaad98f3d0939b07b41f3d40e17cdd33764468026aaa8adf17bd2c"
     },
     "kNasIwii": {
       "title": "漫画店",
-      "body": ""
+      "body": "",
+      "sourceHash": "12b0d98d65a61b5d9e2df7c02af1a46fccef25a3efe2501b79b1c9ac7b64127f"
     },
     "z8BmJzgg": {
       "title": "PS＋私服",
-      "body": ""
+      "body": "",
+      "sourceHash": "95201cfdb094a18bd0f205649f8d18e88dca6828b9c85ff9758ae6ae82b44a19"
     },
     "3A7Qaf1F": {
       "title": "分隔",
-      "body": ""
+      "body": "",
+      "sourceHash": "27795bffa13672fccbd84905cc3fd1b9c279cfb81834aa6de62978cfccbab08d"
+    },
+    "fLtMVx9J": {
+      "title": "动物",
+      "body": "地图各处会出现动物。不同动物有各自的互动，部分行为只有较低概率触发。\n\n## 狗\n- 可以抚摸，摸过后会暂时跟随玩家。\n- 乌鸦可能围住狗并骚扰它，也可能骑在狗身上。\n- 与猫靠得太近时会吠叫，双方可能短暂追逐。\n- 攻击狗会遭到反咬；每只狗会咬5次。附近若有其他狗，也可能一起攻击玩家。\n- 狗有不同外观，会伸懒腰、舔毛、坐下等。\n\n## 猫\n- 跑得太近会让猫发出嘶叫，或向后退。\n- 可以抚摸；原卡作者尚未发现普通抚摸的额外效果。摸得太多会被咬一次。\n- 如果有狗跟着玩家，猫会先嘶叫再跑开。\n- 原卡作者尚未确认猫与乌鸦的专属互动。\n- 原卡记录了2种猫的外观。猫会伸懒腰、清洁身体、睡觉等。\n\n## 乌鸦\n- 玩家死亡时，乌鸦会向其“致意”。\n- 可以喂食；喂食后会提示玩家赢得了它们的好感。\n- 玩家闲置足够久后，乌鸦会聚集到玩家身上。\n- 有极小概率带玩家去见乌鸦之王。\n- 可能把玩家抓起，在空中摆弄。\n- 乌鸦也会骚扰其他动物，猫可能扑向它们。",
+      "sourceHash": "8a3809dd7c32eeba28faae9b2a2e4422a39261db9cbf27ddfc87471fed7f5fbd"
     }
   }
 }

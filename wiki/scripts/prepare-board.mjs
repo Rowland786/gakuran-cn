@@ -1,9 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 const root=process.cwd(),read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const draft=process.argv.includes('--draft');
 const board=read('research/board-live.json'),assets=read('research/board-attachments.json');
 const demos=read('research/board-demos.json').records;
+const sync=read('research/board-sync.json'),annotations=read('research/board-annotations.json').cards;
+if(crypto.createHash('sha256').update(fs.readFileSync('research/board-live.json')).digest('hex')!==sync.sourceSHA256)throw Error('Source snapshot does not match sync record');
 const articles=read('public/data/wiki.json').articles;
 const translations={};
 for(let n=1;n<=3;n++){const p=`research/board-zh-${n}.json`;if(fs.existsSync(p))Object.assign(translations,read(p).cards);else if(!draft)throw Error('Missing translation pack '+n);}
@@ -27,6 +30,8 @@ const notes={
 };
 const missing=board.cards.filter(c=>!translations[c.shortLink]);
 if(missing.length&&!draft)throw Error('Untranslated cards: '+missing.map(c=>c.shortLink).join(','));
+const stale=board.cards.filter(c=>translations[c.shortLink]?.sourceHash!==crypto.createHash('sha256').update(JSON.stringify({name:c.name,desc:c.desc})).digest('hex'));
+if(stale.length&&!draft)throw Error('Stale translations: '+stale.map(c=>c.shortLink).join(','));
 const listNames={Information:'游戏指南',Combat:'战斗机制','Fighting Styles':'战斗风格',Stats:'角色属性',Names:'姓名',Cosmetics:'装扮','Faces (both genders)':'面部',Features:'生活系统',Clubs:'社团',Sports:'运动',Phone:'手机',Locations:'地点','Private Servers':'私服',Updates:'更新日志',Credits:'制作名单'};
 const articleMap=Object.fromEntries(articles.map(a=>[a.id,a.sources[0]?.url.match(/trello\.com\/c\/([^/]+)/)?.[1]]).filter(x=>x[1]));
 const styleMap=new Map(articles.filter(a=>a.id.startsWith('style-')&&a.id!=='style-rarity').map(a=>[articleMap[a.id],a]));
@@ -64,12 +69,12 @@ const cards=[...board.cards].sort((a,b)=>a.pos-b.pos).map(c=>{
  const mediaLines=withMedia.split('\n');
  const cleaned=mediaLines.filter((line,i)=>{if(!/^#{1,6}\s/.test(line))return true;let end=i+1;while(end<mediaLines.length&&!/^#{1,6}\s/.test(mediaLines[end]))end++;return mediaLines.slice(i+1,end).join('\n').replace(/[\s\u200c]/g,'').length>0}).join('\n');
  const body=cleaned.trim()?cleaned:(tr?.body||'');
- const result={id:c.shortLink,title:style?.title||tr?.title||c.name,english:c.name,listId:c.idList,body,original:c.desc,source:c.shortUrl,closed:!!c.closed,separator,cover:cover||null,coverColor:c.cover?.color||null,coverSize:c.cover?.size||'normal',attachments,perks:p?.perks||[],notes:p?.notes||[],articleId:style?.id||null,updated:c.dateLastActivity};
+ const result={id:c.shortLink,title:style?.title||tr?.title||c.name,english:c.name,listId:c.idList,body,original:c.desc,source:c.shortUrl,closed:!!c.closed,separator,cover:cover||null,coverColor:c.cover?.color||null,coverSize:c.cover?.size||'normal',attachments,perks:p?.perks||[],notes:[...(p?.notes||[]),...(annotations[c.shortLink]||[])],articleId:style?.id||null,updated:c.dateLastActivity};
  if(result.id==='kBzBnqqM')result.notes=result.notes.map(n=>n.includes('失败惩罚')?'原卡正文写明：重击落空会令自己倒地。':n);
  return result;
 });
 for(const c of cards){if(!c.title)throw Error('Missing title '+c.id);if(!draft&&c.original.replace(/!\[[^\]]*\]\([^)]*\)/g,'').replace(/[\s‌#*_>~-]/g,'').length&&!c.body)throw Error('Missing translated body '+c.id);for(const a of c.attachments)if(a.local&&!fs.existsSync(path.join('public',a.local)))throw Error('Missing attachment '+a.local);}
-const data={title:'学乱 Wiki',checkedAt:'2026-11-07',source:'https://trello.com/b/v3WatB1P',background:assets.background,lists:[...board.lists].sort((a,b)=>a.pos-b.pos).map(l=>({id:l.id,title:listNames[l.name]||l.name,closed:!!l.closed})),cards,articleMap,stats:{sourceCards:cards.length,activeCards:cards.filter(c=>!c.closed&&!board.lists.find(l=>l.id===c.listId)?.closed).length,translatedCards:Object.keys(translations).length,attachments:Object.keys(assets.attachments).length,localImages:allImagePaths.size,perks:cards.reduce((n,c)=>n+c.perks.length,0),videos:Object.keys(demos).length}};
+const data={title:'学乱 Wiki',checkedAt:sync.checkedAt,source:'https://trello.com/b/v3WatB1P',background:assets.background,lists:[...board.lists].sort((a,b)=>a.pos-b.pos).map(l=>({id:l.id,title:listNames[l.name]||l.name,closed:!!l.closed})),cards,articleMap,stats:{sourceCards:cards.length,activeCards:cards.filter(c=>!c.closed&&!board.lists.find(l=>l.id===c.listId)?.closed).length,translatedCards:cards.filter(c=>translations[c.id]).length,attachments:Object.keys(assets.attachments).length,localImages:allImagePaths.size,perks:cards.reduce((n,c)=>n+c.perks.length,0),videos:cards.reduce((n,c)=>n+c.attachments.filter(a=>a.videoLocal).length,0)}};
 fs.writeFileSync('public/data/board.json',JSON.stringify(data));
-fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：2026-11-07。\n\n来源：https://trello.com/b/v3WatB1P 。直接读取公开 JSON，保留 ${cards.length} 张卡片、19 个分类及 1,630 个附件记录；默认显示13个未归档分类和236张未归档卡片，归档数据通过开关查看。\n\n中文译文按原卡逐项对应，天赋图另译 ${data.stats.perks} 项具名效果。数值、条件、版本和原卡图文差异分别保留；兑换码和数值未在游戏内实测。姓名、歌曲、代码和资产 ID 保留原拼写。纯图片或视频内容保留附件；未把未识别的图片文字冒充已翻译。\n\n${allImagePaths.size} 个附件预览已本地保存，原始文件链接仍指向 Trello。背景图来自原看板，游戏图片与资料归原权利人，本站提供非官方中文翻译。187个动态演示另转为MP4，保留原始时序，在对应说明下直接播放；不再展示英文原文折叠区。\n\n衣柜原作者 Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照 2026-10-21，共1,097项，原图及来源保持。\n\n所有界面资源与数据由本站提供；公开部署采用 GitHub Pages。国内各网络可用性需单独实测。\n`);
+fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：${sync.checkedAt}。源看板最后活动：${sync.sourceLastActivity}。\n\n来源：https://trello.com/b/v3WatB1P 。读取官方公开JSON，保留${cards.length}张卡片、${data.lists.length}个分类和${data.stats.attachments}个附件记录；默认显示${data.lists.filter(l=>!l.closed).length}个未归档分类及${data.stats.activeCards}张未归档卡片。归档资料可切换查看。\n\n中文正文按卡片对应，天赋图另译${data.stats.perks}项具名效果。最新同步包括体验优化更新#5、四种新增V2、动物、发色交换、兑换码、称号、篮球与脸部资产ID。官方单卡未随公告修订的身高、抓取和觉醒名单等内容，另列版本说明。数值和兑换码未经游戏内实测。\n\n${allImagePaths.size}个附件预览与${data.stats.videos}个MP4演示由本站提供。演示保留原始时序，在对应卡片中直接播放；原始附件仍有Trello来源链接。背景图与游戏资料归原权利人。\n\n衣柜原作者Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照2026-10-21，共1,097项，保留原图和署名。\n\n本站为非官方中文资料库，通过GitHub Pages公开部署。国内各网络可用性需单独实测。\n`);
 console.log(JSON.stringify({...data.stats,missing:missing.length,draft}));

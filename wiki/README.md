@@ -2,7 +2,7 @@
 
 官方 Trello 公开资料的非官方中文版。网站：https://rowland786.github.io/gakuran-cn/
 
-294张卡片、19个分类、1,630个附件记录，101项具名天赋逐项翻译。默认展示13个未归档分类，可切换归档资料。衣柜保留Kaglorn的1,097项图鉴及署名。
+297张卡片、19个分类、1,654个附件记录，101项具名天赋逐项翻译。默认展示13个未归档分类，可切换归档资料。衣柜保留Kaglorn的1,097项图鉴及署名。
 
 ## 运行
 
@@ -24,9 +24,9 @@ GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`
 
 图文及版本差异单独保留，未把旧数值和新公告混合成一个未经实测的结论。专名、代码、资产ID与歌曲名保留原拼写。天赋图已有中文文字，图片附件可展开核对，正文展示中文说明。
 
-更新公开源数据使用`node scripts/sync-trello.mjs`，更新附件使用`node scripts/sync-board-assets.mjs`。新增卡片需补充对应中文译文；生成脚本会拒绝缺少翻译的发布数据。
+更新公开源数据使用`node scripts/sync-trello.mjs`，更新附件使用`node scripts/sync-board-assets.mjs`。新增卡片与已修改正文都需同步中文译文；每条译文的sourceHash对应源卡名称与正文，生成脚本会拒绝缺失或过期的翻译。board-sync.json记录抓取时间和源文件指纹；board-annotations.json保存更新公告对旧卡的补充说明。
 
-附件预览随站点提供。187个GIF演示转换为H.264 MP4，直接放在相关说明下，支持播放、暂停、进度和全屏。封面与视频随站点提供，原文件保留来源链接。`research/board-demos.json`记录演示清单。更新演示运行`node scripts/prepare-demo-videos.mjs`，需本机提供ffmpeg、ffprobe与sharp，然后重新生成看板。看板背景和游戏图像来自官方Trello，归原权利人。
+附件预览随站点提供。195个GIF演示转换为H.264 MP4，直接放在相关说明下，支持播放、暂停、进度和全屏。封面与视频随站点提供，原文件保留来源链接。`research/board-demos.json`记录演示清单。更新演示运行`node scripts/prepare-demo-videos.mjs`，需本机提供ffmpeg、ffprobe与sharp，然后重新生成看板。看板背景和游戏图像来自官方Trello，归原权利人。
 
 官方来源：https://trello.com/b/v3WatB1P
 
@@ -34,4 +34,4 @@ GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`
 
 图鉴仓库：https://github.com/Kaglorn/gakuran-clothes
 
-同步日期：2026-11-07。未实测游戏内数值、兑换码与中国大陆各网络连通性。
+同步日期：2026-11-08。未实测游戏内数值、兑换码与中国大陆各网络连通性。

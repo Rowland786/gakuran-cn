@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2026-11-08T01:45:19.691Z",
+  "oldActivity": "2026-11-07T00:33:41.508Z",
+  "newActivity": "2026-11-08T01:25:58.437Z",
+  "oldCards": 294,
+  "newCards": 297,
+  "added": [
+    {
+      "id": "fRDNitMQ",
+      "name": "Hair color swap",
+      "desc": "It’s possible to trade your hair color with someone else if you use the “dap” emote.\nThis is only possible with pink/glacier blue as of now.\n\n![haircolorswap.gif](https://trello.com/1/cards/6aefc8794152e7686a71fb67/attachments/6aefc8e41f304b7865baf968/previews/6aefc8f11f304b7865bb0100/download/haircolorswap.gif)\n\n![image.webp](https://trello.com/1/cards/6aefc8794152e7686a71fb67/attachments/6aefc9304e29c7471ff799df/previews/6aefc9304e29c7471ff799f3/download/image.webp)",
+      "attachments": 2
+    },
+    {
+      "id": "fLtMVx9J",
+      "name": "Animals",
+      "desc": "animals can be found around the map, with each having unique interactions and small chances of doing something\n\n## Dogs\n\n- **You can pet dogs** They will Follow you around temporarily once you pet them\n- **Dogs interaction with crows** Crows that mess with dogs, surrounding the dog and bothering it\n- **Dogs interaction with crows 2** Crows can ride the dogs\n- **Dogs interaction with cats** The dogs can BARK at cats when too close, they can chase one another shortly.\n- **Dogs interaction to attacks** The dogs will BITE you. 5 bites per dog, If another dog is nearby they can team up on you.\n- **dogs can be seen with different variants**\n- **Dog idle** They stretch, lick themselves, sit, etc.\n  ![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6b6e7d0f07a59442d92/previews/6aefc6b6e7d0f07a59442dc2/download/image.webp)\n  ![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc669c780667c36eaee35/previews/6aefc66ac780667c36eaef04/download/image.webp)\n\n## Cats\n\n- **Initial approach** Running towards a cat too close will make it hiss at you or make it back up.\n- **You can pet cats** Nothing happens when you pet them AFAIK, but petting them TOO much will make them bite you once.\n- **Cats interaction with dogs** If a dog is following you, cats will run away after hissing at you.\n- **Cats interaction with crows** Not found\n- **Cats Variety** 2 cat varieties Found\n- **Idle stance** Stretching, cleaning themselves, sleep, etc.\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6e2b4ff4a093c00fc63/previews/6aefc6e2b4ff4a093c00fcaa/download/image.webp)\n\n![Screenshot\\_2026-11-08\\_024827.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6ebc48771fcaa6903a6/previews/6aefc6ecc48771fcaa6904a2/download/Screenshot_2026-11-08_024827.webp)\n\n‌\n\n## Crows\n\n- **Crows will \"respect\" you if you die.**\n- **You can FEED the crows, it will say you're on their good side.**\n- **Crows will gather on top of you if you are idle long enough.**\n- **There’s a really small chance of them taking you to their king.**\n- **Crows can pick you up and play around with you in the air.**\n  Crows can mess around with other animals and cats are able to “jump” them\n\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc52378bc63b8ee507a0a/previews/6aefc52378bc63b8ee507a21/download/image.webp)",
+      "attachments": 7
+    },
+    {
+      "id": "MIZn5wk2",
+      "name": "QOL Update #5",
+      "desc": "## ✨ New\n\n```diff\n+ 4 new V2 styles: mishima, ali (ippo), perfect copy & dragon (master the style to unlock)\n   + perfect copy V2 has an air crit (jump + heavy) & can jump while in combat\n\n+ stray dogs & cats around the streets (pet them & they tag along)\n\n+ crows on poles, wires & trash cans (feed them, befriend them... or get on their bad side)\n\n+ public private servers (put your server on the server list so anyone can join, with tags, a custom look & likes)\n+ battle royale, infection & tug of war game modes for private servers\n+ new dunks (power jam, one hander, tomahawk, windmill & lefty) & hang on the rim after a dunk\n+ hair swap (players with pastel pink or glacier blue hair can swap with each other)\n+ rep in playerlist (like or dislike players with a reason)\n+ a 3rd fighting style slot & up to 5 uniform slots\n+ halloween recap & locker: pick which halloween fits, styles & faces to keep wearing (menu > halloween)\n+ update log on the loading screen (click it to read this & older updates)\n```\n\n## ⚔ Combat / balance\n\n```diff\n+ V2 crits have aura flares, hand & foot trails, camera hits, slow-mo finishers & dust/rubble that match the ground\n+ 1 second of iframes after a grapple or getting up from ragdoll from other players\n- getting hit in the air no longer ragdolls you\n- tall characters' damage buff from last update reverted (reach & health stay)\n# attacks look more synced for parrying\n# losing a grapple shoves you farther away (so you don't get comboed right after)\n# fixed being able to hit someone instantly after winning a grapple\n# fixed m1 swing sounds playing late\n# fixed your first combo anims looking broken after joining or switching style\n# fixed finishers bending your legs into the ground\n# fixed grab m2s flinging players with pvp off\n# fixed bodies getting stuck mid pose or bouncing around after crits\n```\n\n## 🔑 Private servers\n\n```diff\n+ templates (copy another server's roles & settings with a code, or share yours)\n+ event tools (event teams with jerseys, a timer & an info board everyone sees)\n+ click a player to kick, give roles, bring, freeze & more (shift + click to pick several)\n+ lock players inside an area (areas tab)\n+ spectator mode (can't be hit, free camera anywhere)\n+ action log (see who kicked, banned or joined)\n+ change how much a knockdown heals (server tab)\n+ turn npcs & cars on or off (npcs tab)\n# commands panel is a window you can drag & resize\n# fixed fly on mobile\n# fixed others seeing you stand still while you fly\n# fixed turf war spawning people inside walls\n- removed the old skatepark from the areas list\n```\n\n## 🎤 Social / music / profile\n\n```diff\n+ 6 new rhythm songs:\n   + Creeping Death (Metallica), Hero (Primary, y2l), Kiss The Ladder Guitar (Fleshwater), Looping the Rooms (Rusino, Hatsune Miku), Murder Melody (Calt To Follow), Never Fade Away (Samurai)\n+ top sort in the rhythm song wheel & top songs in the phone music app (most played across every server)\n+ rhythm results show how many players you beat\n+ 1v1 win rate for every fight style in stats\n# faces are sharp instead of pixelated\n# fixed piggyback riders making footsteps\n# fixed holding hands, carry & duo emotes at different heights looking weird\n# fixed the music room bass anim making the bass float\n# song wheel on controller no longer plays a different song than the one under your cursor\n- chat no longer adds question marks to your messages by itself\n```\n\n## 🏀 Basketball\n\n```diff\n+ bullet passing (pass while sprinting, normal overhead pass now only when not sprinting)\n+ rims & backboards react (shake on misses, bend when you dunk or hang on rim)\n+ pump fakes (was missing an animation for it)\n# defense counts a lot more (contests work from arm's length)\n# steals & blocks land more often\n# eurosteps no longer force a layup (can shoot, pumpfake, dunk, etc)\n# fading out of bounds or over half court on a jumpshot is legal\n# fadeaways glide reduced by 25%\n# being heavily contested or more will make you fall over\n- cant contest a shot for 1s after a block attempt\n# fixed shoot spam restarting your shot meter\n# fixed shot clock vio being called while the shot is in the air\n# fixed being able to dribble during free throws\n# fixed passes & inbounds to a close teammate going straight through them\n# fixed not being able to catch a give-and-go right after passing\n# fixed greens getting called a bit early or late\n# fixed dribbling for tall & short players (ball follows your hands)\n# fixed getting stuck with an invisible ball after a backcourt catch\n# fixed not being able to grab close misses off the rim right away\n```\n\n## 🏐 Volleyball\n\n```diff\n+ teammates who jump into each other both fall over\n+ the ball squashes & stretches again (without the lag)\n# stamina comes back 2.5x faster\n- no more sprint gliding on front row jumps\n# fixed jumping way too high after emotes or getting hit\n```\n\n## 🏆 All sports\n\n```diff\n# sports stat sheets now also show ur roblox user\n# goal effect sfx improved (sparkle, blaze, thunder, frost, sakura, tempest, meteor & supernova)\n```\n\n## 🌸 World\n\n```diff\n+ cinematic camera on taxi rides\n# traffic unjams itself (cars back up to let each other through)\n# fixed cars machine gunning their horn\n# fixed cars ragdolling people they never actually hit\n# fixed npcs spawning under the map by club akuma\n# fixed skateboard crashes flinging you & tearing your body apart\n# fixed closed trash bins not opening (console)\n```\n\n## ⚡ Performance\n\n```diff\n# fixed one cause of long freezes that got worse the longer you stayed in a server\n# optimization for sports\n# smoother fps on older pcs around town (most of all the soccer stadium)\n# fixed small lag spikes from cars driving off & gripping knocked players\n```\n\n## 🔧 Fixes\n\n```diff\n# fixed a black line on hands in the default male uniform\n# fixed two jump buttons showing on mobile\n# fixed your jump sometimes getting stuck as a tiny hop\n# fixed stats (and other uis) staying in dark mode after switching night theme off\n# fixed knocked players standing back up while still knocked\n# fixed the screen staying blurry after a menu closed mid opening\n# fixed picking up someone's knocked off accessory dragging you into the ground or making you carry them\n# fixed placing food saying \"no room\" when there's room (and it now says why when you can't)\n# uniform page no longer covers the perks page after a badly timed click\n# no-chat icon only shows over people whose messages you really can't see\n```",
+      "attachments": 1
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "id": "9iTXlxpG",
+      "name": "Gakuran Titles",
+      "updated": "2026-11-08T01:25:58.437Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "AmPmoREx",
+      "name": "Codes",
+      "updated": "2026-11-07T22:27:29.538Z",
+      "fields": [
+        "desc"
+      ]
+    },
+    {
+      "id": "kBzBnqqM",
+      "name": "Perfect Copy",
+      "updated": "2026-11-08T00:30:11.932Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "thAfRDEL",
+      "name": "Mishima",
+      "updated": "2026-11-08T00:33:09.467Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "Roh6sIpv",
+      "name": "Ali",
+      "updated": "2026-11-08T00:45:52.562Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "OGlBZDUb",
+      "name": "Dragon",
+      "updated": "2026-11-08T00:38:16.405Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "YSBt05lI",
+      "name": "1%",
+      "updated": "2026-11-08T00:46:38.676Z",
+      "fields": [
+        "desc"
+      ]
+    },
+    {
+      "id": "sraqxK55",
+      "name": "Basketball",
+      "updated": "2026-11-08T00:11:24.327Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "EhxZEPur",
+      "name": "random update",
+      "updated": "2026-11-07T23:22:12.748Z",
+      "fields": [
+        "desc"
+      ]
+    }
+  ],
+  "listChanges": []
+}

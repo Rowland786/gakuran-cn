@@ -1,7 +1,9 @@
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 const root='.';
-let board;
-try{const r=await fetch('https://trello.com/b/v3WatB1P.json',{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error(r.status);board=await r.json();fs.writeFileSync(root+'/research/board-live.json',JSON.stringify(board));}catch(e){console.log('Live fetch unavailable: '+e.message);board=JSON.parse(fs.readFileSync(root+'/research/board-mechanics.json','utf8'));}
+const r=await fetch('https://trello.com/b/v3WatB1P.json',{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error('Official Trello HTTP '+r.status);const board=await r.json();if(!Array.isArray(board.cards)||!Array.isArray(board.lists))throw Error('Invalid board response');
+const snapshot=JSON.stringify(board);fs.writeFileSync(root+'/research/board-live.json',snapshot);
+fs.writeFileSync(root+'/research/board-sync.json',JSON.stringify({checkedAt:new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()),fetchedAt:new Date().toISOString(),sourceLastActivity:board.dateLastActivity,sourceSHA256:crypto.createHash('sha256').update(snapshot).digest('hex')},null,2));
 const plain=s=>s.replace(/!\[[^\]]*\]\([^)]*\)/g,'').replace(/https?:\/\/\S+/g,'').replace(/[\s#*_>~`|\-]/g,'');
 console.log(JSON.stringify({name:board.name,activity:board.dateLastActivity,cards:board.cards.length,attachments:board.cards.reduce((n,c)=>n+c.attachments.length,0),lists:board.lists.map(l=>({id:l.id,name:l.name,count:board.cards.filter(c=>c.idList===l.id).length,chars:board.cards.filter(c=>c.idList===l.id).reduce((n,c)=>n+plain(c.desc).length,0)})),prefs:board.prefs},null,2));
 const packs=[['Information','Combat','Stats','Names'],['Features','Clubs','Sports','Phone','Locations','Private Servers'],['Fighting Styles','Cosmetics','Faces (both genders)','Updates','Credits']];
