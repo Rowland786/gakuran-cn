@@ -8,6 +8,10 @@ const demos=read('research/board-demos.json').records;
 const sync=read('research/board-sync.json'),annotations=read('research/board-annotations.json').cards;
 if(crypto.createHash('sha256').update(fs.readFileSync('research/board-live.json')).digest('hex')!==sync.sourceSHA256)throw Error('Source snapshot does not match sync record');
 const articles=read('public/data/wiki.json').articles;
+const awakening=read('research/awakening-quests.json');
+const awakeningSource=board.cards.find(c=>c.shortLink===awakening.sourceCard);
+if(!awakeningSource||crypto.createHash('sha256').update(JSON.stringify({name:awakeningSource.name,desc:awakeningSource.desc})).digest('hex')!==awakening.sourceHash)throw Error('Awakening source changed; review quest conditions');
+if(crypto.createHash('sha256').update(fs.readFileSync(path.join('public',awakening.reference.local))).digest('hex')!==awakening.reference.sha256)throw Error('Awakening reference changed');
 const translations={};
 for(let n=1;n<=3;n++){const p=`research/board-zh-${n}.json`;if(fs.existsSync(p))Object.assign(translations,read(p).cards);else if(!draft)throw Error('Missing translation pack '+n);}
 const perks={...read('research/perks-a.json').byArticle,...read('research/perks-b.json').byArticle};
@@ -35,6 +39,7 @@ if(stale.length&&!draft)throw Error('Stale translations: '+stale.map(c=>c.shortL
 const listNames={Information:'游戏指南',Combat:'战斗机制','Fighting Styles':'战斗风格',Stats:'角色属性',Names:'姓名',Cosmetics:'装扮','Faces (both genders)':'面部',Features:'生活系统',Clubs:'社团',Sports:'运动',Phone:'手机',Locations:'地点','Private Servers':'私服',Updates:'更新日志',Credits:'制作名单'};
 const articleMap=Object.fromEntries(articles.map(a=>[a.id,a.sources[0]?.url.match(/trello\.com\/c\/([^/]+)/)?.[1]]).filter(x=>x[1]));
 const styleMap=new Map(articles.filter(a=>a.id.startsWith('style-')&&a.id!=='style-rarity').map(a=>[articleMap[a.id],a]));
+const awakeningFlows=Object.entries(awakening.byArticle).map(([articleId,flow])=>{const style=articles.find(a=>a.id===articleId);if(!style||!articleMap[articleId])throw Error('Unknown awakening style '+articleId);if(flow.stages.length!==0&&flow.stages.length!==3)throw Error('Incomplete awakening stages '+articleId);return {...flow,articleId,cardId:articleMap[articleId],title:style.title};});
 const allImagePaths=new Set(Object.values(assets.attachments).filter(a=>a.local).map(a=>a.local));
 function insertDemos(original,translated,attachments){
  const sourceHeads=[...original.matchAll(/^#{1,6}\s+(.+)$/gm)];
@@ -42,7 +47,7 @@ function insertDemos(original,translated,attachments){
  const inserts=new Map();
  let number=0;
  for(const a of attachments.filter(a=>a.videoLocal)){
-  number++;a.label=/m1/i.test(a.name)?'轻击连段':/m2/i.test(a.name)?'重击':'演示 '+number;
+  number++;a.label=a.label||(/m1/i.test(a.name)?'轻击连段':/m2/i.test(a.name)?'重击':'演示 '+number);
   const image=[...original.matchAll(/!\[[^\]]*\]\([^)]*\)/g)].find(m=>m[0].includes(a.id));
   if(!image)continue;
   let headIndex=-1;for(let i=0;i<sourceHeads.length;i++)if(sourceHeads[i].index<image.index)headIndex=i;
@@ -64,17 +69,20 @@ const cards=[...board.cards].sort((a,b)=>a.pos-b.pos).map(c=>{
  if(p&&style.id in notes)p.notes=notes[style.id];
  const cover=assets.attachments[c.cover?.idAttachment]?.local;
  const attachments=c.attachments.map(a=>({...assets.attachments[a.id]||{id:a.id,name:a.name,url:a.url,type:'link'},...(demos[a.id]?{...demos[a.id],type:'video'}:{})}));
+ if(c.shortLink===awakening.sourceCard)for(const a of attachments){const names={kure:'吴',slugger:'重拳手',kickboxing:'踢拳',striker:'突击者',kyokushin:'极真空手道',cqc:'近身格斗'};for(const [key,name] of Object.entries(names))if(a.videoLocal&&a.name.toLowerCase().startsWith(key))a.label=name+' · 觉醒重击';}
  const separator=/^[-_\s]{3,}$/.test(c.name);
  const withMedia=insertDemos(c.desc,tr?.body||'',attachments);
  const mediaLines=withMedia.split('\n');
  const cleaned=mediaLines.filter((line,i)=>{if(!/^#{1,6}\s/.test(line))return true;let end=i+1;while(end<mediaLines.length&&!/^#{1,6}\s/.test(mediaLines[end]))end++;return mediaLines.slice(i+1,end).join('\n').replace(/[\s\u200c]/g,'').length>0}).join('\n');
  const body=cleaned.trim()?cleaned:(tr?.body||'');
  const result={id:c.shortLink,title:style?.title||tr?.title||c.name,english:c.name,listId:c.idList,body,original:c.desc,source:c.shortUrl,closed:!!c.closed,separator,cover:cover||null,coverColor:c.cover?.color||null,coverSize:c.cover?.size||'normal',attachments,perks:p?.perks||[],notes:[...(p?.notes||[]),...(annotations[c.shortLink]||[])],articleId:style?.id||null,updated:c.dateLastActivity};
+ if(style&&awakening.byArticle[style.id])result.awakening=awakeningFlows.find(f=>f.articleId===style.id);
+ if(c.shortLink===awakening.sourceCard)result.awakeningGuide=awakeningFlows;
  if(result.id==='kBzBnqqM')result.notes=result.notes.map(n=>n.includes('失败惩罚')?'原卡正文写明：重击落空会令自己倒地。':n);
  return result;
 });
 for(const c of cards){if(!c.title)throw Error('Missing title '+c.id);if(!draft&&c.original.replace(/!\[[^\]]*\]\([^)]*\)/g,'').replace(/[\s‌#*_>~-]/g,'').length&&!c.body)throw Error('Missing translated body '+c.id);for(const a of c.attachments)if(a.local&&!fs.existsSync(path.join('public',a.local)))throw Error('Missing attachment '+a.local);}
 const data={title:'学乱 Wiki',checkedAt:sync.checkedAt,source:'https://trello.com/b/v3WatB1P',background:assets.background,lists:[...board.lists].sort((a,b)=>a.pos-b.pos).map(l=>({id:l.id,title:listNames[l.name]||l.name,closed:!!l.closed})),cards,articleMap,stats:{sourceCards:cards.length,activeCards:cards.filter(c=>!c.closed&&!board.lists.find(l=>l.id===c.listId)?.closed).length,translatedCards:cards.filter(c=>translations[c.id]).length,attachments:Object.keys(assets.attachments).length,localImages:allImagePaths.size,perks:cards.reduce((n,c)=>n+c.perks.length,0),videos:cards.reduce((n,c)=>n+c.attachments.filter(a=>a.videoLocal).length,0)}};
 fs.writeFileSync('public/data/board.json',JSON.stringify(data));
-fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：${sync.checkedAt}。源看板最后活动：${sync.sourceLastActivity}。\n\n来源：https://trello.com/b/v3WatB1P 。读取官方公开JSON，保留${cards.length}张卡片、${data.lists.length}个分类和${data.stats.attachments}个附件记录；默认显示${data.lists.filter(l=>!l.closed).length}个未归档分类及${data.stats.activeCards}张未归档卡片。归档资料可切换查看。\n\n中文正文按卡片对应，天赋图另译${data.stats.perks}项具名效果。最新同步包括体验优化更新#5、四种新增V2、动物、发色交换、兑换码、称号、篮球与脸部资产ID。官方单卡未随公告修订的身高、抓取和觉醒名单等内容，另列版本说明。数值和兑换码未经游戏内实测。\n\n${allImagePaths.size}个附件预览与${data.stats.videos}个MP4演示由本站提供。演示保留原始时序，在对应卡片中直接播放；原始附件仍有Trello来源链接。背景图与游戏资料归原权利人。\n\n衣柜原作者Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照2026-10-21，共1,097项，保留原图和署名。\n\n本站为非官方中文资料库，通过GitHub Pages公开部署。国内各网络可用性需单独实测。\n`);
+fs.writeFileSync('public/data/research-report.md',`# 学乱 Wiki 资料说明\n\n同步日期：${sync.checkedAt}。源看板最后活动：${sync.sourceLastActivity}。\n\n来源：https://trello.com/b/v3WatB1P 。读取官方公开JSON，保留${cards.length}张卡片、${data.lists.length}个分类和${data.stats.attachments}个附件记录；默认显示${data.lists.filter(l=>!l.closed).length}个未归档分类及${data.stats.activeCards}张未归档卡片。归档资料可切换查看。\n\n中文正文按卡片对应，天赋图另译${data.stats.perks}项具名效果。最新同步包括体验优化更新#5、四种新增V2、动物、发色交换、兑换码、称号、篮球与脸部资产ID。官方单卡未随公告修订的身高、抓取和觉醒名单等内容，另列版本说明。数值和兑换码未经游戏内实测。\n\n觉醒总页和各风格页共整理15种三阶段任务，并列出4种新V2的待补状态。7种流程另对照维护者提供的任务图；该图未标注版本，踢拳与CQC等和Trello旧正文的差异在流程旁保留，不将其当作已确认的官方统一修订。\n\n${allImagePaths.size}个附件预览与${data.stats.videos}个MP4演示由本站提供。演示保留原始时序，在对应卡片中直接播放；原始附件仍有Trello来源链接。背景图与游戏资料归原权利人。\n\n衣柜原作者Kaglorn：https://kaglorn.github.io/gakuran-clothes/ ，仓库：https://github.com/Kaglorn/gakuran-clothes 。图鉴快照2026-10-21，共1,097项，保留原图和署名。\n\n本站为非官方中文资料库，通过GitHub Pages公开部署。国内各网络可用性需单独实测。\n`);
 console.log(JSON.stringify({...data.stats,missing:missing.length,draft}));

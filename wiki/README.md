@@ -18,6 +18,10 @@ npm run build:pages
 
 GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`NEXT_PUBLIC_BASE_PATH=/gakuran-cn`，运行`node scripts/serve-static.mjs`，打开 http://127.0.0.1:5173/gakuran-cn/ 。根域名部署需将此前缀设为空后重新构建。静态文件位于`dist/client/`。
 
+## 觉醒流程
+
+觉醒总页支持筛选，各风格卡直接展示对应阶段。`research/awakening-quests.json`保存15种三阶段任务、4种新V2的条件待补状态和资料差异。任务图与Trello正文不一致时分别标明；任务图未标注版本，不把不同条件合并为已确认结论。生成脚本校验源卡和参考图指纹，来源变化后需重新核对。
+
 ## 资料
 
 `research/board-live.json`保留官方公开JSON快照；`board-zh-1/2/3.json`逐卡保存中文正文；`perks-a/b.json`保存从天赋图逐项译出的名称与效果。`board-attachments.json`记录附件本地预览与原文件URL。生成结果为`public/data/board.json`。

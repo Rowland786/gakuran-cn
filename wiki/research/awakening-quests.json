@@ -1,0 +1,286 @@
+{
+  "sourceCard": "d71UNOzJ",
+  "sourceHash": "fbbfba149e81c5341cbd9544d8db6c20b38b06527b25748eeb5cfd063616ac5a",
+  "reference": {
+    "local": "board-assets/awakening-tasks-reference.webp",
+    "sha256": "9db8fcc398c0c6af804b8c31e2ab4b9cbd3206e8d44234825358c970b3613776",
+    "version": "未标注",
+    "styles": [
+      "style-slugger",
+      "style-kickboxing",
+      "style-striker",
+      "style-aikido",
+      "style-kyokushin-karate",
+      "style-kure",
+      "style-cqc"
+    ]
+  },
+  "byArticle": {
+    "style-jin": {
+      "stages": [
+        {
+          "body": "击倒150名NPC。"
+        },
+        {
+          "body": "招架后2秒内命中同一目标。原卡没有列出需要完成的次数。"
+        },
+        {
+          "body": "夜间在屋顶或园艺区连续坐5分钟，可以使用座位或坐下表情。移动超过2 studs、受伤或进入战斗都会使试炼失败。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-boxing": {
+      "stages": [
+        {
+          "body": "对道场沙袋或玩家命中1500次轻击（M1）。"
+        },
+        {
+          "body": "招架250次。"
+        },
+        {
+          "body": "夜间在道场房间连续打沙袋3分钟，房间内不能有其他玩家。停手超过2.5秒会重置试炼。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-karate": {
+      "stages": [
+        {
+          "body": "在道场沙袋上完成400套完整连段。"
+        },
+        {
+          "body": "击败5名专为自己生成的Taiman。事件在公共服务器每8至15分钟轮流触发。"
+        },
+        {
+          "body": "下雨或下雪时，在室外完成60套完整轻击连段。头顶60 studs内不能有屋顶或其他物体。本阶段可以保存进度。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-taijutsu": {
+      "stages": [
+        {
+          "body": "在道场沙袋上命中2000次。"
+        },
+        {
+          "body": "徒步冲刺60000 studs。坐下、乘滑板或处于空中时不计入。"
+        },
+        {
+          "body": "在道场沙袋上连续命中600次，任何时段都可以。停手超过5秒会重置试炼。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-lethwei": {
+      "stages": [
+        {
+          "body": "破防300次；目标玩家或NPC必须先攻击你。"
+        },
+        {
+          "body": "自身生命值不高于25%时，击倒15名对手。"
+        },
+        {
+          "body": "击败一名街头帮派首领，整场战斗中不能格挡。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-hakari": {
+      "stages": [
+        {
+          "body": "触发200次气势奔涌（Momentum Rush）：连续命中4次干净轻击，且最近3秒内有一次符合公平交战规则的有效命中。"
+        },
+        {
+          "body": "命中200次重击（M2）。"
+        },
+        {
+          "body": "连续击倒5名对手。自己被击倒或被重击命中，会重置连胜。"
+        }
+      ],
+      "notes": [
+        "觉醒任务卡要求连续4次轻击触发气势奔涌；该风格的天赋图写连续3次，两处资料不一致。"
+      ],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-wrestling": {
+      "stages": [
+        {
+          "body": "对NPC命中150次重击（M2）。"
+        },
+        {
+          "body": "赢得100次碰撞抓取对抗。"
+        },
+        {
+          "body": "连续赢下3场Taiman。输掉其中一场会重置连胜。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-muay-thai": {
+      "stages": [
+        {
+          "body": "对符合公平交战规则的对手或沙袋完成300套完整轻击连段。"
+        },
+        {
+          "body": "赢得100次碰撞抓取对抗。"
+        },
+        {
+          "body": "开始Taiman后，站在对手正面25 studs内，面向对手使用鞠躬（Bow）表情；鞠躬后20秒内打出第一击，再赢下战斗。鞠躬前出手会使尝试失败。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ"
+    },
+    "style-kure": {
+      "stages": [
+        {
+          "body": "在公平交战中，对NPC或玩家命中120次重击（M2）。"
+        },
+        {
+          "body": "自身生命值不高于25%时，击倒15名玩家或NPC。"
+        },
+        {
+          "body": "先击倒同一街头帮派的3名成员，再击倒其首领。换到其他帮派会重置进度。"
+        }
+      ],
+      "notes": [
+        "任务图采用“先被攻击或对方还击”的公平交战规则；Trello旧正文对玩家另写“必须由对方先攻击”。"
+      ],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-slugger": {
+      "stages": [
+        {
+          "body": "击倒120名会还击的NPC；从首击开始计数。Trello正文注明可以重复击倒同一NPC。"
+        },
+        {
+          "body": "以重击（M2）作为最后一击，击倒玩家或NPC共40次。"
+        },
+        {
+          "body": "夜间90秒内击倒5名街头事件NPC，例如学校袭击、地盘帮派、群架或暴走族。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-kickboxing": {
+      "stages": [
+        {
+          "body": "命中1000次踢击，即轻击连段的第3、4段；沙袋、玩家和NPC均可作为目标。"
+        },
+        {
+          "body": "对玩家或NPC完成120套完整轻击连段，每套4段，沙袋不计入。"
+        },
+        {
+          "body": "对沙袋完成3轮踢击，每轮25次且须少于45秒；两轮之间休息8至25秒。"
+        }
+      ],
+      "notes": [
+        "任务图列出阶段一需要1000次踢击，Trello旧正文未写数量，且只写沙袋。阶段三的Trello正文同时出现8至20秒、8至25秒两种休息间隔；此处采用任务图的8至25秒。任务图未标注版本，尚无统一的官方修订说明。"
+      ],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-striker": {
+      "stages": [
+        {
+          "body": "在公平交战中，对NPC或玩家命中150次重击（M2）。"
+        },
+        {
+          "body": "用闪避冲刺穿过120次攻击。Trello正文说明玩家或NPC均可，也可在私服完成。"
+        },
+        {
+          "body": "在自身没有受到伤害的战斗中，击倒3名玩家、街头事件NPC或Taiman对手。每场对应战斗都须无伤。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-aikido": {
+      "stages": [
+        {
+          "body": "完美格挡300次。"
+        },
+        {
+          "body": "用闪避冲刺躲过或穿过150次攻击。"
+        },
+        {
+          "body": "在道场连续坐4分钟，不能移动或受击；任何时段、任意坐下表情均可。"
+        }
+      ],
+      "notes": [],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-kyokushin-karate": {
+      "stages": [
+        {
+          "body": "在与NPC或玩家的公平交战中承受500次攻击。"
+        },
+        {
+          "body": "重击蓄力期间受击100次，每次重击最多计入3次受击。"
+        },
+        {
+          "body": "连续击倒10名对手，相邻两次击倒最多间隔60秒。自己被击倒会重置连胜。"
+        }
+      ],
+      "notes": [
+        "任务图采用公平交战规则；Trello旧正文对阶段一另写“不能自己先出手”。"
+      ],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-cqc": {
+      "stages": [
+        {
+          "body": "在公平交战中，于5 studs以内近身命中1000次，轻击（M1）或重击（M2）都可。"
+        },
+        {
+          "body": "最近20秒内被至少3名敌人击中过时，击倒25名目标。"
+        },
+        {
+          "body": "先击倒同一街头帮派的3名成员，再击倒其首领。"
+        }
+      ],
+      "notes": [
+        "任务图将阶段一写为“5 studs内命中1000次”，Trello旧正文写“造成1000点重击伤害”；两者并非同一条件。阶段二的Trello正文只写NPC，任务图未限定目标种类。任务图未标注版本，两处差异均保留，尚未在游戏内验证。"
+      ],
+      "source": "https://trello.com/c/d71UNOzJ",
+      "reference": "board-assets/awakening-tasks-reference.webp"
+    },
+    "style-perfect-copy": {
+      "stages": [],
+      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "notes": [],
+      "source": "https://trello.com/c/MIZn5wk2"
+    },
+    "style-mishima": {
+      "stages": [],
+      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "notes": [],
+      "source": "https://trello.com/c/MIZn5wk2"
+    },
+    "style-ali": {
+      "stages": [],
+      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "notes": [],
+      "source": "https://trello.com/c/MIZn5wk2"
+    },
+    "style-dragon": {
+      "stages": [],
+      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "notes": [],
+      "source": "https://trello.com/c/MIZn5wk2"
+    }
+  }
+}
