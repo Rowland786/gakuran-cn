@@ -23,8 +23,9 @@ assert.ok(b.cards.find(c=>c.id==='YSBt05lI').body.includes('88302441610364'));
 assert.match(b.cards.find(c=>c.id==='KxGUwMZF').notes.join(''),/撤回/);
 const guide=b.cards.find(c=>c.id==='d71UNOzJ').awakeningGuide;
 assert.equal(guide.length,19);
-assert.equal(guide.filter(f=>f.stages.length===3).length,15);
-assert.equal(guide.filter(f=>f.stages.length===0&&f.notice).length,4);
+assert.equal(guide.filter(f=>f.stages.length===3&&f.stages.every(s=>!s.pending)).length,15);
+assert.equal(guide.filter(f=>f.stages.some(s=>s.pending)).length,4);
+for(const [articleId,pattern] of Object.entries({'style-ali':/2000次/,'style-mishima':/250次.*先攻击/,'style-perfect-copy':/招架250次/,'style-dragon':/150名.*NPC/})){const flow=guide.find(f=>f.articleId===articleId);assert.match(flow.stages[0].body,pattern);assert.equal(flow.stages[0].pending,undefined);assert.deepEqual(flow.stages.slice(1).map(s=>s.pending),[true,true]);}
 for(const flow of guide){const style=b.cards.find(c=>c.id===flow.cardId);assert.deepEqual(style.awakening,flow,'Style quest missing '+flow.articleId);for(const stage of flow.stages)assert.ok(stage.body.trim());if(flow.reference)assert.ok(fs.existsSync('public/'+flow.reference));}
 const cqc=b.cards.find(c=>c.articleId==='style-cqc').awakening;
 assert.match(cqc.stages[0].body,/5 studs.*1000次/);
@@ -34,10 +35,17 @@ const kick=b.cards.find(c=>c.articleId==='style-kickboxing').awakening;
 assert.match(kick.stages[0].body,/1000次踢击/);
 assert.match(kick.stages[2].body,/8至25秒/);
 assert.match(kick.notes.join(''),/8至20秒/);
+assert.equal(b.stats.attachments,raw.cards.reduce((n,c)=>n+c.attachments.length,0));
+for(const c of raw.cards){const rendered=b.cards.find(x=>x.id===c.shortLink);for(const a of c.attachments)if(a.mimeType?.startsWith('image/'))assert.ok(rendered.attachments.find(x=>x.id===a.id)?.local,'Missing source image '+a.id);for(const match of c.desc.matchAll(/!\[[^\]]*\]\((https:\/\/trello\.com\/[^)]+)\)/g)){const id=/\/attachments\/([a-f0-9]+)/.exec(match[1])?.[1];if(!id)continue;const a=rendered.attachments.find(x=>x.id===id);assert.ok(a,'Missing embedded attachment '+id);assert.ok(a.local||a.unavailable&&/^HTTP (404|410)$/.test(a.unavailableReason),'Unresolved source reference '+id);}}
+assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/6种猫/);
+assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/驯养乌鸦/);
+assert.match(b.cards.find(c=>c.id==='juZtli72').body,/9种玩法/);
+for(const word of ['足球设置','躲避球设置','橄榄球设置'])assert.ok(b.cards.find(c=>c.id==='juZtli72').body.includes(word));
+assert.ok(!b.cards.find(c=>c.id==='9iTXlxpG').body.includes('## 第一斗士'));
 for(const c of b.cards){assert.ok(!/[。！？]/.test(c.title),'Sentence title: '+c.title);assert.ok(!/!\[[^\]]*\]\(/.test(c.body),'Image syntax in translation '+c.id);for(const p of c.perks){assert.ok(/[\u3400-\u9fff]/.test(p.title));assert.ok(/[\u3400-\u9fff]/.test(p.body));}for(const a of c.attachments)if(a.local)assert.ok(fs.existsSync('public/'+a.local),'Missing local attachment '+a.local);}
 const page=fs.readFileSync('app/page.tsx','utf8');for(const phrase of ['从这里，','重新入学','每个问题','衣柜里，','另一个你','每句话，','有些线索'])assert.ok(!page.includes(phrase),'Promotional heading '+phrase);
 assert.ok(!page.includes('英文原文')&&!page.includes('original-section'),'English original section is still visible');
 assert.match(page,/<video controls playsInline loop preload="none"/);
 const bytes=fs.readdirSync('public/board-assets').reduce((n,f)=>n+fs.statSync('public/board-assets/'+f).size,0);
 assert.ok(bytes<500*1024*1024,'Board media exceeds deployment budget');
-console.log(JSON.stringify({cards:b.cards.length,translated:b.stats.translatedCards,active:b.stats.activeCards,perks:b.stats.perks,attachments:b.stats.attachments,localImages:b.stats.localImages,demos:demos.length,inlineDemos:demos.filter(a=>a.inline).length,mediaBytes:bytes,titles:'short',sourceIds:'matched',missingFiles:0}));
+console.log(JSON.stringify({cards:b.cards.length,translated:b.stats.translatedCards,active:b.stats.activeCards,perks:b.stats.perks,attachments:b.stats.attachments,localImages:b.stats.localImages,demos:b.stats.videos,videoPlacements:demos.length,inlineDemos:demos.filter(a=>a.inline).length,mediaBytes:bytes,titles:'short',sourceIds:'matched',missingFiles:0}));

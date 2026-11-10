@@ -1,6 +1,6 @@
 {
   "sourceCard": "d71UNOzJ",
-  "sourceHash": "fbbfba149e81c5341cbd9544d8db6c20b38b06527b25748eeb5cfd063616ac5a",
+  "sourceHash": "d947ef58534e0fea6b4def12c1ce36e35b25bf569a5b9c034fdd56e8d525cca1",
   "reference": {
     "local": "board-assets/awakening-tasks-reference.webp",
     "sha256": "9db8fcc398c0c6af804b8c31e2ab4b9cbd3206e8d44234825358c970b3613776",
@@ -259,28 +259,72 @@
       "reference": "board-assets/awakening-tasks-reference.webp"
     },
     "style-perfect-copy": {
-      "stages": [],
-      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "stages": [
+        {
+          "body": "招架250次。"
+        },
+        {
+          "body": "官方卡片尚未填写第二阶段条件。",
+          "pending": true
+        },
+        {
+          "body": "官方卡片尚未填写第三阶段条件。",
+          "pending": true
+        }
+      ],
       "notes": [],
-      "source": "https://trello.com/c/MIZn5wk2"
+      "source": "https://trello.com/c/d71UNOzJ"
     },
     "style-mishima": {
-      "stages": [],
-      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "stages": [
+        {
+          "body": "破防250次；目标玩家必须先攻击你。"
+        },
+        {
+          "body": "官方卡片尚未填写第二阶段条件。",
+          "pending": true
+        },
+        {
+          "body": "官方卡片尚未填写第三阶段条件。",
+          "pending": true
+        }
+      ],
       "notes": [],
-      "source": "https://trello.com/c/MIZn5wk2"
+      "source": "https://trello.com/c/d71UNOzJ"
     },
     "style-ali": {
-      "stages": [],
-      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "stages": [
+        {
+          "body": "在道场沙袋上命中2000次。"
+        },
+        {
+          "body": "官方卡片尚未填写第二阶段条件。",
+          "pending": true
+        },
+        {
+          "body": "官方卡片尚未填写第三阶段条件。",
+          "pending": true
+        }
+      ],
       "notes": [],
-      "source": "https://trello.com/c/MIZn5wk2"
+      "source": "https://trello.com/c/d71UNOzJ"
     },
     "style-dragon": {
-      "stages": [],
-      "notice": "已开放V2，精通对应风格后解锁。所查公告与Trello卡片尚未列出各阶段任务条件。",
+      "stages": [
+        {
+          "body": "击倒150名会还击的NPC。"
+        },
+        {
+          "body": "官方卡片尚未填写第二阶段条件。",
+          "pending": true
+        },
+        {
+          "body": "官方卡片尚未填写第三阶段条件。",
+          "pending": true
+        }
+      ],
       "notes": [],
-      "source": "https://trello.com/c/MIZn5wk2"
+      "source": "https://trello.com/c/d71UNOzJ"
     }
   }
 }

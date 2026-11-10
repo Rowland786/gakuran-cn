@@ -1,0 +1,323 @@
+{
+  "checkedAt": "2026-11-10",
+  "fetchedAt": "2026-11-10T07:17:07.821Z",
+  "oldActivity": "2026-11-08T01:25:58.437Z",
+  "newActivity": "2026-11-09T16:41:07.752Z",
+  "oldCards": 297,
+  "newCards": 298,
+  "oldAttachments": 1654,
+  "newAttachments": 1718,
+  "added": [
+    {
+      "id": "eS6dm61i",
+      "name": "Animals",
+      "list": "Features",
+      "desc": "animals can be found around the map, with each having unique interactions and small chances of doing something\n\n## Dogs\n\n- **You can pet dogs** They will Follow you around temporarily once you pet them\n- **Dogs interaction with crows** Crows that mess with dogs, surrounding the dog and bothering it\n- **Dogs interaction with crows 2** Crows can ride the dogs\n- **Dogs interaction with cats** The dogs can BARK at cats when too close, they can chase one another shortly.\n- **Dogs interaction to attacks** The dogs will BITE you. 5 bites per dog, If another dog is nearby they can team up on you.\n- **dogs can be seen with different variants**\n- **Dog idle** They stretch, lick themselves, sit, etc.\n  ![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04aa190bdca6a0a4e60a4/previews/6af04aa290bdca6a0a4e612b/download/image.webp)\n  ‌\n  ![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6b6e7d0f07a59442d92/previews/6aefc6b6e7d0f07a59442dc2/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ab2e10350b9ed598581/previews/6af04ab3e10350b9ed598645/download/image.webp)\n\n---\n\n## Cats\n\n- **Initial approach** Running towards a cat too close will make it hiss at you or make it back up.\n- **You can pet cats** Nothing happens when you pet them, but petting them TOO much will make them bite you once.\n- **Cats interaction with dogs** If a dog is following you, cats will run away after hissing at you.\n- **Cats will Follow you** Cats can follow you, but its a lower chance than dogs, cats will follow you longer than dogs once they start to.\n- **Cats interaction with crows**\n- **Cats Variety** 6 cat varieties\n- **Idle stance** Stretching, cleaning themselves, sleep, etc.\n\n![Screenshot\\_2026-11-08\\_024827.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6ebc48771fcaa6903a6/previews/6aefc6ecc48771fcaa6904a2/download/Screenshot_2026-11-08_024827.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04c3451760d2b9251b672/previews/6af04c3551760d2b9251b7cd/download/image.webp)\n\n## Cat Variant 1:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04b7f093c1157077301c6/previews/6af04b7f093c115707730242/download/image.webp)\n\n## Cat Variant 2:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04b8fec2c79b5da7e85a9/previews/6af04b90ec2c79b5da7e8653/download/image.webp)\n\n## Cat Variant 3:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ba5a03056c4e3c39574/previews/6af04ba6a03056c4e3c39615/download/image.webp)\n\n## Cat Variant 4:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bb72fa0e9b79446a45c/previews/6af04bb82fa0e9b79446a50b/download/image.webp)\n\n## Cat Variant 5:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bca7bd0e3de6f4f4d16/previews/6af04bcb7bd0e3de6f4f4e46/download/image.webp)\n\n## Cat Variant 6:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04be19f29967f42fde932/previews/6af04be19f29967f42fdeadc/download/image.webp)\n\n---\n\n## Crows\n\n- Crows will \"respect\" you if you die.\n- You can FEED the crows, it will say you're on their good side.\n- Crows will gather on top of you if you are idle long enough.\n- There’s a really small chance of them taking you to their king.\n- Crows can pick you up and play around with you in the air.\n- Crows can mess around with other animals and cats are able to “jump” them\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc52378bc63b8ee507a0a/previews/6aefc52378bc63b8ee507a21/download/image.webp)",
+      "attachments": []
+    }
+  ],
+  "removed": [],
+  "changed": [
+    {
+      "id": "9iTXlxpG",
+      "name": "Gakuran Titles",
+      "updated": "2026-11-08T18:03:59.938Z",
+      "fields": [
+        "desc"
+      ]
+    },
+    {
+      "id": "tvPu9v6C",
+      "name": "Want to suggest something/something's missing? Click here",
+      "updated": "2026-11-09T01:09:19.141Z",
+      "fields": [
+        "name",
+        "pos"
+      ]
+    },
+    {
+      "id": "juZtli72",
+      "name": "PS+ Guide",
+      "updated": "2026-11-09T16:02:36.367Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "KxGUwMZF",
+      "name": "Height Based Combat Modifiers",
+      "updated": "2026-11-08T20:12:08.795Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "REzofMOW",
+      "name": "Light Attacks (M1)",
+      "updated": "2026-11-08T20:18:40.346Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "SgpTANHA",
+      "name": "Heavy Attacks (M2)",
+      "updated": "2026-11-08T20:14:43.405Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "9PWlCABc",
+      "name": "Evasive (Dodge)",
+      "updated": "2026-11-08T20:18:07.663Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "N561FvSA",
+      "name": "Block Chip Damage",
+      "updated": "2026-11-08T20:16:42.295Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "RdFMaYle",
+      "name": "Parrying / Perfect Blocking",
+      "updated": "2026-11-08T20:13:27.599Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "0yGqBwsa",
+      "name": "Blocking (Posture)",
+      "updated": "2026-11-08T20:29:08.968Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "99CYuUTb",
+      "name": "Blockbreaks / Guardbreaks",
+      "updated": "2026-11-08T20:15:52.214Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "d71UNOzJ",
+      "name": "Awakenings",
+      "updated": "2026-11-08T03:28:26.185Z",
+      "fields": [
+        "desc",
+        "attachments"
+      ]
+    },
+    {
+      "id": "kBzBnqqM",
+      "name": "Perfect Copy",
+      "updated": "2026-11-08T19:53:31.834Z",
+      "fields": [
+        "desc",
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "thAfRDEL",
+      "name": "Mishima",
+      "updated": "2026-11-08T18:20:26.403Z",
+      "fields": [
+        "desc"
+      ]
+    },
+    {
+      "id": "Roh6sIpv",
+      "name": "Ali",
+      "updated": "2026-11-08T20:03:18.527Z",
+      "fields": [
+        "desc",
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "kLhoQV2k",
+      "name": "Wingchun",
+      "updated": "2026-11-08T20:03:47.907Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "OGlBZDUb",
+      "name": "Dragon",
+      "updated": "2026-11-08T18:20:53.048Z",
+      "fields": [
+        "desc"
+      ]
+    },
+    {
+      "id": "3LJhCTBy",
+      "name": "Capoeira",
+      "updated": "2026-11-08T20:02:11.015Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "Fq0e4oUr",
+      "name": "Wrestling",
+      "updated": "2026-11-08T20:01:07.939Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "BrigvfKd",
+      "name": "Kure",
+      "updated": "2026-11-08T20:00:38.124Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "9zucAqBC",
+      "name": "Boxing",
+      "updated": "2026-11-08T20:00:08.214Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "i4eu9G7Y",
+      "name": "Taijutsu",
+      "updated": "2026-11-08T20:04:31.543Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "jOQcdeSN",
+      "name": "Hikaken",
+      "updated": "2026-11-08T19:59:21.918Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "JeDFZHaO",
+      "name": "Giovanna",
+      "updated": "2026-11-08T19:58:23.551Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "wTEq8I8q",
+      "name": "Kickboxing",
+      "updated": "2026-11-08T20:05:01.774Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "9KpdQtMi",
+      "name": "Muay Thai",
+      "updated": "2026-11-08T19:55:44.297Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "83IdjgYu",
+      "name": "Slugger",
+      "updated": "2026-11-08T19:56:07.131Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "vvwaQffG",
+      "name": "Karate",
+      "updated": "2026-11-08T19:55:22.744Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "JGzGNMSq",
+      "name": "Basic",
+      "updated": "2026-11-08T19:54:26.420Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "b9GGpVSd",
+      "name": "First/Last Names",
+      "updated": "2026-11-08T20:10:07.030Z",
+      "fields": [
+        "cover",
+        "attachments"
+      ]
+    },
+    {
+      "id": "zOgIMnjQ",
+      "name": "Female Limited Uniforms",
+      "updated": "2026-11-09T16:41:07.752Z",
+      "fields": [
+        "attachments"
+      ]
+    },
+    {
+      "id": "fLtMVx9J",
+      "name": "Animals",
+      "updated": "2026-11-09T16:28:37.790Z",
+      "fields": [
+        "desc",
+        "cover",
+        "attachments"
+      ]
+    }
+  ],
+  "listChanges": [],
+  "publishedMatchesLocal": true,
+  "wardrobe": {
+    "upstreamCommit": "137fd0f4b0bf2a19073c5c15613f2293bd2b7f27",
+    "committedAt": "2026-10-21T19:22:44+08:00",
+    "imagesTree": "4feeefaad964194de0eb2efa878c0a1663530f9b",
+    "matchesPublished": true
+  },
+  "embeddedReferences": {
+    "total": 26,
+    "available": 23,
+    "unavailable": 3
+  },
+  "browserVerification": "Not run: browser automation unavailable in this session"
+}
