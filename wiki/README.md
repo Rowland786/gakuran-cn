@@ -18,6 +18,12 @@ npm run build:pages
 
 GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`NEXT_PUBLIC_BASE_PATH=/gakuran-cn`，运行`node scripts/serve-static.mjs`，打开 http://127.0.0.1:5173/gakuran-cn/ 。根域名部署需将此前缀设为空后重新构建。静态文件位于`dist/client/`。
 
+## 图文与演示
+
+原卡正文中的图片和视频随对应中文章节、段落或项目展示。`research/media-layout.json`保存特殊章节映射，`scripts/layout-media.mjs`处理段落位置；觉醒相关媒体直接放在对应风格的流程下。原卡未标注讲解位置的其他附件分别收在补充图片和补充演示中。纯图鉴卡保留图集。
+
+验证执行`node scripts/verify-media-render.mjs`，核对媒体实际渲染及私服、篮球、排球的段落顺序。
+
 ## 觉醒流程
 
 觉醒总页支持筛选，各风格卡直接展示对应阶段。`research/awakening-quests.json`保存15种完整流程，以及4种已公布第一阶段的流程；后两阶段待补，来源差异分别标明。任务图与Trello正文不一致时分别标明；任务图未标注版本，不把不同条件合并为已确认结论。生成脚本校验源卡和参考图指纹，来源变化后需重新核对。

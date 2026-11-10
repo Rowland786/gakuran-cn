@@ -1,8 +1,9 @@
 "use client";
 import {useState} from 'react';
 import {ArrowUpRight} from 'lucide-react';
+import {Media,type Attachment} from './media';
 
-export type Awakening={articleId:string;cardId:string;title:string;stages:{body:string;pending?:boolean}[];notice?:string;notes:string[];source:string;reference?:string};
+export type Awakening={articleId:string;cardId:string;title:string;stages:{body:string;pending?:boolean}[];notice?:string;notes:string[];source:string;reference?:string;media?:Attachment[]};
 const referenceURL=(file:string)=>`${process.env.NEXT_PUBLIC_BASE_PATH||''}/${file}`;
 
 export function AwakeningFlow({flow,linked=false}:{flow:Awakening;linked?:boolean}){
@@ -10,6 +11,7 @@ export function AwakeningFlow({flow,linked=false}:{flow:Awakening;linked?:boolea
  return <article className="awakening-flow"><header><Heading>{linked?<a href={`#/card/${flow.cardId}`}>{flow.title}<ArrowUpRight size={14}/></a>:'觉醒流程'}</Heading>{!linked&&<a href="#/card/d71UNOzJ">通用规则<ArrowUpRight size={13}/></a>}</header>
  {flow.stages.length?<ol className="awakening-stages">{flow.stages.map((stage,i)=><li key={i} className={stage.pending?'stage-pending':undefined}><h4>阶段{['一','二','三'][i]}{stage.pending&&<span>待补</span>}</h4><p>{stage.body}</p></li>)}</ol>:<p className="awakening-pending">{flow.notice}</p>}
  {!!flow.notes.length&&<div className="awakening-notes"><h4>资料差异</h4>{flow.notes.map((note,i)=><p key={i}>{note}</p>)}</div>}
+ {!!flow.media?.length&&<div className="awakening-media">{flow.media.map(media=><Media key={media.id} media={media}/>)}</div>}
  <footer><a href={flow.source} target="_blank" rel="noreferrer">{flow.stages.length?'Trello任务卡':'更新公告'}<ArrowUpRight size={12}/></a>{flow.reference&&<a href={referenceURL(flow.reference)} target="_blank" rel="noreferrer">任务图（版本未标注）<ArrowUpRight size={12}/></a>}</footer>
  </article>
 }

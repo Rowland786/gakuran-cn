@@ -29,7 +29,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aeccf5984925fa15a458e18"
+      ]
     },
     "style-boxing": {
       "stages": [
@@ -44,7 +47,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aecceaedc5a8a74d04ea070"
+      ]
     },
     "style-karate": {
       "stages": [
@@ -59,7 +65,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aecced8f92599532301dd5f"
+      ]
     },
     "style-taijutsu": {
       "stages": [
@@ -74,7 +83,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aeccdcb0e9024729b0ba6cc"
+      ]
     },
     "style-lethwei": {
       "stages": [
@@ -89,7 +101,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aecce40065f421f44b9971f"
+      ]
     },
     "style-hakari": {
       "stages": [
@@ -106,7 +121,10 @@
       "notes": [
         "觉醒任务卡要求连续4次轻击触发气势奔涌；该风格的天赋图写连续3次，两处资料不一致。"
       ],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aecce7cb0b01fa513905cb9"
+      ]
     },
     "style-wrestling": {
       "stages": [
@@ -121,7 +139,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aeccda2483897a8c1442647"
+      ]
     },
     "style-muay-thai": {
       "stages": [
@@ -136,7 +157,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aeccdf529a7fe499465bf32"
+      ]
     },
     "style-kure": {
       "stages": [
@@ -154,7 +178,11 @@
         "任务图采用“先被攻击或对方还击”的公平交战规则；Trello旧正文对玩家另写“必须由对方先攻击”。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aeccad4ee3ca2365b921024",
+        "6ae797296b549cb005b6629b"
+      ]
     },
     "style-slugger": {
       "stages": [
@@ -170,7 +198,11 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aecc8ac80065413d34da079",
+        "6ae797349b4dfb103a9178ce"
+      ]
     },
     "style-kickboxing": {
       "stages": [
@@ -188,7 +220,11 @@
         "任务图列出阶段一需要1000次踢击，Trello旧正文未写数量，且只写沙袋。阶段三的Trello正文同时出现8至20秒、8至25秒两种休息间隔；此处采用任务图的8至25秒。任务图未标注版本，尚无统一的官方修订说明。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aecc87d7433203e096f1e35",
+        "6ae7973f868e4394b120bf58"
+      ]
     },
     "style-striker": {
       "stages": [
@@ -204,7 +240,11 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aecc828455287bdbc38f8e6",
+        "6ae79749aa285c770f0d923b"
+      ]
     },
     "style-aikido": {
       "stages": [
@@ -220,7 +260,10 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6ae669571ccf7400a887176f"
+      ]
     },
     "style-kyokushin-karate": {
       "stages": [
@@ -238,7 +281,11 @@
         "任务图采用公平交战规则；Trello旧正文对阶段一另写“不能自己先出手”。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aeccc55ad4f48090ec84f77",
+        "6ae797535a19736242bb3e13"
+      ]
     },
     "style-cqc": {
       "stages": [
@@ -256,7 +303,11 @@
         "任务图将阶段一写为“5 studs内命中1000次”，Trello旧正文写“造成1000点重击伤害”；两者并非同一条件。阶段二的Trello正文只写NPC，任务图未限定目标种类。任务图未标注版本，两处差异均保留，尚未在游戏内验证。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp"
+      "reference": "board-assets/awakening-tasks-reference.webp",
+      "mediaIds": [
+        "6aeccbffa50338bde7483e25",
+        "6ae7975a7342b9e32935baa0"
+      ]
     },
     "style-perfect-copy": {
       "stages": [
@@ -273,7 +324,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aefec55f886346862014dfa"
+      ]
     },
     "style-mishima": {
       "stages": [
@@ -290,7 +344,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aefec1963613af2294f72d5"
+      ]
     },
     "style-ali": {
       "stages": [
@@ -307,7 +364,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aefec3ce136a95240038fd4"
+      ]
     },
     "style-dragon": {
       "stages": [
@@ -324,7 +384,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ"
+      "source": "https://trello.com/c/d71UNOzJ",
+      "mediaIds": [
+        "6aefebfc173dac4c3d5e956b"
+      ]
     }
   }
 }

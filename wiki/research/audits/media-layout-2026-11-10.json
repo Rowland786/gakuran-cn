@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-10",
+  "contentRelease": "bbef8782d53a81f3e53d56a95e940894b83f6d37",
+  "inlineMedia": 853,
+  "awakeningMedia": 25,
+  "supplementalVideos": 42,
+  "uniqueVideos": 195,
+  "validation": [
+    "source references placed in body or awakening flow",
+    "rendered markup contains every inline asset",
+    "PS guide media follows the corresponding player or NPC step",
+    "basketball and volleyball examples preserve paragraph order",
+    "TypeScript and production build passed"
+  ],
+  "browserVerification": "Not run: browser automation unavailable in this session"
+}

@@ -1,0 +1,874 @@
+{
+  "cards": {
+    "9iTXlxpG": {
+      "headMap": {
+        "0": -1,
+        "1": 0,
+        "2": 1,
+        "3": 2,
+        "4": 3,
+        "5": 4,
+        "6": 5,
+        "7": 6,
+        "8": 7,
+        "9": 8,
+        "10": 9,
+        "11": 10,
+        "12": 11,
+        "13": 12,
+        "14": 13,
+        "15": 14,
+        "16": 15,
+        "17": 16,
+        "18": 17,
+        "19": 18,
+        "20": 19,
+        "21": 20,
+        "22": 21,
+        "23": 22,
+        "24": 23,
+        "25": 24,
+        "26": 25,
+        "27": 26,
+        "28": 27,
+        "29": 28,
+        "30": 29,
+        "31": 30,
+        "32": 31
+      }
+    },
+    "3e9YhKpa": {
+      "refs": {
+        "6ae8947bc75ed0252e36e471": {
+          "heading": "每日奖励日历"
+        },
+        "6ada7a3694c290d548b22cfd": {
+          "heading": "幸运福袋"
+        },
+        "6ae8945923b7eb7c3e1a343e": {
+          "heading": "福袋目前可获得的物品"
+        }
+      }
+    },
+    "N561FvSA": {
+      "refs": {
+        "6ae8978234d833970115a6cc": {
+          "heading": "防御穿透"
+        }
+      }
+    },
+    "RdFMaYle": {
+      "refs": {
+        "6a518b9d7630ab22fed647df": {
+          "heading": "intro"
+        }
+      },
+      "extras": {
+        "6a50f0c321572feeb96cb67f": {
+          "heading": "intro",
+          "label": "招架与完美格挡 · 补充演示"
+        }
+      }
+    },
+    "TYI9U56F": {
+      "refs": {
+        "6a51896b81e8973ab8c1f594": {
+          "heading": "intro"
+        },
+        "6aeb752c547f072d1cce7ea8": {
+          "heading": "抓取触发概率由什么决定？"
+        }
+      },
+      "extras": {
+        "6a50fd7d33c3b8f009c21fd1": {
+          "heading": "intro",
+          "label": "抓取与拼招 · 补充演示"
+        }
+      }
+    },
+    "iFRGfy3b": {
+      "refs": {
+        "6ae89811dbcd250f355b59d1": {
+          "heading": "包含霸体的风格天赋"
+        }
+      }
+    },
+    "KdPngOVR": {
+      "refs": {
+        "6a63e8fc2bcfbc1e440bd3da": {
+          "heading": "可获得的族裔"
+        }
+      }
+    },
+    "2v8rjWwj": {
+      "refs": {
+        "6a51c4588e875ec93dff9b9b": {
+          "heading": "自然发色列表"
+        }
+      }
+    },
+    "kBzBnqqM": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4
+      }
+    },
+    "thAfRDEL": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4
+      }
+    },
+    "Roh6sIpv": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6
+      },
+      "extras": {
+        "6a7115cacc8facdebb994dca": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        }
+      }
+    },
+    "OGlBZDUb": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      }
+    },
+    "BrigvfKd": {
+      "headMap": {
+        "0": 0,
+        "1": 2,
+        "2": 3
+      },
+      "extras": {
+        "6a52765e1f2e0c9e44199080": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        },
+        "6a52776716b58699c5c80c97": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        },
+        "6a52a572b638e633f85de5a3": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        }
+      }
+    },
+    "lmsOGJqg": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 4,
+        "4": 5,
+        "5": 6,
+        "6": 7,
+        "7": 8,
+        "8": 9,
+        "9": 10,
+        "10": 11,
+        "11": 12,
+        "12": 13,
+        "13": 14,
+        "14": 15,
+        "15": 16,
+        "16": 17,
+        "17": 18,
+        "18": 19,
+        "19": 20,
+        "20": 21,
+        "21": 22
+      }
+    },
+    "9dya4Oln": {
+      "refs": {
+        "6ae661b7b0aa48fb4a65cbb7": {
+          "heading": "毒性（Toxic）"
+        },
+        "6ae661b34104bccdd9df98a3": {
+          "heading": "恶魔（Demon）"
+        },
+        "6ae661ad1a918f7dc870a3c4": {
+          "heading": "渡鸦（Raven）"
+        },
+        "6ae661a928cd39c061932a7f": {
+          "heading": "猩红（Scarlet）"
+        },
+        "6ae661a056363c6c5c11625c": {
+          "heading": "Casper"
+        },
+        "6ae6619a925997c5c3793056": {
+          "heading": "秋日（Autumn）"
+        },
+        "6ae7509f659d36bd1fc7ed7c": {
+          "heading": "暗影（shadow）"
+        },
+        "6ae750b5ebb88858a8340ce1": {
+          "heading": "小丑（Jester）"
+        },
+        "6ae750c8bef720984d0dafe5": {
+          "heading": "骷髅（Skeleton）"
+        },
+        "6ae75287f679b1f570fc02eb": {
+          "heading": "稻草人（Scarecrow）"
+        }
+      }
+    },
+    "zOgIMnjQ": {
+      "refs": {
+        "6ae662db9bd3eec1ba335d86": {
+          "heading": "毒性（Toxic）"
+        },
+        "6ae662e910eac3407324f4d9": {
+          "heading": "恶魔（Demon）"
+        },
+        "6ae662f534fec231e3be7680": {
+          "heading": "渡鸦（Raven）"
+        },
+        "6ae66301d5fca0428e6cf292": {
+          "heading": "猩红（Scarlet）"
+        },
+        "6ae663054eb28d1deae0e952": {
+          "heading": "Casper"
+        },
+        "6ae6630a2eca7327057ad224": {
+          "heading": "秋日（Autumn）"
+        },
+        "6ae751728b0b74e4e8e152d4": {
+          "heading": "暗影（Shadow）"
+        },
+        "6ae75184bc4fd14b8c18f4d7": {
+          "heading": "骷髅（Skeleton）"
+        },
+        "6ae75192eef062f60856fa1e": {
+          "heading": "小丑（Jester）"
+        },
+        "6ae7523ef14f48aff443e5e7": {
+          "heading": "稻草人（Scarecrow）"
+        }
+      }
+    },
+    "eS6dm61i": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 3
+      }
+    },
+    "lZmYDREX": {
+      "bold": true
+    },
+    "kivg9zvP": {
+      "headMap": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 5
+      },
+      "refs": {
+        "6a80ce194f5265305172e0ec": {
+          "heading": "独特（0.5%）",
+          "label": "Kakegurui"
+        }
+      }
+    },
+    "6wsnYaPk": {
+      "refs": {
+        "6ae89da241b0cb85cbeb1b45": {
+          "heading": "intro"
+        },
+        "6a7c8b09e71ebca2e9e2fc59": {
+          "heading": "普通",
+          "after": "- 基础（Basic）",
+          "label": "Basic"
+        },
+        "6a7c8b1700149451f8f7531c": {
+          "heading": "普通",
+          "after": "- 天空（Sky）",
+          "label": "Sky"
+        },
+        "6a7c8b21aa6a846437affaf2": {
+          "heading": "普通",
+          "after": "- 枫木（Maple）",
+          "label": "Maple"
+        },
+        "6a7c8b2bb2acb3a4bd2e32fa": {
+          "heading": "普通",
+          "after": "- 闪电（Bolt）",
+          "label": "Bolt"
+        },
+        "6a7c8b35f8f2ea6215ae903c": {
+          "heading": "普通",
+          "after": "- 马球（Polo）",
+          "label": "Polo"
+        },
+        "6aa31028c03806c722a2e09d": {
+          "heading": "普通",
+          "after": "- 复古（Vintage）",
+          "label": "Vintage"
+        },
+        "6aa310366a94977a459ec2e1": {
+          "heading": "普通",
+          "after": "- Bruce Lee",
+          "label": "Bruce Lee"
+        },
+        "6a8132a891afecbc7a95549a": {
+          "heading": "普通",
+          "after": "- 六边形板（Hexaboard）",
+          "label": "Hexaboard"
+        },
+        "6aa315f5e4f9d5d224165ab6": {
+          "heading": "独特",
+          "after": "- 独猫（Lonecat）",
+          "label": "Lonecat"
+        },
+        "6aa310439081c5819f3b1a0d": {
+          "heading": "独特",
+          "after": "- 独猫（Lonecat）",
+          "label": "Lonecat"
+        },
+        "6aa3160737499280f7682971": {
+          "heading": "独特",
+          "after": "- 龙虾泳池派对（LobsterPoolParty）",
+          "label": "LobsterPoolParty"
+        },
+        "6aa3105430018b80cfff1496": {
+          "heading": "独特",
+          "after": "- 龙虾泳池派对（LobsterPoolParty）",
+          "label": "LobsterPoolParty"
+        },
+        "6aa3106196b9e744307cf664": {
+          "heading": "独特",
+          "after": "- 古龙（Ancient Dragon）",
+          "label": "Ancient Dragon"
+        },
+        "6aa3106e28c9b58518ea21c6": {
+          "heading": "独特",
+          "after": "- 天使之翼（Angel Wings）",
+          "label": "Angel Wings"
+        },
+        "6aa316269185d6dbf85bf23b": {
+          "heading": "独特",
+          "after": "- 兔子（Bunny）",
+          "label": "Bunny"
+        },
+        "6aa3107e444f479a4c1bfa7b": {
+          "heading": "独特",
+          "after": "- 兔子（Bunny）",
+          "label": "Bunny"
+        },
+        "6aa3163038d78e1f9b44bcb6": {
+          "heading": "独特",
+          "after": "- 银河板（Galaxy Board）",
+          "label": "Galaxy Board"
+        },
+        "6aa3108e8b2aadac308cafe5": {
+          "heading": "独特",
+          "after": "- 银河板（Galaxy Board）",
+          "label": "Galaxy Board"
+        },
+        "6aa310960b6394d60734349f": {
+          "heading": "独特",
+          "after": "- 一羊二兔（1 Sheep 2 Rabbits）",
+          "label": "1 Sheep 2 Rabbits"
+        },
+        "6aa31641588408134ded9185": {
+          "heading": "独特",
+          "after": "- 雪林（Snowy Woodland）",
+          "label": "Snowy Woodland"
+        },
+        "6a81320dfc5b91c43450bc75": {
+          "heading": "独特",
+          "after": "- 雪林（Snowy Woodland）",
+          "label": "Snowy Woodland"
+        },
+        "6aa310abf1af72c253757729": {
+          "heading": "独特",
+          "after": "- 昆虫阵列（Insect Formation）",
+          "label": "Insect Formation"
+        },
+        "6aa310b5232f254d8890b124": {
+          "heading": "独特",
+          "after": "- 古虎（Ancient Tiger）",
+          "label": "Ancient Tiger"
+        },
+        "6aa310c42a0428b49bb41a7d": {
+          "heading": "独特",
+          "after": "- 鬼（Oni）",
+          "label": "Oni"
+        },
+        "6aa310d0405795207102f33c": {
+          "heading": "独特",
+          "after": "- 乐手节奏（Musicians Rhythm）",
+          "label": "Musicians Rhythm"
+        },
+        "6a80d9096cae66c21c820bcd": {
+          "heading": "独特",
+          "after": "- 云（Cloud）",
+          "label": "Cloud"
+        },
+        "6aa310ea4223985510f10ef9": {
+          "heading": "独特",
+          "after": "- 辣妹板（Gyaru Board）",
+          "label": "Gyaru Board"
+        },
+        "6aa31662e67e3744d57d1b24": {
+          "heading": "独特",
+          "after": "- 蒸汽波（Vaporwave）",
+          "label": "Vaporwave"
+        },
+        "6aa30be66a83ff851ec323f3": {
+          "heading": "独特",
+          "after": "- 蒸汽波（Vaporwave）",
+          "label": "Vaporwave"
+        },
+        "6aa30bd58cb7165c0fd28f3e": {
+          "heading": "独特",
+          "after": "- 交响（Symphony）",
+          "label": "Symphony"
+        },
+        "6aa3166d251c98399ec290bd": {
+          "heading": "独特",
+          "after": "- 绯红花朵（Crimson Flower）",
+          "label": "Crimson Flower"
+        },
+        "6aa30bc69f5e89ee4483faaf": {
+          "heading": "独特",
+          "after": "- 绯红花朵（Crimson Flower）",
+          "label": "Crimson Flower"
+        },
+        "6aa31678ea7fc155a20459d7": {
+          "heading": "独特",
+          "after": "- 故障飞蛾（Glitch Moth）",
+          "label": "Glitch Moth"
+        },
+        "6aa30bb38e9d2ecc88e671c3": {
+          "heading": "独特",
+          "after": "- 故障飞蛾（Glitch Moth）",
+          "label": "Glitch Moth"
+        },
+        "6aa31685c8e595585249c1cf": {
+          "heading": "独特",
+          "after": "- 海洋世界（Ocean World）",
+          "label": "Ocean World"
+        },
+        "6aa30b9db8c53cfe60618c64": {
+          "heading": "独特",
+          "after": "- 海洋世界（Ocean World）",
+          "label": "Ocean World"
+        },
+        "6aa316930486c7adc7267820": {
+          "heading": "独特",
+          "after": "- 悠然生活（Easy Life）",
+          "label": "Easy Life"
+        },
+        "6aa30b893ecf82d002951598": {
+          "heading": "独特",
+          "after": "- 悠然生活（Easy Life）",
+          "label": "Easy Life"
+        },
+        "6a9c7d74244f040b6faf6065": {
+          "heading": "独特",
+          "after": "- 数字幻想（Digital Fantasy）",
+          "label": "Digital Fantasy"
+        },
+        "6aa316a0748216477ae6ef8e": {
+          "heading": "独特",
+          "after": "- 锦鲤祭（Koi Festival）",
+          "label": "Koi Festival"
+        },
+        "6a9c7d88a4e59beca05c6080": {
+          "heading": "独特",
+          "after": "- 锦鲤祭（Koi Festival）",
+          "label": "Koi Festival"
+        },
+        "6a9c7da8a63f6cb455f394f7": {
+          "heading": "独特",
+          "after": "- 毛绒幻想（Plushie Fantasy）",
+          "label": "Plushie Fantasy"
+        },
+        "6aa316ad3440b9a61a555718": {
+          "heading": "独特",
+          "after": "- 水中掠食者（Aquatic Predators）",
+          "label": "Aquatic Predators"
+        },
+        "6a9c7e0ff0c321c7dd12a02f": {
+          "heading": "独特",
+          "after": "- 水中掠食者（Aquatic Predators）",
+          "label": "Aquatic Predators"
+        },
+        "6a9c7e598e54c215c00d3b31": {
+          "heading": "独特",
+          "after": "- 草莓棒棒蛋糕（Strawberry Cake Pop）",
+          "label": "Strawberry Cake Pop"
+        },
+        "6a9c7ebfb6c83c0cefa06838": {
+          "heading": "独特",
+          "after": "- 蔚蓝花朵（Azure Flower）",
+          "label": "Azure Flower"
+        },
+        "6aa316bd17b77e7475271cff": {
+          "heading": "独特",
+          "after": "- 纹记（Markings）",
+          "label": "Markings"
+        },
+        "6a9c7ef9d329a1e64fa6f110": {
+          "heading": "独特",
+          "after": "- 纹记（Markings）",
+          "label": "Markings"
+        },
+        "6aa316c7e506075b1e461c9e": {
+          "heading": "独特",
+          "after": "- 永恒池塘（Eternal Pond）",
+          "label": "Eternal Pond"
+        },
+        "6a9c7f41dd0fc8f4f25e7f74": {
+          "heading": "独特",
+          "after": "- 永恒池塘（Eternal Pond）",
+          "label": "Eternal Pond"
+        },
+        "6aa316d0996fb8416b59bff8": {
+          "heading": "独特",
+          "after": "- 奇点（Singularity）",
+          "label": "Singularity"
+        },
+        "6a9c862daeea7bc09cfd6fe9": {
+          "heading": "独特",
+          "after": "- 奇点（Singularity）",
+          "label": "Singularity"
+        },
+        "6aa316dbf87b602243e126f5": {
+          "heading": "独特",
+          "after": "- 向日葵（Sun Flower）",
+          "label": "Sun Flower"
+        },
+        "6a9c8673197287a1ab57f05f": {
+          "heading": "独特",
+          "after": "- 向日葵（Sun Flower）",
+          "label": "Sun Flower"
+        },
+        "6a7c8b3eaec5529bd151e00a": {
+          "heading": "已停止获取",
+          "after": "- 锦鲤（Koi），独特。",
+          "label": "Koi"
+        },
+        "6a7c8b4663b957e4bf919deb": {
+          "heading": "已停止获取",
+          "after": "- 白虎（White Tiger），独特。",
+          "label": "White Tiger"
+        },
+        "6a7c8b54102a7a10a2ad5301": {
+          "heading": "已停止获取",
+          "after": "- 2003，独特。",
+          "label": "2003"
+        }
+      }
+    },
+    "d71UNOzJ": {
+      "flowIds": [
+        "6aeccf5984925fa15a458e18",
+        "6aecceaedc5a8a74d04ea070",
+        "6aecced8f92599532301dd5f",
+        "6aeccdcb0e9024729b0ba6cc",
+        "6aecce40065f421f44b9971f",
+        "6aecce7cb0b01fa513905cb9",
+        "6aeccda2483897a8c1442647",
+        "6aeccdf529a7fe499465bf32",
+        "6aeccad4ee3ca2365b921024",
+        "6ae797296b549cb005b6629b",
+        "6aecc8ac80065413d34da079",
+        "6ae797349b4dfb103a9178ce",
+        "6aecc87d7433203e096f1e35",
+        "6ae7973f868e4394b120bf58",
+        "6aecc828455287bdbc38f8e6",
+        "6ae79749aa285c770f0d923b",
+        "6ae669571ccf7400a887176f",
+        "6aeccc55ad4f48090ec84f77",
+        "6ae797535a19736242bb3e13",
+        "6aeccbffa50338bde7483e25",
+        "6ae7975a7342b9e32935baa0",
+        "6aefec3ce136a95240038fd4",
+        "6aefec1963613af2294f72d5",
+        "6aefec55f886346862014dfa",
+        "6aefebfc173dac4c3d5e956b"
+      ]
+    },
+    "REzofMOW": {
+      "extras": {
+        "6a50c889c2e024e2c5eb18ab": {
+          "heading": "intro",
+          "label": "轻击（M1） · 补充演示"
+        }
+      }
+    },
+    "SgpTANHA": {
+      "extras": {
+        "6a50ca55e334d16106370f3e": {
+          "heading": "intro",
+          "label": "重击（M2） · 补充演示"
+        },
+        "6a50ca69b2b1be7d893651a7": {
+          "heading": "intro",
+          "label": "重击（M2） · 补充演示"
+        }
+      }
+    },
+    "9PWlCABc": {
+      "extras": {
+        "6a50d46a4a366cf5fd68852c": {
+          "heading": "intro",
+          "label": "闪避 · 补充演示"
+        }
+      }
+    },
+    "0yGqBwsa": {
+      "extras": {
+        "6a50eb73c356367bfd69b1e0": {
+          "heading": "intro",
+          "label": "格挡与架势 · 补充演示"
+        }
+      }
+    },
+    "99CYuUTb": {
+      "extras": {
+        "6a50fa7e13088480dae5b046": {
+          "heading": "intro",
+          "label": "破防 · 补充演示"
+        }
+      }
+    },
+    "GHTxQuCt": {
+      "extras": {
+        "6a517f5f50895f98fcd19e48": {
+          "heading": "intro",
+          "label": "乐器 · 补充演示"
+        }
+      }
+    },
+    "2etq6pf3": {
+      "extras": {
+        "6a50b09d9883ef4b2f9566e0": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        },
+        "6a50b0c90a14435a5d2938a8": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        },
+        "6a70ef5bea4aa186bfce1037": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        },
+        "6a70ef7cf1953495e84d50a5": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        }
+      }
+    },
+    "9zucAqBC": {
+      "extras": {
+        "6a50b344b563ae99bb56f84a": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        }
+      }
+    },
+    "9KpdQtMi": {
+      "extras": {
+        "6a50b56f07c53fac202e1fc8": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        },
+        "6a50b5a04b180aa711cc6f7e": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        }
+      }
+    },
+    "83IdjgYu": {
+      "extras": {
+        "6a50b78ce1c1a15df835077c": {
+          "heading": "轻击连段（M1）",
+          "label": "轻击连段（M1） · 补充演示"
+        },
+        "6a50b7baa5a21c73c0cbf8c7": {
+          "heading": "重击",
+          "label": "重击 · 补充演示"
+        }
+      }
+    },
+    "juZtli72": {
+      "refs": {
+        "6aaefa34458fd28255321602": {
+          "heading": "玩家指令",
+          "after": "“PLAYERS（玩家）”标签页用于对玩家执行操作，第一项可封禁玩家并指定期限。",
+          "label": "封禁玩家"
+        },
+        "6af1ecf78b998f8f7489259f": {
+          "heading": "玩家指令",
+          "after": "Shift＋点击可多选玩家，再统一授予角色、拉到身边、重生、解冻、治疗或执行其他操作。",
+          "label": "批量操作"
+        },
+        "6aaefa3b8f99d82e05287e54": {
+          "heading": "玩家指令",
+          "after": "标签页顶部可搜索并滚动查看当前服务器的在线成员。",
+          "label": "玩家列表"
+        },
+        "6aaefa41460a2a99d1c2f53e": {
+          "heading": "玩家指令",
+          "after": "也能解除已封禁玩家的封禁。",
+          "label": "解除封禁"
+        },
+        "6aaefa4d6720f8fbbde702f7": {
+          "heading": "玩家指令",
+          "after": "也能解除已封禁玩家的封禁。",
+          "label": "封禁记录"
+        },
+        "6aaefa53303c7dc9acaf4431": {
+          "heading": "NPC 指令",
+          "after": "1. 生成一名基础 NPC，坐到距离自己最近的座位。",
+          "label": "单个NPC"
+        },
+        "6aaefa9adda18707fa0717b3": {
+          "heading": "NPC 指令",
+          "after": "2. 生成1—50名 NPC，分别坐到离自己最近的空座。",
+          "label": "座位NPC"
+        },
+        "6aaefbee5cea27da300ca2f5": {
+          "heading": "NPC 指令",
+          "after": "3. 在面前生成1—120名 NPC，组成一群人。",
+          "label": "NPC群体"
+        },
+        "6aaefbf429277bdafaebfcc9": {
+          "heading": "NPC 指令",
+          "after": "4. 生成演奏 NPC，与你一起表演。鼓手和键盘手需要空闲乐器，其他演奏者会自带乐器。",
+          "label": "演奏NPC"
+        },
+        "6aaefbfa6c10d88e85403b7a": {
+          "heading": "NPC 指令",
+          "after": "5. 生成友军小队，在身后跟随，也会一起战斗。可用“/s follow”命令跟随，用“/s attack”命令攻击，并可指定他们的服装。",
+          "label": "友军小队"
+        },
+        "6aaefc0222366042b824ba5d": {
+          "heading": "NPC 指令",
+          "after": "6. 移除身边最近的 NPC，也可输入名字移除指定 NPC。",
+          "label": "移除NPC"
+        }
+      }
+    },
+    "sraqxK55": {
+      "refs": {
+        "6ac16b60b79679d36c1f2576": {
+          "heading": "力度条设置",
+          "after": "**投篮条判定区间**",
+          "label": "投篮判定区间"
+        },
+        "6a8a0b80e7a2545389211c34": {
+          "heading": "力度条设置",
+          "after": "在三分线外侧，也就是更靠近中线的位置投篮命中，计3分；在更靠近篮筐的位置投篮命中，则计2分。",
+          "label": "三分线"
+        },
+        "6a8d31bb2586ae699c082482": {
+          "heading": "力度条设置",
+          "after": "- 队友会在你的客户端显示编号，按对应数字即可向该队友传球。",
+          "label": "控球与传球"
+        },
+        "6a788e052929f7e6b924fef2": {
+          "heading": "出手时机与防守压力",
+          "after": "- 队伍",
+          "label": "队伍"
+        },
+        "6a788e20462c7fa36ff1288d": {
+          "heading": "出手时机与防守压力",
+          "after": "- 队伍自定义",
+          "label": "队伍自定义"
+        },
+        "6a788e3c2e928ca56e25f020": {
+          "heading": "出手时机与防守压力",
+          "after": "- 比赛时间",
+          "label": "比赛时间"
+        },
+        "6a788e4911f911b1eedc143d": {
+          "heading": "出手时机与防守压力",
+          "after": "- 比分",
+          "label": "比分"
+        },
+        "6a788e58ef91e5918cd3caf7": {
+          "heading": "出手时机与防守压力",
+          "after": "- 进攻计时",
+          "label": "进攻计时"
+        }
+      }
+    },
+    "J71RjV1k": {
+      "refs": {
+        "6a8a1ec3b52db72993d1622f": {
+          "heading": "可用力度条样式",
+          "after": "**垫球示范一**",
+          "label": "垫球示范一"
+        },
+        "6a9ca2c9795218104e934206": {
+          "heading": "可用力度条样式",
+          "after": "**发球**",
+          "label": "发球"
+        },
+        "6a9ca2fe372482fe1ce8a038": {
+          "heading": "可用力度条样式",
+          "after": "**鱼跃救球**",
+          "label": "鱼跃救球"
+        },
+        "6a9ca3213ab540c88de4b30c": {
+          "heading": "可用力度条样式",
+          "after": "**垫球示范二**",
+          "label": "垫球示范二"
+        },
+        "6a9ca377d4c892a87a614067": {
+          "heading": "可用力度条样式",
+          "after": "**拦网演示1**",
+          "label": "拦网演示1"
+        },
+        "6a9ca39d80508ef7c2eef5ec": {
+          "heading": "可用力度条样式",
+          "after": "**拦网演示2**",
+          "label": "拦网演示2"
+        },
+        "6a9ca49ab02280b7fe7749b3": {
+          "heading": "可用力度条样式",
+          "after": "**向后传球**",
+          "label": "向前／向后传球"
+        },
+        "6a9ca4e86c59f1a7ddf2ac9e": {
+          "heading": "可用力度条样式",
+          "after": "**上旋跳发球**",
+          "label": "上旋跳发球"
+        }
+      }
+    }
+  }
+}

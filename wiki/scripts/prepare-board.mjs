@@ -1,11 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import {placeMedia} from './layout-media.mjs';
 const root=process.cwd(),read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const draft=process.argv.includes('--draft');
 const board=read('research/board-live.json'),assets=read('research/board-attachments.json');
 const demos=read('research/board-demos.json').records;
 const embedded=read('research/board-embedded.json').records;
+const mediaLayout=read('research/media-layout.json').cards;
 const sync=read('research/board-sync.json'),annotations=read('research/board-annotations.json').cards;
 if(crypto.createHash('sha256').update(fs.readFileSync('research/board-live.json')).digest('hex')!==sync.sourceSHA256)throw Error('Source snapshot does not match sync record');
 const articles=read('public/data/wiki.json').articles;
@@ -40,32 +42,8 @@ if(stale.length&&!draft)throw Error('Stale translations: '+stale.map(c=>c.shortL
 const listNames={Information:'游戏指南',Combat:'战斗机制','Fighting Styles':'战斗风格',Stats:'角色属性',Names:'姓名',Cosmetics:'装扮','Faces (both genders)':'面部',Features:'生活系统',Clubs:'社团',Sports:'运动',Phone:'手机',Locations:'地点','Private Servers':'私服',Updates:'更新日志',Credits:'制作名单'};
 const articleMap=Object.fromEntries(articles.map(a=>[a.id,a.sources[0]?.url.match(/trello\.com\/c\/([^/]+)/)?.[1]]).filter(x=>x[1]));
 const styleMap=new Map(articles.filter(a=>a.id.startsWith('style-')&&a.id!=='style-rarity').map(a=>[articleMap[a.id],a]));
-const awakeningFlows=Object.entries(awakening.byArticle).map(([articleId,flow])=>{const style=articles.find(a=>a.id===articleId);if(!style||!articleMap[articleId])throw Error('Unknown awakening style '+articleId);if(flow.stages.length!==0&&flow.stages.length!==3)throw Error('Incomplete awakening stages '+articleId);return {...flow,articleId,cardId:articleMap[articleId],title:style.title};});
+const awakeningFlows=Object.entries(awakening.byArticle).map(([articleId,flow])=>{const style=articles.find(a=>a.id===articleId);if(!style||!articleMap[articleId])throw Error('Unknown awakening style '+articleId);if(flow.stages.length!==0&&flow.stages.length!==3)throw Error('Incomplete awakening stages '+articleId);const media=(flow.mediaIds||[]).map(id=>{const a=assets.attachments[id]||embedded[id];if(!a)throw Error('Unknown flow media '+id);return {...a,...(demos[id]?{...demos[id],type:'video'}:{}),label:style.title+(demos[id]?' · 觉醒重击':' · 觉醒配图')};});return {...flow,articleId,cardId:articleMap[articleId],title:style.title,media};});
 const allImagePaths=new Set([...Object.values(assets.attachments),...Object.values(embedded)].filter(a=>a.local).map(a=>a.local));
-function insertDemos(original,translated,attachments){
- const sourceHeads=[...original.matchAll(/^#{1,6}\s+(.+)$/gm)];
- const translatedHeads=[...translated.matchAll(/^#{1,6}\s+(.+)$/gm)];
- const inserts=new Map();
- let number=0;
- for(const a of attachments.filter(a=>a.videoLocal)){
-  number++;a.label=a.label||(/m1/i.test(a.name)?'轻击连段':/m2/i.test(a.name)?'重击':'演示 '+number);
-  const explicit=translated.indexOf(`[[demo:${a.id}]]`);
-  if(explicit>=0){a.inline=true;const heading=translatedHeads.filter(h=>h.index<explicit).at(-1);if(heading)a.label=heading[1].replace(/[*:]/g,'').trim();continue;}
-  const image=[...original.matchAll(/!\[[^\]]*\]\([^)]*\)/g)].find(m=>m[0].includes(a.id));
-  if(!image)continue;
-  let headIndex=-1;for(let i=0;i<sourceHeads.length;i++)if(sourceHeads[i].index<image.index)headIndex=i;
-  if(headIndex<0)continue;
-  const sourceLabel=sourceHeads[headIndex][1].replace(/[*:]/g,'').trim();
-  let targetIndex=sourceHeads.length===translatedHeads.length?headIndex:-1;
-  if(targetIndex<0){const pattern=/m1|light|combo/i.test(sourceLabel)?/轻击|M1/:/m2|heavy/i.test(sourceLabel)?/重击|M2/:/perk/i.test(sourceLabel)?/天赋/:null;if(pattern)targetIndex=translatedHeads.findIndex(h=>pattern.test(h[1]));}
-  if(targetIndex<0)continue;
-  a.label=translatedHeads[targetIndex][1].replace(/[*:]/g,'').trim();a.inline=true;
-  const position=translatedHeads[targetIndex+1]?.index??translated.length;
-  inserts.set(position,(inserts.get(position)||'')+`\n\n[[demo:${a.id}]]\n\n`);
- }
- let body=translated;for(const [position,text] of [...inserts].sort((a,b)=>b[0]-a[0]))body=body.slice(0,position)+text+body.slice(position);
- return body;
-}
 const cards=[...board.cards].sort((a,b)=>a.pos-b.pos).map(c=>{
  const tr=translations[c.shortLink],style=styleMap.get(c.shortLink);
  const p=style?perks[style.id]:null;
@@ -75,7 +53,7 @@ const cards=[...board.cards].sort((a,b)=>a.pos-b.pos).map(c=>{
  for(const match of c.desc.matchAll(/!\[[^\]]*\]\((https:\/\/trello\.com\/[^)]+)\)/g)){const id=/\/attachments\/([a-f0-9]+)/.exec(match[1])?.[1];if(id&&!attachments.some(a=>a.id===id)){const a=embedded[id];if(!a)throw Error('Unresolved embedded attachment '+id);attachments.push({...a,...(demos[id]?{...demos[id],type:'video'}:{})});}}
  if(c.shortLink===awakening.sourceCard)for(const a of attachments){const names={kure:'吴',slugger:'重拳手',kickboxing:'踢拳',striker:'突击者',kyokushin:'极真空手道',cqc:'近身格斗'};for(const [key,name] of Object.entries(names))if(a.videoLocal&&a.name.toLowerCase().startsWith(key))a.label=name+' · 觉醒重击';}
  const separator=/^[-_\s]{3,}$/.test(c.name);
- const withMedia=insertDemos(c.desc,tr?.body||'',attachments);
+ const withMedia=tr?.body?.trim()?placeMedia(c.desc,tr.body,attachments,mediaLayout[c.shortLink]||{},style?.title||tr.title).body:tr?.body||'';
  const mediaLines=withMedia.split('\n');
  const cleaned=mediaLines.filter((line,i)=>{if(!/^#{1,6}\s/.test(line))return true;let end=i+1;while(end<mediaLines.length&&!/^#{1,6}\s/.test(mediaLines[end]))end++;return mediaLines.slice(i+1,end).join('\n').replace(/[\s\u200c]/g,'').length>0}).join('\n');
  const body=cleaned.trim()?cleaned:(tr?.body||'');
