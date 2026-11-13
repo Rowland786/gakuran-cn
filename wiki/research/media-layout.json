@@ -113,7 +113,16 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 4
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "extras": {
+        "6aefc21106573049f68ffdbb": {
+          "heading": "觉醒重击",
+          "label": "觉醒重击 · 较早演示"
+        }
       }
     },
     "thAfRDEL": {
@@ -122,7 +131,14 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 4
+        "4": 4,
+        "5": 5
+      },
+      "extras": {
+        "6aefc2d720c85c103346bcf1": {
+          "heading": "觉醒重击",
+          "label": "觉醒重击 · 较早演示"
+        }
       }
     },
     "Roh6sIpv": {
@@ -133,12 +149,21 @@
         "3": 3,
         "4": 4,
         "5": 5,
-        "6": 6
+        "6": 6,
+        "7": 8
       },
       "extras": {
         "6a7115cacc8facdebb994dca": {
           "heading": "轻击连段（M1）",
           "label": "轻击连段（M1） · 补充演示"
+        },
+        "6aefc587dd59e1132992cfc4": {
+          "heading": "觉醒重击",
+          "label": "觉醒重击 · 较早演示"
+        },
+        "6aefc5f90040e16b845ae3ba": {
+          "heading": "觉醒重击",
+          "label": "觉醒重击 · 较早演示"
         }
       }
     },
@@ -149,7 +174,19 @@
         "2": 2,
         "3": 3,
         "4": 4,
-        "5": 5
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "extras": {
+        "6aefc38b165532e809381456": {
+          "heading": "觉醒轻击连段（M1）",
+          "label": "觉醒轻击连段（M1） · 较早演示"
+        },
+        "6aefc408df0e53352ec59bab": {
+          "heading": "觉醒重击",
+          "label": "觉醒重击 · 较早演示"
+        }
       }
     },
     "BrigvfKd": {
@@ -235,34 +272,34 @@
     },
     "zOgIMnjQ": {
       "refs": {
-        "6ae662db9bd3eec1ba335d86": {
+        "6af3a020719620e7f9389696": {
           "heading": "毒性（Toxic）"
         },
-        "6ae662e910eac3407324f4d9": {
+        "6af3a02a6a25ae4d47c650b6": {
           "heading": "恶魔（Demon）"
         },
-        "6ae662f534fec231e3be7680": {
+        "6af3a041cc58bde4a1fe039a": {
           "heading": "渡鸦（Raven）"
         },
-        "6ae66301d5fca0428e6cf292": {
+        "6af3a04ff57324b2e67c96ef": {
           "heading": "猩红（Scarlet）"
         },
-        "6ae663054eb28d1deae0e952": {
+        "6af3a05dd0016abc92a99f56": {
           "heading": "Casper"
         },
-        "6ae6630a2eca7327057ad224": {
+        "6af3a0632990171a4467fd14": {
           "heading": "秋日（Autumn）"
         },
-        "6ae751728b0b74e4e8e152d4": {
+        "6af3a09b161af023ec14ce66": {
           "heading": "暗影（Shadow）"
         },
-        "6ae75184bc4fd14b8c18f4d7": {
+        "6af3a0a607a26758ae7bcc0c": {
           "heading": "骷髅（Skeleton）"
         },
-        "6ae75192eef062f60856fa1e": {
+        "6af3a0b1534875ab77b78e23": {
           "heading": "小丑（Jester）"
         },
-        "6ae7523ef14f48aff443e5e7": {
+        "6af3a0bad75418f0f6870a91": {
           "heading": "稻草人（Scarecrow）"
         }
       }
@@ -867,6 +904,14 @@
           "heading": "可用力度条样式",
           "after": "**上旋跳发球**",
           "label": "上旋跳发球"
+        }
+      }
+    },
+    "PIyx5OfC": {
+      "refs": {
+        "6a555bd0a34be7b841e385bd": {
+          "heading": "intro",
+          "after": "随后打开左侧玩家列表，展示该名字所对应的 Roblox 用户名。"
         }
       }
     }

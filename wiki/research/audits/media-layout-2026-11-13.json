@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-13",
+  "source": "https://trello.com/b/v3WatB1P",
+  "inlineMedia": 860,
+  "flowMedia": 25,
+  "inlineDemos": 155,
+  "completeAwakeningFlows": 19,
+  "newDemosInline": 7,
+  "checks": [
+    "source media placement",
+    "rendered paragraph order",
+    "new demo action order",
+    "completed stage rendering"
+  ]
+}

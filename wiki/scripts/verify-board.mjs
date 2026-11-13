@@ -24,9 +24,20 @@ assert.ok(b.cards.find(c=>c.id==='YSBt05lI').body.includes('88302441610364'));
 assert.match(b.cards.find(c=>c.id==='KxGUwMZF').notes.join(''),/撤回/);
 const guide=b.cards.find(c=>c.id==='d71UNOzJ').awakeningGuide;
 assert.equal(guide.length,19);
-assert.equal(guide.filter(f=>f.stages.length===3&&f.stages.every(s=>!s.pending)).length,15);
-assert.equal(guide.filter(f=>f.stages.some(s=>s.pending)).length,4);
-for(const [articleId,pattern] of Object.entries({'style-ali':/2000次/,'style-mishima':/250次.*先攻击/,'style-perfect-copy':/招架250次/,'style-dragon':/150名.*NPC/})){const flow=guide.find(f=>f.articleId===articleId);assert.match(flow.stages[0].body,pattern);assert.equal(flow.stages[0].pending,undefined);assert.deepEqual(flow.stages.slice(1).map(s=>s.pending),[true,true]);}
+assert.equal(guide.filter(f=>f.stages.length===3&&f.stages.every(s=>!s.pending)).length,19);
+assert.equal(guide.filter(f=>f.stages.some(s=>s.pending)).length,0);
+const newQuests={
+ 'style-ali':[/2000次/,/冲刺反击5次/,/连续.*3场Taiman/],
+ 'style-mishima':[/250次.*先攻击/,/25%.*10名NPC/,/连续.*6名.*还击/],
+ 'style-perfect-copy':[/招架250次/,/150次重击.*命中/,/没有受击.*2名.*格挡.*招架/],
+ 'style-dragon':[/150名.*NPC/,/5场Taiman.*不会重置/,/夜间.*独自.*6名.*事件NPC/]
+};
+for(const [articleId,patterns] of Object.entries(newQuests)){const flow=guide.find(f=>f.articleId===articleId);for(let i=0;i<3;i++){assert.match(flow.stages[i].body,patterns[i]);assert.ok(!flow.stages[i].pending);}}
+assert.match(guide.find(f=>f.articleId==='style-dragon').notes.join(''),/数量单位.*6次完整事件/);
+assert.match(b.cards.find(c=>c.id==='d71UNOzJ').body,/16:30至19:00/);
+assert.match(b.cards.find(c=>c.id==='PIyx5OfC').body,/不当名称.*包括.*仇恨言论/);
+assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/成为乌鸦之王/);
+for(const id of ['6af38202f487ccb4cdc3507e','6af382e4304a5f59a0390aae','6af382864f042bdfa369f600','6af383960bb8795770650277','6af383f92e4a1d06f5ea9d02','6af384594a61646717a9904b','6af384a949df4946c76692b9'])assert.ok(demos.some(a=>a.id===id&&a.inline),'New demo is missing from its action '+id);
 for(const flow of guide){const style=b.cards.find(c=>c.id===flow.cardId);assert.deepEqual(style.awakening,flow,'Style quest missing '+flow.articleId);for(const stage of flow.stages)assert.ok(stage.body.trim());if(flow.reference)assert.ok(fs.existsSync('public/'+flow.reference));}
 assert.equal(guide.reduce((n,f)=>n+f.media.length,0),25);
 for(const flow of guide)for(const media of flow.media){assert.ok(fs.existsSync('public/'+media.local));if(media.videoLocal)assert.ok(fs.existsSync('public/'+media.videoLocal));}

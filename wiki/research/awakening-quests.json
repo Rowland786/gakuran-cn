@@ -1,6 +1,6 @@
 {
   "sourceCard": "d71UNOzJ",
-  "sourceHash": "d947ef58534e0fea6b4def12c1ce36e35b25bf569a5b9c034fdd56e8d525cca1",
+  "sourceHash": "a08ea7debc95fd66bd790c66e39914b70211cf89c98c6dfd0d10e9f845e77fd6",
   "reference": {
     "local": "board-assets/awakening-tasks-reference.webp",
     "sha256": "9db8fcc398c0c6af804b8c31e2ab4b9cbd3206e8d44234825358c970b3613776",
@@ -315,12 +315,10 @@
           "body": "招架250次。"
         },
         {
-          "body": "官方卡片尚未填写第二阶段条件。",
-          "pending": true
+          "body": "命中150次重击（M2）；必须实际命中才计入。"
         },
         {
-          "body": "官方卡片尚未填写第三阶段条件。",
-          "pending": true
+          "body": "在没有受击的情况下，击倒2名街头帮派成员或玩家。可以格挡或招架对方攻击，以满足公平交战要求。"
         }
       ],
       "notes": [],
@@ -335,12 +333,10 @@
           "body": "破防250次；目标玩家必须先攻击你。"
         },
         {
-          "body": "官方卡片尚未填写第二阶段条件。",
-          "pending": true
+          "body": "自身生命值不高于25%时，击倒10名NPC。"
         },
         {
-          "body": "官方卡片尚未填写第三阶段条件。",
-          "pending": true
+          "body": "连续击倒6名会还击的NPC。"
         }
       ],
       "notes": [],
@@ -355,12 +351,10 @@
           "body": "在道场沙袋上命中2000次。"
         },
         {
-          "body": "官方卡片尚未填写第二阶段条件。",
-          "pending": true
+          "body": "使用冲刺反击5次。"
         },
         {
-          "body": "官方卡片尚未填写第三阶段条件。",
-          "pending": true
+          "body": "连续赢下3场Taiman。"
         }
       ],
       "notes": [],
@@ -375,15 +369,15 @@
           "body": "击倒150名会还击的NPC。"
         },
         {
-          "body": "官方卡片尚未填写第二阶段条件。",
-          "pending": true
+          "body": "赢下5场Taiman，进度不会重置。"
         },
         {
-          "body": "官方卡片尚未填写第三阶段条件。",
-          "pending": true
+          "body": "夜间独自击败6名街头事件NPC。"
         }
       ],
-      "notes": [],
+      "notes": [
+        "阶段三原卡对数量单位的表述不清，可能指6名事件NPC，也可能指6次完整事件。此处按事件NPC整理，尚未在游戏内核验。"
+      ],
       "source": "https://trello.com/c/d71UNOzJ",
       "mediaIds": [
         "6aefebfc173dac4c3d5e956b"
