@@ -2,7 +2,7 @@
 
 官方 Trello 公开资料的非官方中文版。网站：https://rowland786.github.io/gakuran-cn/
 
-261张卡片、19个分类、1,601个附件记录，108项具名天赋逐项翻译。默认展示13个未归档分类，可切换归档资料。衣柜保留Kaglorn的1,097项图鉴及署名。
+261张卡片、19个分类、1,601个附件记录，108项具名天赋逐项翻译。默认展示13个未归档分类，可切换归档资料。衣柜仅使用官方Trello：37张来源卡片、314条资料，覆盖695个独立媒体。未逐项命名的内容保留为图集。
 
 ## 运行
 
@@ -13,10 +13,17 @@ npm ci
 node scripts/prepare-content.mjs
 node scripts/prepare-board.mjs
 node scripts/verify-board.mjs
+node scripts/prepare-wardrobe.mjs
+node scripts/verify-wardrobe.mjs
+node scripts/verify-ui.mjs
 npm run build:pages
 ```
 
 GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`NEXT_PUBLIC_BASE_PATH=/gakuran-cn`，运行`node scripts/serve-static.mjs`，打开 http://127.0.0.1:5173/gakuran-cn/ 。根域名部署需将此前缀设为空后重新构建。静态文件位于`dist/client/`。
+
+## 界面
+
+百科按分类浏览，条目使用独立阅读页。衣柜从官方卡片生成，按类别、性别、稀有度及原分组筛选；未具名资料以图集或来源类别展示。支持资产ID搜索、图集切换、浏览器返回与原有收藏。
 
 ## 图文与演示
 
@@ -40,8 +47,6 @@ GitHub Pages构建默认前缀`/gakuran-cn`。本地预览时设置环境变量`
 
 官方来源：https://trello.com/b/v3WatB1P
 
-图鉴原作者Kaglorn：https://kaglorn.github.io/gakuran-clothes/
-
-图鉴仓库：https://github.com/Kaglorn/gakuran-clothes
+衣柜生成：`scripts/prepare-wardrobe.mjs`，校验：`scripts/verify-wardrobe.mjs`。映射规则与覆盖记录保存在`research/wardrobe-rules.json`、`research/wardrobe-coverage.json`。
 
 同步日期：2026-11-15。未实测游戏内数值、兑换码与中国大陆各网络连通性。

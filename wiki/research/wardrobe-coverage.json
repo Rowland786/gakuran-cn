@@ -1,0 +1,249 @@
+{
+  "checkedAt": "2026-11-15",
+  "source": "https://trello.com/b/v3WatB1P",
+  "sourceSHA256": "fdceb38c5ad4689e4d6df4d428ae7ae266f3afbc90f7e73eb4678d54d249b4e5",
+  "stats": {
+    "sourceCards": 37,
+    "items": 314,
+    "entries": 314,
+    "media": 695,
+    "sourceMedia": 695,
+    "named": 207,
+    "namedItems": 207,
+    "galleries": 66,
+    "assetIds": 122,
+    "videos": 4,
+    "categories": {
+      "面部": 148,
+      "滑板": 42,
+      "终结动作": 5,
+      "配饰": 22,
+      "制服": 83,
+      "发型": 14
+    }
+  },
+  "cards": {
+    "kYb0Yc0x": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 5,
+      "entries": 5
+    },
+    "tm9T2oeJ": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 6,
+      "entries": 6
+    },
+    "s3LgJjzT": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 15,
+      "entries": 15
+    },
+    "5oAOIkcN": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 10,
+      "entries": 10
+    },
+    "6wsnYaPk": {
+      "gender": "通用",
+      "category": "滑板",
+      "sourceAttachments": 92,
+      "entries": 42
+    },
+    "x5iw5kOS": {
+      "gender": "通用",
+      "category": "终结动作",
+      "sourceAttachments": 5,
+      "entries": 5
+    },
+    "RuknyLRs": {
+      "gender": "通用",
+      "category": "配饰",
+      "sourceAttachments": 8,
+      "entries": 2
+    },
+    "9dya4Oln": {
+      "gender": "男性",
+      "category": "制服",
+      "sourceAttachments": 12,
+      "entries": 11
+    },
+    "2XWkxd2Q": {
+      "gender": "男性",
+      "category": "制服",
+      "sourceAttachments": 31,
+      "entries": 27
+    },
+    "uT6J4Bmq": {
+      "gender": "男性",
+      "category": "发型",
+      "sourceAttachments": 68,
+      "entries": 7
+    },
+    "ZvAPTxUX": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 2,
+      "entries": 2
+    },
+    "QGntgsfV": {
+      "gender": "未标注",
+      "category": "面部",
+      "sourceAttachments": 3,
+      "entries": 3
+    },
+    "YSBt05lI": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 9,
+      "entries": 8
+    },
+    "Penm6XDg": {
+      "gender": "男性",
+      "category": "配饰",
+      "sourceAttachments": 19,
+      "entries": 2
+    },
+    "9K3hboEg": {
+      "gender": "男性",
+      "category": "配饰",
+      "sourceAttachments": 19,
+      "entries": 2
+    },
+    "cwA4JuN7": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 17,
+      "entries": 9
+    },
+    "TzozUxFs": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 13,
+      "entries": 10
+    },
+    "lGfVosDF": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 6,
+      "entries": 6
+    },
+    "mwtZ6ImN": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 8,
+      "entries": 8
+    },
+    "SKdifWpm": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 3,
+      "entries": 3
+    },
+    "G33TMZrN": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 10,
+      "entries": 11
+    },
+    "aPsopf22": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 9,
+      "entries": 9
+    },
+    "qDHV3qzV": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 14,
+      "entries": 7
+    },
+    "oBbvmPsR": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 10,
+      "entries": 10
+    },
+    "e5qRLdlP": {
+      "gender": "男性",
+      "category": "配饰",
+      "sourceAttachments": 14,
+      "entries": 2
+    },
+    "cYgvCQR8": {
+      "gender": "男性",
+      "category": "面部",
+      "sourceAttachments": 29,
+      "entries": 10
+    },
+    "IifXfrSY": {
+      "gender": "男性",
+      "category": "配饰",
+      "sourceAttachments": 13,
+      "entries": 2
+    },
+    "vQlseAgX": {
+      "gender": "女性",
+      "category": "面部",
+      "sourceAttachments": 41,
+      "entries": 16
+    },
+    "aGIAEQB8": {
+      "gender": "男性",
+      "category": "配饰",
+      "sourceAttachments": 7,
+      "entries": 2
+    },
+    "zOgIMnjQ": {
+      "gender": "女性",
+      "category": "制服",
+      "sourceAttachments": 25,
+      "entries": 11
+    },
+    "kivg9zvP": {
+      "gender": "女性",
+      "category": "制服",
+      "sourceAttachments": 40,
+      "entries": 34
+    },
+    "MwwGjyDp": {
+      "gender": "女性",
+      "category": "发型",
+      "sourceAttachments": 61,
+      "entries": 7
+    },
+    "mc2gr8jK": {
+      "gender": "女性",
+      "category": "配饰",
+      "sourceAttachments": 26,
+      "entries": 2
+    },
+    "O4kYRiog": {
+      "gender": "女性",
+      "category": "配饰",
+      "sourceAttachments": 14,
+      "entries": 2
+    },
+    "s7MydE4y": {
+      "gender": "女性",
+      "category": "配饰",
+      "sourceAttachments": 15,
+      "entries": 2
+    },
+    "oVIEkKTA": {
+      "gender": "女性",
+      "category": "配饰",
+      "sourceAttachments": 12,
+      "entries": 2
+    },
+    "0gCjK33A": {
+      "gender": "女性",
+      "category": "配饰",
+      "sourceAttachments": 4,
+      "entries": 2
+    }
+  }
+}

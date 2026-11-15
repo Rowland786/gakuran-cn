@@ -1,0 +1,6 @@
+{
+  "source": "https://trello.com/b/v3WatB1P",
+  "slots": {"Back":"背部","Head":"头部","Face":"脸部","Neck":"颈部","Arm":"手臂","Waist":"腰部"},
+  "groups": {"Halloween":"万圣节"},
+  "ethnicities": {"European":"欧洲裔","Japanese":"日本裔","Indian":"印度裔","Middle eastern":"中东裔","African":"非洲裔","Latino":"拉丁裔","Latina":"拉丁裔","Latin":"拉丁裔"}
+}

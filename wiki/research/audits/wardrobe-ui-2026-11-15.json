@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-11-15",
+  "wardrobeSource": "https://trello.com/b/v3WatB1P",
+  "sourceCards": 37,
+  "entries": 314,
+  "namedEntries": 207,
+  "galleries": 66,
+  "sourceMedia": 695,
+  "assetIds": 122,
+  "legacyRuntimeAssetsRemoved": [
+    "public/data/catalog.json",
+    "public/mirror"
+  ],
+  "layout": {
+    "wiki": "category directory and full reading pages",
+    "wardrobe": "official entries and source galleries",
+    "mobile": "responsive navigation drawer and filters"
+  },
+  "preserved": [
+    "legacy entry URLs",
+    "bookmarks",
+    "inline images and demos",
+    "historical awakening notices"
+  ],
+  "checks": [
+    "official media coverage",
+    "source metadata provenance",
+    "rendered media and paragraph order",
+    "route compatibility",
+    "ID search",
+    "type check",
+    "production build"
+  ],
+  "browserLocalChecks": [
+    "390px and 1440px layouts",
+    "gender and rarity filters",
+    "ID search",
+    "return state",
+    "keyboard drawer close",
+    "bookmarks",
+    "gallery paging",
+    "native video playback"
+  ]
+}
