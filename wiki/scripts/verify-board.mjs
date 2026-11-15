@@ -5,7 +5,7 @@ const b=JSON.parse(fs.readFileSync('public/data/board.json','utf8'));
 const raw=JSON.parse(fs.readFileSync('research/board-live.json','utf8'));
 assert.equal(b.cards.length,raw.cards.length);assert.equal(b.stats.translatedCards,raw.cards.length);
 assert.deepEqual(new Set(b.cards.map(c=>c.id)),new Set(raw.cards.map(c=>c.shortLink)));
-assert.equal(b.stats.perks,101);
+assert.equal(b.stats.perks,108);
 const perfect=b.cards.find(c=>c.id==='kBzBnqqM');
 assert.equal(perfect.perks.length,4);
 assert.deepEqual(perfect.perks.map(p=>p.english),['Copycat','Adaption','Master Copy','Perfect Technique']);
@@ -23,36 +23,45 @@ assert.ok(b.cards.find(c=>c.id==='AmPmoREx').body.includes('- strays'));
 assert.ok(b.cards.find(c=>c.id==='YSBt05lI').body.includes('88302441610364'));
 assert.match(b.cards.find(c=>c.id==='KxGUwMZF').notes.join(''),/撤回/);
 const guide=b.cards.find(c=>c.id==='d71UNOzJ').awakeningGuide;
-assert.equal(guide.length,19);
-assert.equal(guide.filter(f=>f.stages.length===3&&f.stages.every(s=>!s.pending)).length,19);
-assert.equal(guide.filter(f=>f.stages.some(s=>s.pending)).length,0);
-const newQuests={
- 'style-ali':[/2000次/,/冲刺反击5次/,/连续.*3场Taiman/],
- 'style-mishima':[/250次.*先攻击/,/25%.*10名NPC/,/连续.*6名.*还击/],
- 'style-perfect-copy':[/招架250次/,/150次重击.*命中/,/没有受击.*2名.*格挡.*招架/],
- 'style-dragon':[/150名.*NPC/,/5场Taiman.*不会重置/,/夜间.*独自.*6名.*事件NPC/]
+assert.equal(guide.length,21);
+const current=guide.filter(f=>!f.historical),historical=guide.filter(f=>f.historical);
+assert.equal(current.filter(f=>f.stages.length===3&&f.stages.every(s=>!s.pending)).length,15);
+assert.equal(current.filter(f=>f.stages.length===0).length,2);
+assert.equal(historical.length,4);
+for(const flow of historical){assert.match(flow.notice,/2026-11-13.*移除/);assert.match(flow.source,/github\.com/);}
+const expectedQuests={
+ 'style-jin':[/150/,/200次反击.*2秒/,/5分钟/],
+ 'style-kure':[/120次重击/,/25%.*15名/,/公共.*4名.*不能死亡/],
+ 'style-slugger':[/120名.*2次/,/250次/,/袭击.*5名.*不能死亡/],
+ 'style-kickboxing':[/第3、4段.*未填写/,/150套/,/变红.*5秒/],
+ 'style-striker':[/150次/,/首领.*穿过.*击倒/,/3名.*汽车不计入/],
+ 'style-aikido':[/300次/,/轻击.*5次/,/地毯.*4分钟/],
+ 'style-kyokushin-karate':[/500次.*不能自己先出手/,/前摇.*350次/,/10名.*不能死亡/],
+ 'style-cqc':[/1000点重击伤害/,/2名.*5次/,/5名.*黑色.*不能死亡/]
 };
-for(const [articleId,patterns] of Object.entries(newQuests)){const flow=guide.find(f=>f.articleId===articleId);for(let i=0;i<3;i++){assert.match(flow.stages[i].body,patterns[i]);assert.ok(!flow.stages[i].pending);}}
-assert.match(guide.find(f=>f.articleId==='style-dragon').notes.join(''),/数量单位.*6次完整事件/);
-assert.match(b.cards.find(c=>c.id==='d71UNOzJ').body,/16:30至19:00/);
-assert.match(b.cards.find(c=>c.id==='PIyx5OfC').body,/不当名称.*包括.*仇恨言论/);
-assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/成为乌鸦之王/);
-for(const id of ['6af38202f487ccb4cdc3507e','6af382e4304a5f59a0390aae','6af382864f042bdfa369f600','6af383960bb8795770650277','6af383f92e4a1d06f5ea9d02','6af384594a61646717a9904b','6af384a949df4946c76692b9'])assert.ok(demos.some(a=>a.id===id&&a.inline),'New demo is missing from its action '+id);
+for(const [articleId,patterns] of Object.entries(expectedQuests)){const flow=current.find(f=>f.articleId===articleId);for(let i=0;i<3;i++)assert.match(flow.stages[i].body,patterns[i]);}
+assert.match(b.cards.find(c=>c.id==='AmPmoREx').body,/- VET/);
+const patch=b.cards.find(c=>c.id==='Lje7HJrQ');for(const text of ['6只猫和5只狗','羁绊会保存','校医','兽医','Ryu','Systema','篮板清道夫'])assert.ok(patch.body.includes(text),'Missing v14 detail '+text);
+assert.ok(!b.cards.some(c=>c.id==='4aLGlV3L'),'Removed Halloween event remains current');
+for(const [id,count] of [['XUGizHXx',4],['o1jj63YB',3]]){const c=b.cards.find(c=>c.id===id);assert.equal(c.perks.length,count);assert.match(c.updates.join(''),/归档/);}
+assert.match(b.cards.find(c=>c.articleId==='style-hakari').perks.find(p=>p.english==='Guard Pierce III').body,/20%/);
+assert.match(b.cards.find(c=>c.articleId==='style-capoeira').perks.find(p=>p.english==='Guard Pierce IV').body,/25%/);
+for(const id of ['6af38202f487ccb4cdc3507e','6af382e4304a5f59a0390aae','6af382864f042bdfa369f600','6af383960bb8795770650277','6af383f92e4a1d06f5ea9d02','6af384594a61646717a9904b','6af384a949df4946c76692b9'])assert.ok(demos.some(a=>a.id===id&&a.inline),'Existing inline demo lost '+id);
 for(const flow of guide){const style=b.cards.find(c=>c.id===flow.cardId);assert.deepEqual(style.awakening,flow,'Style quest missing '+flow.articleId);for(const stage of flow.stages)assert.ok(stage.body.trim());if(flow.reference)assert.ok(fs.existsSync('public/'+flow.reference));}
-assert.equal(guide.reduce((n,f)=>n+f.media.length,0),25);
+assert.equal(guide.reduce((n,f)=>n+f.media.length,0),6);
 for(const flow of guide)for(const media of flow.media){assert.ok(fs.existsSync('public/'+media.local));if(media.videoLocal)assert.ok(fs.existsSync('public/'+media.videoLocal));}
 const cqc=b.cards.find(c=>c.articleId==='style-cqc').awakening;
-assert.match(cqc.stages[0].body,/5 studs.*1000次/);
-assert.ok(!cqc.stages[0].body.includes('伤害'));
+assert.match(cqc.stages[0].body,/1000点重击伤害/);
+assert.ok(!cqc.historical);
 assert.match(cqc.notes.join(''),/1000点重击伤害/);
 const kick=b.cards.find(c=>c.articleId==='style-kickboxing').awakening;
-assert.match(kick.stages[0].body,/1000次踢击/);
-assert.match(kick.stages[2].body,/8至25秒/);
-assert.match(kick.notes.join(''),/8至20秒/);
+assert.match(kick.stages[0].body,/未填写所需次数/);
+assert.match(kick.stages[2].body,/变红.*5秒/);
+assert.ok(!kick.stages[2].body.includes('25秒'));
 assert.equal(b.stats.attachments,raw.cards.reduce((n,c)=>n+c.attachments.length,0));
 for(const c of raw.cards){const rendered=b.cards.find(x=>x.id===c.shortLink);for(const a of c.attachments)if(a.mimeType?.startsWith('image/'))assert.ok(rendered.attachments.find(x=>x.id===a.id)?.local,'Missing source image '+a.id);for(const match of c.desc.matchAll(/!\[[^\]]*\]\((https:\/\/trello\.com\/[^)]+)\)/g)){const id=/\/attachments\/([a-f0-9]+)/.exec(match[1])?.[1];if(!id)continue;const a=rendered.attachments.find(x=>x.id===id);assert.ok(a,'Missing embedded attachment '+id);assert.ok(a.local||a.unavailable&&/^HTTP (404|410)$/.test(a.unavailableReason),'Unresolved source reference '+id);}}
 assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/6种猫/);
-assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/驯养乌鸦/);
+assert.match(b.cards.find(c=>c.id==='fLtMVx9J').body,/城镇动物/);assert.ok(!b.cards.find(c=>c.id==='fLtMVx9J').body.includes('## 驯养乌鸦'));
 assert.match(b.cards.find(c=>c.id==='juZtli72').body,/9种玩法/);
 for(const word of ['足球设置','躲避球设置','橄榄球设置'])assert.ok(b.cards.find(c=>c.id==='juZtli72').body.includes(word));
 assert.ok(!b.cards.find(c=>c.id==='9iTXlxpG').body.includes('## 第一斗士'));

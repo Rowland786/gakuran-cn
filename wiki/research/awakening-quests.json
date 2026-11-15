@@ -1,6 +1,6 @@
 {
   "sourceCard": "d71UNOzJ",
-  "sourceHash": "a08ea7debc95fd66bd790c66e39914b70211cf89c98c6dfd0d10e9f845e77fd6",
+  "sourceHash": "ab1b2f8216009e7f05fa5df1be37ad6c83609de873d2bfc7e80a0fa84f96598d",
   "reference": {
     "local": "board-assets/awakening-tasks-reference.webp",
     "sha256": "9db8fcc398c0c6af804b8c31e2ab4b9cbd3206e8d44234825358c970b3613776",
@@ -22,7 +22,7 @@
           "body": "击倒150名NPC。"
         },
         {
-          "body": "招架后2秒内命中同一目标。原卡没有列出需要完成的次数。"
+          "body": "完成200次反击：完美格挡后2秒内命中同一名攻击者。"
         },
         {
           "body": "夜间在屋顶或园艺区连续坐5分钟，可以使用座位或坐下表情。移动超过2 studs、受伤或进入战斗都会使试炼失败。"
@@ -30,14 +30,12 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aeccf5984925fa15a458e18"
-      ]
+      "mediaIds": []
     },
     "style-boxing": {
       "stages": [
         {
-          "body": "对道场沙袋或玩家命中1500次轻击（M1）。"
+          "body": "对符合公平交战规则的对手或沙袋命中1500次轻击（M1）。"
         },
         {
           "body": "招架250次。"
@@ -48,9 +46,7 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aecceaedc5a8a74d04ea070"
-      ]
+      "mediaIds": []
     },
     "style-karate": {
       "stages": [
@@ -61,14 +57,12 @@
           "body": "击败5名专为自己生成的Taiman。事件在公共服务器每8至15分钟轮流触发。"
         },
         {
-          "body": "下雨或下雪时，在室外完成60套完整轻击连段。头顶60 studs内不能有屋顶或其他物体。本阶段可以保存进度。"
+          "body": "下雨或下雪时，在室外完成60套完整轻击连段。头顶60 studs内不能有屋顶或其他物体；沙袋或符合公平交战规则的对手均计入，进度按普通计数器保存。"
         }
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aecced8f92599532301dd5f"
-      ]
+      "mediaIds": []
     },
     "style-taijutsu": {
       "stages": [
@@ -84,14 +78,12 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aeccdcb0e9024729b0ba6cc"
-      ]
+      "mediaIds": []
     },
     "style-lethwei": {
       "stages": [
         {
-          "body": "破防300次；目标玩家或NPC必须先攻击你。"
+          "body": "完成300次破防，目标须符合通用公平交战规则。"
         },
         {
           "body": "自身生命值不高于25%时，击倒15名对手。"
@@ -102,9 +94,7 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aecce40065f421f44b9971f"
-      ]
+      "mediaIds": []
     },
     "style-hakari": {
       "stages": [
@@ -122,9 +112,7 @@
         "觉醒任务卡要求连续4次轻击触发气势奔涌；该风格的天赋图写连续3次，两处资料不一致。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aecce7cb0b01fa513905cb9"
-      ]
+      "mediaIds": []
     },
     "style-wrestling": {
       "stages": [
@@ -140,9 +128,7 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aeccda2483897a8c1442647"
-      ]
+      "mediaIds": []
     },
     "style-muay-thai": {
       "stages": [
@@ -158,71 +144,61 @@
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aeccdf529a7fe499465bf32"
-      ]
+      "mediaIds": []
     },
     "style-kure": {
       "stages": [
         {
-          "body": "在公平交战中，对NPC或玩家命中120次重击（M2）。"
+          "body": "对NPC或玩家命中120次重击（M2）。玩家须先攻击你，NPC须会还击。"
         },
         {
-          "body": "自身生命值不高于25%时，击倒15名玩家或NPC。"
+          "body": "自身生命值为25%时，击倒15名玩家或NPC。"
         },
         {
-          "body": "先击倒同一街头帮派的3名成员，再击倒其首领。换到其他帮派会重置进度。"
+          "body": "在公共服务器击倒4名事件NPC，期间不能死亡；学校袭击NPC、帮派成员或其他不良NPC均可。"
         }
       ],
       "notes": [
-        "任务图采用“先被攻击或对方还击”的公平交战规则；Trello旧正文对玩家另写“必须由对方先攻击”。"
+        "当前任务卡将阶段二写为生命值25%，未明确是否包含低于25%的情况。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aeccad4ee3ca2365b921024",
         "6ae797296b549cb005b6629b"
       ]
     },
     "style-slugger": {
       "stages": [
         {
-          "body": "击倒120名会还击的NPC；从首击开始计数。Trello正文注明可以重复击倒同一NPC。"
+          "body": "击倒120名会还击的NPC；至少命中2次才计入。"
         },
         {
-          "body": "以重击（M2）作为最后一击，击倒玩家或NPC共40次。"
+          "body": "以重击（M2）击倒目标250次。"
         },
         {
-          "body": "夜间90秒内击倒5名街头事件NPC，例如学校袭击、地盘帮派、群架或暴走族。"
+          "body": "学校袭击进行期间击倒5名袭击NPC，期间不能死亡；事件必须正在进行才计入。"
         }
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aecc8ac80065413d34da079",
         "6ae797349b4dfb103a9178ce"
       ]
     },
     "style-kickboxing": {
       "stages": [
         {
-          "body": "命中1000次踢击，即轻击连段的第3、4段；沙袋、玩家和NPC均可作为目标。"
+          "body": "在沙袋上命中轻击连段的第3、4段。当前卡片未填写所需次数。"
         },
         {
-          "body": "对玩家或NPC完成120套完整轻击连段，每套4段，沙袋不计入。"
+          "body": "对NPC或玩家完成150套完整轻击连段，每套4段；进度会保存。"
         },
         {
-          "body": "对沙袋完成3轮踢击，每轮25次且须少于45秒；两轮之间休息8至25秒。"
+          "body": "在道场攻击沙袋；计量条变红时停手5秒，再继续。每次变红后都要等待，无需抢时间。"
         }
       ],
-      "notes": [
-        "任务图列出阶段一需要1000次踢击，Trello旧正文未写数量，且只写沙袋。阶段三的Trello正文同时出现8至20秒、8至25秒两种休息间隔；此处采用任务图的8至25秒。任务图未标注版本，尚无统一的官方修订说明。"
-      ],
+      "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aecc87d7433203e096f1e35",
         "6ae7973f868e4394b120bf58"
       ]
     },
@@ -232,17 +208,15 @@
           "body": "在公平交战中，对NPC或玩家命中150次重击（M2）。"
         },
         {
-          "body": "用闪避冲刺穿过120次攻击。Trello正文说明玩家或NPC均可，也可在私服完成。"
+          "body": "找到Gakumart附近发型不同的帮派首领，冲刺穿过其轻击后击倒他；目标必须是首领。"
         },
         {
-          "body": "在自身没有受到伤害的战斗中，击倒3名玩家、街头事件NPC或Taiman对手。每场对应战斗都须无伤。"
+          "body": "自身没有受击的情况下，击倒3名NPC或玩家；NPC种类不限，汽车不计入。"
         }
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aecc828455287bdbc38f8e6",
         "6ae79749aa285c770f0d923b"
       ]
     },
@@ -252,60 +226,51 @@
           "body": "完美格挡300次。"
         },
         {
-          "body": "用闪避冲刺躲过或穿过150次攻击。"
+          "body": "用冲刺穿过轻击（M1）5次。"
         },
         {
-          "body": "在道场连续坐4分钟，不能移动或受击；任何时段、任意坐下表情均可。"
+          "body": "在道场地毯上连续坐4分钟，不能移动；任意时段和坐下表情均可。"
         }
       ],
       "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
-      "mediaIds": [
-        "6ae669571ccf7400a887176f"
-      ]
+      "mediaIds": []
     },
     "style-kyokushin-karate": {
       "stages": [
         {
-          "body": "在与NPC或玩家的公平交战中承受500次攻击。"
+          "body": "承受NPC或玩家的500次攻击，不能自己先出手。"
         },
         {
-          "body": "重击蓄力期间受击100次，每次重击最多计入3次受击。"
+          "body": "在重击前摇动作中承受350次攻击。"
         },
         {
-          "body": "连续击倒10名对手，相邻两次击倒最多间隔60秒。自己被击倒会重置连胜。"
+          "body": "连续击倒10名对手，期间不能死亡。"
         }
       ],
-      "notes": [
-        "任务图采用公平交战规则；Trello旧正文对阶段一另写“不能自己先出手”。"
-      ],
+      "notes": [],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aeccc55ad4f48090ec84f77",
         "6ae797535a19736242bb3e13"
       ]
     },
     "style-cqc": {
       "stages": [
         {
-          "body": "在公平交战中，于5 studs以内近身命中1000次，轻击（M1）或重击（M2）都可。"
+          "body": "对NPC或玩家造成1000点重击伤害；目标须先攻击你。"
         },
         {
-          "body": "最近20秒内被至少3名敌人击中过时，击倒25名目标。"
+          "body": "近乎同时击倒至少2名NPC或玩家，共完成5次；目标须处于一起。"
         },
         {
-          "body": "先击倒同一街头帮派的3名成员，再击倒其首领。"
+          "body": "击倒5名穿不良制服或黑色服装的NPC，期间不能死亡。"
         }
       ],
       "notes": [
-        "任务图将阶段一写为“5 studs内命中1000次”，Trello旧正文写“造成1000点重击伤害”；两者并非同一条件。阶段二的Trello正文只写NPC，任务图未限定目标种类。任务图未标注版本，两处差异均保留，尚未在游戏内验证。"
+        "旧任务图将阶段一写为5 studs内命中1000次；当前官方任务卡写1000点重击伤害。此处采用当前官方卡，历史任务图不作为现行条件。"
       ],
       "source": "https://trello.com/c/d71UNOzJ",
-      "reference": "board-assets/awakening-tasks-reference.webp",
       "mediaIds": [
-        "6aeccbffa50338bde7483e25",
         "6ae7975a7342b9e32935baa0"
       ]
     },
@@ -322,10 +287,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aefec55f886346862014dfa"
-      ]
+      "source": "https://github.com/Rowland786/gakuran-cn/blob/4cde42028403cf827d46781f7b34b9ab78db1c10/wiki/research/awakening-quests.json",
+      "mediaIds": [],
+      "historical": true,
+      "notice": "历史流程：记录于2026-11-13。官方当前任务卡已移除此风格的阶段说明，以下条件的当前有效性待核验。"
     },
     "style-mishima": {
       "stages": [
@@ -340,10 +305,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aefec1963613af2294f72d5"
-      ]
+      "source": "https://github.com/Rowland786/gakuran-cn/blob/4cde42028403cf827d46781f7b34b9ab78db1c10/wiki/research/awakening-quests.json",
+      "mediaIds": [],
+      "historical": true,
+      "notice": "历史流程：记录于2026-11-13。官方当前任务卡已移除此风格的阶段说明，以下条件的当前有效性待核验。"
     },
     "style-ali": {
       "stages": [
@@ -358,10 +323,10 @@
         }
       ],
       "notes": [],
-      "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aefec3ce136a95240038fd4"
-      ]
+      "source": "https://github.com/Rowland786/gakuran-cn/blob/4cde42028403cf827d46781f7b34b9ab78db1c10/wiki/research/awakening-quests.json",
+      "mediaIds": [],
+      "historical": true,
+      "notice": "历史流程：记录于2026-11-13。官方当前任务卡已移除此风格的阶段说明，以下条件的当前有效性待核验。"
     },
     "style-dragon": {
       "stages": [
@@ -378,10 +343,24 @@
       "notes": [
         "阶段三原卡对数量单位的表述不清，可能指6名事件NPC，也可能指6次完整事件。此处按事件NPC整理，尚未在游戏内核验。"
       ],
-      "source": "https://trello.com/c/d71UNOzJ",
-      "mediaIds": [
-        "6aefebfc173dac4c3d5e956b"
-      ]
+      "source": "https://github.com/Rowland786/gakuran-cn/blob/4cde42028403cf827d46781f7b34b9ab78db1c10/wiki/research/awakening-quests.json",
+      "mediaIds": [],
+      "historical": true,
+      "notice": "历史流程：记录于2026-11-13。官方当前任务卡已移除此风格的阶段说明，以下条件的当前有效性待核验。"
+    },
+    "style-basic": {
+      "stages": [],
+      "notes": [],
+      "notice": "v14新增基础格斗V2；官方任务卡尚未公布阶段条件。",
+      "source": "https://trello.com/c/Lje7HJrQ",
+      "mediaIds": []
+    },
+    "style-wingchun": {
+      "stages": [],
+      "notes": [],
+      "notice": "v14新增咏春V2；官方任务卡尚未公布阶段条件。",
+      "source": "https://trello.com/c/Lje7HJrQ",
+      "mediaIds": []
     }
   }
 }

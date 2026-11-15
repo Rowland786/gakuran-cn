@@ -1,0 +1,787 @@
+{
+  "checkedAt": "2026-11-15",
+  "fetchedAt": "2026-11-15T00:33:24.479Z",
+  "previousLastActivity": "2026-11-11T19:11:20.992Z",
+  "sourceLastActivity": "2026-11-15T00:13:04.384Z",
+  "sourceSHA256": "fdceb38c5ad4689e4d6df4d428ae7ae266f3afbc90f7e73eb4678d54d249b4e5",
+  "previousCards": 298,
+  "currentCards": 261,
+  "previousAttachments": 1736,
+  "currentAttachments": 1601,
+  "added": [
+    {
+      "id": "vGmxrUoa",
+      "name": "Gakuran winner titles",
+      "desc": "This is all the gakuran titles that you cannot earn anymore/are limited to a specific person due to them earning it by doing something important/etc\n\n## Winner titles:\n\n## Drum master:\n\nDrum Master is rewarded to the person that completed ALL songs in perfect without a single miss, they fully maxed all songs with 100% perfect score. Truly skilled rhythm players which is why it’s only rewarded to 1 single person.\n\n![Screenshot\\_2026-11-04\\_235702.webp](https://trello.com/1/cards/6af712b24e9ac6584dd97fba/attachments/6af712c080565e033a0de105/previews/6af712c180565e033a0de10c/download/Screenshot_2026-11-04_235702.webp)\n\n## Guitar master:\n\nGuitar master is rewarded to the person that completed ALL songs in perfect without a single miss, they maxed all songs with 100% perfect score. It is owned by only 1 single person.\n\n![Screenshot\\_2026-11-05\\_151732.webp](https://trello.com/1/cards/6af712b24e9ac6584dd97fba/attachments/6af71374d36dcd89d8d0224b/previews/6af71374d36dcd89d8d0235a/download/Screenshot_2026-11-05_151732.webp)\n\n## Rockstar:\n\nrockstar was awarded in a official gakuran event, in a event of 5. All players in the event had to complete the hardest song, make a unique edit and had to be sure that the song was 100% perfect. Out of all the 2k entries, they ended up being the winner and earned the rockstar title.\n\n![Screenshot\\_2026-11-07\\_001002.webp](https://trello.com/1/cards/6af712b24e9ac6584dd97fba/attachments/6af713c441458398de4d41a0/previews/6af713c441458398de4d41d3/download/Screenshot_2026-11-07_001002.webp)\n\n## #1 Global Gang:\n\nawarded to the top clan in the competitive server that climbed the ranks and beat the people that came to fight them. This title was awarded to the owner of the clan and it can be removed if his clan falls the ranks. This is one of the only titles that can be changed. (includes the top fighter)\n\n![Screenshot\\_2026-11-08\\_010603.webp](https://trello.com/1/cards/6af712b24e9ac6584dd97fba/attachments/6af713410ec6a49d3c8d8489/previews/6af713410ec6a49d3c8d852b/download/Screenshot_2026-11-08_010603.webp)",
+      "closed": false
+    },
+    {
+      "id": "XUGizHXx",
+      "name": "Ryu",
+      "desc": "## Perks:\n\n![image.webp](https://trello.com/1/cards/6af8e8a054eed33cc07df386/attachments/6af8e8f82b239be200402ac7/previews/6af8e8f92b239be200402ad0/download/image.webp)\n\n## Suggested Build:\n\nRyu suggested height would be anything above 6ft+. It makes the heavy deal massive damage and you can cover up distance really easily, it can be played as a passive style and semi-aggressive. It has a pretty good heavy so it’ll allow you to play as you like.\n\n## M1 combo:\n\n## Heavy:",
+      "closed": true
+    },
+    {
+      "id": "o1jj63YB",
+      "name": "Systema",
+      "desc": "## Perks:\n\n![Screenshot\\_2026-11-15\\_010348.webp](https://trello.com/1/cards/6af8e8aa45bab31a49c44d7b/attachments/6af8e90772215efc6dd10c21/previews/6af8e90872215efc6dd10c2a/download/Screenshot_2026-11-15_010348.webp)\n\n## Suggested Build:\n\nwill be posted when meta arrives\n\n## M1 combo:\n\n## Heavy:",
+      "closed": true
+    },
+    {
+      "id": "Lje7HJrQ",
+      "name": "学乱  Gakuran  Update  v14.00(#31) TOWN ANIMALS UPDATE",
+      "desc": "## 🐾 TOWN ANIMALS\n\n```diff\n+ the strays have names now. 6 cats & 5 dogs live around Nishikata, each with its own spot, habits & things it likes\n+ bonds: pet them, walk them, look after them. every animal remembers u\n+ ur bonds are saved & follow u to every server\n+ nobody owns them. they belong to the town, so everyone can befriend the same animal\n+ take one for a walk around the district, or carry a cat on ur shoulder\n+ new cat in town: Maya\n+ animals that trust u bring u something on walks\n+ rare visitors pass through town now and then\n+ town animals notebook: a page for every animal u've met\n+ new pet buttons\n# one animal at a time, and they go home after a while\n# carried cats can come into the school, the cafe & karaoke\n```\n\n## 🩺 VET CLINIC\n\n```diff\n+ new building: Clee vet clinic (green zone, on the phone map)\n+ new job: work a shift at the vet clinic (scrubs included), listed on the indeed app\n+ town animals get into trouble. find them & bring them in\n+ people walk in with their pets too\n+ paid per treatment, extra for rescuing a town animal, and it trusts u more for it\n```\n\n## 🏥 SCHOOL NURSE\n\n```diff\n+ new job: clock in at the infirmary & work as the school nurse (uniform included), listed on the indeed app\n+ hurt students can lie down on a bed & get patched up\n+ students walk in on their own too\n+ nurse ranks\n# infirmary 3x healing is off while a nurse is on shift\n```\n\n## 🥋 NEW STYLES\n\n```diff\n+ Ryu (Legendary)\n+ Systema (Epic)\n```\n\n## ⭐ NEW V2s\n\n```diff\n+ Basic V2\n+ Wing Chun V2\n+ CQC V2\n```\n\n## 👕 CUSTOMIZATION\n\n```diff\n+ 10 new faces\n    # Guys: 1 Rare, 2 Epic, 2 ???\n    # Girls: 2 Rare, 2 Epic, 1 Legendary\n\n+ 8 new uniforms\n    # Guys: 3 Rare\n    # Girls: 3 Rare, 1 Epic\n    # Unisex: 1 ???\n\n+ 5 new rhythm songs (Iris Out (Kenshi Yonezu), babydoll (Dominic Fike), not far gone (Midrift), RULER OF MY HEART (VIVINOS), Souzou No Ame (Siraph))\n```\n\n## 🔑 PRIVATE SERVERS\n\n```diff\n+ able to edit gymnasium layout in panel\n```\n\n## ⚽ SPORTS\n\n### 🏀 Basketball\n\n```diff\n+ boxouts: if ur holding defense when a shot goes up u turn to face the rim with ur arms up\n+ new Uncommon trait Glass Cleaner (rebound jumps reach 15% further)\n# missed shots pop higher off the rim & hang longer without flying further out\n# rebound jumps grab the ball from further away (taller players reach a bit further)\n```\n\n## ⚔ COMBAT\n\n```diff\n# awakening win streaks save through leaving, switching style & updates (quitting mid taiman counts as a loss)\n+ short iframes after getting up from a ragdoll, even against whoever knocked u down\n# counters put both of u in combat\n# awakening dodge quests no longer count one swing more than once\n# fixed blocking mid dash hiding the dash animation (silent dashing)\n# fixed crits letting u walk at full speed after trading M1s\n# other players' M1 windups play closer to real speed on ur screen\n# Wing Chun counter stuns 2.3s -> 2.8s, missed counter stun 1.4s -> 1.2s\n# Hakari: blocked M1s don't break Momentum Rush anymore, Guard Pierce II -> III\n# Capoeira crit cooldown 10s -> 8s & +20% crit damage, Guard Pierce II -> IV\n# Lethwei first 2 M1s as fast as Muay Thai's\n# Scarecrow 2nd & 3rd M1s faster, faster combo recovery\n# Kyokushin crit 0.83s -> 0.65s\n# Kure V1 crit cooldown 12s -> 10s\n# CQC V1 crit only lands on tagged targets\n- Kyokushin V2 crit no longer has hyper armor\n- Mishima 4th M1 lunge 5 -> 4 studs (scales with height)\n- Ali: Sting Like a Bee only counters off a ready crit & uses it (no more double crits)\n- Kure Concussive no parry 0.9s -> 0.5s\n- Striker 4th M1 0.13s -> 0.22s\n- Muay Thai crit cooldown 7s -> 8s\n- Jason crit invulnerability ends after the throw\n- Taijutsu & Jason block chip 15% -> 10% (Guard Pierce I)\n- CQC M1 damage -7%\n- Wing Chun last M1 -9%\n```\n\n## 🛠 FIXES\n\n```diff\n# prompts no longer vanish while u stand next to them\n# keep / undo buttons after a roll no longer disappear if u press them too early\n# stats menu on console: rerolling no longer jumps onto the buttons next to it\n# items no longer fall through cars\n# bikes don't roll away riderless anymore\n# dumpster lids are solid, u have to open one to get in\n```",
+      "closed": false
+    }
+  ],
+  "removed": [
+    {
+      "id": "K3Y6Qp52",
+      "name": "(学乱) Gakuran"
+    },
+    {
+      "id": "4aLGlV3L",
+      "name": "LIMITED TIME HALLOWEEN EVENT"
+    },
+    {
+      "id": "UzKKrZFh",
+      "name": "Style Buffs"
+    },
+    {
+      "id": "3EIe9Ngy",
+      "name": "Awakenings"
+    },
+    {
+      "id": "bwHldUEs",
+      "name": "Awakenings"
+    },
+    {
+      "id": "88fDkmz7",
+      "name": "Jason"
+    },
+    {
+      "id": "OKTtRnEM",
+      "name": "Cat Ears 1%"
+    },
+    {
+      "id": "PUnQYrI2",
+      "name": "Limited Male Uniforms"
+    },
+    {
+      "id": "UXW00A7D",
+      "name": "Limited Male Faces"
+    },
+    {
+      "id": "ESaEBc4V",
+      "name": "Limited female"
+    },
+    {
+      "id": "iPNYztZ2",
+      "name": "New Faces (Unsorted until confirmed)"
+    },
+    {
+      "id": "nve6Vu4b",
+      "name": "image.png"
+    },
+    {
+      "id": "98OQdaoZ",
+      "name": "Obtainable Styles"
+    },
+    {
+      "id": "ePjkdIyK",
+      "name": "1000015858_29x0_965x1024"
+    },
+    {
+      "id": "4Fdg3qkd",
+      "name": "Female Face"
+    },
+    {
+      "id": "rNRMmgut",
+      "name": "Female Faces"
+    },
+    {
+      "id": "czSUPakN",
+      "name": "Secret Face 0.1%"
+    },
+    {
+      "id": "vLlDFCAr",
+      "name": "Skating"
+    },
+    {
+      "id": "ooQgONK4",
+      "name": "---"
+    },
+    {
+      "id": "4XISFKfs",
+      "name": "Phones"
+    },
+    {
+      "id": "lZmYDREX",
+      "name": "Clubs"
+    },
+    {
+      "id": "To1OUsIV",
+      "name": "Vending Machines"
+    },
+    {
+      "id": "osVykw0C",
+      "name": "Glasses"
+    },
+    {
+      "id": "Ig2rZMin",
+      "name": "Headphones"
+    },
+    {
+      "id": "S76Kg7eT",
+      "name": "Eyepatch"
+    },
+    {
+      "id": "UrB76fAq",
+      "name": "Trashcans"
+    },
+    {
+      "id": "88f2S8r6",
+      "name": "Arcade Room"
+    },
+    {
+      "id": "GMGyuHgi",
+      "name": "Chess"
+    },
+    {
+      "id": "PDWbT1JJ",
+      "name": "Connect 4"
+    },
+    {
+      "id": "eS6dm61i",
+      "name": "Animals"
+    },
+    {
+      "id": "0x74HVsQ",
+      "name": "Placing / Dropping"
+    },
+    {
+      "id": "IDAVSGcw",
+      "name": "Weather"
+    },
+    {
+      "id": "QtArYbYG",
+      "name": "Skate Park"
+    },
+    {
+      "id": "Lbs2Wmfa",
+      "name": "Gymnasium"
+    },
+    {
+      "id": "VAeLQTUz",
+      "name": "Gymnasium"
+    },
+    {
+      "id": "kNasIwii",
+      "name": "Manga Shop"
+    },
+    {
+      "id": "7neb1e05",
+      "name": "Update"
+    },
+    {
+      "id": "z8BmJzgg",
+      "name": "PS+"
+    },
+    {
+      "id": "XUV4eXDv",
+      "name": "Update v7.465 (#20)"
+    },
+    {
+      "id": "LcrM8rTY",
+      "name": "Notable Community Figures"
+    },
+    {
+      "id": "SHCD0kjY",
+      "name": "Mia-Komi “The Strongest”"
+    }
+  ],
+  "listsChanged": false,
+  "changed": [
+    {
+      "id": "9iTXlxpG",
+      "name": "Gakuran Titles",
+      "fields": [
+        "desc",
+        "pos",
+        "attachments"
+      ],
+      "before": "## Covers every single in-game title and what do each do\n\n‌\n\n# **General titles:**\n\n## Game creator:\n\nSelf explained. This is the MAIN person of the game, the one that had the idea and made it happen, it is only owned by the man himself. Not a huge change between the owner title, mostly a unique title to tell them apart.\n\n![Screenshot\\_2026-11-05\\_010609.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebba8145ac314d8a498bbb/previews/6aebba8145ac314d8a498c90/download/Screenshot_2026-11-05_010609.webp)\n\n‌\n\n## Owner:\n\nself explained. This is the owner of the game, the one that has the final say as to what needs to be added, removed, nerfed and goes on. They got every single perm meaning they can do everything.\n\n![Screenshot\\_2026-11-04\\_235209.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aeba956cb7c92afce6ef130/previews/6aeba956cb7c92afce6ef279/download/Screenshot_2026-11-04_235209.webp)\n\n## Developer:\n\nDevelopers are the ones that created the game with the owner, each got their own line such as vfx effects, animations, creating a style, writing the bios, making the map and anything else. Developers are able to give themselves exclusive powers such as goku and make special events like zombie infection or freddy nightmare.\n\n![Screenshot\\_2026-11-04\\_235251.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aeba9a72b0a4fb41c3b3b72/previews/6aeba9a72b0a4fb41c3b3b94/download/Screenshot_2026-11-04_235251.webp)\n\n## Manager:\n\nManager is the one that handles the discord server, they create the channels, make sure everything works well, decides a promotion or manages the general sets of what’s allowed and what is not.\n\n![Screenshot\\_2026-11-04\\_235242.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaa20fbc32748ff00f35b/previews/6aebaa21fbc32748ff00f388/download/Screenshot_2026-11-04_235242.webp)\n\n## Senior staff:\n\nSenior staff works with the manager to handle less important stuff, they handle teams such as the helper team, get to decide any future promotions with the manager, they’re the eyes of the server and a higher staff. The senior staff do not have access to summon any type of events like the developers. They’re simply the main staff that takes care of everyone and also got access to the death note.\n\n![Screenshot\\_2026-11-04\\_235247.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaae10c57c896600839d7/previews/6aebaae10c57c89660083a39/download/Screenshot_2026-11-04_235247.webp)\n\n## Staff:\n\nStaff are one of the main reasons that the game is safe from exploiters. They fully take care of anything in-game, that includes anything that might break the rules such as weird names, exploits or anyone that might be a threat to the game/not allowed to play. They also take care of the server support tickets and get to decide who gets unbanned. They’re also one of the few people allowed to have a death note.\n\n![Screenshot\\_2026-11-05\\_000431.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebac06b6c3c5a95336593c/previews/6aebac06b6c3c5a9533659c3/download/Screenshot_2026-11-05_000431.webp)\n\n## Trial staff:\n\nTrial staffs are pretty much staff in training that are trying to prove that they can be trusted. They mainly handle small in-server moderation such as warnings, bans, mutes to the people that break the rules in the server, these staff also have small perms in-game such as teleporting or becoming invisible. This is so in case they find any exploiters, which they can later forward it to a staff.\n\n![Screenshot\\_2026-11-05\\_001446.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebae70d1862514245614ba/previews/6aebae71d18625142456155b/download/Screenshot_2026-11-05_001446.webp)\n\n## Contributor:\n\nContributor are people who have contributed something significant to the game and its development. This can include skateboard art, gamemodes, bots, posters, and more. While initially a more frequently obtainable role in gakuran's early development, it is less likely to be recieved presently.\n\n![Screenshot\\_2026-11-04\\_235300.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaf1b26437c7d7bb9c8cf/previews/6aebaf1b26437c7d7bb9ca5d/download/Screenshot_2026-11-04_235300.webp)\n\n## Tester:\n\nTesters are responsible in finding any type of bug before an update happens, they all gather and try everything possible and report it to the developers before the actual release. Their job is to find any major bugs, abuses,  minor bugs, lag issues, quality related bugs and anything that may have an issue or look off in-game. Although there’s too many bugs so not everything minor can be fixed on the update, this doesn’t mean that they do not know it. It simply means that it couldn’t be fixed in time and will be fixed in a different update.\n\n![Screenshot\\_2026-11-05\\_004717.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb6b54d78b07033e8a32c/previews/6aebb6b54d78b07033e8a757/download/Screenshot_2026-11-05_004717.webp)\n\n## QA Lead:\n\nThe lead testers, they responsible for making sure that testers do not leak, hand out the titles and get to pick the testers. They manage when everyone should gather and test and make sure that the owner knows any major bug. This is owned by 2 people which both have their own part in the team.\n\n![imag1e.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbce3fbd4df3361d1eeee/previews/6aebbce3fbd4df3361d1f05e/download/imag1e.webp)\n\n## Artist manager:\n\nArtist managers handle the server's artists, they host unique artist events, giveaways, and make sure that each person who posts art follows the art guidelines. They are the ones that decide if you should have the artist role. As reward for their efforts they’re also  allowed to set themselves and only themselves so you may find that each of them have a unique and creative character.\n\n![Screenshot\\_2026-11-04\\_235256.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb0162a6e66338fcfc62c/previews/6aebb0162a6e66338fcfc6d8/download/Screenshot_2026-11-04_235256.webp)\n\n## Event host:\n\nThey’re responsible for any related events, this includes hosting fun events for rewards in the original gakuran server, hosting other events in competitive server, finding ideas, having conversations of what would people like, communicating with each other to make the event as fun as possible and the main part which is to make sure that everything goes smooth without anyone to ruin it. They also the ones that you need to talk to in case you planning to host a server giveaway in the channel.\n\n![image1.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb87eb7d46caea1df2340/previews/6aebb87fb7d46caea1df23ff/download/image1.webp)\n\n## Event manager:\n\nDecides the events, gets to say the final choice before anything happens. The ones that decide who becomes an event host, explains the rules, lists the blacklisted people and manages the entire event team. As a reward for their effort, they also get the ability to set themselves so they can put a character that’d fit the specific event.\n\n![2.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbc6878080be6364df57b/previews/6aebbc6978080be6364df665/download/2.webp)\n\n## Charting manager:\n\nChart managers are the ones responsible of songs, they make sure what’s get added to rhythm games, manages the charting server and picks people for the chart team. This title is only for one person and only one.\n\n![Screenshot\\_2026-11-04\\_235708.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb0a081f9b6ab6367273c/previews/6aebb0a181f9b6ab6367280f/download/Screenshot_2026-11-04_235708.webp)\n\n## Song charter:\n\nThe song charters create the rhythm-game music and its gameplay, they chart songs, curate the difficulty, making sure every note is tied to the buttons you play in game. Song charters  are really hard working people that put all their effort into making the best possible songs playable and smooth.\n\n![Screenshot\\_2026-11-04\\_235713.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb134f38579eefe881fd9/previews/6aebb135f38579eefe8820ee/download/Screenshot_2026-11-04_235713.webp)\n\n## Japanify title:\n\nThis title is given to the ones that sing, similar to the song charter but instead of rhythm games they sing songs that they made themselves with their own voice which later gets added in-game. The title is one of the only ones that got different variants, the name is based on their original (spotify) name so you can easily search them up and find them for support. There’s also a small case where similar titles for popular singers was handed out that either sound similar or happen to win it. Those 2 are a little different because they did not sing or have an original spotify account, they just a small joke due to them winning a title like that.\n\n![Screenshot\\_2026-11-04\\_235212.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb1a4a3366cf107525be6/previews/6aebb1a5a3366cf107525c65/download/Screenshot_2026-11-04_235212.webp)\n\n![Screenshot\\_2026-11-05\\_011721.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbd08ba75427e2de32487/previews/6aebbd09ba75427e2de3276c/download/Screenshot_2026-11-05_011721.webp)\n\n## Trello team:\n\nthe ones that made all of this board, the one that’s writing this as you read. Trello team manages the new info right after an update and makes sure everyone is informed, they’re one of the people that know mostly everything, about 20 people own this title and they’re able to answer to all of your questions, feel free to suggest anything if you see them for the Trello. They’re here to make the game easier just for you, just like a helper\n\n![Screenshot\\_2026-11-05\\_002143.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb2c488b4b4dfaf5f5cb8/previews/6aebb2c488b4b4dfaf5f5d41/download/Screenshot_2026-11-05_002143.webp)\n\n## Trello manager:\n\nTrello manager is the one that handles the whole Trello, they make announcements, put the Trello team in order and they’re one of the ones that fully decide if something is really important for Trello or not. This title is owned by 1 person. They also the ones that get the final choice of who gets to be in the Trello and who gets to write the Trello.\n\n![Screenshot\\_2026-11-05\\_001451.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb37af87946c0a648bced/previews/6aebb37bf87946c0a648bd96/download/Screenshot_2026-11-05_001451.webp)\n\n## University Professor:\n\nProfessor title is the senior staff of the university server. They make sure to have events for content creators, handle server moderation and mainly putting things in order by answering cc related stuff, they take care of the main staff activity and usually decide who deserves to be a staff. As a reward for their effort they got a title to show their hard work.\n\n![Screenshot\\_2026-11-04\\_235306.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb4c091c6fccd11d6c2bd/previews/6aebb4c091c6fccd11d6c374/download/Screenshot_2026-11-04_235306.webp)\n\n## Content creator (cc):\n\nThey the ones that make videos in any platform for players to watch, they all got their own different rule and do what they like best, making pvp videos, showing methods, tricks and mainly content for people to enjoy.\n\n![imag2e.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb945b3e53dcb7c5afd37/previews/6aebb947b3e53dcb7c5b0068/download/imag2e.webp)\n\n## Content creator manager:\n\nThe ones that take care of the content creators. They decide who gets to have the role, give the cc sets, makes the rules, decides the events, does fun stuff for the game and also manage the main university server. Only 3 people own it.\n\n![Screenshot\\_2026-11-05\\_010511.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbb58677d3676045d829a/previews/6aebbb58677d3676045d83ae/download/Screenshot_2026-11-05_010511.webp)\n\n## Assistant CCM:\n\nThe assistant of the creator manager, they help the cc manager with anything small like answering content creators questions, help with the university server, talks with the manager about anything bad related to a cc and mainly handles stuff when the cc manager is busy.\n\n![Screenshot\\_2026-11-08\\_020725.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aefcf02f85b4ec4efe3555f/previews/6aefcf03f85b4ec4efe356c3/download/Screenshot_2026-11-08_020725.webp)\n\n‌\n\n## Competitive overseer:\n\ncomp overseer is the manager of the competitive side in gakuran. They handle how things should work, checking cheaters and mainly look around the server for any major problems. They’re in charge of anything that has to do with the comp server and anything related to it.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee40387b232c9e66646cbe/previews/6aee40387b232c9e66646deb/download/image.webp)\n\n‌\n\n## Head of lore:\n\nresponsible for handling the gakuran “lore” and the manager of the closed community, they take care of anything lore related and they manage/hire the lore team.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee644a9d395d6e1cdc886e/previews/6aee644b9d395d6e1cdc8a93/download/image.webp)\n\n## Lore team:\n\nResponsible for making the lore of gakuran and closed community. They work together to create a small and lovely lore for everyone to enjoy.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee6489ee0a9c07a9782baf/previews/6aee6489ee0a9c07a9782cfc/download/image.webp)\n\n---\n\n## Winner titles:\n\n## Drum master:\n\nDrum Master is rewarded to the person that completed ALL songs in perfect without a single miss, they fully maxed all songs with 100% perfect score. Truly skilled rhythm players which is why it’s only rewarded to 1 single person.\n\n![Screenshot\\_2026-11-04\\_235702.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb44255b959654a07ebb5/previews/6aebb44355b959654a07ec62/download/Screenshot_2026-11-04_235702.webp)\n\n## Guitar master:\n\nGuitar master is rewarded to the person that completed ALL songs in perfect without a single miss, they maxed all songs with 100% perfect score. It is owned by only 1 single person.\n\n![Screenshot\\_2026-11-05\\_151732.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aec8b698c451001b2f40407/previews/6aec8b6a8c451001b2f4052a/download/Screenshot_2026-11-05_151732.webp)\n\n## Rockstar:\n\nrockstar was awarded in a official gakuran event, in a event of 5. All players in the event had to complete the hardest song, make a unique edit and had to be sure that the song was 100% perfect. Out of all the 2k entries, they ended up being the winner and earned the rockstar title.\n\n![Screenshot\\_2026-11-07\\_001002.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee5cd32fa0e9b79458a88c/previews/6aee5cd32fa0e9b79458a9c5/download/Screenshot_2026-11-07_001002.webp)\n\n## #1 Global Gang:\n\nawarded to the top clan in the competitive server that climbed the ranks and beat the people that came to fight them. This title was awarded to the owner of the clan and it can be removed if his clan falls the ranks. This is one of the only titles that can be changed. (includes the top fighter)\n\n![Screenshot\\_2026-11-08\\_010603.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aefcb8965b90b457cbe3c29/previews/6aefcb8a65b90b457cbe3dcc/download/Screenshot_2026-11-08_010603.webp)\n\n‌\n\n##\n\n‌\n\n‌\n\n‌\n\n‌\n\n---",
+      "after": "## Covers every single in-game title and what do each do\n\n‌\n\n# **General titles:**\n\n## Game creator:\n\nSelf explained. This is the MAIN person of the game, the one that had the idea and made it happen, it is only owned by the man himself. Not a huge change between the owner title, mostly a unique title to tell them apart.\n\n![Screenshot\\_2026-11-05\\_010609.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebba8145ac314d8a498bbb/previews/6aebba8145ac314d8a498c90/download/Screenshot_2026-11-05_010609.webp)\n\n‌\n\n## Owner:\n\nself explained. This is the owner of the game, the one that has the final say as to what needs to be added, removed, nerfed and goes on. They got every single perm meaning they can do everything.\n\n![Screenshot\\_2026-11-04\\_235209.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aeba956cb7c92afce6ef130/previews/6aeba956cb7c92afce6ef279/download/Screenshot_2026-11-04_235209.webp)\n\n## Developer:\n\nDevelopers are the ones that created the game with the owner, each got their own line such as vfx effects, animations, creating a style, writing the bios, making the map and anything else. Developers are able to give themselves exclusive powers such as goku and make special events like zombie infection or freddy nightmare.\n\n![Screenshot\\_2026-11-04\\_235251.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aeba9a72b0a4fb41c3b3b72/previews/6aeba9a72b0a4fb41c3b3b94/download/Screenshot_2026-11-04_235251.webp)\n\n## Manager:\n\nManager is the one that handles the discord server, they create the channels, make sure everything works well, decides a promotion or manages the general sets of what’s allowed and what is not.\n\n![Screenshot\\_2026-11-04\\_235242.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaa20fbc32748ff00f35b/previews/6aebaa21fbc32748ff00f388/download/Screenshot_2026-11-04_235242.webp)\n\n## Senior staff:\n\nSenior staff works with the manager to handle less important stuff, they handle teams such as the helper team, get to decide any future promotions with the manager, they’re the eyes of the server and a higher staff. The senior staff do not have access to summon any type of events like the developers. They’re simply the main staff that takes care of everyone and also got access to the death note.\n\n![Screenshot\\_2026-11-04\\_235247.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaae10c57c896600839d7/previews/6aebaae10c57c89660083a39/download/Screenshot_2026-11-04_235247.webp)\n\n## Staff:\n\nStaff are one of the main reasons that the game is safe from exploiters. They fully take care of anything in-game, that includes anything that might break the rules such as weird names, exploits or anyone that might be a threat to the game/not allowed to play. They also take care of the server support tickets and get to decide who gets unbanned. They’re also one of the few people allowed to have a death note.\n\n![Screenshot\\_2026-11-05\\_000431.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebac06b6c3c5a95336593c/previews/6aebac06b6c3c5a9533659c3/download/Screenshot_2026-11-05_000431.webp)\n\n## Trial staff:\n\nTrial staffs are pretty much staff in training that are trying to prove that they can be trusted. They mainly handle small in-server moderation such as warnings, bans, mutes to the people that break the rules in the server, these staff also have small perms in-game such as teleporting or becoming invisible. This is so in case they find any exploiters, which they can later forward it to a staff.\n\n![Screenshot\\_2026-11-05\\_001446.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebae70d1862514245614ba/previews/6aebae71d18625142456155b/download/Screenshot_2026-11-05_001446.webp)\n\n## Contributor:\n\nContributor are people who have contributed something significant to the game and its development. This can include skateboard art, gamemodes, bots, posters, and more. While initially a more frequently obtainable role in gakuran's early development, it is less likely to be recieved presently.\n\n![Screenshot\\_2026-11-04\\_235300.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebaf1b26437c7d7bb9c8cf/previews/6aebaf1b26437c7d7bb9ca5d/download/Screenshot_2026-11-04_235300.webp)\n\n## Helper:\n\nJust as the name, helpers exist to help the community with all types of questions, you can easily find one in the community questions channel. Helpers make sure that every need that you ask is answered and if you need to know any details such as “how to report”, “where’s the trello” or “how to awaken” they’ll simply lead you to the right direction.\n\n![Screenshot\\_2026-11-13\\_152328.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6af710be07a033fadff5a53f/previews/6af710be07a033fadff5a6d0/download/Screenshot_2026-11-13_152328.webp)\n\n## Lead helper:\n\nLead helpers are similar to a regular helper but they’re the ones that manage the lines, they take care of the europe, asia, oceania and NA helpers and collect info of whenever a helper is doing good, is inactive or simply answer questions that the helpers need in case they do not know. Usually all the leads are split into a different line to manage, you can easily find them by going in the community server and searching for the “\\_\\_ line manager” right on the name. They the ones that you need to talk to if you ever need helper and reach the requirements.\n\n![Screenshot\\_2026-11-13\\_152326.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6af712014d9f6a3d0af3ff72/previews/6af712024d9f6a3d0af400eb/download/Screenshot_2026-11-13_152326.webp)\n\n‌\n\n## Tester:\n\nTesters are responsible in finding any type of bug before an update happens, they all gather and try everything possible and report it to the developers before the actual release. Their job is to find any major bugs, abuses,  minor bugs, lag issues, quality related bugs and anything that may have an issue or look off in-game. Although there’s too many bugs so not everything minor can be fixed on the update, this doesn’t mean that they do not know it. It simply means that it couldn’t be fixed in time and will be fixed in a different update.\n\n![Screenshot\\_2026-11-05\\_004717.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb6b54d78b07033e8a32c/previews/6aebb6b54d78b07033e8a757/download/Screenshot_2026-11-05_004717.webp)\n\n## QA Lead:\n\nThe lead testers, they responsible for making sure that testers do not leak, hand out the titles and get to pick the testers. They manage when everyone should gather and test and make sure that the owner knows any major bug. This is owned by 2 people which both have their own part in the team.\n\n![imag1e.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbce3fbd4df3361d1eeee/previews/6aebbce3fbd4df3361d1f05e/download/imag1e.webp)\n\n## Artist manager:\n\nArtist managers handle the server's artists, they host unique artist events, giveaways, and make sure that each person who posts art follows the art guidelines. They are the ones that decide if you should have the artist role. As reward for their efforts they’re also  allowed to set themselves and only themselves so you may find that each of them have a unique and creative character.\n\n![Screenshot\\_2026-11-04\\_235256.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb0162a6e66338fcfc62c/previews/6aebb0162a6e66338fcfc6d8/download/Screenshot_2026-11-04_235256.webp)\n\n## Event host:\n\nThey’re responsible for any related events, this includes hosting fun events for rewards in the original gakuran server, hosting other events in competitive server, finding ideas, having conversations of what would people like, communicating with each other to make the event as fun as possible and the main part which is to make sure that everything goes smooth without anyone to ruin it. They also the ones that you need to talk to in case you planning to host a server giveaway in the channel.\n\n![image1.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb87eb7d46caea1df2340/previews/6aebb87fb7d46caea1df23ff/download/image1.webp)\n\n## Event manager:\n\nDecides the events, gets to say the final choice before anything happens. The ones that decide who becomes an event host, explains the rules, lists the blacklisted people and manages the entire event team. As a reward for their effort, they also get the ability to set themselves so they can put a character that’d fit the specific event.\n\n![2.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbc6878080be6364df57b/previews/6aebbc6978080be6364df665/download/2.webp)\n\n## Charting manager:\n\nChart managers are the ones responsible of songs, they make sure what’s get added to rhythm games, manages the charting server and picks people for the chart team. This title is only for one person and only one.\n\n![Screenshot\\_2026-11-04\\_235708.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb0a081f9b6ab6367273c/previews/6aebb0a181f9b6ab6367280f/download/Screenshot_2026-11-04_235708.webp)\n\n## Song charter:\n\nThe song charters create the rhythm-game music and its gameplay, they chart songs, curate the difficulty, making sure every note is tied to the buttons you play in game. Song charters  are really hard working people that put all their effort into making the best possible songs playable and smooth.\n\n![Screenshot\\_2026-11-04\\_235713.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb134f38579eefe881fd9/previews/6aebb135f38579eefe8820ee/download/Screenshot_2026-11-04_235713.webp)\n\n## Japanify title:\n\nThis title is given to the ones that sing, similar to the song charter but instead of rhythm games they sing songs that they made themselves with their own voice which later gets added in-game. The title is one of the only ones that got different variants, the name is based on their original (spotify) name so you can easily search them up and find them for support. There’s also a small case where similar titles for popular singers was handed out that either sound similar or happen to win it. Those 2 are a little different because they did not sing or have an original spotify account, they just a small joke due to them winning a title like that.\n\n![Screenshot\\_2026-11-04\\_235212.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb1a4a3366cf107525be6/previews/6aebb1a5a3366cf107525c65/download/Screenshot_2026-11-04_235212.webp)\n\n![Screenshot\\_2026-11-05\\_011721.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbd08ba75427e2de32487/previews/6aebbd09ba75427e2de3276c/download/Screenshot_2026-11-05_011721.webp)\n\n## Trello team:\n\nthe ones that made all of this board, the one that’s writing this as you read. Trello team manages the new info right after an update and makes sure everyone is informed, they’re one of the people that know mostly everything, about 20 people own this title and they’re able to answer to all of your questions, feel free to suggest anything if you see them for the Trello. They’re here to make the game easier just for you, just like a helper\n\n![Screenshot\\_2026-11-05\\_002143.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb2c488b4b4dfaf5f5cb8/previews/6aebb2c488b4b4dfaf5f5d41/download/Screenshot_2026-11-05_002143.webp)\n\n## Trello manager:\n\nTrello manager is the one that handles the whole Trello, they make announcements, put the Trello team in order and they’re one of the ones that fully decide if something is really important for Trello or not. This title is owned by 1 person. They also the ones that get the final choice of who gets to be in the Trello and who gets to write the Trello.\n\n![Screenshot\\_2026-11-05\\_001451.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb37af87946c0a648bced/previews/6aebb37bf87946c0a648bd96/download/Screenshot_2026-11-05_001451.webp)\n\n## University Professor:\n\nProfessor title is the senior staff of the university server. They make sure to have events for content creators, handle server moderation and mainly putting things in order by answering cc related stuff, they take care of the main staff activity and usually decide who deserves to be a staff. As a reward for their effort they got a title to show their hard work.\n\n![Screenshot\\_2026-11-04\\_235306.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb4c091c6fccd11d6c2bd/previews/6aebb4c091c6fccd11d6c374/download/Screenshot_2026-11-04_235306.webp)\n\n## Content creator (cc):\n\nThey the ones that make videos in any platform for players to watch, they all got their own different rule and do what they like best, making pvp videos, showing methods, tricks and mainly content for people to enjoy.\n\n![imag2e.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebb945b3e53dcb7c5afd37/previews/6aebb947b3e53dcb7c5b0068/download/imag2e.webp)\n\n## Content creator manager:\n\nThe ones that take care of the content creators. They decide who gets to have the role, give the cc sets, makes the rules, decides the events, does fun stuff for the game and also manage the main university server. Only 3 people own it.\n\n![Screenshot\\_2026-11-05\\_010511.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aebbb58677d3676045d829a/previews/6aebbb58677d3676045d83ae/download/Screenshot_2026-11-05_010511.webp)\n\n## Assistant CCM:\n\nThe assistant of the creator manager, they help the cc manager with anything small like answering content creators questions, help with the university server, talks with the manager about anything bad related to a cc and mainly handles stuff when the cc manager is busy.\n\n![Screenshot\\_2026-11-08\\_020725.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aefcf02f85b4ec4efe3555f/previews/6aefcf03f85b4ec4efe356c3/download/Screenshot_2026-11-08_020725.webp)\n\n‌\n\n## Competitive overseer:\n\ncomp overseer is the manager of the competitive side in gakuran. They handle how things should work, checking cheaters and mainly look around the server for any major problems. They’re in charge of anything that has to do with the comp server and anything related to it.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee40387b232c9e66646cbe/previews/6aee40387b232c9e66646deb/download/image.webp)\n\n‌\n\n## Head of lore:\n\nresponsible for handling the gakuran “lore” and the manager of the closed community, they take care of anything lore related and they manage/hire the lore team.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee644a9d395d6e1cdc886e/previews/6aee644b9d395d6e1cdc8a93/download/image.webp)\n\n## Lore team:\n\nResponsible for making the lore of gakuran and closed community. They work together to create a small and lovely lore for everyone to enjoy.\n\n![image.webp](https://trello.com/1/cards/6aeba6fab6b1985573ca53ec/attachments/6aee6489ee0a9c07a9782baf/previews/6aee6489ee0a9c07a9782cfc/download/image.webp)\n\n---",
+      "addedAttachments": [
+        {
+          "id": "6af710be07a033fadff5a53f",
+          "name": "Screenshot 2026-11-13 152328.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af712014d9f6a3d0af3ff72",
+          "name": "Screenshot 2026-11-13 152326.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": [
+        {
+          "id": "6aec8ab0d11131f3e5626620",
+          "name": "Screenshot 2026-11-05 151732.png"
+        },
+        {
+          "id": "6aec8b698c451001b2f40407",
+          "name": "Screenshot 2026-11-05 151732.png"
+        },
+        {
+          "id": "6aecab748fbd456f0ca0e67b",
+          "name": "Screenshot 2026-11-05 181410.png"
+        },
+        {
+          "id": "6aee5cd32fa0e9b79458a88c",
+          "name": "Screenshot 2026-11-07 001002.png"
+        },
+        {
+          "id": "6aefcb8965b90b457cbe3c29",
+          "name": "Screenshot 2026-11-08 010603.png"
+        }
+      ]
+    },
+    {
+      "id": "AmPmoREx",
+      "name": "Codes",
+      "fields": [
+        "desc"
+      ],
+      "before": "#### In order to redeem a code, open the menu and select the codes button located at the bottom.\n\n**Active Codes:**\n\n- 9999rerolls\n- limitedhalloweenitemsgogetthemtoflex\n- strays\n\n**Expired Codes:**\n\n- GAKURAN\n- MANGA\n- PHONEDECO\n- 15REROLLS\n- 2MIL\n- FIXES\n- FIXES2\n- FIXES3\n- SECRET\n- SECRET2\n- SON\n- XAYSEYES\n- CHESS\n- MAPUPDATE\n- LARPSIMULATOR\n- UMA\n- MUSICFIXESNOPTIMIZATION\n- THECODEIS\n- THECODEIS\n- QUICKPATCH\n- ALI\n- J*BS\n- SKATERBOY\n- WINGCHAN\n- WHY\n- SMALLRESTART\n- IDK\n- SMALL\n- SINGALONG\n- EATUP\n- CQC\n- LATERESTART\n- DISCORDFIXED\n- CLUBAKUMASOBACK\n- QOL2\n- FRESHLOOK\n- QOL3\n- GAKURANCOMEBACK\n- PITY\n- PITYFIXED\n- QOL4\n- GAKUWEEN",
+      "after": "#### In order to redeem a code, open the menu and select the codes button located at the bottom.\n\n**Active Codes:**\n\n- 9999rerolls\n- VET\n\n**Expired Codes:**\n\n- GAKURAN\n- limitedhalloweenitemsgogetthemtoflex\n- strays\n- MANGA\n- PHONEDECO\n- 15REROLLS\n- 2MIL\n- FIXES\n- FIXES2\n- FIXES3\n- SECRET\n- SECRET2\n- SON\n- XAYSEYES\n- CHESS\n- MAPUPDATE\n- LARPSIMULATOR\n- UMA\n- MUSICFIXESNOPTIMIZATION\n- THECODEIS\n- THECODEIS\n- QUICKPATCH\n- ALI\n- J*BS\n- SKATERBOY\n- WINGCHAN\n- WHY\n- SMALLRESTART\n- IDK\n- SMALL\n- SINGALONG\n- EATUP\n- CQC\n- LATERESTART\n- DISCORDFIXED\n- CLUBAKUMASOBACK\n- QOL2\n- FRESHLOOK\n- QOL3\n- GAKURANCOMEBACK\n- PITY\n- PITYFIXED\n- QOL4\n- GAKUWEEN"
+    },
+    {
+      "id": "d71UNOzJ",
+      "name": "Awakenings",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "## GENERAL RULES\n\n‌\n\n- **15 Awakenable Styles:** Jin, Boxing, Karate, Taijutsu, Lethwei, Hakari, Wrestling, Aikido, Kure, Kickboxing, Cqc, Slugger, kyokushin and Striker.\n- **3 Stages:** Complete Stage 3 to master the style and automatically activate it’s V2.\n- **V2 Toggle:** Switch V2 on or off through the Awakening Panel. This cannot be done while in combat or downed.\n- **Style-Specific Progress:** Only progress for your currently equipped fighting style counts.\n- **Saved Progress:** Progress is saved separately for each style. Switching styles does not erase saved progress.\n- **Progress Tracking:** Only Stage 1 displays a progress bar. Stages 2 and 3 have no counter; use your character's inner thoughts for hints.\n- **Stage 3 Trials:** These are one-time trials. Leaving, switching styles, failing, or no longer meeting the required conditions resets the trial to 0.\n  - **Exception:** Karate Stage 3 progress is saved.\n\n---\n\n## TAIMANS & CALLOUTS\n\n#### **Spawning**\n\n- Taimans spawn every 8–15 minutes server-wide, following the order players joined the server.\n- A Taiman spawns approximately 10 studs behind you and follows you.\n- Taimans can spawn anywhere near your character, except in safezones.\n\n#### **Fight**\n\n- Once the Taiman reaches you, it will lean its hands back and say \"taiman, one on one\".\n- Punch the Taiman to start the fight.\n- After knocking them out, grip them if possible to ensure the win counts.\n\n#### **Important Details**\n\n- **Quest Requirement:** Only Taimans that spawn for you count. Stealing another player's Taiman will not count.\n- **Private Servers:** Taimans do not spawn in private servers.\n\n> **Tip:** Use a small or empty public server to reduce waiting time.\n\n---\n\n## FAIR FIGHT RULES & LIMITS\n\n#### **Valid Targets**\n\n- **Players:** Must hit you first or hit you back.\n- **NPCs:** Street Crew members or NPCs actively fighting you.\n- Randomly attacking players or NPCs who aren't fighting back does not count as a fair fight.\n\n#### **Hourly Limits Against the Same Player**\n\n- 150 Hits\n- 40 Perfect Blocks\n- 25 Guardbreaks\n- 25 Critical Hits (M2)\n- 20 Clash Wins\n- 3 Knockouts\n\n> These limits do not apply to NPCs or punching bags.\n\n‌\n\n- **Knockout Credit:** You must have landed the last hit within 10 seconds before the opponent goes down.\n- **Punching Bags:** A maximum of approximately 4-5 hits per second are counted.\n- **Nighttime:** In-game time between 07:00 PM and 06:00 AM.\n\n---\n\n# AWAKENING QUESTS\n\n## JIN\n\n**Stage 1 — Knock 150 npcs**\n\n**Stage 2 — parry and hit the same person within 2 seconds**\n\n**Stage 3 — Meditation**\n\n- Sit for 5 minutes straight on the Rooftop or in the Gardening area during nighttime.\n\n> → You may sit on a seat or use the Sit emote.\n> \\-> Moving more than 2 studs, taking damage, or entering combat fails the trial.\n\n> ‌\n\n![Screenshot\\_2026-11-05\\_204745.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccf5984925fa15a458e18/previews/6aeccf5a84925fa15a458fde/download/Screenshot_2026-11-05_204745.webp)\n\n> ‌\n\n---\n\n## BOXING\n\n**Stage 1 — 1,500 m1s on dojo bags/players**\n\n**Stage 2 — parry 250 times**\n\n**Stage 3 — Shadowbox**\n\n- Hit a punching bag in the Dojo Room nonstop for **3** minutes during nighttime.\n\n> → No other players may be inside the Dojo Room.\n> \\-> Stopping for more than 2.5 seconds resets the trial.\n\n> ‌\n\n![Screenshot\\_2026-11-05\\_204451.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecceaedc5a8a74d04ea070/previews/6aecceaedc5a8a74d04ea21e/download/Screenshot_2026-11-05_204451.webp)\n\n> ‌\n\n---\n\n## KARATE\n\n**Stage 1 — 400 full combos in dojo bags**\n\n**Stage 2 — Defeat 5 taiman**\n\n- Random npc event each 8-15 minutes\n\n**Stage 3 —Rain kata**\n\n- Complete 60 full M1 combos outdoors while it is raining or snowing.\n  → No roof or other object may be above you within 60 studs.\n\n> ‌\n\n![Screenshot\\_2026-11-05\\_204536.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecced8f92599532301dd5f/previews/6aecced9f92599532301e0b7/download/Screenshot_2026-11-05_204536.webp)\n\n> ‌\n\n---\n\n## TAIJUTSU\n\n**Stage 1 — 2k hits in dojo bags**\n\n**Stage 2 — Sprinting**\n\n- Sprint 60,000 studs on foot.\n\n> → Must be completed on foot.\n> \\-> Sprinting while seated, riding a skateboard, or airborne does not count.\n\n**Stage 3 — 600 non-stop hits in dojo bag**\n\n> → Can be completed at any time of day.\n> \\-> Stopping for more than 5 seconds resets the trial.\n\n![Screenshot\\_2026-11-05\\_204102.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccdcb0e9024729b0ba6cc/previews/6aeccdcc0e9024729b0ba84a/download/Screenshot_2026-11-05_204102.webp)\n\n> ‌\n\n---\n\n## LETHWEI\n\n**Stage 1 — guardbreak 300 times**\n\n- player/NPC must hit you first to count\n\n**Stage 2 — Low-HP Victories**\n\n- Win 15 fights while at low HP.\n\n> → You must knock out your opponent while your HP is at 25% or lower.\n\n**Stage 3 — Blood Oath**\n\n- Defeat a Street Crew leader without blocking at any point during the fight.\n  ![Screenshot\\_2026-11-05\\_204304.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecce40065f421f44b9971f/previews/6aecce40065f421f44b99949/download/Screenshot_2026-11-05_204304.webp)\n\n---\n\n## HAKARI\n\n**Stage 1 — Momentum Rush**\n\n- Trigger Momentum Rush 200 times.\n\n> → Momentum Rush requires 4 clean M1s in a row.\n> \\-> You must have landed a fair hit within the last 3 seconds.\n\n**Stage 2 — Critical Hits**\n\n- Land 200 critical hits (M2).\n\n**Stage 3 — Undefeated**\n\n- Get 5 knockouts in a row.\n\n> → The streak resets if you are knocked down or hit by a critical hit.\n\n> ‌\n\n![Screenshot\\_2026-11-05\\_204400.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecce7cb0b01fa513905cb9/previews/6aecce7db0b01fa513905f0c/download/Screenshot_2026-11-05_204400.webp)\n\n> ‌\n\n---\n\n## WRESTLING\n\n**Stage 1 — NPC Critical Hits**\n\n- Land your critical hit (M2) on NPCs 150 times.\n\n**Stage 2 — Clashes**\n\n- Win 100 clashes.\n\n**Stage 3 — Ring**\n\n- Win 3 taimans in a row.\n\n> → Losing a taiman resets the streak.\n\n![Screenshot\\_2026-11-05\\_204014.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccda2483897a8c1442647/previews/6aeccda2483897a8c14427d3/download/Screenshot_2026-11-05_204014.webp)\n\n> ‌\n\n---\n\n## MUAY THAI\n\n**Stage 1 — Full M1 Combos**\n\n- Complete 300 full M1 combos against fair opponents or punching bags.\n\n**Stage 2 — Clashes**\n\n- Win 100 clashes.\n\n**Stage 3 — Wai Kru**\nComplete the following steps to win a taiman:\n\n1. Start a taiman against an opponent.\n2. Face your opponent and use the Bow emote while within 25 studs and in front of them.\n3. Land your first hit within 20 seconds of bowing.\n4. Win the taiman.\n\n**Important:** Hitting your opponent before bowing fails the attempt.\n\n![Screenshot\\_2026-11-05\\_204143.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccdf529a7fe499465bf32/previews/6aeccdf629a7fe499465c0bc/download/Screenshot_2026-11-05_204143.webp)\n\n---\n\n## Kure\n\nS**tage 1 - land 120 heavy on NPC/players**\n\n- player must hit you first, for NPC they have to fight back\n\n**Stage 2- knock 15 players/NPCS while 25%- hp**\n\n**Stage 3-Knock 3 street crew, THEN their leader**\n\n- one street crew, resets if going to a different one\n\n![Screenshot\\_2026-11-05\\_202818.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccad4ee3ca2365b921024/previews/6aeccad4ee3ca2365b921174/download/Screenshot_2026-11-05_202818.webp)\n\n![kurev2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797296b549cb005b6629b/previews/6ae7972a6b549cb005b663b6/download/kurev2m2.gif)\n\n---\n\n## Slugger\n\n**Stage 1- kill 120 npcs that fight back**\n\n- can be repeated on the same npc\n\n**stage 2- knock someone with heavy 40 times**\n\n- (M2) as the finishing hit\n\n**stage 3- at night. Beat 5 street event npcs within 90s**\n\n- school raid, turf crew, brawl, bosozoku/etc\n\n![Screenshot\\_2026-11-05\\_201911.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecc8ac80065413d34da079/previews/6aecc8ac80065413d34da223/download/Screenshot_2026-11-05_201911.webp)\n\n![sluggerv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797349b4dfb103a9178ce/previews/6ae797369b4dfb103a9179e1/download/sluggerv2m2.gif)\n\n---\n\n## Kickboxing\n\n**Stage 1- land 3rd and 4th m1 combos in punching bag**\n\n**stage 2- do 120 combos on npcs/players**\n\n- full 4 m1s, bag doesn’t count.\n\n**stage 3- 3 rounds of 25 bag kicks, rest for 8-20s between each**\n\n- each round under 45s, wait for 8-25 seconds minimum\n\n![Screenshot\\_2026-11-05\\_201831.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecc87d7433203e096f1e35/previews/6aecc87e7433203e096f1fa6/download/Screenshot_2026-11-05_201831.webp)\n\n![kickboxingv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae7973f868e4394b120bf58/previews/6ae79741868e4394b120c154/download/kickboxingv2m2.gif)\n\n---\n\n## Striker\n\n**Stage 1- land 150 heavy on npc/player**\n\n**Stage-2- dash through 120 hits**\n\n- can be any npc/player, works on private\n\n**Stage 3- knock 3 street-npcs without taking hit**\n\n- gang members, gang fights/bullies or taiman\n- Also works on players!\n\n![Screenshot\\_2026-11-05\\_201631.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aecc828455287bdbc38f8e6/previews/6aecc829455287bdbc38fa57/download/Screenshot_2026-11-05_201631.webp)\n\n![strikerv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae79749aa285c770f0d923b/previews/6ae7974baa285c770f0d94b3/download/strikerv2m2.gif)\n\n---\n\n## Aikido\n\n**stage 1-** **Perfect block 300 times**\n\n**stage 2- dash past/through 150 hits**\n\n**stage 3-sit 4 minutes in the dojo without moving**\n\n- time does not matter, any seat emote, do not get hit\n\n![Screenshot\\_2026-10-31\\_205454.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae669571ccf7400a887176f/previews/6ae669571ccf7400a8872131/download/Screenshot_2026-10-31_205454.webp)\n\n---\n\n## Kyokushin\n\n**Stage 1-take 500 hits by NPC/player**\n\n- get hit for it to count, do not hit first\n\n**Stage 2-get hit during heavy 100 times**\n\n- get hit while charging it, max 3 hits per heavy\n\n**Stage 3-beat anyone 10 times in a row within 60s**\n\n- max 60s between each KO, getting knocked down resets it\n\n![Screenshot\\_2026-11-05\\_203453.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccc55ad4f48090ec84f77/previews/6aeccc55ad4f48090ec850eb/download/Screenshot_2026-11-05_203453.webp)\n\n![kyokushinv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797535a19736242bb3e13/previews/6ae797555a19736242bb4483/download/kyokushinv2m2.gif)\n\n---\n\n‌\n\n## CQC\n\n**Stage 1- Land 1k heavy dmg on NPC/player**\n\n- Get hit first.\n\n**Stage 2-knock 25 NPCS while 3+ hit you in the last 20s**\n\n**Stage 3- knock 3 street crew members, then their leader**\n\n- members of one street crew\n\n![Screenshot\\_2026-11-05\\_203328.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aeccbffa50338bde7483e25/previews/6aeccc00a50338bde7483f8d/download/Screenshot_2026-11-05_203328.webp)\n\n![cqcv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae7975a7342b9e32935baa0/previews/6ae7975c7342b9e32935bbf9/download/cqcv2m2.gif)\n\n---\n\n## Ali:\n\n**Stage1- land 2k hits in the dojo bag**\n\n**stage2-use the dash counter 5 times**\n\n**stage3-3 TAIMAN wins in a row**\n\n![image.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aefec3ce136a95240038fd4/previews/6aefec3ce136a95240039138/download/image.webp)\n\n## Mishima:\n\n**Stage1- break 250 guards**\n\n- player has to hit you first\n\n**stage2-beat 10 NPCS with 25%- hp**\n\n**stage3-beat 6 NPCS that fight in a row**\n\n![image.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aefec1963613af2294f72d5/previews/6aefec1963613af2294f74b8/download/image.webp)\n\n## Perfect Copy:\n\n**Stage1-parry 250 times**\n\n**stage2-land 150 successful heavy**\n\n- Just heavy, you have to land it to count\n\n**stage3-beat 2 crew members/players without getting hit**\n\n- You can block/parry for the “fair fight”\n\n![image.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aefec55f886346862014dfa/previews/6aefec56f886346862014f6a/download/image.webp)\n\n## Dragon:\n\n**stage1- beat 150 NPCS that fight back**\n\n**stage2-beat 5 TAIMAN**\n\n- does not reset\n\n**stage3-beat 6 street NPC events at night alone**\n\n![Screenshot\\_2026-11-08\\_052629.webp](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6aefebfc173dac4c3d5e956b/previews/6aefebfd173dac4c3d5e96b7/download/Screenshot_2026-11-08_052629.webp)\n\n‌\n\n---\n\n## All street NPCS explained\n\n## **Private**\n\n**Fair fight** - **they hit you first or fought back.**\n**Street thugs** - **any NPC that fights back**\n**Street NPCS**- **any event/game mode NPC**\n\n- only game mode can happen in private\n\n## **PUBLIC ONLY**\n\n**street crew/clan** - **delinquent NPC, usually near Gaku-Mart**\n\n- **afterschool hours**\n- **TAIMAN**- `npcs that come to you for \"one on one\" `\n\n\n**night** - `past 7pm`\n**afterschool**  - `4:30 till 7pm`\n\n---\n\n## AWAKENED\n\nComplete all three stages of your chosen fighting style to master its Awakening and automatically activate it’s V2.\n\n> Remember to check your characters inner thoughts for hints when completing Stages 2 and 3, as these stages do not display a progress counter.\n>\n> ",
+      "after": "## GENERAL RULES\n\n- **3 Stages:** Complete Stage 3 to master the style and automatically activate it’s V2.\n- **V2 Toggle:** Switch V2 on or off through the Awakening Panel. This cannot be done while in combat or downed.\n- **Style-Specific Progress:** Only progress for your currently equipped fighting style counts.\n- **Saved Progress:** Progress is saved separately for each style. Switching styles does not erase saved progress.\n- **Progress Tracking:** Only Stage 1 displays a progress bar. Stages 2 and 3 have no counter; use your character's inner thoughts for hints.\n- **Stage 3 Trials:** These are one-time trials. Leaving, switching styles, failing, or no longer meeting the required conditions resets the trial to 0.\n\n---\n\n## TAIMANS & CALLOUTS\n\n#### **Spawning**\n\n- Taimans spawn every 8–15 minutes server-wide, following the order players joined the server.\n- A Taiman spawns approximately 10 studs behind you and follows you.\n- Taimans can spawn anywhere near your character, except in safezones.\n\n#### **Fight**\n\n- Once the Taiman reaches you, it will lean its hands back and say \"taiman, one on one\".\n- Punch the Taiman to start the fight.\n- After knocking them out, grip them if possible to ensure the win counts.\n\n#### **Important Details**\n\n- **Quest Requirement:** Only Taimans that spawn for you count. Stealing another player's Taiman will not count.\n- **Private Servers:** Taimans do not spawn in private servers.\n\n> **Tip:** Use a small or empty public server to reduce waiting time.\n\n---\n\n## FAIR FIGHT RULES & LIMITS\n\n#### **Valid Targets**\n\n- **Players:** Must hit you first or hit you back.\n- **NPCs:** Street Crew members or NPCs actively fighting you.\n- Randomly attacking players or NPCs who aren't fighting back does not count as a fair fight.\n\n#### **Hourly Limits Against the Same Player**\n\n- 150 Hits\n- 40 Perfect Blocks\n- 25 Guardbreaks\n- 25 Critical Hits (M2)\n- 20 Clash Wins\n- 3 Knockouts\n\n> These limits do not apply to NPCs or punching bags.\n\n‌\n\n- **Knockout Credit:** You must have landed the last hit within 10 seconds before the opponent goes down.\n- **Punching Bags:** A maximum of approximately 4-5 hits per second are counted.\n- **Nighttime:** In-game time between 07:00 PM and 06:00 AM.\n\n---\n\n# AWAKENING QUESTS\n\n## JIN\n\n**Stage 1 — Knockouts**\n\n- Knock out 150 NPCs.\n\n**Stage 2 — Counters**\n\n- Perform 200 counters.\n\n> → A counter requires you to perfect block an attack and then hit the same attacker within 2 seconds.\n\n**Stage 3 — Meditation**\n\n- Sit for 5 minutes straight on the Rooftop or in the Gardening area during nighttime.\n\n> → You may sit on a seat or use the Sit emote.\n> \\-> Moving more than 2 studs, taking damage, or entering combat fails the trial.\n\n> ‌\n\n---\n\n## BOXING\n\n**Stage 1 — M1s**\n\n- Land 1,500 M1s against fair opponents or punching bags.\n\n**Stage 2 — Perfect Blocks**\n\n- Perform 250 perfect blocks.\n\n**Stage 3 — Shadowbox**\n\n- Hit a punching bag in the Dojo Room nonstop for **3** minutes during nighttime.\n\n> → No other players may be inside the Dojo Room.\n> \\-> Stopping for more than 2.5 seconds resets the trial.\n\n---\n\n## KARATE\n\n**Stage 1 — Full M1 Combos**\n\n- Complete 400 full M1 combos on a punching bag.\n\n**Stage 2 — Taimans**\n\n- Win 5 taimans.\n\n**Stage 3 — Rain Kata**\n\n- Complete 60 full M1 combos outdoors while it is raining or snowing.\n\n> → No roof or other object may be above you within 60 studs.\n> \\-> Combos against punching bags or fair opponents both count.\n> \\-> Progress is saved like a normal counter.\n\n> ‌\n\n---\n\n## TAIJUTSU\n\n**Stage 1 — Punching Bag Hits**\n\n- Land 2,000 hits on punching bags.\n\n**Stage 2 — Sprinting**\n\n- Sprint 60,000 studs on foot.\n\n> → Must be completed on foot.\n> \\-> Sprinting while seated, riding a skateboard, or airborne does not count.\n\n**Stage 3 — Gates**\n\n- Land 600 hits on a punching bag in the Dojo Room.\n\n> → Can be completed at any time of day.\n> \\-> Stopping for more than 5 seconds resets the trial.\n\n> ‌\n\n---\n\n## LETHWEI\n\n**Stage 1 — Guardbreaks**\n\n- Perform 300 guardbreaks.\n\n**Stage 2 — Low-HP Victories**\n\n- Win 15 fights while at low HP.\n\n> → You must knock out your opponent while your HP is at 25% or lower.\n\n**Stage 3 — Blood Oath**\n\nDefeat a Street Crew leader without blocking at any point during the fight.\n\n---\n\n## HAKARI\n\n**Stage 1 — Momentum Rush**\n\n- Trigger Momentum Rush 200 times.\n\n> → Momentum Rush requires 4 clean M1s in a row.\n> \\-> You must have landed a fair hit within the last 3 seconds.\n\n**Stage 2 — Critical Hits**\n\n- Land 200 critical hits (M2).\n\n**Stage 3 — Undefeated**\n\n- Get 5 knockouts in a row.\n\n> → The streak resets if you are knocked down or hit by a critical hit.\n\n> ‌\n\n---\n\n## WRESTLING\n\n**Stage 1 — NPC Critical Hits**\n\n- Land your critical hit (M2) on NPCs 150 times.\n\n**Stage 2 — Clashes**\n\n- Win 100 clashes.\n\n**Stage 3 — Ring**\n\n- Win 3 taimans in a row.\n\n> → Losing a taiman resets the streak.\n\n> ‌\n\n---\n\n## MUAY THAI\n\n**Stage 1 — Full M1 Combos**\n\n- Complete 300 full M1 combos against fair opponents or punching bags.\n\n**Stage 2 — Clashes**\n\n- Win 100 clashes.\n\n**Stage 3 — Wai Kru**\nComplete the following steps to win a taiman:\n\n1. Start a taiman against an opponent.\n2. Face your opponent and use the Bow emote while within 25 studs and in front of them.\n3. Land your first hit within 20 seconds of bowing.\n4. Win the taiman.\n\n**Important:** Hitting your opponent before bowing fails the attempt.\n\n## Kure\n\nS**tage 1 - land 120 heavy on npc/players**\n\n- player must hit you first, for npc they have to fight back\n\n**Stage 2- knock 15 players/npcs while 25% hp**\n\n**Stage 3-Knock any event npc in public 4 times without dying**\n\n- Can be school raid npcs/gang members or any delinquents\n\n![kurev2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797296b549cb005b6629b/previews/6ae7972a6b549cb005b663b6/download/kurev2m2.gif)\n\n‌\n\n## Slugger\n\n**Stage 1- kill 120 npcs that fight back**\n\n- at least 2 hits to count\n\n**stage 2- knock someone with heavy 250 times**\n\n**stage 3- Beat 5 npcs on school raid without dying**\n\n- School raid has to be active for it to count\n\n![sluggerv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797349b4dfb103a9178ce/previews/6ae797369b4dfb103a9179e1/download/sluggerv2m2.gif)\n\n‌\n\n‌\n\n## Kickboxing\n\n**Stage 1- land 3rd and 4th m1 combos in punching bag**\n\n**stage 2- do 150 combos on npcs/players**\n\n- full 4 m1s, everything saves\n\n**stage 3- hits in dojo bag, stop for 5s when the bar is red**\n\n- make sure to wait after each bar. No need to hurry.\n\n![kickboxingv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae7973f868e4394b120bf58/previews/6ae79741868e4394b120c154/download/kickboxingv2m2.gif)\n\n‌\n\n## Striker\n\n**Stage 1- land 150 heavy on npc/player**\n\n**Stage-2- dodge and hit the gang leader with diff hair near gakumart**\n\n- Has to be a leader, dash past his m1 and kill him\n\n**Stage 3- knock 3  npcs/players without getting hit**\n\n- any npc(no car), doesn’t matter what as long as you’re not hit.\n\n![strikerv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae79749aa285c770f0d923b/previews/6ae7974baa285c770f0d94b3/download/strikerv2m2.gif)\n\n‌\n\n## Aikido\n\n**stage 1-** **Perfect block 300 times**\n\n**stage 2- dash past a m1 5 times**\n\n**stage 3-sit 4 minutes in the dojo carpet without moving**\n\n- time does not matter, any seat emote to count.\n\n## kyokushin\n\n**Stage 1-take 500 hits by npc/player**\n\n- get hit for it to count, do not hit first\n\n**Stage 2-get hit during heavy windup 350 times**\n\n- simple terms: get hit while in heavy animation\n\n**Stage 3-beat anyone 10 times in a row without dying**\n\n![kyokushinv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae797535a19736242bb3e13/previews/6ae797555a19736242bb4483/download/kyokushinv2m2.gif)\n\n‌\n\n## Cqc\n\n**Stage 1- Land 1k heavy dmg on npc/player**\n\n- Get hit first.\n\n**Stage 2-knock 2 npcs/players at near same time 5 times**\n\n- quest counts as long as there’s 2+ npcs together\n\n**Stage 3- knock 5 npcs with delinquent/black fit (no dying)**\n\n![cqcv2m2.gif](https://trello.com/1/cards/6ada588c2a547b3d1b34db64/attachments/6ae7975a7342b9e32935baa0/previews/6ae7975c7342b9e32935bbf9/download/cqcv2m2.gif)\n\n‌\n\n‌\n\n---",
+      "addedAttachments": [],
+      "removedAttachments": [
+        {
+          "id": "6ae666b39b8dd9e04b5f3475",
+          "name": "Screenshot 2026-10-30 013044.png"
+        },
+        {
+          "id": "6ae668ebf86493c7eb02bd04",
+          "name": "Screenshot 2026-10-31 182924.png"
+        },
+        {
+          "id": "6ae66931ffc18dab8fc77eb0",
+          "name": "Screenshot 2026-10-30 003643.png"
+        },
+        {
+          "id": "6ae669571ccf7400a887176f",
+          "name": "Screenshot 2026-10-31 205454.png"
+        },
+        {
+          "id": "6aecc828455287bdbc38f8e6",
+          "name": "Screenshot 2026-11-05 201631.png"
+        },
+        {
+          "id": "6aecc87d7433203e096f1e35",
+          "name": "Screenshot 2026-11-05 201831.png"
+        },
+        {
+          "id": "6aecc8ac80065413d34da079",
+          "name": "Screenshot 2026-11-05 201911.png"
+        },
+        {
+          "id": "6aeccad4ee3ca2365b921024",
+          "name": "Screenshot 2026-11-05 202818.png"
+        },
+        {
+          "id": "6aeccb7daba7cd7b8fb59951",
+          "name": "Screenshot 2026-11-05 203114.png"
+        },
+        {
+          "id": "6aeccbffa50338bde7483e25",
+          "name": "Screenshot 2026-11-05 203328.png"
+        },
+        {
+          "id": "6aeccc55ad4f48090ec84f77",
+          "name": "Screenshot 2026-11-05 203453.png"
+        },
+        {
+          "id": "6aeccda2483897a8c1442647",
+          "name": "Screenshot 2026-11-05 204014.png"
+        },
+        {
+          "id": "6aeccdcb0e9024729b0ba6cc",
+          "name": "Screenshot 2026-11-05 204102.png"
+        },
+        {
+          "id": "6aeccdf529a7fe499465bf32",
+          "name": "Screenshot 2026-11-05 204143.png"
+        },
+        {
+          "id": "6aecce40065f421f44b9971f",
+          "name": "Screenshot 2026-11-05 204304.png"
+        },
+        {
+          "id": "6aecce7cb0b01fa513905cb9",
+          "name": "Screenshot 2026-11-05 204400.png"
+        },
+        {
+          "id": "6aecceaedc5a8a74d04ea070",
+          "name": "Screenshot 2026-11-05 204451.png"
+        },
+        {
+          "id": "6aecced8f92599532301dd5f",
+          "name": "Screenshot 2026-11-05 204536.png"
+        },
+        {
+          "id": "6aeccf5984925fa15a458e18",
+          "name": "Screenshot 2026-11-05 204745.png"
+        },
+        {
+          "id": "6aefebfc173dac4c3d5e956b",
+          "name": "Screenshot 2026-11-08 052629.png"
+        },
+        {
+          "id": "6aefec1963613af2294f72d5",
+          "name": "image.png"
+        },
+        {
+          "id": "6aefec3ce136a95240038fd4",
+          "name": "image.png"
+        },
+        {
+          "id": "6aefec55f886346862014dfa",
+          "name": "image.png"
+        }
+      ]
+    },
+    {
+      "id": "lmsOGJqg",
+      "name": "Sports",
+      "fields": [
+        "desc"
+      ],
+      "before": "# Sport Traits\n\nEach sport (Basketball, Volleyball, Soccer) features two active trait slots to modify your playstyle.\n\n- **Primary Slot:** Operates at 100% full strength.\n- **Sub Slot:** Operates at 75% strength.\n- **Swapping:** Switch traits between the two slots at any time.\n- **Rerolls:** Costs ¥250 or 1 Ticket.\n\n> A reroll will never land on the trait active in your other slot.\n\n![Screenshot\\_2026-10-22\\_223059.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada765755233733fdf6869d/previews/6ada765855233733fdf6876c/download/Screenshot_2026-10-22_223059.webp)\n\n‌\n\n## BASKETBALL TRAITS\n\n#### **Legendary:**\n\n`Sharpshooter` - Your jump shot green window is 10% wider.\n`Quick Release` - Your jumper and its meter are 10% quicker.\n\n**Epic:**\n`Posterizer` - Take off for a running dunk 5 studs further from the rim.\n`Heat Check` - Each make in a row widens your green window 3.3%, up to 3 in a row. A miss resets it.\n`Lockdown` - Your contest count 15% more.\n`Dimer` - Your passes fly 55% faster and are caught from 5.5 studs further.\n\n#### **Uncommon:**\n\n`Shooter's Touch` - Yellow and orange releases are 5 points likelier to go in.\n`Ice Veins` - While your team is down for 5 or more, your green windows are 7% wider.\n`Pickpocket` - Your steals are 5 points likelier to work.\n`Tough Shot` - Defenders contesting your shot count 5% less.\n`Catch and Shoot` - Shoot a jumper within 2 seconds of catching a pass and its green window is 5% wider.\n`Ankle Breaker` - Your dribble moves are 4.4 points likelier to break ankles.\n`Speed Dribbler` - Run 5% faster with the ball.\n`Hang Time` - Stay in the air 20% longer without jumping any higher.\n`Rim Protector` - Your Blocks are 5 points likelier to work.\n`Slasher` - Layup, close shot, floater and hook windows are 8.8% wider.\n\n#### **Common:**\n\n`Lob City` - A teammate who catches your lob can take off for a dunk 1.65 studs further out for 2 seconds.\n`Springs` - Dunk 10% higher, and your blocks reach 10% further.\n`Planted` - Dribble moves are 4.4 points less likely to break your ankles.\n`Iron Lungs` - Stamina refills 11% faster.\n`Fast Feet` - Sprint 5% faster.\n`Pogo` - Jump again 25% sooner after landing.\n`Tight Handles` - Steals against you are 3.3 points less likely.\n`Quick Hands` - Swipe for a steal again 15% sooner.\n`Brick Wall` - Your screens are 3.3 points likelier to knock someone down.\n`Endurance` - Sprinting uses 11% less stamina.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8307defb6e89312870/previews/6ada6f8407defb6e89312a3b/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8904855d0c6f2175f3/previews/6ada6f8a04855d0c6f217634/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8e41d61b5a6b2bc32b/previews/6ada6f8f41d61b5a6b2bc37a/download/image.webp)\n\n---\n\n## Volleyball  Traits\n\n#### **Legendary:**\n\n`Perfect Toss`- Whoever spikes your set heys a 4.4% bigger spike hitbox on that ball.\n`Curve Serve` -  Hold left or right as your serve to bend up to 15 studs that way.\n\n#### **Epic:**\n\n`Big Serve` - Your jump serves fly 10% faster\n`Recieve Breaker` - Your spikes are 275% more likely to break a recieve.\n`Cannon` - Your spikes fly 3.85% faster.\n`Tool Master` - Balls you tool off a block  come off it 110% faster\n`Topspin` - Your jump serves drop 40% harder, so you can hit them harder and keep them in.\n`Tempo Set` -  Your power 4 and 5 sets travel 5.5% faster\n`Read Blocker` -  See the  power each enemy spiker has picked when they're within 22 studs\n`Glide Blocker` - Move sideways 4.4% faster in the air while blocking.\n`Anchor` - On serve recieve, teammates near you get a 4.4% wider recieve hitbox. Doesn't stack.\n\n#### **Uncommon:**\n\n`Big Wall`- Your block hitbox is 4.4% bigger.\n`Long Dive` - Your dives cover 7.7% more ground.\n`High Ball` - Your power 1 to 3 sets go 25% higher\n`Hang Time` - Stay in the air 20% longer without jumping any higher\n`Float Master` - Your float serves wobble 110% more.\n`Broad Reach` - Your spike hitbox is 5% bigger\n`Soft Block` - Balls that tool off our hands have a 38.5% chance to come off soft, so your backrow can dig them.\n\n#### **Common:**\n\n`Guardian` - Your dive hitbox is 5.5% bigger.\n`Springs` - Jump 10% higher\n`Soft Hands` - Your set hitbox is 5.5% bigger\n`Fast Feet` - Sprint 10% faster\n`Iron Lungs`- Stamina refills 11% faster\n`Stable Platform` - Your recieves are 22% less likely to break.\n`Quick Recovery` - Get backup from a dive 11% faster.\n`Big Arms` - Your recieve hitbox is 6.6% wider.\n`Endurance` - Sprinting, jumping and diving use 11% less stamina.\n\n‌\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6fefb71f055a849e3305/previews/6ada6ff0b71f055a849e338b/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6ff40d89878309570805/previews/6ada6ff40d89878309570870/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6ff835730886fe33f433/previews/6ada6ff835730886fe33f558/download/image.webp)\n\n---\n\n‌\n\n## Soccer Traits\n\n#### **Legendary:**\n\n`Bender` -  Your curved kicks bend 25% more.\n`In the zone` -  Your flow meter fills 15% faster.\n\n#### **Epic:**\n\n`Close Control` - The ball slows you down 10% less.\n`Trickster` - Lift and feint come back 15% sooner.\n`Playmaker` - A teammate who recieves your pass kicks 5% harder for 3 seconds.\n`Quick Charge` - Your kick charge fills 15% faster\n`Power Boot` - Your kicks are 5% stronger.\n\n#### **Uncommon:**\n\n`Big Gloves` -  As keeper, your dive and catch hitboxes are 5.5% bigger\n`Slide Master` - Your slide tackles come back 15% sooner.\n`One Timer` -  Kick again 25% sooner.\n`Hang Time`  - Stay in the air 25% longer without jumping any higher.\n`Cat Reflexes` - Your keeper dives cover 5.5% more ground.\n\n#### **Common:**\n\n`Bulldozer` - Your tackles knock the dribbler 11% further.\n`Endurance` - Sprinting uses 11% less stamina.\n`Fast Feet` - Sprint 5% faster.\n`Springs` - Jump 33% higher.\n`Punch Clear` - Your parries fly 15% further from goal\n`Long Legs` - Your tackles reach 5.5% further.\n`Iron Lungs` - Stamina refills 11% faster.\n\n‌\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada7053ab2110c523378754/previews/6ada7054ab2110c523378b32/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada705e08d2eeb4114e77a1/previews/6ada705f08d2eeb4114e7843/download/image.webp)\n\n---\n\n‌\n\n## FOOTBALL PERKS\n\n#### **Legendary:**\n\n`Dime Dropper` - Teammate catches your passes from 6% further.\n`Jump Ball` - When hands meet on a ball, yours count as 0.3 studs closer to it.\n\n#### **Epic:**\n\n`Cannon Arm` - You passes fly 4% faster.\n`Magnet` - Your catch reach is 5% bigger.\n`Elusive` - Tacklers have to get 5% closer to tag you.\n`Ball Hawk` - Your catch reach is 8% bigger on the others team passes.\n\n#### **Uncommon:**\n\n`Hang Time` - Stay in air 20% longer.\n`High Point` - You catch balls up to 0.3 studs higher.\n`Breakaway` - Run 5% faster with the ball.\n`Stiff Arm` - Nobody can tag you for 100ms longer after you get the ball.\n`Swim Move` - Block slows you down 15% less.\n`Wrap Up` - You tag ball carries from 6% further.\n`Layout` - Your dives fly 8% further.\n\n#### **Common:**\n\n`Fast Feet` - Sprint 5% faster.\n`Bounce Back` - Dive again 15% sooner.\n`Springs` - Jump 10% higher.\n`Iron Lung` - Stamina refills 11% faster.\n`Endurance` - Sprinting uses 11% less stam.\n`Sticky Hands` - Catch window stays open for 50ms longer.\n`Pancake` - Players you block stay slowed for 15% longer.\n`Road Grader` - Your blocks reach 8% further.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2c386b3545574e3a0921/previews/6ade2c386b3545574e3a0a92/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2c4352e2f59f3b588154/previews/6ade2c4352e2f59f3b58825c/download/image.webp)\n\n---\n\n‌\n\n## Goal Effects:\n\nCustom scoring animations that triggers upon a successful point, such as a touchdown, soccer goal, or basketball green release. Each sport rolls for its effect independently.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2d7815c40f4c5e8c2d66/previews/6ade2d7815c40f4c5e8c2e95/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2cca1ebac69b77c63fe8/previews/6ade2ccb1ebac69b77c640f2/download/image.webp)\n\n‌\n\n---\n\n## Ball Trails:\n\nA universal cosmetic that changes the trail color of any ball you touch, kick, or throw across all sports. Each roll grants a completely random hex color code with equal probability.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2d5b4c29ca126a772aba/previews/6ade2d5b4c29ca126a772d84/download/image.webp)",
+      "after": "# Sport Traits\n\nEach sport (Basketball, Volleyball, Soccer) features two active trait slots to modify your playstyle.\n\n- **Primary Slot:** Operates at 100% full strength.\n- **Sub Slot:** Operates at 75% strength.\n- **Swapping:** Switch traits between the two slots at any time.\n- **Rerolls:** Costs ¥250 or 1 Ticket.\n\n> A reroll will never land on the trait active in your other slot.\n\n![Screenshot\\_2026-10-22\\_223059.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada765755233733fdf6869d/previews/6ada765855233733fdf6876c/download/Screenshot_2026-10-22_223059.webp)\n\n‌\n\n## BASKETBALL TRAITS\n\n#### **Legendary:**\n\n`Sharpshooter` - Your jump shot green window is 10% wider.\n`Quick Release` - Your jumper and its meter are 10% quicker.\n\n**Epic:**\n`Posterizer` - Take off for a running dunk 5 studs further from the rim.\n`Heat Check` - Each make in a row widens your green window 3.3%, up to 3 in a row. A miss resets it.\n`Lockdown` - Your contest count 15% more.\n`Dimer` - Your passes fly 55% faster and are caught from 5.5 studs further.\n`Springs` - Dunk 10% higher, and your blocks reach 10% further.\n\n#### **Uncommon:**\n\n`Shooter's Touch` - Yellow and orange releases are 5 points likelier to go in.\n`Ice Veins` - While your team is down for 5 or more, your green windows are 7% wider.\n`Pickpocket` - Your steals are 5 points likelier to work.\n`Tough Shot` - Defenders contesting your shot count 5% less.\n`Catch and Shoot` - Shoot a jumper within 2 seconds of catching a pass and its green window is 5% wider.\n`Ankle Breaker` - Your dribble moves are 4.4 points likelier to break ankles.\n`Speed Dribbler` - Run 5% faster with the ball.\n`Hang Time` - Stay in the air 20% longer without jumping any higher.\n`Rim Protector` - Your Blocks are 5 points likelier to work.\n`Slasher` - Layup, close shot, floater and hook windows are 8.8% wider.\n\n#### **Common:**\n\n`Lob City` - A teammate who catches your lob can take off for a dunk 1.65 studs further out for 2 seconds.\n`Planted` - Dribble moves are 4.4 points less likely to break your ankles.\n`Iron Lungs` - Stamina refills 11% faster.\n`Fast Feet` - Sprint 5% faster.\n`Pogo` - Jump again 25% sooner after landing.\n`Tight Handles` - Steals against you are 3.3 points less likely.\n`Quick Hands` - Swipe for a steal again 15% sooner.\n`Brick Wall` - Your screens are 3.3 points likelier to knock someone down.\n`Endurance` - Sprinting uses 11% less stamina.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8307defb6e89312870/previews/6ada6f8407defb6e89312a3b/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8904855d0c6f2175f3/previews/6ada6f8a04855d0c6f217634/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6f8e41d61b5a6b2bc32b/previews/6ada6f8f41d61b5a6b2bc37a/download/image.webp)\n\n---\n\n## Volleyball  Traits\n\n#### **Legendary:**\n\n`Perfect Toss`- Whoever spikes your set heys a 4.4% bigger spike hitbox on that ball.\n`Curve Serve` -  Hold left or right as your serve to bend up to 15 studs that way.\n\n#### **Epic:**\n\n`Big Serve` - Your jump serves fly 10% faster\n`Recieve Breaker` - Your spikes are 275% more likely to break a recieve.\n`Cannon` - Your spikes fly 3.85% faster.\n`Tool Master` - Balls you tool off a block  come off it 110% faster\n`Topspin` - Your jump serves drop 40% harder, so you can hit them harder and keep them in.\n`Tempo Set` -  Your power 4 and 5 sets travel 5.5% faster\n`Read Blocker` -  See the  power each enemy spiker has picked when they're within 22 studs\n`Glide Blocker` - Move sideways 4.4% faster in the air while blocking.\n`Anchor` - On serve recieve, teammates near you get a 4.4% wider recieve hitbox. Doesn't stack.\n\n#### **Uncommon:**\n\n`Big Wall`- Your block hitbox is 4.4% bigger.\n`Long Dive` - Your dives cover 7.7% more ground.\n`High Ball` - Your power 1 to 3 sets go 25% higher\n`Hang Time` - Stay in the air 20% longer without jumping any higher\n`Float Master` - Your float serves wobble 110% more.\n`Broad Reach` - Your spike hitbox is 5% bigger\n`Soft Block` - Balls that tool off our hands have a 38.5% chance to come off soft, so your backrow can dig them.\n\n#### **Common:**\n\n`Guardian` - Your dive hitbox is 5.5% bigger.\n`Springs` - Jump 10% higher\n`Soft Hands` - Your set hitbox is 5.5% bigger\n`Fast Feet` - Sprint 10% faster\n`Iron Lungs`- Stamina refills 11% faster\n`Stable Platform` - Your recieves are 22% less likely to break.\n`Quick Recovery` - Get backup from a dive 11% faster.\n`Big Arms` - Your recieve hitbox is 6.6% wider.\n`Endurance` - Sprinting, jumping and diving use 11% less stamina.\n\n‌\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6fefb71f055a849e3305/previews/6ada6ff0b71f055a849e338b/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6ff40d89878309570805/previews/6ada6ff40d89878309570870/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada6ff835730886fe33f433/previews/6ada6ff835730886fe33f558/download/image.webp)\n\n---\n\n‌\n\n## Soccer Traits\n\n#### **Legendary:**\n\n`Bender` -  Your curved kicks bend 25% more.\n`In the zone` -  Your flow meter fills 15% faster.\n\n#### **Epic:**\n\n`Close Control` - The ball slows you down 10% less.\n`Trickster` - Lift and feint come back 15% sooner.\n`Playmaker` - A teammate who recieves your pass kicks 5% harder for 3 seconds.\n`Quick Charge` - Your kick charge fills 15% faster\n`Power Boot` - Your kicks are 5% stronger.\n\n#### **Uncommon:**\n\n`Big Gloves` -  As keeper, your dive and catch hitboxes are 5.5% bigger\n`Slide Master` - Your slide tackles come back 15% sooner.\n`One Timer` -  Kick again 25% sooner.\n`Hang Time`  - Stay in the air 25% longer without jumping any higher.\n`Cat Reflexes` - Your keeper dives cover 5.5% more ground.\n\n#### **Common:**\n\n`Bulldozer` - Your tackles knock the dribbler 11% further.\n`Endurance` - Sprinting uses 11% less stamina.\n`Fast Feet` - Sprint 5% faster.\n`Springs` - Jump 33% higher.\n`Punch Clear` - Your parries fly 15% further from goal\n`Long Legs` - Your tackles reach 5.5% further.\n`Iron Lungs` - Stamina refills 11% faster.\n\n‌\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada7053ab2110c523378754/previews/6ada7054ab2110c523378b32/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ada705e08d2eeb4114e77a1/previews/6ada705f08d2eeb4114e7843/download/image.webp)\n\n---\n\n‌\n\n## FOOTBALL PERKS\n\n#### **Legendary:**\n\n`Dime Dropper` - Teammate catches your passes from 6% further.\n`Jump Ball` - When hands meet on a ball, yours count as 0.3 studs closer to it.\n\n#### **Epic:**\n\n`Cannon Arm` - You passes fly 4% faster.\n`Magnet` - Your catch reach is 5% bigger.\n`Elusive` - Tacklers have to get 5% closer to tag you.\n`Ball Hawk` - Your catch reach is 8% bigger on the others team passes.\n\n#### **Uncommon:**\n\n`Hang Time` - Stay in air 20% longer.\n`High Point` - You catch balls up to 0.3 studs higher.\n`Breakaway` - Run 5% faster with the ball.\n`Stiff Arm` - Nobody can tag you for 100ms longer after you get the ball.\n`Swim Move` - Block slows you down 15% less.\n`Wrap Up` - You tag ball carries from 6% further.\n`Layout` - Your dives fly 8% further.\n\n#### **Common:**\n\n`Fast Feet` - Sprint 5% faster.\n`Bounce Back` - Dive again 15% sooner.\n`Springs` - Jump 10% higher.\n`Iron Lung` - Stamina refills 11% faster.\n`Endurance` - Sprinting uses 11% less stam.\n`Sticky Hands` - Catch window stays open for 50ms longer.\n`Pancake` - Players you block stay slowed for 15% longer.\n`Road Grader` - Your blocks reach 8% further.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2c386b3545574e3a0921/previews/6ade2c386b3545574e3a0a92/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2c4352e2f59f3b588154/previews/6ade2c4352e2f59f3b58825c/download/image.webp)\n\n---\n\n‌\n\n## Goal Effects:\n\nCustom scoring animations that triggers upon a successful point, such as a touchdown, soccer goal, or basketball green release. Each sport rolls for its effect independently.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2d7815c40f4c5e8c2d66/previews/6ade2d7815c40f4c5e8c2e95/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2cca1ebac69b77c63fe8/previews/6ade2ccb1ebac69b77c640f2/download/image.webp)\n\n‌\n\n---\n\n## Ball Trails:\n\nA universal cosmetic that changes the trail color of any ball you touch, kick, or throw across all sports. Each roll grants a completely random hex color code with equal probability.\n\n![image.webp](https://trello.com/1/cards/6ada6dea9f84f70f6a492d80/attachments/6ade2d5b4c29ca126a772aba/previews/6ade2d5b4c29ca126a772d84/download/image.webp)"
+    },
+    {
+      "id": "2XWkxd2Q",
+      "name": "Uniforms",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "## Common:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e59eee3bb2314c90185c2/previews/6a5e59f0e3bb2314c90187e8/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6ac693f377c48608b03a62ac/previews/6ac693f477c48608b03a642a/download/image.webp)\n\n## Rare:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5a0eeea7564aac226dde/previews/6a5e5a0eeea7564aac226f3c/download/image.webp)\n\n## Epic:\n\nNo Overshirt:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5a8f4212ec2a3dd070bc/previews/6a5e5a904212ec2a3dd070f3/download/image.webp)\n\nChain:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5ade4301086a4cb4be3c/previews/6a5e5adf4301086a4cb4be7f/download/image.webp)\n\nBleach:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a82686e401e1574afd5fd37/previews/6a826870401e1574afd5fdd5/download/image.webp)\n\nMHA:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a07c972fc4f8bdb55818e/previews/6a8a07c972fc4f8bdb558238/download/image.webp)\n\nRascal:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9fb8a5e3b0dcaa35d2cacd/previews/6a9fb8a6e3b0dcaa35d2d0e4/download/image.webp)\n\nQuiet:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1d5fc2468f26b8f3bd9/previews/6aaef1d6fc2468f26b8f3d1f/download/image.webp)\n\n## Legendary (1%):\n\nGakuran:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5d02dbe5e1516a17a3ed/previews/6a5e5d03dbe5e1516a17a44e/download/image.webp)\n\nCeremonial:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5c92b0a71f47b28669e5/previews/6a5e5c93b0a71f47b2866a38/download/image.webp)\n\nSalary:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1b7eac9a1211b7992c5/previews/6aaef1b7eac9a1211b79943a/download/image.webp)\n\nGamer:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1c51a159206be87a506/previews/6aaef1c51a159206be87a6a2/download/image.webp)\n\n## Unique (0.5%):\n\n**No current unique male uniforms despite the category being displayed.**\n\n## ???(0.1%):\n\nElite:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a6e720a534d0dbd2cd7db9f/previews/6a6e720b534d0dbd2cd7de1a/download/image.webp)\n\nDragon:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a6e723149a1a8171991e545/previews/6a6e723249a1a8171991e9f7/download/image.webp)\n\nVampire:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a1a806f306efeaf43167f/previews/6a8a1a816f306efeaf43174d/download/image.webp)\n\nSaiki K:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a0e36934254ba588d1b77/previews/6a8a0e37934254ba588d1c39/download/image.webp)\n\nPajamas:\n\n![Screenshot\\_2026-09-05\\_134258.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9c7f04a91eb7e7e2e2d7d1/previews/6a9c7f06a91eb7e7e2e2d8a6/download/Screenshot_2026-09-05_134258.webp)\n\nTrue Delinquent:\n\n![Screenshot\\_2026-09-05\\_134416.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9c7f2c00ef945c362ef7a5/previews/6a9c7f2c00ef945c362ef885/download/Screenshot_2026-09-05_134416.webp)\n\nOshi:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9dc06343c5f073b74e4824/previews/6a9dc06443c5f073b74e4a2a/download/image.webp)\n\nMuscles:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9ca0b1ba12d6336391a8af/previews/6a9ca0b1ba12d6336391a99b/download/image.webp)\n\nJJK:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef18539183b7358ead687/previews/6aaef18539183b7358ead87f/download/image.webp)\n\nRebel:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6ab2ea8ea0da574a1bcb56b1/previews/6ab2ea8ea0da574a1bcb58b9/download/image.webp)",
+      "after": "## Common:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e59eee3bb2314c90185c2/previews/6a5e59f0e3bb2314c90187e8/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6ac693f377c48608b03a62ac/previews/6ac693f477c48608b03a642a/download/image.webp)\n\n## Rare:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5a0eeea7564aac226dde/previews/6a5e5a0eeea7564aac226f3c/download/image.webp)\n\nBlack Blazer:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6af8d3bc18bb4ee15b7c57dd/previews/6af8d3bd18bb4ee15b7c5970/download/image.webp)\n\nred tie:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6af8d3d7c7294f228b9b5276/previews/6af8d3d8c7294f228b9b53e4/download/image.webp)\n\nNavy Blazer:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6af8d46a6370b69d4e4b6cd7/previews/6af8d46b6370b69d4e4b6e53/download/image.webp)\n\n## Epic:\n\nNo Overshirt:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5a8f4212ec2a3dd070bc/previews/6a5e5a904212ec2a3dd070f3/download/image.webp)\n\nChain:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5ade4301086a4cb4be3c/previews/6a5e5adf4301086a4cb4be7f/download/image.webp)\n\nBleach:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a82686e401e1574afd5fd37/previews/6a826870401e1574afd5fdd5/download/image.webp)\n\nMHA:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a07c972fc4f8bdb55818e/previews/6a8a07c972fc4f8bdb558238/download/image.webp)\n\nRascal:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9fb8a5e3b0dcaa35d2cacd/previews/6a9fb8a6e3b0dcaa35d2d0e4/download/image.webp)\n\nQuiet:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1d5fc2468f26b8f3bd9/previews/6aaef1d6fc2468f26b8f3d1f/download/image.webp)\n\n## Legendary (1%):\n\nGakuran:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5d02dbe5e1516a17a3ed/previews/6a5e5d03dbe5e1516a17a44e/download/image.webp)\n\nCeremonial:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a5e5c92b0a71f47b28669e5/previews/6a5e5c93b0a71f47b2866a38/download/image.webp)\n\nSalary:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1b7eac9a1211b7992c5/previews/6aaef1b7eac9a1211b79943a/download/image.webp)\n\nGamer:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef1c51a159206be87a506/previews/6aaef1c51a159206be87a6a2/download/image.webp)\n\n## Unique (0.5%):\n\n**No current unique male uniforms despite the category being displayed.**\n\n## ???(0.1%):\n\nElite:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a6e720a534d0dbd2cd7db9f/previews/6a6e720b534d0dbd2cd7de1a/download/image.webp)\n\nDragon:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a6e723149a1a8171991e545/previews/6a6e723249a1a8171991e9f7/download/image.webp)\n\nVampire:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a1a806f306efeaf43167f/previews/6a8a1a816f306efeaf43174d/download/image.webp)\n\nSaiki K:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a8a0e36934254ba588d1b77/previews/6a8a0e37934254ba588d1c39/download/image.webp)\n\nPajamas:\n\n![Screenshot\\_2026-09-05\\_134258.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9c7f04a91eb7e7e2e2d7d1/previews/6a9c7f06a91eb7e7e2e2d8a6/download/Screenshot_2026-09-05_134258.webp)\n\nTrue Delinquent:\n\n![Screenshot\\_2026-09-05\\_134416.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9c7f2c00ef945c362ef7a5/previews/6a9c7f2c00ef945c362ef885/download/Screenshot_2026-09-05_134416.webp)\n\nOshi:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9dc06343c5f073b74e4824/previews/6a9dc06443c5f073b74e4a2a/download/image.webp)\n\nMuscles:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6a9ca0b1ba12d6336391a8af/previews/6a9ca0b1ba12d6336391a99b/download/image.webp)\n\nJJK:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6aaef18539183b7358ead687/previews/6aaef18539183b7358ead87f/download/image.webp)\n\nRebel:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6ab2ea8ea0da574a1bcb56b1/previews/6ab2ea8ea0da574a1bcb58b9/download/image.webp)\n\nWindbreaker:\n\n![image.webp](https://trello.com/1/cards/6a5e05c1417e9e5cc6aa47d4/attachments/6af8d489e9ad4a58d5da57f9/previews/6af8d48ae9ad4a58d5da5a3e/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d3bc18bb4ee15b7c57dd",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d3d7c7294f228b9b5276",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d46a6370b69d4e4b6cd7",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d489e9ad4a58d5da57f9",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "kivg9zvP",
+      "name": "Uniforms",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "## Common:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e58dcc542520451546c22/previews/6a5e58ddc542520451546c58/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e59460ec1af275a81847d/previews/6a5e59470ec1af275a8184dc/download/image.webp)\n\n## Rare:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e592e991861aacfa7b10e/previews/6a5e592e991861aacfa7b15d/download/image.webp)\n\n## Epic:\n\nOpen Gakuran:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e59700b7eb502920a471f/previews/6a5e59710b7eb502920a4789/download/image.webp)\n\nJoshi Gakuran:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e5e6f88a6f91781e8880d/previews/6a5e5e7188a6f91781e88a1c/download/image.webp)\n\nBleach:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8267f3f5f403b6363e043a/previews/6a8267f3f5f403b6363e0530/download/image.webp)\n\nMHA:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0984fd0a4fa3ca6f72bc/previews/6a8a0985fd0a4fa3ca6f73bc/download/image.webp)\n\nRukia:\n\n![Screenshot\\_2026-09-05\\_133326.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7d5a77cbcf446358aaa8/previews/6a9c7d5a77cbcf446358abe2/download/Screenshot_2026-09-05_133326.webp)\n\nRascal:\n\n![Screenshot\\_2026-09-05\\_133934.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7e27ac2f9b03f163b7ec/previews/6a9c7e28ac2f9b03f163b93a/download/Screenshot_2026-09-05_133934.webp)\n\nQuiet:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef88f054a92cd21b1a22c/previews/6aaef890054a92cd21b1a3d9/download/image.webp)\n\n## **Legendary:**\n\nSakura:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e591053245f16ef98b6fe/previews/6a5e591153245f16ef98b745/download/image.webp)\n\nSailor:\n\n![Sailor.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a66a7e902459c7b9091cadd/previews/6a66a7ea02459c7b9091cb6d/download/Sailor.webp)\n\nMarin:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e6eebe5aa8affb91027b8/previews/6a6e6eebe5aa8affb9102854/download/image.webp)\n\nDoki:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a80d03298b99ee440ce4721/previews/6a80d03398b99ee440ce480b/download/image.webp)\n\nDandadan:\n\n![Screenshot\\_2026-09-05\\_133751.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7da6d7f1129e9539859c/previews/6a9c7da6d7f1129e953986e6/download/Screenshot_2026-09-05_133751.webp)\n\nGamer:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8e18596d4153031e7aa/previews/6aaef8e28596d4153031e966/download/image.webp)\n\nSalary:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8fe703f802ff571e0bf/previews/6aaef8fe703f802ff571e261/download/image.webp)\n\n##\n\nUnique(0.5%):\n\nKakegurui:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a80ce194f5265305172e0ec/previews/6a80ce1b4f5265305172e1ba/download/image.webp)\n\n## ??? (0.1%):\n\nElite:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e700abc5c46b0e3c0a441/previews/6a6e700abc5c46b0e3c0a4f7/download/image.webp)\n\nBocchi:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e752a32a7c310200fcc28/previews/6a6e752c32a7c310200fccea/download/image.webp)\n\nDragon:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e6f44a08dcba7b3da0c3b/previews/6a6e6f45a08dcba7b3da0ce4/download/image.webp)\n\nVampire:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0969e0b662c8dc225cd5/previews/6a8a096ae0b662c8dc225dc9/download/image.webp)\n\nSaiki K:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0e6a401e0544dea4ecc6/previews/6a8a0e6b401e0544dea4edd2/download/image.webp)\n\nPajamas:\n\n![Screenshot\\_2026-09-05\\_133251.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7cedb0b63fef4dd4503a/previews/6a9c7ceeb0b63fef4dd4517b/download/Screenshot_2026-09-05_133251.webp)\n\nOregairu:\n\n![Screenshot\\_2026-09-05\\_133312.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7d29c61ffb00c1e4388e/previews/6a9c7d2ac61ffb00c1e439ac/download/Screenshot_2026-09-05_133312.webp)\n\nOshi:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7dc9f64dbb4cf785692c/previews/6a9c7dcaf64dbb4cf7856acb/download/image.webp)\n\nTrue Delinquent:\n\n![Screenshot\\_2026-09-05\\_134118.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7e75d6ff869c9dd4fa7f/previews/6a9c7e75d6ff869c9dd4fbd9/download/Screenshot_2026-09-05_134118.webp)\n\nRebel:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8b7e063adf701b1ffa7/previews/6aaef8b8e063adf701b2016c/download/image.webp)\n\nJJK:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef910f379eb6f9dce1b2e/previews/6aaef912f379eb6f9dce1d68/download/image.webp)",
+      "after": "## Common:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e58dcc542520451546c22/previews/6a5e58ddc542520451546c58/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e59460ec1af275a81847d/previews/6a5e59470ec1af275a8184dc/download/image.webp)\n\n## Rare:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e592e991861aacfa7b10e/previews/6a5e592e991861aacfa7b15d/download/image.webp)\n\nCardigan:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6af8d4b7a271c34c99984380/previews/6af8d4b7a271c34c9998453a/download/image.webp)\n\nPrep:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6af8d4cc919eb5153c1e388c/previews/6af8d4cc919eb5153c1e3aba/download/image.webp)\n\nOpen Collar\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6af8d4ddcc9ab7f84253cc03/previews/6af8d4ddcc9ab7f84253cdf5/download/image.webp)\n\n## Epic:\n\nOpen Gakuran:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e59700b7eb502920a471f/previews/6a5e59710b7eb502920a4789/download/image.webp)\n\nJoshi Gakuran:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e5e6f88a6f91781e8880d/previews/6a5e5e7188a6f91781e88a1c/download/image.webp)\n\nBleach:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8267f3f5f403b6363e043a/previews/6a8267f3f5f403b6363e0530/download/image.webp)\n\nMHA:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0984fd0a4fa3ca6f72bc/previews/6a8a0985fd0a4fa3ca6f73bc/download/image.webp)\n\nRukia:\n\n![Screenshot\\_2026-09-05\\_133326.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7d5a77cbcf446358aaa8/previews/6a9c7d5a77cbcf446358abe2/download/Screenshot_2026-09-05_133326.webp)\n\nRascal:\n\n![Screenshot\\_2026-09-05\\_133934.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7e27ac2f9b03f163b7ec/previews/6a9c7e28ac2f9b03f163b93a/download/Screenshot_2026-09-05_133934.webp)\n\nQuiet:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef88f054a92cd21b1a22c/previews/6aaef890054a92cd21b1a3d9/download/image.webp)\n\nmei:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6af8d4fbfbb8827b989b5088/previews/6af8d4fcfbb8827b989b5299/download/image.webp)\n\n## **Legendary:**\n\nSakura:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a5e591053245f16ef98b6fe/previews/6a5e591153245f16ef98b745/download/image.webp)\n\nSailor:\n\n![Sailor.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a66a7e902459c7b9091cadd/previews/6a66a7ea02459c7b9091cb6d/download/Sailor.webp)\n\nMarin:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e6eebe5aa8affb91027b8/previews/6a6e6eebe5aa8affb9102854/download/image.webp)\n\nDoki:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a80d03298b99ee440ce4721/previews/6a80d03398b99ee440ce480b/download/image.webp)\n\nDandadan:\n\n![Screenshot\\_2026-09-05\\_133751.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7da6d7f1129e9539859c/previews/6a9c7da6d7f1129e953986e6/download/Screenshot_2026-09-05_133751.webp)\n\nGamer:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8e18596d4153031e7aa/previews/6aaef8e28596d4153031e966/download/image.webp)\n\nSalary:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8fe703f802ff571e0bf/previews/6aaef8fe703f802ff571e261/download/image.webp)\n\n## Unique(0.5%):\n\nKakegurui:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a80ce194f5265305172e0ec/previews/6a80ce1b4f5265305172e1ba/download/image.webp)\n\n## ??? (0.1%):\n\nElite:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e700abc5c46b0e3c0a441/previews/6a6e700abc5c46b0e3c0a4f7/download/image.webp)\n\nBocchi:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e752a32a7c310200fcc28/previews/6a6e752c32a7c310200fccea/download/image.webp)\n\nDragon:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a6e6f44a08dcba7b3da0c3b/previews/6a6e6f45a08dcba7b3da0ce4/download/image.webp)\n\nVampire:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0969e0b662c8dc225cd5/previews/6a8a096ae0b662c8dc225dc9/download/image.webp)\n\nSaiki K:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a8a0e6a401e0544dea4ecc6/previews/6a8a0e6b401e0544dea4edd2/download/image.webp)\n\nPajamas:\n\n![Screenshot\\_2026-09-05\\_133251.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7cedb0b63fef4dd4503a/previews/6a9c7ceeb0b63fef4dd4517b/download/Screenshot_2026-09-05_133251.webp)\n\nOregairu:\n\n![Screenshot\\_2026-09-05\\_133312.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7d29c61ffb00c1e4388e/previews/6a9c7d2ac61ffb00c1e439ac/download/Screenshot_2026-09-05_133312.webp)\n\nOshi:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7dc9f64dbb4cf785692c/previews/6a9c7dcaf64dbb4cf7856acb/download/image.webp)\n\nTrue Delinquent:\n\n![Screenshot\\_2026-09-05\\_134118.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6a9c7e75d6ff869c9dd4fa7f/previews/6a9c7e75d6ff869c9dd4fbd9/download/Screenshot_2026-09-05_134118.webp)\n\nRebel:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef8b7e063adf701b1ffa7/previews/6aaef8b8e063adf701b2016c/download/image.webp)\n\nJJK:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6aaef910f379eb6f9dce1b2e/previews/6aaef912f379eb6f9dce1d68/download/image.webp)\n\nWindbreaker:\n\n![image.webp](https://trello.com/1/cards/6a50d560e58588a79bda34fb/attachments/6af8d5103d58564dad53a295/previews/6af8d5103d58564dad53a72d/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d4b7a271c34c99984380",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d4cc919eb5153c1e388c",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d4ddcc9ab7f84253cc03",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d4fbfbb8827b989b5088",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d5103d58564dad53a295",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "s3LgJjzT",
+      "name": "Male Secret Faces 0.1%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "The following “**Secret Faces**” are widely available for any ethnicity but **exclusive to males**!\n\n**Control Face:**\n\n> 73427390266671\n\n![face\\_white\\_344x342.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66ed6442c9fa595a09f524/previews/6a66ed6442c9fa595a09f556/download/face_white_344x342.webp)\n\n**Demon Prince Face:**\n\n> 135578682877520\n\n![Demon\\_Prince\\_\\(1\\).webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66f1959a2b140e890682aa/previews/6a66f1969a2b140e890682f4/download/Demon_Prince_(1).webp)\n\n**Idol Face:**\n\n> 101496965178082\n\n![Idol\\_Face\\_\\(1\\).webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66e979fd70f8ff4c800287/previews/6a66e979fd70f8ff4c8002ad/download/Idol_Face_(1).webp)\n\n**Gojo**:\n\n> 122872953762198\n\n![Gojoface.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a72c919f44ef6f05223755c/previews/6a72c91af44ef6f0522375e6/download/Gojoface.webp)\n\n**Vinny**:\n\n> 89284855306702\n\n![Untitled552\\_20260822133012.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a24f51d393413168b18ef/previews/6a8a24f61d393413168b1941/download/Untitled552_20260822133012.webp)\n\n‌\n\n**Kayden**:\n\n> 132015064673479\n\n![Untitled552\\_20260822133002.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a2508ffb2154cca690735/previews/6a8a2509ffb2154cca690795/download/Untitled552_20260822133002.webp)\n\n‌\n\n**Gun Park:**\n\n> 134114024022911\n\n![Untitled552\\_20260822133045.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a252e05d7bd15e1851672/previews/6a8a253005d7bd15e1851b57/download/Untitled552_20260822133045.webp)\n\n**Saiki Face:**\n\n> 140010519645714\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a9c7bfa796ddacf05734d5f/previews/6a9c7bfa796ddacf05734dc1/download/image.webp)\n\n**Ghoul Face:**\n\n> 117703499347385\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeecd047d677a7af40d9c1/previews/6aaeecd147d677a7af40ddf5/download/image.webp)\n\n**Chrollo Face:**\n\n> 94934613089694\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeece5bf95cbe25b157b14/previews/6aaeece7bf95cbe25b157c91/download/image.webp)\n\n**Jinwoo Face:**\n\n> 95159112770315\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeed0bbec3e7ab936ecfeb/previews/6aaeed0dbec3e7ab936ed079/download/image.webp)\n\n**Yuno Face:**\n\n> 114186421487817\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeed284591c5b3e38ac32a/previews/6aaeed294591c5b3e38ac438/download/image.webp)",
+      "after": "The following “**Secret Faces**” are widely available for any ethnicity but **exclusive to males**!\n\n**Control Face:**\n\n> 73427390266671\n\n![face\\_white\\_344x342.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66ed6442c9fa595a09f524/previews/6a66ed6442c9fa595a09f556/download/face_white_344x342.webp)\n\n**Demon Prince Face:**\n\n> 135578682877520\n\n![Demon\\_Prince\\_\\(1\\).webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66f1959a2b140e890682aa/previews/6a66f1969a2b140e890682f4/download/Demon_Prince_(1).webp)\n\n**Idol Face:**\n\n> 101496965178082\n\n![Idol\\_Face\\_\\(1\\).webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a66e979fd70f8ff4c800287/previews/6a66e979fd70f8ff4c8002ad/download/Idol_Face_(1).webp)\n\n**Gojo**:\n\n> 122872953762198\n\n![Gojoface.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a72c919f44ef6f05223755c/previews/6a72c91af44ef6f0522375e6/download/Gojoface.webp)\n\n**Vinny**:\n\n> 89284855306702\n\n![Untitled552\\_20260822133012.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a24f51d393413168b18ef/previews/6a8a24f61d393413168b1941/download/Untitled552_20260822133012.webp)\n\n‌\n\n**Kayden**:\n\n> 132015064673479\n\n![Untitled552\\_20260822133002.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a2508ffb2154cca690735/previews/6a8a2509ffb2154cca690795/download/Untitled552_20260822133002.webp)\n\n‌\n\n**Gun Park:**\n\n> 134114024022911\n\n![Untitled552\\_20260822133045.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a8a252e05d7bd15e1851672/previews/6a8a253005d7bd15e1851b57/download/Untitled552_20260822133045.webp)\n\n**Saiki Face:**\n\n> 140010519645714\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6a9c7bfa796ddacf05734d5f/previews/6a9c7bfa796ddacf05734dc1/download/image.webp)\n\n**Ghoul Face:**\n\n> 117703499347385\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeecd047d677a7af40d9c1/previews/6aaeecd147d677a7af40ddf5/download/image.webp)\n\n**Chrollo Face:**\n\n> 94934613089694\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeece5bf95cbe25b157b14/previews/6aaeece7bf95cbe25b157c91/download/image.webp)\n\n**Jinwoo Face:**\n\n> 95159112770315\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeed0bbec3e7ab936ecfeb/previews/6aaeed0dbec3e7ab936ed079/download/image.webp)\n\n**Yuno Face:**\n\n> 114186421487817\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6aaeed284591c5b3e38ac32a/previews/6aaeed294591c5b3e38ac438/download/image.webp)\n\n**hah Face:**\n\n> 118964112609544\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6af8d1a0476913be4cbe9e8f/previews/6af8d1a1476913be4cbe9ff2/download/image.webp)\n\n\n**D Face:**\n\n> 137178411023133\n\n![image.webp](https://trello.com/1/cards/6a66e75359660729b7bdf1cb/attachments/6af8d1ccd9a4599cf3d3beb4/previews/6af8d1cdd9a4599cf3d3bf77/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d19077009061a154d80e",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d1a0476913be4cbe9e8f",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d1ccd9a4599cf3d3beb4",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "YSBt05lI",
+      "name": "1%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "This “**Legendary**” face is exclusive to females and has a 1% chance to be rolled!\n\n**Waguri:**\n\n> 88302441610364\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a72b71d8d896b6eb3ae4e68/previews/6a72b71e8d896b6eb3ae4e84/download/image.webp)\n\n**Oshi3:**\n\n> 85292857583649\n\n![Untitled552\\_20260822133109.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a8a29c26b410b1ad6c5f1fb/previews/6a8a29c46b410b1ad6c5f239/download/Untitled552_20260822133109.webp)\n\n‌\n\n**LLN:**\n\n> 98455492079244\n\n![Untitled552\\_20260822133051.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a8a29d0ade9c2b2c689f70d/previews/6a8a29d0ade9c2b2c689f759/download/Untitled552_20260822133051.webp)\n\n**Blue Face:**\n\n> 139475970498260\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a9c788ab66a95292aa9e6e7/previews/6a9c788bb66a95292aa9e727/download/image.webp)\n\n**Grey Moe Face:**\n\n> 110208125348648\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6ae895a11a83c9fbd9058f16/previews/6ae895a21a83c9fbd905909f/download/image.webp)\n\n> ‌\n\n**Pink Face:**\n\n> 75029194513794\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6aaeee19f915a8029f218408/previews/6aaeee1af915a8029f2184b0/download/image.webp)",
+      "after": "This “**Legendary**” face is exclusive to females and has a 1% chance to be rolled!\n\n**Waguri:**\n\n> 88302441610364\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a72b71d8d896b6eb3ae4e68/previews/6a72b71e8d896b6eb3ae4e84/download/image.webp)\n\n**Oshi3:**\n\n> 85292857583649\n\n![Untitled552\\_20260822133109.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a8a29c26b410b1ad6c5f1fb/previews/6a8a29c46b410b1ad6c5f239/download/Untitled552_20260822133109.webp)\n\n‌\n\n**LLN:**\n\n> 98455492079244\n\n![Untitled552\\_20260822133051.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a8a29d0ade9c2b2c689f70d/previews/6a8a29d0ade9c2b2c689f759/download/Untitled552_20260822133051.webp)\n\n**Blue Face:**\n\n> 139475970498260\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6a9c788ab66a95292aa9e6e7/previews/6a9c788bb66a95292aa9e727/download/image.webp)\n\n**Grey Moe Face:**\n\n> 110208125348648\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6ae895a11a83c9fbd9058f16/previews/6ae895a21a83c9fbd905909f/download/image.webp)\n\n‌\n\n**Pink Face:**\n\n> 75029194513794\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6aaeee19f915a8029f218408/previews/6aaeee1af915a8029f2184b0/download/image.webp)\n\n‌\n\n**Soft Face:**\n\n> 75028497774945\n\n![image.webp](https://trello.com/1/cards/6a71c65e7da74d955a96280a/attachments/6af8d1f2345a2dbaebfca1c6/previews/6af8d1f2345a2dbaebfca23a/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d1f2345a2dbaebfca1c6",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "G33TMZrN",
+      "name": "Male Epic Faces 10%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "> 128210965095014\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e80e11914886b8358f9/previews/6a5e6e81e11914886b835b13/download/image.webp)\n\n**Sinu:**\n\n> 78113876738061\n\n![Untitled552\\_20260822133016.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a29fca6ce390da0675947/previews/6a8a29fda6ce390da0675981/download/Untitled552_20260822133016.webp)\n\n‌\n\n**Vasco:**\n\n> 103197647837380\n\n![Untitled552\\_20260822133033.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a2a1fa7d7c0dd3fa8145d/previews/6a8a2a20a7d7c0dd3fa814a9/download/Untitled552_20260822133033.webp)\n\n‌\n\n**Jake:**\n\n> 93696438325985\n\n![Untitled552\\_20260822133040.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a2a12c436bdf7b569fe9a/previews/6a8a2a13c436bdf7b56a00ac/download/Untitled552_20260822133040.webp)\n\n**Saitama:**\n\n> 129056545052787\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7c6f6beba844ad1d6c20/previews/6a9c7c706beba844ad1d7414/download/image.webp)\n\n**Calm Face:**\n\n> 127532909772409\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7c8da2e6aa5c8296fc16/previews/6a9c7c8ea2e6aa5c8296fc64/download/image.webp)\n\n**Green Face:**\n\n> 91603309803335\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7cb896519e0779cca7b1/previews/6a9c7cb996519e0779cca80d/download/image.webp)\n\n**Eren Face:**\n\n> 117474264243303\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6aaeed5cdf3b5bcabfcbd066/previews/6aaeed5ddf3b5bcabfcbd0d0/download/image.webp)",
+      "after": "> 128210965095014\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e80e11914886b8358f9/previews/6a5e6e81e11914886b835b13/download/image.webp)\n\n**Sinu:**\n\n> 78113876738061\n\n![Untitled552\\_20260822133016.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a29fca6ce390da0675947/previews/6a8a29fda6ce390da0675981/download/Untitled552_20260822133016.webp)\n\n‌\n\n**Vasco:**\n\n> 103197647837380\n\n![Untitled552\\_20260822133033.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a2a1fa7d7c0dd3fa8145d/previews/6a8a2a20a7d7c0dd3fa814a9/download/Untitled552_20260822133033.webp)\n\n‌\n\n**Jake:**\n\n> 93696438325985\n\n![Untitled552\\_20260822133040.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a8a2a12c436bdf7b569fe9a/previews/6a8a2a13c436bdf7b56a00ac/download/Untitled552_20260822133040.webp)\n\n**Saitama:**\n\n> 129056545052787\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7c6f6beba844ad1d6c20/previews/6a9c7c706beba844ad1d7414/download/image.webp)\n\n**Calm Face:**\n\n> 127532909772409\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7c8da2e6aa5c8296fc16/previews/6a9c7c8ea2e6aa5c8296fc64/download/image.webp)\n\n**Green Face:**\n\n> 91603309803335\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6a9c7cb896519e0779cca7b1/previews/6a9c7cb996519e0779cca80d/download/image.webp)\n\n**Eren Face:**\n\n> 117474264243303\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6aaeed5cdf3b5bcabfcbd066/previews/6aaeed5ddf3b5bcabfcbd0d0/download/image.webp)\n\n‌\n\n**Purpleglow Face:**\n\n> 129586310386714\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6af8d27856acf36700485713/previews/6af8d27956acf3670048578b/download/image.webp)\n\n‌\n\n**Greensmile Face:**\n\n> 104745666279947\n\n![image.webp](https://trello.com/1/cards/6a5eacc2a1f80b3146017d7b/attachments/6af8d2977177d63ef32383fc/previews/6af8d2997177d63ef3238b38/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d27856acf36700485713",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d2977177d63ef32383fc",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "aPsopf22",
+      "name": "Female Epic Faces 10%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "> 125270796142024\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e9109beca4c7d3a5963/previews/6a5e6e9109beca4c7d3a5983/download/image.webp)\n\n**Sparkle3:**\n\n> 107442959832850\n\n![Untitled552\\_20260822133104.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a8a2b92effe3ee883a53010/previews/6a8a2b93effe3ee883a53044/download/Untitled552_20260822133104.webp)\n\n|113783390557822\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a9c636f74545abf669f0053/previews/6a9c636f74545abf669f0099/download/image.webp)\n\n> 128210965095014\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e80e11914886b8358f9/previews/6a5e6e81e11914886b835b13/download/image.webp)\n\n> 80602770530387\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeed839d205d8b6d53391e/previews/6aaeed849d205d8b6d533a8e/download/image.webp)\n\n> 73320559729738\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeed9b5b936b51d439911c/previews/6aaeed9c5b936b51d439964a/download/image.webp)\n\n> 94422722659964\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeedb32b387c646707c712/previews/6aaeedb42b387c646707c8b9/download/image.webp)",
+      "after": "> 125270796142024\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e9109beca4c7d3a5963/previews/6a5e6e9109beca4c7d3a5983/download/image.webp)\n\n**Sparkle3:**\n\n> 107442959832850\n\n![Untitled552\\_20260822133104.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a8a2b92effe3ee883a53010/previews/6a8a2b93effe3ee883a53044/download/Untitled552_20260822133104.webp)\n\n|113783390557822\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a9c636f74545abf669f0053/previews/6a9c636f74545abf669f0099/download/image.webp)\n\n> 128210965095014\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6a5e6e80e11914886b8358f9/previews/6a5e6e81e11914886b835b13/download/image.webp)\n\n> 80602770530387\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeed839d205d8b6d53391e/previews/6aaeed849d205d8b6d533a8e/download/image.webp)\n\n> 73320559729738\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeed9b5b936b51d439911c/previews/6aaeed9c5b936b51d439964a/download/image.webp)\n\n> 94422722659964\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6aaeedb32b387c646707c712/previews/6aaeedb42b387c646707c8b9/download/image.webp)\n\n**Amicute Face:**\n\n> 121289344197408\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6af8d22abba30f12622c15a2/previews/6af8d22bbba30f12622c160c/download/image.webp)\n\n‌\n\n**Hmphh Face:**\n\n> 88657970834789\n\n![image.webp](https://trello.com/1/cards/6a5e6e7696460d6f811e10e8/attachments/6af8d24b2ddfda0fef87ce76/previews/6af8d24b2ddfda0fef87cf1d/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d22abba30f12622c15a2",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d24b2ddfda0fef87ce76",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "qDHV3qzV",
+      "name": "Male Rare Faces 25%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "> 77350128786867\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb1c66219b997664dd8ff/previews/6a5eb1c66219b997664ddb2f/download/image.webp)\n\n> 107352835723033\n\n![Untitled\\_design\\_\\(1\\).webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb1f5a1a3e15ebb64171a/previews/6a5eb1f5a1a3e15ebb64192b/download/Untitled_design_(1).webp)\n\n> 91638017638672\n\n![Untitled\\_design\\_\\(2\\).webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb229f3d3419996cbce57/previews/6a5eb22af3d3419996cbcef1/download/Untitled_design_(2).webp)\n\n**Jake:**\n\n> 87742744608961\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a8b1db4169fa48aa8f23462/previews/6a8b1db5169fa48aa8f2350a/download/image.webp)\n\n**Yujae:**\n\n> 129244931416320\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a8b1dcdf0055eb75389a7ea/previews/6a8b1dcdf0055eb75389a8a0/download/image.webp)",
+      "after": "> 77350128786867\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb1c66219b997664dd8ff/previews/6a5eb1c66219b997664ddb2f/download/image.webp)\n\n> 107352835723033\n\n![Untitled\\_design\\_\\(1\\).webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb1f5a1a3e15ebb64171a/previews/6a5eb1f5a1a3e15ebb64192b/download/Untitled_design_(1).webp)\n\n> 91638017638672\n\n![Untitled\\_design\\_\\(2\\).webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a5eb229f3d3419996cbce57/previews/6a5eb22af3d3419996cbcef1/download/Untitled_design_(2).webp)\n\n**Jake:**\n\n> 87742744608961\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a8b1db4169fa48aa8f23462/previews/6a8b1db5169fa48aa8f2350a/download/image.webp)\n\n**Yujae:**\n\n> 129244931416320\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6a8b1dcdf0055eb75389a7ea/previews/6a8b1dcdf0055eb75389a8a0/download/image.webp)\n\n**Plain Face:**\n\n> 100875593556718\n\n![image.webp](https://trello.com/1/cards/6a5eb01fbc6d05cf737b2c9d/attachments/6af8d34ee151f90abf766860/previews/6af8d34fe151f90abf766934/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d34ee151f90abf766860",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "oBbvmPsR",
+      "name": "Female Rare Faces 25%",
+      "fields": [
+        "desc",
+        "attachments"
+      ],
+      "before": "‌\n\n> 76196777948082\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a5e6f7a72ed5d33800ebf7d/previews/6a5e6f7a72ed5d33800ebfa7/download/image.webp)\n\n> 91638017638672\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a5e6f7eae9a9afc734534aa/previews/6a5e6f7eae9a9afc734534e6/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c648ad3c1dd7a1d98df26/previews/6a9c648ad3c1dd7a1d98df66/download/image.webp)\n\n**Mitsuri2:**\n\n> 95627613514152\n\n![Untitled552\\_20260822133100.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a8a2c3de586bc3f025ed44a/previews/6a8a2c3ee586bc3f025ed488/download/Untitled552_20260822133100.webp)\n\n‌\n\n**Muraoshuko:**\n\n> 100222178924928\n\n![Untitled552\\_20260822133057.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a8a2c56a06a01744a89a45c/previews/6a8a2c57a06a01744a89a4a8/download/Untitled552_20260822133057.webp)\n\n**Sad Face:**\n\n> 125968824309517\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c7a15bbdee64fa2e42294/previews/6a9c7a16bbdee64fa2e422f0/download/image.webp)\n\n**Mole Face:**\n\n> 73610959723682\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c7a640b4ae1235dae5872/previews/6a9c7a640b4ae1235dae59e7/download/image.webp)",
+      "after": "‌\n\n> 76196777948082\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a5e6f7a72ed5d33800ebf7d/previews/6a5e6f7a72ed5d33800ebfa7/download/image.webp)\n\n> 91638017638672\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a5e6f7eae9a9afc734534aa/previews/6a5e6f7eae9a9afc734534e6/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c648ad3c1dd7a1d98df26/previews/6a9c648ad3c1dd7a1d98df66/download/image.webp)\n\n**Mitsuri2:**\n\n> 95627613514152\n\n![Untitled552\\_20260822133100.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a8a2c3de586bc3f025ed44a/previews/6a8a2c3ee586bc3f025ed488/download/Untitled552_20260822133100.webp)\n\n‌\n\n**Muraoshuko:**\n\n> 100222178924928\n\n![Untitled552\\_20260822133057.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a8a2c56a06a01744a89a45c/previews/6a8a2c57a06a01744a89a4a8/download/Untitled552_20260822133057.webp)\n\n**Sad Face:**\n\n> 125968824309517\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c7a15bbdee64fa2e42294/previews/6a9c7a16bbdee64fa2e422f0/download/image.webp)\n\n**Mole Face:**\n\n> 73610959723682\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6a9c7a640b4ae1235dae5872/previews/6a9c7a640b4ae1235dae59e7/download/image.webp)\n\n**Meow Face:**\n\n> 97077251494706\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6af8d30630ef3a7703ee113e/previews/6af8d30730ef3a7703ee11d3/download/image.webp)\n\n**Hmmm Face:**\n\n> 84986489047710\n\n![image.webp](https://trello.com/1/cards/6a5e6f67c8bc0ce541739da5/attachments/6af8d3268e33c6780a1666fb/previews/6af8d3268e33c6780a166806/download/image.webp)",
+      "addedAttachments": [
+        {
+          "id": "6af8d2cf51a69dc528b4937d",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d30630ef3a7703ee113e",
+          "name": "image.png",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "6af8d3268e33c6780a1666fb",
+          "name": "image.png",
+          "mimeType": "image/png"
+        }
+      ],
+      "removedAttachments": []
+    },
+    {
+      "id": "fLtMVx9J",
+      "name": "Animals",
+      "fields": [
+        "desc"
+      ],
+      "before": "animals can be found around the map, with each having unique interactions and small chances of doing something\n\n## Dogs\n\n- **You can pet dogs** They will Follow you around temporarily once you pet them\n- **Dogs interaction with crows** Crows that mess with dogs, surrounding the dog and bothering it\n- **Dogs interaction with crows 2** Crows can ride the dogs\n- **Dogs interaction with cats** The dogs can BARK at cats when too close, they can chase one another shortly.\n- **Dogs interaction to attacks** The dogs will BITE you. 5 bites per dog, If another dog is nearby they can team up on you.\n- **dogs can be seen with different variants**\n- **Dog idle** They stretch, lick themselves, sit, etc.\n  ![Doglay.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e08fca92a2550a7a86a/previews/6af04e08fca92a2550a7a9b3/download/Doglay.webp)\n\n  \\![dogsit.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e32348b96ae22fea7d4/previews/6af04e33348b96ae22fea95d/download/dogsit.webp \"‌\")\n  **Dog idle** They stretch, lick themselves, sit, etc.\n  \\![Doglay.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e08fca92a2550a7a86a/previews/6af04e08fca92a2550a7a9b3/download/Doglay.webp \"‌\")\n  ![dogsit.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e32348b96ae22fea7d4/previews/6af04e33348b96ae22fea95d/download/dogsit.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6b6e7d0f07a59442d92/previews/6aefc6b6e7d0f07a59442dc2/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ab2e10350b9ed598581/previews/6af04ab3e10350b9ed598645/download/image.webp)\n\n---\n\n## Cats\n\n- **Initial approach** Running towards a cat too close will make it hiss at you or make it back up.\n- **You can pet cats** Nothing happens when you pet them, but petting them TOO much will make them bite you once.\n- **Cats interaction with dogs** If a dog is following you, cats will run away after hissing at you.\n- **Cats will Follow you** Cats can follow you, but its a lower chance than dogs, cats will follow you longer than dogs once they start to.\n- **Cats interaction with crows**\n- **Cats Variety** 6 cat varieties\n- **Idle stance** Stretching, cleaning themselves, sleep, etc.\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04c3451760d2b9251b672/previews/6af04c3551760d2b9251b7cd/download/image.webp)\n\n## Few cat variants:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04b7f093c1157077301c6/previews/6af04b7f093c115707730242/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ba5a03056c4e3c39574/previews/6af04ba6a03056c4e3c39615/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bb72fa0e9b79446a45c/previews/6af04bb82fa0e9b79446a50b/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bca7bd0e3de6f4f4d16/previews/6af04bcb7bd0e3de6f4f4e46/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04be19f29967f42fde932/previews/6af04be19f29967f42fdeadc/download/image.webp)\n\n---\n\n## Crows\n\n- Crows will \"respect\" you if you die.\n- You can FEED the crows, it will say you're on their good side.\n- Crows will gather on top of you if you are idle long enough.\n- There’s a chance to make you the crow king.\n- Crows can pick you up and play around with you in the air.\n- Crows can mess around with other animals and cats are able to “jump” them\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc52378bc63b8ee507a0a/previews/6aefc52378bc63b8ee507a21/download/image.webp)\n\n## How to tame a crow:\n\nif you want to have a crow on your side that follows you around, you need to buy any type of food in Gakumart, drop it somewhere without people and sit with any emote. You’ll have to do it at least 1-3 times and you’ll notice that a crow will come at you and will begin to follow.  The crow can “peck” someone while you fighting (doesn’t deal dmg) and they’ll stay with you until you leave the server.\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af1f35091c6f0861377007e/previews/6af1f35091c6f08613770191/download/image.webp)",
+      "after": "animals can be found around the map, with each having unique interactions and small chances of doing something\n\n## Dogs\n\n- **You can pet dogs** They will Follow you around temporarily once you pet them\n- **Dogs interaction with crows** Crows that mess with dogs, surrounding the dog and bothering it\n- **Dogs interaction with crows 2** Crows can ride the dogs\n- **Dogs interaction with cats** The dogs can BARK at cats when too close, they can chase one another shortly.\n- **Dogs interaction to attacks** The dogs will BITE you. 5 bites per dog, If another dog is nearby they can team up on you.\n- **dogs can be seen with different variants**\n- **Dog idle** They stretch, lick themselves, sit, etc.\n  ![Doglay.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e08fca92a2550a7a86a/previews/6af04e08fca92a2550a7a9b3/download/Doglay.webp)\n\n![dogsit.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04e32348b96ae22fea7d4/previews/6af04e33348b96ae22fea95d/download/dogsit.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6b6e7d0f07a59442d92/previews/6aefc6b6e7d0f07a59442dc2/download/image.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ab2e10350b9ed598581/previews/6af04ab3e10350b9ed598645/download/image.webp)\n\n---\n\n## Cats\n\n- **Initial approach** Running towards a cat too close will make it hiss at you or make it back up.\n- **You can pet cats** Nothing happens when you pet them, but petting them TOO much will make them bite you once.\n- **Cats interaction with dogs** If a dog is following you, cats will run away after hissing at you.\n- **Cats will Follow you** Cats can follow you, but its a lower chance than dogs, cats will follow you longer than dogs once they start to.\n- **Cats interaction with crows**\n- **Cats Variety** 6 cat varieties\n- **Idle stance** Stretching, cleaning themselves, sleep, etc.\n\n![Screenshot\\_2026-11-08\\_024827.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc6ebc48771fcaa6903a6/previews/6aefc6ecc48771fcaa6904a2/download/Screenshot_2026-11-08_024827.webp)\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04c3451760d2b9251b672/previews/6af04c3551760d2b9251b7cd/download/image.webp)\n\n## Cat Variant 1:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04b7f093c1157077301c6/previews/6af04b7f093c115707730242/download/image.webp)\n\n## Cat Variant 2:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04b8fec2c79b5da7e85a9/previews/6af04b90ec2c79b5da7e8653/download/image.webp)\n\n## Cat Variant 3:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04ba5a03056c4e3c39574/previews/6af04ba6a03056c4e3c39615/download/image.webp)\n\n## Cat Variant 4:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bb72fa0e9b79446a45c/previews/6af04bb82fa0e9b79446a50b/download/image.webp)\n\n## Cat Variant 5:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04bca7bd0e3de6f4f4d16/previews/6af04bcb7bd0e3de6f4f4e46/download/image.webp)\n\n## Cat Variant 6:\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6af04be19f29967f42fde932/previews/6af04be19f29967f42fdeadc/download/image.webp)\n\n---\n\n## Crows\n\n- Crows will \"respect\" you if you die.\n- You can FEED the crows, it will say you're on their good side.\n- Crows will gather on top of you if you are idle long enough.\n- There’s a really small chance of them taking you to their king.\n- Crows can pick you up and play around with you in the air.\n- Crows can mess around with other animals and cats are able to “jump” them\n\n![image.webp](https://trello.com/1/cards/6aefc388e72666e35afd52b7/attachments/6aefc52378bc63b8ee507a0a/previews/6aefc52378bc63b8ee507a21/download/image.webp)"
+    },
+    {
+      "id": "MIZn5wk2",
+      "name": "QOL Update #5",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "EhxZEPur",
+      "name": "random update",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "IAKPInhT",
+      "name": "学乱  Gakuran  Update  v13.00(#30) 🎃 HALLOWEEN UPDATE P2!!",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "6FbzUKor",
+      "name": "学乱  Gakuran  Update  v12.00 (#27)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "rHyXx4rv",
+      "name": "学乱  Gakuran  Update  v11.00(#29) 🎃 HALLOWEEN NIGHTS!!(until Oct 31, 22:00 CET)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "ksDYRWQU",
+      "name": "Qol Update #4",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "xkMsFfGj",
+      "name": "学乱  Gakuran  Update  v10.00(#28)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "O0Cm1t6G",
+      "name": "QOL Update #3",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "TSgVQ60t",
+      "name": "学乱  Gakuran  Update  v9.00(#27)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "4jLq6RDK",
+      "name": "QOL Update #2",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "T394oBYX",
+      "name": "学乱  Gakuran  Update  v8.200 (#26)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "bZmHAqHC",
+      "name": "学乱  Gakuran Update v8.103 (#25)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "NnbWglyW",
+      "name": "学乱 Gakuran Update v8.009 (#24)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "QKHVf5nZ",
+      "name": "学乱  Gakuran  Update v7.856 (#23)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "Bsjw9nzE",
+      "name": "学乱  Gakuran  Update v2.679 (#22)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "Ie5GAm6d",
+      "name": "学乱 Gakuran Update v7.500 (#21)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "5LPcqhFH",
+      "name": "学乱  Gakuran  Update v7.465 (#20)",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "0K1maxtt",
+      "name": "Update v7.400 #19",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "cytSs2g4",
+      "name": "Update v7.203 #18",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "4htlRGfX",
+      "name": "Update v7.148 #17",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "IbT7Djev",
+      "name": "Update v7.097 #16",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "QTjITFlD",
+      "name": "Update v2.939 #15",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "3nPwtcll",
+      "name": "Update v2.929 #14",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "lVXgKqEv",
+      "name": "Update v6.924 #13",
+      "fields": [
+        "pos"
+      ]
+    },
+    {
+      "id": "kQkpRcEH",
+      "name": "Gakuran Team",
+      "fields": [
+        "desc"
+      ],
+      "before": "**Owners**\n\n- Shem — `shemxz`\n- Yuuki — `yuuk7i`\n\n**Developers**\n\n- DantesInfernum — `danteslnfernum`\n- Set — `textid`\n- Kirby — `kir_ba`\n- Callamino — `kur1cha`\n- 5tetri — `5tetri`\n- mo3el — `mo3el`\n- Gonton — `gonton.`\n\n**Managers**\n\n- Zenuux — `zenuux`\n- Twisty — `Twistyxm`\n\n**Senior Staff**\n\n- Sar — `sar.l3`\n\n**Head Of Lore**\n\n- Yamz — `sqhtrr`\n\n**Staff**\n\n- zayyy — `justcalculatewastaken`\n- kia — `kw5a`\n- Natsu — `spookyraiden`\n- Rina — `8qs`\n- misa — `misabunnies`\n- skai  — `skylarx3`\n- rbat — `.rbat`\n- Yuyvi — `yuyvi`\n\n**Trello Manager**\n\n- Tim — `timmikuss`\n\n**Trello Team**\n\n- Leo — `leon21gr`\n- Namey — `namelessism`\n- Enigma — `authorityenigma`\n- zayyy — `justcalculatewastaken`\n- AfkRays — `afkrays`\n- Wintyy — `wintersss_.`\n- Sirius — `sirius1te`\n- haru — `_haruru.`\n- kieqing — `kieqing`\n- Panda —  `xxarysinsxx123`\n- Rudy —  `kaitaino`\n- Dr.Bewwth —  `dr.ssewwth`\n- Schemed —  `schemedlove`\n- fabii— `trixiedvalk`\n- Crimes — `ecrimes`\n- macchia - `macchiaa`\n\n**Trello Contributors**\n\n- nt — `ntks`\n- Cazimor —  `dukecazimor`\n- Aurosian — `aurosian`\n- Ambrosia —  `tt_pessimystic`\n- Moon —  `.moonsxzn`\n- kohu — `kohuuuu`\n- Vitathi — `.latro.`\n- mustang - `b4_mustang`\n- saph — `saphhiro`\n- chimnly - `chimnly`\n- Felver - `knotszercool`\n- Dango — `dango6`\n- Mal — `malissleeping`\n- Eisen — `ihateperiodcrampstheymakemesomad`\n- Jacko — `jcxe`\n- Epic  — `liminal_epic`\n\n**Logo Designers**\n\n- Natsu — `spookyraiden`\n- teufel — `t3uf3l`\n\n**Animators**\n\n- Mimo — `shiwauwa`\n- 1.8.3.x\n- Bee — `Beezlebub`\n\n**Builders**\n\n- Grimm _(retired)_ — `vagrant_holiday`\n- v7 — `v7z6x`\n- Shy — `Skyrimmyz`\n\n**VFX**\n\n- Set — `textid`\n- Peak — (retired) `Peaksta`\n- Grimm _(retired)_ — `vagrant_holiday`\n\n**Sound Effects**\n\n- .9xkai — `.9xkai`\n\n**Clothing Design**\n\n- Niliah — `niliah`",
+      "after": "**Owners**\n\n- Shem — `shemxz`\n- Yuuki — `yuuk7i`\n\n**Developers**\n\n- DantesInfernum — `danteslnfernum`\n- Set — `textid`\n- Kirby — `kir_ba`\n- Callamino — `kur1cha`\n- 5tetri — `5tetri`\n- mo3el — `mo3el`\n- Gonton — `gonton.`\n\n**Managers**\n\n- Zenuux — `zenuux`\n- Twisty — `Twistyxm`\n\n**Senior Staff**\n\n- Sar — `sar.l3`\n\n**Head Of Lore**\n\n- Yamz — `sqhtrr`\n\n**Staff**\n\n- zayyy — `justcalculatewastaken`\n- kia — `kw5a`\n- Natsu — `spookyraiden`\n- Rina — `8qs`\n- misa — `misabunnies`\n- skai  — `skylarx3`\n- rbat — `.rbat`\n- Yuyvi — `yuyvi`\n\n**Trello Manager**\n\n- Tim — `timmikuss`\n\n**Trello Team**\n\n- Leo — `leon21gr`\n- Namey — `namelessism`\n- Enigma — `authorityenigma`\n- zayyy — `justcalculatewastaken`\n- AfkRays — `afkrays`\n- Wintyy — `wintersss_.`\n- haru — `_haruru.`\n- kieqing — `kieqing`\n- Panda —  `xxarysinsxx123`\n- Rudy —  `kaitaino`\n- Dr.Bewwth —  `dr.ssewwth`\n- Schemed —  `schemedlove`\n- fabii— `trixiedvalk`\n- Crimes — `ecrimes`\n- macchia - `macchiaa`\n\n**Trello Contributors**\n\n- nt — `ntks`\n- Cazimor —  `dukecazimor`\n- Aurosian — `aurosian`\n- Sirius — `sirius1te`\n- Ambrosia —  `tt_pessimystic`\n- Moon —  `.moonsxzn`\n- kohu — `kohuuuu`\n- Vitathi — `.latro.`\n- mustang - `b4_mustang`\n- saph — `saphhiro`\n- chimnly - `chimnly`\n- Felver - `knotszercool`\n- Dango — `dango6`\n- Mal — `malissleeping`\n- Eisen — `ihateperiodcrampstheymakemesomad`\n- Jacko — `jcxe`\n- Epic  — `liminal_epic`\n\n**Logo Designers**\n\n- Natsu — `spookyraiden`\n- teufel — `t3uf3l`\n\n**Animators**\n\n- Mimo — `shiwauwa`\n- 1.8.3.x\n- Bee — `Beezlebub`\n\n**Builders**\n\n- Grimm _(retired)_ — `vagrant_holiday`\n- v7 — `v7z6x`\n- Shy — `Skyrimmyz`\n\n**VFX**\n\n- Set — `textid`\n- Peak — (retired) `Peaksta`\n- Grimm _(retired)_ — `vagrant_holiday`\n\n**Sound Effects**\n\n- .9xkai — `.9xkai`\n\n**Clothing Design**\n\n- Niliah — `niliah`"
+    }
+  ],
+  "wardrobe": {
+    "checkedAt": "2026-11-15",
+    "head": "137fd0f4b0bf2a19073c5c15613f2293bd2b7f27",
+    "changed": false
+  },
+  "review": {
+    "currentQuestFlows": 15,
+    "unpublishedQuestFlows": 2,
+    "historicalQuestFlows": 4,
+    "newStylePerks": 7,
+    "newUpdate": "v14",
+    "removedArchivedCards": 40,
+    "removedActiveEvent": "4aLGlV3L",
+    "sourceConflicts": [
+      "four quest flows removed",
+      "v14 streak persistence vs generic task reset rule"
+    ]
+  }
+}
